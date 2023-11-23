@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
+	<ConfigVersions>
+		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="9e04bcf21c7f9d428616ccf4c09ea1ac00000000"/>
+		<Metadata name="Language.Русский" id="274a006e-1787-4998-b666-401bb6bd30a4" configVersion="0474dd32e54b7044a8f7e1b2197f429900000000"/>
+		<Metadata name="Role.Администратор" id="cbb4537d-fb62-4107-b8b9-ef29035db7e6" configVersion="eb73e01afa283546875a1c3a1ed323c900000000"/>
+		<Metadata name="Role.Администратор.Rights" id="cbb4537d-fb62-4107-b8b9-ef29035db7e6.0" configVersion="3c74f0e082096e4c93b82d7e6d29b38b00000000"/>
+		<Metadata name="Role.Пользователь" id="43a846e5-2983-4da4-a7ad-3d44458f9175" configVersion="d6917b830a12274ea418a5931aa2381c00000000"/>
+		<Metadata name="Role.Пользователь.Rights" id="43a846e5-2983-4da4-a7ad-3d44458f9175.0" configVersion="19d3a53689979248b9fb17213d70dd2d00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
