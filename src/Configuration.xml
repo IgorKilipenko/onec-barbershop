@@ -226,6 +226,9 @@
 			<Language>Русский</Language>
 			<Role>Администратор</Role>
 			<Role>Пользователь</Role>
+			<Catalog>Организации</Catalog>
+			<Catalog>Сотрудники</Catalog>
+			<Catalog>Должности</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

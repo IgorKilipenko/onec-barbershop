@@ -1,0 +1,4 @@
+﻿New: Catalog.Должности
+New: Catalog.Организации
+New: Catalog.Сотрудники
+Modified: Configuration.Конфигурация

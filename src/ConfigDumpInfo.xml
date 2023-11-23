@@ -1,7 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
 	<ConfigVersions>
-		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="9e04bcf21c7f9d428616ccf4c09ea1ac00000000"/>
+		<Metadata name="Catalog.Должности" id="528ef307-f8f2-429b-a5ea-d08c2cd56d97" configVersion="4bd0fe39f7c25946a968a66aff68bde000000000"/>
+		<Metadata name="Catalog.Организации" id="d9e4907b-33c2-4a70-be96-f3315ad514a3" configVersion="e6591b8203db37459f9b13e616191a1500000000">
+			<Metadata name="Catalog.Организации.Attribute.ПолноеНаименование" id="91d7d5d9-9294-4475-91af-f2bc7032b48f"/>
+			<Metadata name="Catalog.Организации.Attribute.ИНН" id="ef3b193d-8ba7-47ff-8ceb-2aa48452ab6c"/>
+		</Metadata>
+		<Metadata name="Catalog.Сотрудники" id="12df6926-984b-4267-b209-3301a95724b5" configVersion="dda6f34904411141a75527e95a26833300000000"/>
+		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="96633fbcdfd68d40b7023af5b6dc5dc900000000"/>
 		<Metadata name="Language.Русский" id="274a006e-1787-4998-b666-401bb6bd30a4" configVersion="0474dd32e54b7044a8f7e1b2197f429900000000"/>
 		<Metadata name="Role.Администратор" id="cbb4537d-fb62-4107-b8b9-ef29035db7e6" configVersion="eb73e01afa283546875a1c3a1ed323c900000000"/>
 		<Metadata name="Role.Администратор.Rights" id="cbb4537d-fb62-4107-b8b9-ef29035db7e6.0" configVersion="3c74f0e082096e4c93b82d7e6d29b38b00000000"/>
