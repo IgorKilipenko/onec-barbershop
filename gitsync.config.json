@@ -1,0 +1,30 @@
+{
+    "globals": {
+        "storage-user": "Администратор",
+        "storage-pwd": "Секрет",
+        "plugins": {
+            "enable": [
+                "increment",
+                "limit",
+                "unpackform",
+                "check-comments",
+                "smart-tags"
+            ]
+        }
+    },
+    
+    "repositories": {
+        "name": "main",
+        "path": "/home/igor/Documents/InfoBase1/store",
+        "dir": "./src",
+        "plugins-config": {
+            "rename-module": true,
+            "error-comment": true,
+            "author-presentation": true,
+            "push-n-commits": true,
+            "push-tags": true,
+            "push": true,
+            "pull": true
+        }
+    }
+}
