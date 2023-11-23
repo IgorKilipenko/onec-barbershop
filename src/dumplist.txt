@@ -1,4 +1,3 @@
-﻿New: Catalog.Должности
-New: Catalog.Организации
-New: Catalog.Сотрудники
+﻿New: Enum.ТипОрганизации
+Modified: Catalog.Организации
 Modified: Configuration.Конфигурация
