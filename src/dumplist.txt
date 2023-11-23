@@ -1,3 +1,4 @@
-﻿New: Enum.ТипОрганизации
-Modified: Catalog.Организации
-Modified: Configuration.Конфигурация
+﻿Modified: Role.Администратор
+Modified: Role.Администратор.Rights
+Modified: Role.Пользователь
+Modified: Role.Пользователь.Rights
