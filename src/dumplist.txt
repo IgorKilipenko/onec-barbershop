@@ -1,2 +1,2 @@
-﻿New: Document.ПоступлениеТоваровИМатериалов.ObjectModule
-Modified: Document.ПоступлениеТоваровИМатериалов
+﻿New: Configuration.Конфигурация.MainSectionCommandInterface
+Modified: Configuration.Конфигурация
