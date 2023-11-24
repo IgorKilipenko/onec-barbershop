@@ -226,6 +226,7 @@
 			<Language>Русский</Language>
 			<Role>Администратор</Role>
 			<Role>Пользователь</Role>
+			<DefinedType>ФинансовыеДанные</DefinedType>
 			<Catalog>Организации</Catalog>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Должности</Catalog>

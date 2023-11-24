@@ -41,13 +41,20 @@
 			<Metadata name="Catalog.Сотрудники.Attribute.Отчество" id="d8a1d327-14a1-4553-ad22-dc163ebc3f25"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.КонтактныйТелефон" id="de3c0b19-d35e-42b7-91bc-353471bdd23b"/>
 		</Metadata>
-		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="c4dfbdb9a7e69f4d9f11533bfc62d6ec00000000"/>
-		<Metadata name="Document.ПоступлениеТоваровИМатериалов" id="4c691001-4a4a-40c6-b579-f53553b58f5c" configVersion="fafdb51555eb5b408b0aaa21c306dfb100000000">
+		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="8c6fe8b52d26b04c8807112fbaab6e6500000000"/>
+		<Metadata name="DefinedType.ФинансовыеДанные" id="4112a946-7d88-44c3-b5de-01be94c77fce" configVersion="c5abee09ecb636408e0e15137e022e0b00000000"/>
+		<Metadata name="Document.ПоступлениеТоваровИМатериалов" id="4c691001-4a4a-40c6-b579-f53553b58f5c" configVersion="036e8205fae88a42940e9fb16f1ac8b300000000">
 			<Metadata name="Document.ПоступлениеТоваровИМатериалов.Attribute.ДоговорПоставщика" id="0df6667f-62f1-479e-a7e6-b1b3de9a3587"/>
+			<Metadata name="Document.ПоступлениеТоваровИМатериалов.TabularSection.Товары" id="0ff6e96f-8c86-49e9-bb48-3254fc68ff40"/>
+			<Metadata name="Document.ПоступлениеТоваровИМатериалов.TabularSection.Товары.Attribute.Номенклатура" id="253a2c28-88a3-489d-8dad-f9b02fae0263"/>
+			<Metadata name="Document.ПоступлениеТоваровИМатериалов.TabularSection.Товары.Attribute.Сумма" id="2b3bb01c-5ce4-4ba5-b0cd-defc32b22680"/>
 			<Metadata name="Document.ПоступлениеТоваровИМатериалов.Attribute.ВходящаяДата" id="33ff7325-d01c-429c-a3c8-ceaad0c83804"/>
 			<Metadata name="Document.ПоступлениеТоваровИМатериалов.Attribute.ВходящийНомер" id="43361759-63c2-4757-85dd-3fbaab100252"/>
 			<Metadata name="Document.ПоступлениеТоваровИМатериалов.Attribute.АвторДокумента" id="6d673390-3db6-4796-a7ef-c797e0632378"/>
 			<Metadata name="Document.ПоступлениеТоваровИМатериалов.Attribute.Комментарий" id="75fb4ab3-ea2e-47f0-a42e-0509dc9c2718"/>
+			<Metadata name="Document.ПоступлениеТоваровИМатериалов.TabularSection.Товары.Attribute.Цена" id="85a8eaeb-de27-448d-882d-97b20c8bfb5d"/>
+			<Metadata name="Document.ПоступлениеТоваровИМатериалов.TabularSection.Товары.Attribute.Количество" id="9145e8c0-66b3-4a98-a726-714758800962"/>
+			<Metadata name="Document.ПоступлениеТоваровИМатериалов.Attribute.СуммаДокумента" id="c6b1a9c0-b6ef-4ae3-bb94-b76dec5de651"/>
 			<Metadata name="Document.ПоступлениеТоваровИМатериалов.Attribute.Поставщик" id="f00d42ff-b95d-4426-8481-deacb2215c1f"/>
 		</Metadata>
 		<Metadata name="Enum.Пол" id="05f9a091-590d-4b74-b968-13a5ef0e39c4" configVersion="2899e29e6c3c234eb9a0211ab220e52800000000">
