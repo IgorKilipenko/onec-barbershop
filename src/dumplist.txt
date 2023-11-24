@@ -1,2 +1,1 @@
-﻿New: AccumulationRegister.ТоварыНаСкладах
-Modified: Configuration.Конфигурация
+﻿Modified: Document.ПоступлениеТоваровИМатериалов
