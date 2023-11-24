@@ -232,9 +232,11 @@
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Контрагенты</Catalog>
 			<Catalog>ДоговорыКонтрагентов</Catalog>
+			<Catalog>ИсточникиПолученияИнформацииОКомпании</Catalog>
 			<Enum>ТипОрганизации</Enum>
 			<Enum>ТипНоменклатуры</Enum>
 			<Enum>Пол</Enum>
+			<Enum>ТипКонтрагента</Enum>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
