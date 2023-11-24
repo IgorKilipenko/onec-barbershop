@@ -1,5 +1,1 @@
-﻿New: Catalog.ИсточникиПолученияИнформацииОКомпании
-New: Catalog.ИсточникиПолученияИнформацииОКомпании.Predefined
-New: Enum.ТипКонтрагента
-Modified: Catalog.Контрагенты
-Modified: Configuration.Конфигурация
+﻿Modified: Catalog.ДоговорыКонтрагентов

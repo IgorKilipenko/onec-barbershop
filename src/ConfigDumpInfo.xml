@@ -1,7 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
 	<ConfigVersions>
-		<Metadata name="Catalog.ДоговорыКонтрагентов" id="8358dbd4-0669-4e70-896e-44c4856bfefe" configVersion="1ba026f0eac53a439a9be9e70e3c467800000000"/>
+		<Metadata name="Catalog.ДоговорыКонтрагентов" id="8358dbd4-0669-4e70-896e-44c4856bfefe" configVersion="b85d216798bbac44ba5819070a75672f00000000">
+			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.ДатаОкончанияДоговора" id="1f128f7f-34c3-4439-a5f4-fbfe6c37ea6c"/>
+			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.ВнешнийНомерДоговора" id="2258fbca-da4c-4287-b140-43014f9ccd65"/>
+			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.ДатаЗаключенияДоговора" id="4e61be39-bf79-4f5b-bee1-f662b55792ed"/>
+			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.ПризнакБессрочногоДоговора" id="60dcca26-4ddd-4a2d-9c18-53baa878cf71"/>
+			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.Комментарий" id="f3998781-dc90-4726-96f1-33dbcb9a2e96"/>
+		</Metadata>
 		<Metadata name="Catalog.Должности" id="528ef307-f8f2-429b-a5ea-d08c2cd56d97" configVersion="e03b2c0ad2948f4dbd15fde375a4ddec00000000"/>
 		<Metadata name="Catalog.ИсточникиПолученияИнформацииОКомпании" id="eba4f085-1f45-4165-9d5a-a9af48d93a6c" configVersion="dfc8761653b6c84db8411becfe41adbe00000000"/>
 		<Metadata name="Catalog.ИсточникиПолученияИнформацииОКомпании.Predefined" id="eba4f085-1f45-4165-9d5a-a9af48d93a6c.1c" configVersion="f5278d67ce971644b6f38e29588f4fab00000000"/>
