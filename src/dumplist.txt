@@ -1,2 +1,3 @@
-﻿New: Document.ПоступлениеТоваровИМатериалов
+﻿New: Catalog.Пользователи
 Modified: Configuration.Конфигурация
+Modified: Document.ПоступлениеТоваровИМатериалов

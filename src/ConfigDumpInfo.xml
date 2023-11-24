@@ -31,6 +31,7 @@
 			<Metadata name="Catalog.Организации.Attribute.Руководитель" id="c97f5171-f2af-44da-b366-636127f9ddb1"/>
 			<Metadata name="Catalog.Организации.Attribute.ИНН" id="ef3b193d-8ba7-47ff-8ceb-2aa48452ab6c"/>
 		</Metadata>
+		<Metadata name="Catalog.Пользователи" id="1918026f-775e-4094-9261-b2424e8978fd" configVersion="a6ed5657f9398e41b9d8071ec1949d5900000000"/>
 		<Metadata name="Catalog.Сотрудники" id="12df6926-984b-4267-b209-3301a95724b5" configVersion="e9ba9e9d02a0fd41b6356ec0604f2e8500000000">
 			<Metadata name="Catalog.Сотрудники.Attribute.Имя" id="6f01011b-cead-470a-bd65-2c9355351236"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.Пол" id="86bab519-0dc5-40cc-a2aa-fd650a3e923b"/>
@@ -40,8 +41,8 @@
 			<Metadata name="Catalog.Сотрудники.Attribute.Отчество" id="d8a1d327-14a1-4553-ad22-dc163ebc3f25"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.КонтактныйТелефон" id="de3c0b19-d35e-42b7-91bc-353471bdd23b"/>
 		</Metadata>
-		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="87e006da792cfe45a4323678fc2a194800000000"/>
-		<Metadata name="Document.ПоступлениеТоваровИМатериалов" id="4c691001-4a4a-40c6-b579-f53553b58f5c" configVersion="56fce763b004ba4286e0409a3c563e9c00000000">
+		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="d2f11d8f64b135468607df273db7bc1500000000"/>
+		<Metadata name="Document.ПоступлениеТоваровИМатериалов" id="4c691001-4a4a-40c6-b579-f53553b58f5c" configVersion="9cf68bb8b0283c47b9b5b6a5d868455000000000">
 			<Metadata name="Document.ПоступлениеТоваровИМатериалов.Attribute.ДоговорПоставщика" id="0df6667f-62f1-479e-a7e6-b1b3de9a3587"/>
 			<Metadata name="Document.ПоступлениеТоваровИМатериалов.Attribute.ВходящаяДата" id="33ff7325-d01c-429c-a3c8-ceaad0c83804"/>
 			<Metadata name="Document.ПоступлениеТоваровИМатериалов.Attribute.ВходящийНомер" id="43361759-63c2-4757-85dd-3fbaab100252"/>
