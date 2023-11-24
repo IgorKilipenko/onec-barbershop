@@ -230,6 +230,8 @@
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Должности</Catalog>
 			<Catalog>Товары</Catalog>
+			<Catalog>Контрагенты</Catalog>
+			<Catalog>ДоговорыКонтрагентов</Catalog>
 			<Enum>ТипОрганизации</Enum>
 		</ChildObjects>
 	</Configuration>

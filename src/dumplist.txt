@@ -1,2 +1,3 @@
-﻿Modified: Role.Администратор
-Modified: Role.Администратор.Rights
+﻿New: Catalog.ДоговорыКонтрагентов
+New: Catalog.Контрагенты
+Modified: Configuration.Конфигурация
