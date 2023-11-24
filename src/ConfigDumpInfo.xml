@@ -41,8 +41,8 @@
 			<Metadata name="Catalog.Сотрудники.Attribute.Отчество" id="d8a1d327-14a1-4553-ad22-dc163ebc3f25"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.КонтактныйТелефон" id="de3c0b19-d35e-42b7-91bc-353471bdd23b"/>
 		</Metadata>
-		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="d2f11d8f64b135468607df273db7bc1500000000"/>
-		<Metadata name="Document.ПоступлениеТоваровИМатериалов" id="4c691001-4a4a-40c6-b579-f53553b58f5c" configVersion="9cf68bb8b0283c47b9b5b6a5d868455000000000">
+		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="c4dfbdb9a7e69f4d9f11533bfc62d6ec00000000"/>
+		<Metadata name="Document.ПоступлениеТоваровИМатериалов" id="4c691001-4a4a-40c6-b579-f53553b58f5c" configVersion="fafdb51555eb5b408b0aaa21c306dfb100000000">
 			<Metadata name="Document.ПоступлениеТоваровИМатериалов.Attribute.ДоговорПоставщика" id="0df6667f-62f1-479e-a7e6-b1b3de9a3587"/>
 			<Metadata name="Document.ПоступлениеТоваровИМатериалов.Attribute.ВходящаяДата" id="33ff7325-d01c-429c-a3c8-ceaad0c83804"/>
 			<Metadata name="Document.ПоступлениеТоваровИМатериалов.Attribute.ВходящийНомер" id="43361759-63c2-4757-85dd-3fbaab100252"/>
