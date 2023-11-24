@@ -1,3 +1,2 @@
-﻿New: InformationRegister.ЦеныНоменклатурыПоставщиков
+﻿New: Catalog.Склады
 Modified: Configuration.Конфигурация
-Modified: Document.ПоступлениеТоваровИМатериалов

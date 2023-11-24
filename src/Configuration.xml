@@ -235,6 +235,7 @@
 			<Catalog>ДоговорыКонтрагентов</Catalog>
 			<Catalog>ИсточникиПолученияИнформацииОКомпании</Catalog>
 			<Catalog>Пользователи</Catalog>
+			<Catalog>Склады</Catalog>
 			<Document>ПоступлениеТоваровИМатериалов</Document>
 			<Enum>ТипОрганизации</Enum>
 			<Enum>ТипНоменклатуры</Enum>
