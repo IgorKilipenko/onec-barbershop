@@ -229,6 +229,7 @@
 			<Catalog>Организации</Catalog>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Должности</Catalog>
+			<Catalog>Товары</Catalog>
 			<Enum>ТипОрганизации</Enum>
 		</ChildObjects>
 	</Configuration>

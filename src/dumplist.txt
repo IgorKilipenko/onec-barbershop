@@ -1,4 +1,2 @@
 ﻿Modified: Role.Администратор
 Modified: Role.Администратор.Rights
-Modified: Role.Пользователь
-Modified: Role.Пользователь.Rights
