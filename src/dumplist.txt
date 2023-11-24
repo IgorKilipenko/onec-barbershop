@@ -1,1 +1,2 @@
-﻿Modified: Catalog.ДоговорыКонтрагентов
+﻿New: Document.ПоступлениеТоваровИМатериалов
+Modified: Configuration.Конфигурация
