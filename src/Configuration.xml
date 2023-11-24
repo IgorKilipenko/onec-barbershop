@@ -229,10 +229,11 @@
 			<Catalog>Организации</Catalog>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Должности</Catalog>
-			<Catalog>Товары</Catalog>
+			<Catalog>Номенклатура</Catalog>
 			<Catalog>Контрагенты</Catalog>
 			<Catalog>ДоговорыКонтрагентов</Catalog>
 			<Enum>ТипОрганизации</Enum>
+			<Enum>ТипНоменклатуры</Enum>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

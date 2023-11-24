@@ -2,18 +2,25 @@
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
 	<ConfigVersions>
 		<Metadata name="Catalog.ДоговорыКонтрагентов" id="8358dbd4-0669-4e70-896e-44c4856bfefe" configVersion="1ba026f0eac53a439a9be9e70e3c467800000000"/>
-		<Metadata name="Catalog.Должности" id="528ef307-f8f2-429b-a5ea-d08c2cd56d97" configVersion="4bd0fe39f7c25946a968a66aff68bde000000000"/>
+		<Metadata name="Catalog.Должности" id="528ef307-f8f2-429b-a5ea-d08c2cd56d97" configVersion="e03b2c0ad2948f4dbd15fde375a4ddec00000000"/>
 		<Metadata name="Catalog.Контрагенты" id="a6a183e3-fac7-4ef4-bbdd-984b32d5c145" configVersion="886fb01fd7df6e4dae8f9d53d371578f00000000"/>
-		<Metadata name="Catalog.Организации" id="d9e4907b-33c2-4a70-be96-f3315ad514a3" configVersion="79d6743cc1d27049a3a7290ef2692c4100000000">
+		<Metadata name="Catalog.Номенклатура" id="24aa4671-3ec5-4152-8ff3-65d38753139c" configVersion="82ab1963d083d44dbfdc2a570d7be5f600000000">
+			<Metadata name="Catalog.Номенклатура.Attribute.ТипНоменклатуры" id="7b8f17a5-3eb7-4441-b8ed-e387496dac9b"/>
+		</Metadata>
+		<Metadata name="Catalog.Организации" id="d9e4907b-33c2-4a70-be96-f3315ad514a3" configVersion="ff9d36db1de94e478f84674607374c9200000000">
 			<Metadata name="Catalog.Организации.Attribute.ТипОрганизации" id="0ef04e38-13c2-4593-9457-6beb894d0cb0"/>
 			<Metadata name="Catalog.Организации.Attribute.ГлавныйБухгалтер" id="8f68021d-494c-40e6-97cd-75f4d4778c73"/>
 			<Metadata name="Catalog.Организации.Attribute.ПолноеНаименование" id="91d7d5d9-9294-4475-91af-f2bc7032b48f"/>
+			<Metadata name="Catalog.Организации.Attribute.ДолжностьРуководителя" id="adc5c88a-f956-4d88-b141-ee04f5e898ac"/>
 			<Metadata name="Catalog.Организации.Attribute.Руководитель" id="c97f5171-f2af-44da-b366-636127f9ddb1"/>
 			<Metadata name="Catalog.Организации.Attribute.ИНН" id="ef3b193d-8ba7-47ff-8ceb-2aa48452ab6c"/>
 		</Metadata>
-		<Metadata name="Catalog.Сотрудники" id="12df6926-984b-4267-b209-3301a95724b5" configVersion="dda6f34904411141a75527e95a26833300000000"/>
-		<Metadata name="Catalog.Товары" id="24aa4671-3ec5-4152-8ff3-65d38753139c" configVersion="5ee1ddf2bed5b14d8c660671b849492800000000"/>
-		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="a0fde9e4ca148c4b81ba24293378094800000000"/>
+		<Metadata name="Catalog.Сотрудники" id="12df6926-984b-4267-b209-3301a95724b5" configVersion="4f22ede041984344a87e5e54f6efc05900000000"/>
+		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="1acfd6ff2e3b3d4d910492bf130332ad00000000"/>
+		<Metadata name="Enum.ТипНоменклатуры" id="cb23a71b-d10c-47ec-a1dd-140157e5f241" configVersion="fed820c72a9997489e0a6cb540ba828300000000">
+			<Metadata name="Enum.ТипНоменклатуры.EnumValue.Товар" id="555a45bb-cb80-4ae7-913c-003389afc252"/>
+			<Metadata name="Enum.ТипНоменклатуры.EnumValue.Услуга" id="a79ce3ee-9166-47a1-ba8f-0f6717958f7c"/>
+		</Metadata>
 		<Metadata name="Enum.ТипОрганизации" id="5c3f86f3-a237-4201-b49c-d02f612f263c" configVersion="078f02c4b9f41447b9afc3bee0cacd2f00000000">
 			<Metadata name="Enum.ТипОрганизации.EnumValue.ИндивидуальныйПредприниматель" id="8fa17692-abe0-488b-99e5-e9cee07af167"/>
 			<Metadata name="Enum.ТипОрганизации.EnumValue.ЮридическоеЛицо" id="c73eaede-bdcd-44be-821e-5154f57e3f97"/>

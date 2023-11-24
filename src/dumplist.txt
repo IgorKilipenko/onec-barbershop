@@ -1,3 +1,1 @@
-﻿New: Catalog.ДоговорыКонтрагентов
-New: Catalog.Контрагенты
-Modified: Configuration.Конфигурация
+﻿Modified: Catalog.Номенклатура
