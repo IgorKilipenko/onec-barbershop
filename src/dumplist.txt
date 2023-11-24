@@ -1,3 +1,1 @@
-﻿New: DefinedType.ФинансовыеДанные
-Modified: Configuration.Конфигурация
-Modified: Document.ПоступлениеТоваровИМатериалов
+﻿Modified: Document.ПоступлениеТоваровИМатериалов
