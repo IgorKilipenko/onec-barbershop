@@ -49,7 +49,7 @@
 		</Metadata>
 		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="90556c0d9b14884cb10a9300f5f448c700000000"/>
 		<Metadata name="DefinedType.ФинансовыеДанные" id="4112a946-7d88-44c3-b5de-01be94c77fce" configVersion="c5abee09ecb636408e0e15137e022e0b00000000"/>
-		<Metadata name="Document.ПоступлениеТоваровИМатериалов" id="4c691001-4a4a-40c6-b579-f53553b58f5c" configVersion="145fcbfda37b804dab9cfd55345779cb00000000">
+		<Metadata name="Document.ПоступлениеТоваровИМатериалов" id="4c691001-4a4a-40c6-b579-f53553b58f5c" configVersion="71896582be96af4480a2fd38363381e600000000">
 			<Metadata name="Document.ПоступлениеТоваровИМатериалов.Attribute.ДоговорПоставщика" id="0df6667f-62f1-479e-a7e6-b1b3de9a3587"/>
 			<Metadata name="Document.ПоступлениеТоваровИМатериалов.TabularSection.Товары" id="0ff6e96f-8c86-49e9-bb48-3254fc68ff40"/>
 			<Metadata name="Document.ПоступлениеТоваровИМатериалов.TabularSection.Товары.Attribute.Номенклатура" id="253a2c28-88a3-489d-8dad-f9b02fae0263"/>
@@ -64,6 +64,7 @@
 			<Metadata name="Document.ПоступлениеТоваровИМатериалов.Attribute.Склад" id="dee3e06d-4586-4557-9e17-42ac47b0cd27"/>
 			<Metadata name="Document.ПоступлениеТоваровИМатериалов.Attribute.Поставщик" id="f00d42ff-b95d-4426-8481-deacb2215c1f"/>
 		</Metadata>
+		<Metadata name="Document.ПоступлениеТоваровИМатериалов.ObjectModule" id="4c691001-4a4a-40c6-b579-f53553b58f5c.0" configVersion="d7ff2344f824f447a143ec4c47492ca500000000"/>
 		<Metadata name="Enum.Пол" id="05f9a091-590d-4b74-b968-13a5ef0e39c4" configVersion="2899e29e6c3c234eb9a0211ab220e52800000000">
 			<Metadata name="Enum.Пол.EnumValue.Женский" id="60785697-56e3-4f8c-8a25-dfb4bf1cc255"/>
 			<Metadata name="Enum.Пол.EnumValue.Мужской" id="9f396d4c-6f91-4b3f-8718-6fb15b8d1109"/>
