@@ -234,6 +234,7 @@
 			<Catalog>ДоговорыКонтрагентов</Catalog>
 			<Enum>ТипОрганизации</Enum>
 			<Enum>ТипНоменклатуры</Enum>
+			<Enum>Пол</Enum>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
