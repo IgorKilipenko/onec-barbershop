@@ -242,6 +242,7 @@
 			<Enum>Пол</Enum>
 			<Enum>ТипКонтрагента</Enum>
 			<InformationRegister>ЦеныНоменклатурыПоставщиков</InformationRegister>
+			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

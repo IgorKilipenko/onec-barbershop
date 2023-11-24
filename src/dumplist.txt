@@ -1,2 +1,2 @@
-﻿New: Catalog.Склады
+﻿New: AccumulationRegister.ТоварыНаСкладах
 Modified: Configuration.Конфигурация
