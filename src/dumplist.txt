@@ -1,1 +1,3 @@
-﻿Modified: Document.ПоступлениеТоваровИМатериалов
+﻿New: InformationRegister.ЦеныНоменклатурыПоставщиков
+Modified: Configuration.Конфигурация
+Modified: Document.ПоступлениеТоваровИМатериалов

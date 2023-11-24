@@ -240,6 +240,7 @@
 			<Enum>ТипНоменклатуры</Enum>
 			<Enum>Пол</Enum>
 			<Enum>ТипКонтрагента</Enum>
+			<InformationRegister>ЦеныНоменклатурыПоставщиков</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

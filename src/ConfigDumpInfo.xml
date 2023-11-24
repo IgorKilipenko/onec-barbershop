@@ -41,9 +41,9 @@
 			<Metadata name="Catalog.Сотрудники.Attribute.Отчество" id="d8a1d327-14a1-4553-ad22-dc163ebc3f25"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.КонтактныйТелефон" id="de3c0b19-d35e-42b7-91bc-353471bdd23b"/>
 		</Metadata>
-		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="8c6fe8b52d26b04c8807112fbaab6e6500000000"/>
+		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="165824fa4656744caf4e65f003920d4000000000"/>
 		<Metadata name="DefinedType.ФинансовыеДанные" id="4112a946-7d88-44c3-b5de-01be94c77fce" configVersion="c5abee09ecb636408e0e15137e022e0b00000000"/>
-		<Metadata name="Document.ПоступлениеТоваровИМатериалов" id="4c691001-4a4a-40c6-b579-f53553b58f5c" configVersion="6874f7fc50a4db48a511a99b14c8719d00000000">
+		<Metadata name="Document.ПоступлениеТоваровИМатериалов" id="4c691001-4a4a-40c6-b579-f53553b58f5c" configVersion="260913053e8ae849a134b5ab1134266300000000">
 			<Metadata name="Document.ПоступлениеТоваровИМатериалов.Attribute.ДоговорПоставщика" id="0df6667f-62f1-479e-a7e6-b1b3de9a3587"/>
 			<Metadata name="Document.ПоступлениеТоваровИМатериалов.TabularSection.Товары" id="0ff6e96f-8c86-49e9-bb48-3254fc68ff40"/>
 			<Metadata name="Document.ПоступлениеТоваровИМатериалов.TabularSection.Товары.Attribute.Номенклатура" id="253a2c28-88a3-489d-8dad-f9b02fae0263"/>
@@ -72,6 +72,11 @@
 		<Metadata name="Enum.ТипОрганизации" id="5c3f86f3-a237-4201-b49c-d02f612f263c" configVersion="078f02c4b9f41447b9afc3bee0cacd2f00000000">
 			<Metadata name="Enum.ТипОрганизации.EnumValue.ИндивидуальныйПредприниматель" id="8fa17692-abe0-488b-99e5-e9cee07af167"/>
 			<Metadata name="Enum.ТипОрганизации.EnumValue.ЮридическоеЛицо" id="c73eaede-bdcd-44be-821e-5154f57e3f97"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ЦеныНоменклатурыПоставщиков" id="8aaac26c-3699-4ba7-a455-80843269b49e" configVersion="d81d2415e816294ea4fe277ddd6fc2d100000000">
+			<Metadata name="InformationRegister.ЦеныНоменклатурыПоставщиков.Resource.Цена" id="18910df5-c4f0-458c-ae4f-6769debc4dad"/>
+			<Metadata name="InformationRegister.ЦеныНоменклатурыПоставщиков.Dimension.Номенклатура" id="b47988b7-857c-4ce7-ab37-f5f369fbf30d"/>
+			<Metadata name="InformationRegister.ЦеныНоменклатурыПоставщиков.Dimension.Поставщик" id="c6853422-5a4c-4232-9210-7bf2c30f8096"/>
 		</Metadata>
 		<Metadata name="Language.Русский" id="274a006e-1787-4998-b666-401bb6bd30a4" configVersion="0474dd32e54b7044a8f7e1b2197f429900000000"/>
 		<Metadata name="Role.Администратор" id="cbb4537d-fb62-4107-b8b9-ef29035db7e6" configVersion="d657a4b4762d3849af3b5389752573a200000000"/>
