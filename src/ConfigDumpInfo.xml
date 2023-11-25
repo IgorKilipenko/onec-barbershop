@@ -91,7 +91,7 @@
 			<Metadata name="Document.ПоступлениеТоваровИМатериалов.Attribute.Поставщик" id="f00d42ff-b95d-4426-8481-deacb2215c1f"/>
 		</Metadata>
 		<Metadata name="Document.ПоступлениеТоваровИМатериалов.ObjectModule" id="4c691001-4a4a-40c6-b579-f53553b58f5c.0" configVersion="d7ff2344f824f447a143ec4c47492ca500000000"/>
-		<Metadata name="Document.РеализацияТоваровИУслуг" id="a1d460c2-1311-4ee7-8a52-b2936fcaf401" configVersion="c710fe6536c84242b80efedf4dc25c4000000000">
+		<Metadata name="Document.РеализацияТоваровИУслуг" id="a1d460c2-1311-4ee7-8a52-b2936fcaf401" configVersion="b93b37855db3674caafa7faf06cc4b8c00000000">
 			<Metadata name="Document.РеализацияТоваровИУслуг.TabularSection.Услуги.Attribute.Количество" id="0aabe0f7-d843-4ced-8c68-e2e4850ff2c1"/>
 			<Metadata name="Document.РеализацияТоваровИУслуг.Attribute.СуммаДокумента" id="1a5ca526-e097-4acd-9d38-18147ef9aedc"/>
 			<Metadata name="Document.РеализацияТоваровИУслуг.TabularSection.Услуги" id="1d80774b-32ce-4961-86b3-659e3ccb1028"/>
@@ -109,7 +109,7 @@
 			<Metadata name="Document.РеализацияТоваровИУслуг.TabularSection.Услуги.Attribute.Цена" id="ed16f73e-02df-4a6e-a94d-8ed0c680f8b7"/>
 			<Metadata name="Document.РеализацияТоваровИУслуг.Attribute.АвторДокумента" id="f67ad29d-0925-4230-8bfa-a064e047b5f8"/>
 		</Metadata>
-		<Metadata name="Document.РеализацияТоваровИУслуг.ObjectModule" id="a1d460c2-1311-4ee7-8a52-b2936fcaf401.0" configVersion="9e111a4563b0c24dad76fdeef169bdd000000000"/>
+		<Metadata name="Document.РеализацияТоваровИУслуг.ObjectModule" id="a1d460c2-1311-4ee7-8a52-b2936fcaf401.0" configVersion="36a0504ade7a8e43b6e119dc759fb54a00000000"/>
 		<Metadata name="Enum.Пол" id="05f9a091-590d-4b74-b968-13a5ef0e39c4" configVersion="2899e29e6c3c234eb9a0211ab220e52800000000">
 			<Metadata name="Enum.Пол.EnumValue.Женский" id="60785697-56e3-4f8c-8a25-dfb4bf1cc255"/>
 			<Metadata name="Enum.Пол.EnumValue.Мужской" id="9f396d4c-6f91-4b3f-8718-6fb15b8d1109"/>
