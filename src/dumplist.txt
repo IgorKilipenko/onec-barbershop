@@ -1,2 +1,2 @@
-﻿New: Configuration.Конфигурация.MainSectionCommandInterface
+﻿New: Document.ЗаписьКлиента
 Modified: Configuration.Конфигурация
