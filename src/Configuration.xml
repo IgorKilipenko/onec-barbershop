@@ -226,7 +226,9 @@
 			<Language>Русский</Language>
 			<Role>Администратор</Role>
 			<Role>Пользователь</Role>
+			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
 			<DefinedType>ФинансовыеДанные</DefinedType>
+			<Constant>ИспользоватьСклады</Constant>
 			<Catalog>Организации</Catalog>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Должности</Catalog>
