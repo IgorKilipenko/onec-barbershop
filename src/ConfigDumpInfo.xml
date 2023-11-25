@@ -7,6 +7,12 @@
 			<Metadata name="AccumulationRegister.ЗаказыКлиентов.Dimension.Клиент" id="44fb11a9-a58f-433f-9f4b-1a81498aef9a"/>
 			<Metadata name="AccumulationRegister.ЗаказыКлиентов.Dimension.ДатаЗаписи" id="61516e60-485d-493b-afcc-b63cc29ab0bf"/>
 		</Metadata>
+		<Metadata name="AccumulationRegister.Продажи" id="a8adec3d-af61-407e-927d-f4459fcbeae8" configVersion="2d9eaf3902e711419f2ec68e5c49a10a00000000">
+			<Metadata name="AccumulationRegister.Продажи.Resource.Сумма" id="15e5f09a-6eef-41e1-aed3-1c1259a335d8"/>
+			<Metadata name="AccumulationRegister.Продажи.Dimension.Сотрудник" id="260cc40a-8b59-4e55-9167-a57693cef777"/>
+			<Metadata name="AccumulationRegister.Продажи.Dimension.Номенклатура" id="3f809e7a-b8d6-4c83-8c15-cccc2f9275b6"/>
+			<Metadata name="AccumulationRegister.Продажи.Resource.Количество" id="bc78a12a-9817-4a26-a743-65d1164e2b12"/>
+		</Metadata>
 		<Metadata name="AccumulationRegister.ТоварыНаСкладах" id="53f5c7de-da8e-4af2-80b3-c5d7c6edceea" configVersion="9123320c82bf3a409da69aa6a402083500000000">
 			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Dimension.Склад" id="41bf8d04-d7c0-4127-b38a-5e39cc7008b6"/>
 			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Resource.Количество" id="c7058795-35d6-4295-8d5d-a5d948d0c7b7"/>
@@ -53,7 +59,7 @@
 			<Metadata name="Catalog.Сотрудники.Attribute.Отчество" id="d8a1d327-14a1-4553-ad22-dc163ebc3f25"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.КонтактныйТелефон" id="de3c0b19-d35e-42b7-91bc-353471bdd23b"/>
 		</Metadata>
-		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="2a6b60a7a0da154fbb076aaaec5b979c00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="1a0181c8a02d384db870f743df2fe29700000000"/>
 		<Metadata name="Configuration.Конфигурация.MainSectionCommandInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.9" configVersion="7550a3d7e1ea134390d476539e52de5300000000"/>
 		<Metadata name="DefinedType.ФинансовыеДанные" id="4112a946-7d88-44c3-b5de-01be94c77fce" configVersion="c5abee09ecb636408e0e15137e022e0b00000000"/>
 		<Metadata name="Document.ЗаписьКлиента" id="e90aa070-3e4c-4e5a-a825-9fde73ed1ece" configVersion="ac2b29430ce0834c91e3b4ed941bac2500000000">

@@ -1,3 +1,2 @@
-﻿New: Document.РеализацияТоваровИУслуг
+﻿New: AccumulationRegister.Продажи
 Modified: Configuration.Конфигурация
-Modified: Document.ЗаписьКлиента
