@@ -1,4 +1,3 @@
-﻿New: AccumulationRegister.ЗаказыКлиентов
-New: Document.ЗаписьКлиента.ObjectModule
+﻿New: Document.РеализацияТоваровИУслуг
 Modified: Configuration.Конфигурация
 Modified: Document.ЗаписьКлиента
