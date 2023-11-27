@@ -1,3 +1,2 @@
-﻿New: Constant.ИспользоватьСклады
-New: FunctionalOption.ИспользоватьСклады
-Modified: Configuration.Конфигурация
+﻿Modified: AccumulationRegister.ЗаказыКлиентов
+Modified: Document.ЗаписьКлиента
