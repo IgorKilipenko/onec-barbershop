@@ -228,6 +228,8 @@
 			<Role>Пользователь</Role>
 			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
 			<DefinedType>ФинансовыеДанные</DefinedType>
+			<DefinedType>КоличествоУслуг</DefinedType>
+			<DefinedType>КоличествоТоваров</DefinedType>
 			<Constant>ИспользоватьСклады</Constant>
 			<Catalog>Организации</Catalog>
 			<Catalog>Сотрудники</Catalog>

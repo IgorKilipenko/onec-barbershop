@@ -1,1 +1,3 @@
-﻿Modified: Catalog.Пользователи
+﻿New: DefinedType.КоличествоТоваров
+New: DefinedType.КоличествоУслуг
+Modified: Configuration.Конфигурация
