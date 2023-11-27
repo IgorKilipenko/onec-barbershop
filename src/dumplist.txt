@@ -1,3 +1,5 @@
-﻿New: DefinedType.КоличествоТоваров
-New: DefinedType.КоличествоУслуг
-Modified: Configuration.Конфигурация
+﻿Modified: AccumulationRegister.ЗаказыКлиентов
+Modified: AccumulationRegister.ТоварыНаСкладах
+Modified: Document.ЗаписьКлиента
+Modified: Document.ПоступлениеТоваровИМатериалов
+Modified: Document.РеализацияТоваровИУслуг
