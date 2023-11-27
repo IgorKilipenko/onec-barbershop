@@ -1,1 +1,1 @@
-﻿Modified: DefinedType.КоличествоТоваров
+﻿Modified: Catalog.Пользователи

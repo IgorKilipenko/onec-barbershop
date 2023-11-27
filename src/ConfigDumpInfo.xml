@@ -48,7 +48,9 @@
 			<Metadata name="Catalog.Организации.Attribute.Руководитель" id="c97f5171-f2af-44da-b366-636127f9ddb1"/>
 			<Metadata name="Catalog.Организации.Attribute.ИНН" id="ef3b193d-8ba7-47ff-8ceb-2aa48452ab6c"/>
 		</Metadata>
-		<Metadata name="Catalog.Пользователи" id="1918026f-775e-4094-9261-b2424e8978fd" configVersion="a577d8a9459b344da4614ea505efc99500000000"/>
+		<Metadata name="Catalog.Пользователи" id="1918026f-775e-4094-9261-b2424e8978fd" configVersion="f4e41f1a289da243ae0467f896cced7e00000000">
+			<Metadata name="Catalog.Пользователи.Attribute.Идентификатор" id="810148b6-70ce-4ce3-9ffe-0dded2ce57e5"/>
+		</Metadata>
 		<Metadata name="Catalog.Склады" id="5f72d71b-73e2-47f4-bb66-6753539827b1" configVersion="b05a67ebb9070e42b03c203386a23cef00000000"/>
 		<Metadata name="Catalog.Сотрудники" id="12df6926-984b-4267-b209-3301a95724b5" configVersion="e9ba9e9d02a0fd41b6356ec0604f2e8500000000">
 			<Metadata name="Catalog.Сотрудники.Attribute.Имя" id="6f01011b-cead-470a-bd65-2c9355351236"/>
