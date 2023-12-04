@@ -61,7 +61,13 @@
 			<Metadata name="Catalog.Сотрудники.Attribute.Отчество" id="d8a1d327-14a1-4553-ad22-dc163ebc3f25"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.КонтактныйТелефон" id="de3c0b19-d35e-42b7-91bc-353471bdd23b"/>
 		</Metadata>
-		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="34e9fd72b465e24dbd1722379155326a00000000"/>
+		<Metadata name="Catalog.ФизическиеЛица" id="b53f5623-983b-43b0-a3ee-9aaefa1bcb11" configVersion="049c641fac188a49993b79d3edfc7df400000000">
+			<Metadata name="Catalog.ФизическиеЛица.Attribute.Имя" id="226f1833-8826-4582-bef2-853e1e417240"/>
+			<Metadata name="Catalog.ФизическиеЛица.Attribute.Отчество" id="6a9e14de-6202-4a83-9953-675ea727c2b0"/>
+			<Metadata name="Catalog.ФизическиеЛица.Attribute.Фамилия" id="b036c557-d2e2-4f79-a22a-0053a309e46f"/>
+			<Metadata name="Catalog.ФизическиеЛица.Attribute.Пол" id="da1f7ed7-e35c-4d18-b140-63587325b7d5"/>
+		</Metadata>
+		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="bf5f4739d4530843991752586264024d00000000"/>
 		<Metadata name="Configuration.Конфигурация.ClientApplicationInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.b" configVersion="1a9eeefcaace7d4aa9a170ce07d999ec00000000"/>
 		<Metadata name="Configuration.Конфигурация.MainSectionCommandInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.9" configVersion="7550a3d7e1ea134390d476539e52de5300000000"/>
 		<Metadata name="Constant.ИспользоватьСклады" id="fab850d7-c284-44c9-b066-96d96aecc595" configVersion="52b7b59263f9de49bd79a897d8964c7f00000000"/>

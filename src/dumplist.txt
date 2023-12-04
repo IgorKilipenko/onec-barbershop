@@ -1,2 +1,2 @@
-﻿Modified: Configuration.Конфигурация
-Modified: Configuration.Конфигурация.ClientApplicationInterface
+﻿New: Catalog.ФизическиеЛица
+Modified: Configuration.Конфигурация

@@ -249,6 +249,7 @@
 			<Catalog>ИсточникиПолученияИнформацииОКомпании</Catalog>
 			<Catalog>Пользователи</Catalog>
 			<Catalog>Склады</Catalog>
+			<Catalog>ФизическиеЛица</Catalog>
 			<Document>ПоступлениеТоваровИМатериалов</Document>
 			<Document>ЗаписьКлиента</Document>
 			<Document>РеализацияТоваровИУслуг</Document>
