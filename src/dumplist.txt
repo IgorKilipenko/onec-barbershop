@@ -1,4 +1,9 @@
-﻿Modified: Catalog.Контрагенты.Form.ФормаЭлемента
-Modified: Catalog.Контрагенты.Form.ФормаЭлемента.Form
-Modified: Catalog.Номенклатура
-Modified: Catalog.Сотрудники
+﻿New: Subsystem.Персонал
+New: Subsystem.Покупки
+New: Subsystem.Продажи
+New: Subsystem.Справочники
+New: Subsystem.Справочники.Subsystem.Персонал
+New: Subsystem.Справочники.Subsystem.Персонал.CommandInterface
+New: Subsystem.Справочники.Subsystem.Продажи
+New: Subsystem.Справочники.Subsystem.Продажи.CommandInterface
+Modified: Configuration.Конфигурация

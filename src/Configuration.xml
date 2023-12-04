@@ -229,6 +229,10 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>Справочники</Subsystem>
+			<Subsystem>Покупки</Subsystem>
+			<Subsystem>Продажи</Subsystem>
+			<Subsystem>Персонал</Subsystem>
 			<Role>Администратор</Role>
 			<Role>Пользователь</Role>
 			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
