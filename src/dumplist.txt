@@ -1,2 +1,3 @@
-﻿Modified: AccumulationRegister.ЗаказыКлиентов
-Modified: AccumulationRegister.Продажи
+﻿New: Document.ПоступлениеТоваровИМатериалов.Form.ФормаДокумента
+New: Document.ПоступлениеТоваровИМатериалов.Form.ФормаДокумента.Form
+Modified: Document.ПоступлениеТоваровИМатериалов
