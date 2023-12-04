@@ -1,5 +1,3 @@
-﻿New: Subsystem.Продажи.Subsystem.Продажи
-New: Subsystem.Продажи.Subsystem.Продажи.CommandInterface
-New: Subsystem.Продажи.Subsystem.Справочники
-New: Subsystem.Продажи.Subsystem.Справочники.CommandInterface
-Modified: Subsystem.Продажи
+﻿New: Subsystem.Персонал.Subsystem.Справочники
+New: Subsystem.Персонал.Subsystem.Справочники.CommandInterface
+Modified: Subsystem.Персонал
