@@ -1,2 +1,2 @@
 ﻿Modified: Configuration.Конфигурация
-Modified: Subsystem.Справочники
+Modified: Configuration.Конфигурация.ClientApplicationInterface
