@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
-	<Enum uuid="cb23a71b-d10c-47ec-a1dd-140157e5f241">
+	<Enum uuid="a9679fca-7eb5-4a7c-9f10-b8d9b51e3332">
 		<InternalInfo>
-			<xr:GeneratedType name="EnumRef.ТипНоменклатуры" category="Ref">
-				<xr:TypeId>c5f62087-69ea-4833-92f8-0a162b05fd6a</xr:TypeId>
-				<xr:ValueId>4d30b368-68ff-43ec-b18d-f69130d3b425</xr:ValueId>
+			<xr:GeneratedType name="EnumRef.ТипыКонтрагентов" category="Ref">
+				<xr:TypeId>6f5eca45-5779-4f32-b077-0ee38649c50f</xr:TypeId>
+				<xr:ValueId>db864e91-4beb-43da-ab5a-160eed3e11ea</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="EnumManager.ТипНоменклатуры" category="Manager">
-				<xr:TypeId>38a779ea-0aa2-4135-a7d0-7215ed0360c2</xr:TypeId>
-				<xr:ValueId>dee1745d-d7fa-4f38-97c5-dd2f751287e0</xr:ValueId>
+			<xr:GeneratedType name="EnumManager.ТипыКонтрагентов" category="Manager">
+				<xr:TypeId>fbee2971-64b8-4a2e-a39a-45c1f535df74</xr:TypeId>
+				<xr:ValueId>cde3c589-1df6-4063-9188-b9c4add41e02</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="EnumList.ТипНоменклатуры" category="List">
-				<xr:TypeId>9ddb0fa5-3910-46c0-823e-e233a27e9077</xr:TypeId>
-				<xr:ValueId>395fcd83-3167-48c1-a289-68cc66b34b50</xr:ValueId>
+			<xr:GeneratedType name="EnumList.ТипыКонтрагентов" category="List">
+				<xr:TypeId>309d6735-8d8c-47c3-a28e-0d339ddd0f72</xr:TypeId>
+				<xr:ValueId>d8f76207-8400-4b68-a9cb-d7163c5d24e4</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>ТипНоменклатуры</Name>
+			<Name>ТипыКонтрагентов</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Тип номенклатуры</v8:content>
+					<v8:content>Типы контрагентов</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -38,25 +38,25 @@
 			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
 		</Properties>
 		<ChildObjects>
-			<EnumValue uuid="555a45bb-cb80-4ae7-913c-003389afc252">
+			<EnumValue uuid="aec68641-ab73-47c4-b8df-b63d35fd6d99">
 				<Properties>
-					<Name>Товар</Name>
+					<Name>Клиент</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Товар</v8:content>
+							<v8:content>Клиент</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 				</Properties>
 			</EnumValue>
-			<EnumValue uuid="a79ce3ee-9166-47a1-ba8f-0f6717958f7c">
+			<EnumValue uuid="29324e23-f917-4f9e-89ad-e4e341daec8d">
 				<Properties>
-					<Name>Услуга</Name>
+					<Name>Поставщик</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Услуга</v8:content>
+							<v8:content>Поставщик</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

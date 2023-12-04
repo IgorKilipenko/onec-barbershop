@@ -120,21 +120,21 @@
 		<Metadata name="Document.РеализацияТоваровИУслуг.ObjectModule" id="a1d460c2-1311-4ee7-8a52-b2936fcaf401.0" configVersion="36a0504ade7a8e43b6e119dc759fb54a00000000"/>
 		<Metadata name="Document.РеализацияТоваровИУслуг.Template.Печать" id="3e0c2ae4-6296-4c66-95af-122c03e7f3ce" configVersion="635e7e8f67372f4b8fef59a1e162af3100000000"/>
 		<Metadata name="Document.РеализацияТоваровИУслуг.Template.Печать.Template" id="3e0c2ae4-6296-4c66-95af-122c03e7f3ce.0" configVersion="1660c9a3d0887a4991de5ae529230f8600000000"/>
-		<Metadata name="Enum.Пол" id="05f9a091-590d-4b74-b968-13a5ef0e39c4" configVersion="2899e29e6c3c234eb9a0211ab220e52800000000">
-			<Metadata name="Enum.Пол.EnumValue.Женский" id="60785697-56e3-4f8c-8a25-dfb4bf1cc255"/>
-			<Metadata name="Enum.Пол.EnumValue.Мужской" id="9f396d4c-6f91-4b3f-8718-6fb15b8d1109"/>
+		<Metadata name="Enum.ПолФизическогоЛица" id="05f9a091-590d-4b74-b968-13a5ef0e39c4" configVersion="2fb5503e868e8f4b976bd4005fbcbf9f00000000">
+			<Metadata name="Enum.ПолФизическогоЛица.EnumValue.Женский" id="60785697-56e3-4f8c-8a25-dfb4bf1cc255"/>
+			<Metadata name="Enum.ПолФизическогоЛица.EnumValue.Мужской" id="9f396d4c-6f91-4b3f-8718-6fb15b8d1109"/>
 		</Metadata>
-		<Metadata name="Enum.ТипКонтрагента" id="a9679fca-7eb5-4a7c-9f10-b8d9b51e3332" configVersion="c876934caf97a24a99ef41c72ccbad8b00000000">
-			<Metadata name="Enum.ТипКонтрагента.EnumValue.Поставщик" id="29324e23-f917-4f9e-89ad-e4e341daec8d"/>
-			<Metadata name="Enum.ТипКонтрагента.EnumValue.Клиент" id="aec68641-ab73-47c4-b8df-b63d35fd6d99"/>
+		<Metadata name="Enum.ТипыКонтрагентов" id="a9679fca-7eb5-4a7c-9f10-b8d9b51e3332" configVersion="75911101f7e4c94fbe62ad5950f7668400000000">
+			<Metadata name="Enum.ТипыКонтрагентов.EnumValue.Поставщик" id="29324e23-f917-4f9e-89ad-e4e341daec8d"/>
+			<Metadata name="Enum.ТипыКонтрагентов.EnumValue.Клиент" id="aec68641-ab73-47c4-b8df-b63d35fd6d99"/>
 		</Metadata>
-		<Metadata name="Enum.ТипНоменклатуры" id="cb23a71b-d10c-47ec-a1dd-140157e5f241" configVersion="fed820c72a9997489e0a6cb540ba828300000000">
-			<Metadata name="Enum.ТипНоменклатуры.EnumValue.Товар" id="555a45bb-cb80-4ae7-913c-003389afc252"/>
-			<Metadata name="Enum.ТипНоменклатуры.EnumValue.Услуга" id="a79ce3ee-9166-47a1-ba8f-0f6717958f7c"/>
+		<Metadata name="Enum.ТипыНоменклатуры" id="cb23a71b-d10c-47ec-a1dd-140157e5f241" configVersion="11d61eaa7a541148a3776f31e8aed48a00000000">
+			<Metadata name="Enum.ТипыНоменклатуры.EnumValue.Товар" id="555a45bb-cb80-4ae7-913c-003389afc252"/>
+			<Metadata name="Enum.ТипыНоменклатуры.EnumValue.Услуга" id="a79ce3ee-9166-47a1-ba8f-0f6717958f7c"/>
 		</Metadata>
-		<Metadata name="Enum.ТипОрганизации" id="5c3f86f3-a237-4201-b49c-d02f612f263c" configVersion="078f02c4b9f41447b9afc3bee0cacd2f00000000">
-			<Metadata name="Enum.ТипОрганизации.EnumValue.ИндивидуальныйПредприниматель" id="8fa17692-abe0-488b-99e5-e9cee07af167"/>
-			<Metadata name="Enum.ТипОрганизации.EnumValue.ЮридическоеЛицо" id="c73eaede-bdcd-44be-821e-5154f57e3f97"/>
+		<Metadata name="Enum.ТипыОрганизаций" id="5c3f86f3-a237-4201-b49c-d02f612f263c" configVersion="6c9585f64a1be3418ee63f7a4e37338200000000">
+			<Metadata name="Enum.ТипыОрганизаций.EnumValue.ИндивидуальныйПредприниматель" id="8fa17692-abe0-488b-99e5-e9cee07af167"/>
+			<Metadata name="Enum.ТипыОрганизаций.EnumValue.ЮридическоеЛицо" id="c73eaede-bdcd-44be-821e-5154f57e3f97"/>
 		</Metadata>
 		<Metadata name="FunctionalOption.ИспользоватьСклады" id="9054bf45-cb64-4fc8-be8a-fadb58f70d30" configVersion="1d5b09375fe7484d92dad8aa5f6e968700000000"/>
 		<Metadata name="InformationRegister.ЦеныНоменклатурыПоставщиков" id="8aaac26c-3699-4ba7-a455-80843269b49e" configVersion="d81d2415e816294ea4fe277ddd6fc2d100000000">

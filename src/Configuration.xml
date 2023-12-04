@@ -248,10 +248,10 @@
 			<Document>ПоступлениеТоваровИМатериалов</Document>
 			<Document>ЗаписьКлиента</Document>
 			<Document>РеализацияТоваровИУслуг</Document>
-			<Enum>ТипОрганизации</Enum>
-			<Enum>ТипНоменклатуры</Enum>
-			<Enum>Пол</Enum>
-			<Enum>ТипКонтрагента</Enum>
+			<Enum>ТипыОрганизаций</Enum>
+			<Enum>ТипыНоменклатуры</Enum>
+			<Enum>ПолФизическогоЛица</Enum>
+			<Enum>ТипыКонтрагентов</Enum>
 			<InformationRegister>ЦеныНоменклатурыПоставщиков</InformationRegister>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
 			<AccumulationRegister>ЗаказыКлиентов</AccumulationRegister>

@@ -339,7 +339,7 @@
 					</Synonym>
 					<Comment/>
 					<Type>
-						<v8:Type>cfg:EnumRef.ТипКонтрагента</v8:Type>
+						<v8:Type>cfg:EnumRef.ТипыКонтрагентов</v8:Type>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>
@@ -466,7 +466,7 @@
 					</Synonym>
 					<Comment/>
 					<Type>
-						<v8:Type>cfg:EnumRef.Пол</v8:Type>
+						<v8:Type>cfg:EnumRef.ПолФизическогоЛица</v8:Type>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>
