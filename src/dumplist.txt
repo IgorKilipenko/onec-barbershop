@@ -1,3 +1,2 @@
-﻿New: Subsystem.Персонал.Subsystem.Справочники
-New: Subsystem.Персонал.Subsystem.Справочники.CommandInterface
-Modified: Subsystem.Персонал
+﻿Modified: Configuration.Конфигурация
+Modified: Subsystem.Справочники
