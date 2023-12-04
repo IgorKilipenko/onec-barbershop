@@ -28,7 +28,7 @@
 		<Metadata name="Catalog.Должности" id="528ef307-f8f2-429b-a5ea-d08c2cd56d97" configVersion="e03b2c0ad2948f4dbd15fde375a4ddec00000000"/>
 		<Metadata name="Catalog.ИсточникиПолученияИнформацииОКомпании" id="eba4f085-1f45-4165-9d5a-a9af48d93a6c" configVersion="dfc8761653b6c84db8411becfe41adbe00000000"/>
 		<Metadata name="Catalog.ИсточникиПолученияИнформацииОКомпании.Predefined" id="eba4f085-1f45-4165-9d5a-a9af48d93a6c.1c" configVersion="f5278d67ce971644b6f38e29588f4fab00000000"/>
-		<Metadata name="Catalog.Контрагенты" id="a6a183e3-fac7-4ef4-bbdd-984b32d5c145" configVersion="35ddc36efd961c44a6f69b5c5b09da0700000000">
+		<Metadata name="Catalog.Контрагенты" id="a6a183e3-fac7-4ef4-bbdd-984b32d5c145" configVersion="46dd0f8c5c27fd44bcd7992254a5e6e600000000">
 			<Metadata name="Catalog.Контрагенты.Attribute.Источник" id="004151c2-7c6d-43d1-8342-66c4737eeb55"/>
 			<Metadata name="Catalog.Контрагенты.Attribute.КонтактныйТелефон" id="0c656b87-a9f5-4fe2-884d-99a609ccbe6e"/>
 			<Metadata name="Catalog.Контрагенты.Attribute.ДатаРождения" id="43c0a7ed-4690-4311-91fb-beb4698294ae"/>
@@ -37,6 +37,8 @@
 			<Metadata name="Catalog.Контрагенты.Attribute.ТипКонтрагента" id="d9832766-6dd4-4bf9-8712-8542e5c88aba"/>
 			<Metadata name="Catalog.Контрагенты.Attribute.Пол" id="e934e8f3-667c-497e-b0ba-a0475ef4ff9a"/>
 		</Metadata>
+		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента" id="72c2fba4-c504-4947-b70b-0eb31beae9c7" configVersion="3f47375642e912488c4da0e8eb5ebb9200000000"/>
+		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента.Form" id="72c2fba4-c504-4947-b70b-0eb31beae9c7.0" configVersion="a4bf636af76e7244a35a4c8afd7d60b000000000"/>
 		<Metadata name="Catalog.Номенклатура" id="24aa4671-3ec5-4152-8ff3-65d38753139c" configVersion="82ab1963d083d44dbfdc2a570d7be5f600000000">
 			<Metadata name="Catalog.Номенклатура.Attribute.ТипНоменклатуры" id="7b8f17a5-3eb7-4441-b8ed-e387496dac9b"/>
 		</Metadata>

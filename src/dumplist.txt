@@ -1,2 +1,3 @@
-﻿Modified: Document.ПоступлениеТоваровИМатериалов.Form.ФормаДокумента
-Modified: Document.ПоступлениеТоваровИМатериалов.Form.ФормаДокумента.Form
+﻿New: Catalog.Контрагенты.Form.ФормаЭлемента
+New: Catalog.Контрагенты.Form.ФормаЭлемента.Form
+Modified: Catalog.Контрагенты
