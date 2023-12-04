@@ -1,3 +1,5 @@
-﻿New: Document.ПоступлениеТоваровИМатериалов.Form.ФормаСписка
-New: Document.ПоступлениеТоваровИМатериалов.Form.ФормаСписка.Form
-Modified: Document.ПоступлениеТоваровИМатериалов
+﻿New: Document.ЗаписьКлиента.Form.ФормаДокумента
+New: Document.ЗаписьКлиента.Form.ФормаДокумента.Form
+New: Document.ЗаписьКлиента.Form.ФормаСписка
+New: Document.ЗаписьКлиента.Form.ФормаСписка.Form
+Modified: Document.ЗаписьКлиента
