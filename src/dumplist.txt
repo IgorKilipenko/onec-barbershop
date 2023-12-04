@@ -1,2 +1,4 @@
-﻿New: Configuration.Конфигурация.ClientApplicationInterface
-Modified: Configuration.Конфигурация
+﻿New: Subsystem.Покупки.Subsystem.Покупки
+New: Subsystem.Покупки.Subsystem.Покупки.CommandInterface
+New: Subsystem.Покупки.Subsystem.Справочники
+Modified: Subsystem.Покупки
