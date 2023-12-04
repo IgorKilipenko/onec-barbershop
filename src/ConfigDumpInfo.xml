@@ -93,8 +93,8 @@
 			<Metadata name="Document.ПоступлениеТоваровИМатериалов.Attribute.Склад" id="dee3e06d-4586-4557-9e17-42ac47b0cd27"/>
 			<Metadata name="Document.ПоступлениеТоваровИМатериалов.Attribute.Поставщик" id="f00d42ff-b95d-4426-8481-deacb2215c1f"/>
 		</Metadata>
-		<Metadata name="Document.ПоступлениеТоваровИМатериалов.Form.ФормаДокумента" id="682347ae-bf0a-4f6e-8207-db1112b23f58" configVersion="ec9b08b411bf62409bc4e6737010d46100000000"/>
-		<Metadata name="Document.ПоступлениеТоваровИМатериалов.Form.ФормаДокумента.Form" id="682347ae-bf0a-4f6e-8207-db1112b23f58.0" configVersion="2ea666b8abde9c4da2d7bfcc0fabba8000000000"/>
+		<Metadata name="Document.ПоступлениеТоваровИМатериалов.Form.ФормаДокумента" id="682347ae-bf0a-4f6e-8207-db1112b23f58" configVersion="0beb904afd844147aef404316a41e51f00000000"/>
+		<Metadata name="Document.ПоступлениеТоваровИМатериалов.Form.ФормаДокумента.Form" id="682347ae-bf0a-4f6e-8207-db1112b23f58.0" configVersion="6cc8178b87d58a42a80c475600aa24cb00000000"/>
 		<Metadata name="Document.ПоступлениеТоваровИМатериалов.ObjectModule" id="4c691001-4a4a-40c6-b579-f53553b58f5c.0" configVersion="d7ff2344f824f447a143ec4c47492ca500000000"/>
 		<Metadata name="Document.РеализацияТоваровИУслуг" id="a1d460c2-1311-4ee7-8a52-b2936fcaf401" configVersion="24578f153722004d84901ac71c96c23500000000">
 			<Metadata name="Document.РеализацияТоваровИУслуг.TabularSection.Услуги.Attribute.Количество" id="0aabe0f7-d843-4ced-8c68-e2e4850ff2c1"/>

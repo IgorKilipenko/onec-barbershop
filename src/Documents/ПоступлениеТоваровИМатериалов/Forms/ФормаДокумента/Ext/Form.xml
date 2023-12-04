@@ -5,77 +5,122 @@
 	<RepostOnWrite>true</RepostOnWrite>
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
 	<ChildItems>
-		<InputField name="Номер" id="1">
-			<DataPath>Объект.Number</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="НомерКонтекстноеМеню" id="2"/>
-			<ExtendedTooltip name="НомерРасширеннаяПодсказка" id="3"/>
-		</InputField>
-		<InputField name="Дата" id="4">
-			<DataPath>Объект.Date</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="ДатаКонтекстноеМеню" id="5"/>
-			<ExtendedTooltip name="ДатаРасширеннаяПодсказка" id="6"/>
-		</InputField>
-		<InputField name="Поставщик" id="7">
-			<DataPath>Объект.Поставщик</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="ПоставщикКонтекстноеМеню" id="8"/>
-			<ExtendedTooltip name="ПоставщикРасширеннаяПодсказка" id="9"/>
-		</InputField>
-		<InputField name="ВходящийНомер" id="10">
-			<DataPath>Объект.ВходящийНомер</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="ВходящийНомерКонтекстноеМеню" id="11"/>
-			<ExtendedTooltip name="ВходящийНомерРасширеннаяПодсказка" id="12"/>
-		</InputField>
-		<InputField name="ВходящаяДата" id="13">
-			<DataPath>Объект.ВходящаяДата</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="ВходящаяДатаКонтекстноеМеню" id="14"/>
-			<ExtendedTooltip name="ВходящаяДатаРасширеннаяПодсказка" id="15"/>
-		</InputField>
-		<InputField name="ДоговорПоставщика" id="16">
-			<DataPath>Объект.ДоговорПоставщика</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="ДоговорПоставщикаКонтекстноеМеню" id="17"/>
-			<ExtendedTooltip name="ДоговорПоставщикаРасширеннаяПодсказка" id="18"/>
-		</InputField>
-		<InputField name="Склад" id="19">
-			<DataPath>Объект.Склад</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="СкладКонтекстноеМеню" id="20"/>
-			<ExtendedTooltip name="СкладРасширеннаяПодсказка" id="21"/>
-		</InputField>
-		<InputField name="СуммаДокумента" id="25">
-			<DataPath>Объект.СуммаДокумента</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="СуммаДокументаКонтекстноеМеню" id="26"/>
-			<ExtendedTooltip name="СуммаДокументаРасширеннаяПодсказка" id="27"/>
-		</InputField>
-		<InputField name="Комментарий" id="28">
-			<DataPath>Объект.Комментарий</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="КомментарийКонтекстноеМеню" id="29"/>
-			<ExtendedTooltip name="КомментарийРасширеннаяПодсказка" id="30"/>
-		</InputField>
-		<InputField name="АвторДокумента" id="22">
-			<DataPath>Объект.АвторДокумента</DataPath>
-			<ReadOnly>true</ReadOnly>
-			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="АвторДокументаКонтекстноеМеню" id="23"/>
-			<ExtendedTooltip name="АвторДокументаРасширеннаяПодсказка" id="24"/>
-		</InputField>
+		<UsualGroup name="ГруппаШапка" id="59">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа шапка</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа шапка</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Group>AlwaysHorizontal</Group>
+			<Representation>None</Representation>
+			<ShowTitle>false</ShowTitle>
+			<ExtendedTooltip name="ГруппаШапкаРасширеннаяПодсказка" id="60"/>
+			<ChildItems>
+				<UsualGroup name="ГруппаШапкаЛево" id="61">
+					<Title>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа шапка лево</v8:content>
+						</v8:item>
+					</Title>
+					<ToolTip>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа шапка лево</v8:content>
+						</v8:item>
+					</ToolTip>
+					<Group>Vertical</Group>
+					<Representation>None</Representation>
+					<ShowTitle>false</ShowTitle>
+					<ExtendedTooltip name="ГруппаШапкаЛевоРасширеннаяПодсказка" id="62"/>
+					<ChildItems>
+						<InputField name="Номер" id="1">
+							<DataPath>Объект.Number</DataPath>
+							<EditMode>EnterOnInput</EditMode>
+							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+							<ContextMenu name="НомерКонтекстноеМеню" id="2"/>
+							<ExtendedTooltip name="НомерРасширеннаяПодсказка" id="3"/>
+						</InputField>
+						<InputField name="ВходящийНомер" id="10">
+							<DataPath>Объект.ВходящийНомер</DataPath>
+							<EditMode>EnterOnInput</EditMode>
+							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+							<ContextMenu name="ВходящийНомерКонтекстноеМеню" id="11"/>
+							<ExtendedTooltip name="ВходящийНомерРасширеннаяПодсказка" id="12"/>
+						</InputField>
+						<InputField name="Поставщик" id="7">
+							<DataPath>Объект.Поставщик</DataPath>
+							<EditMode>EnterOnInput</EditMode>
+							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+							<ContextMenu name="ПоставщикКонтекстноеМеню" id="8"/>
+							<ExtendedTooltip name="ПоставщикРасширеннаяПодсказка" id="9"/>
+						</InputField>
+						<InputField name="СуммаДокумента" id="25">
+							<DataPath>Объект.СуммаДокумента</DataPath>
+							<EditMode>EnterOnInput</EditMode>
+							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+							<ContextMenu name="СуммаДокументаКонтекстноеМеню" id="26"/>
+							<ExtendedTooltip name="СуммаДокументаРасширеннаяПодсказка" id="27"/>
+						</InputField>
+					</ChildItems>
+				</UsualGroup>
+				<UsualGroup name="ГруппаШапкаПраво" id="63">
+					<Title>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа шапка право</v8:content>
+						</v8:item>
+					</Title>
+					<ToolTip>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа шапка право</v8:content>
+						</v8:item>
+					</ToolTip>
+					<Group>Vertical</Group>
+					<Representation>None</Representation>
+					<ShowTitle>false</ShowTitle>
+					<ExtendedTooltip name="ГруппаШапкаПравоРасширеннаяПодсказка" id="64"/>
+					<ChildItems>
+						<InputField name="Дата" id="4">
+							<DataPath>Объект.Date</DataPath>
+							<EditMode>EnterOnInput</EditMode>
+							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+							<ContextMenu name="ДатаКонтекстноеМеню" id="5"/>
+							<ExtendedTooltip name="ДатаРасширеннаяПодсказка" id="6"/>
+						</InputField>
+						<InputField name="ВходящаяДата" id="13">
+							<DataPath>Объект.ВходящаяДата</DataPath>
+							<EditMode>EnterOnInput</EditMode>
+							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+							<ContextMenu name="ВходящаяДатаКонтекстноеМеню" id="14"/>
+							<ExtendedTooltip name="ВходящаяДатаРасширеннаяПодсказка" id="15"/>
+						</InputField>
+						<InputField name="ДоговорПоставщика" id="16">
+							<DataPath>Объект.ДоговорПоставщика</DataPath>
+							<EditMode>EnterOnInput</EditMode>
+							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+							<ContextMenu name="ДоговорПоставщикаКонтекстноеМеню" id="17"/>
+							<ExtendedTooltip name="ДоговорПоставщикаРасширеннаяПодсказка" id="18"/>
+						</InputField>
+						<InputField name="Склад" id="19">
+							<DataPath>Объект.Склад</DataPath>
+							<EditMode>EnterOnInput</EditMode>
+							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+							<ContextMenu name="СкладКонтекстноеМеню" id="20"/>
+							<ExtendedTooltip name="СкладРасширеннаяПодсказка" id="21"/>
+						</InputField>
+					</ChildItems>
+				</UsualGroup>
+			</ChildItems>
+		</UsualGroup>
 		<Table name="Товары" id="31">
 			<Representation>List</Representation>
 			<AutoInsertNewRow>true</AutoInsertNewRow>
@@ -147,6 +192,21 @@
 				</InputField>
 			</ChildItems>
 		</Table>
+		<InputField name="Комментарий" id="28">
+			<DataPath>Объект.Комментарий</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="КомментарийКонтекстноеМеню" id="29"/>
+			<ExtendedTooltip name="КомментарийРасширеннаяПодсказка" id="30"/>
+		</InputField>
+		<InputField name="АвторДокумента" id="22">
+			<DataPath>Объект.АвторДокумента</DataPath>
+			<ReadOnly>true</ReadOnly>
+			<EditMode>EnterOnInput</EditMode>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="АвторДокументаКонтекстноеМеню" id="23"/>
+			<ExtendedTooltip name="АвторДокументаРасширеннаяПодсказка" id="24"/>
+		</InputField>
 	</ChildItems>
 	<Attributes>
 		<Attribute name="Объект" id="1">
