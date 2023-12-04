@@ -1,4 +1,5 @@
-﻿New: Subsystem.Покупки.Subsystem.Покупки
-New: Subsystem.Покупки.Subsystem.Покупки.CommandInterface
-New: Subsystem.Покупки.Subsystem.Справочники
-Modified: Subsystem.Покупки
+﻿New: Subsystem.Продажи.Subsystem.Продажи
+New: Subsystem.Продажи.Subsystem.Продажи.CommandInterface
+New: Subsystem.Продажи.Subsystem.Справочники
+New: Subsystem.Продажи.Subsystem.Справочники.CommandInterface
+Modified: Subsystem.Продажи
