@@ -1,5 +1,5 @@
-﻿New: Document.ЗаписьКлиента.Form.ФормаДокумента
-New: Document.ЗаписьКлиента.Form.ФормаДокумента.Form
-New: Document.ЗаписьКлиента.Form.ФормаСписка
-New: Document.ЗаписьКлиента.Form.ФормаСписка.Form
-Modified: Document.ЗаписьКлиента
+﻿New: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента
+New: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента.Form
+New: Document.РеализацияТоваровИУслуг.Form.ФормаСписка
+New: Document.РеализацияТоваровИУслуг.Form.ФормаСписка.Form
+Modified: Document.РеализацияТоваровИУслуг
