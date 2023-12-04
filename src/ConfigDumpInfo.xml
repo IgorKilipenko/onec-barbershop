@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
 	<ConfigVersions>
-		<Metadata name="AccumulationRegister.ЗаказыКлиентов" id="e93d975f-a5dd-4f38-967d-d20ec6ba0b8f" configVersion="280af3009431384798693dcc244c0e9100000000">
+		<Metadata name="AccumulationRegister.ЗаказыКлиентов" id="e93d975f-a5dd-4f38-967d-d20ec6ba0b8f" configVersion="6abc14b077b47344b8422fc7656511f300000000">
 			<Metadata name="AccumulationRegister.ЗаказыКлиентов.Resource.Сумма" id="06cd761c-4927-46cf-bdf1-f309ff69b6b7"/>
 			<Metadata name="AccumulationRegister.ЗаказыКлиентов.Resource.Количество" id="18fe4180-c994-4d4f-b863-20a69589a48a"/>
 			<Metadata name="AccumulationRegister.ЗаказыКлиентов.Dimension.Клиент" id="44fb11a9-a58f-433f-9f4b-1a81498aef9a"/>
 			<Metadata name="AccumulationRegister.ЗаказыКлиентов.Dimension.ДатаЗаписи" id="61516e60-485d-493b-afcc-b63cc29ab0bf"/>
 		</Metadata>
-		<Metadata name="AccumulationRegister.Продажи" id="a8adec3d-af61-407e-927d-f4459fcbeae8" configVersion="2d9eaf3902e711419f2ec68e5c49a10a00000000">
+		<Metadata name="AccumulationRegister.Продажи" id="a8adec3d-af61-407e-927d-f4459fcbeae8" configVersion="2b11d270ab97b943b8d3f75f5728344300000000">
 			<Metadata name="AccumulationRegister.Продажи.Resource.Сумма" id="15e5f09a-6eef-41e1-aed3-1c1259a335d8"/>
 			<Metadata name="AccumulationRegister.Продажи.Dimension.Сотрудник" id="260cc40a-8b59-4e55-9167-a57693cef777"/>
 			<Metadata name="AccumulationRegister.Продажи.Dimension.Номенклатура" id="3f809e7a-b8d6-4c83-8c15-cccc2f9275b6"/>

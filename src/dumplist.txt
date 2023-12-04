@@ -1,0 +1,2 @@
+﻿Modified: AccumulationRegister.ЗаказыКлиентов
+Modified: AccumulationRegister.Продажи
