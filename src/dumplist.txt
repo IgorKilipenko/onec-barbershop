@@ -1,9 +1,2 @@
-﻿New: Subsystem.Персонал
-New: Subsystem.Покупки
-New: Subsystem.Продажи
-New: Subsystem.Справочники
-New: Subsystem.Справочники.Subsystem.Персонал
-New: Subsystem.Справочники.Subsystem.Персонал.CommandInterface
-New: Subsystem.Справочники.Subsystem.Продажи
-New: Subsystem.Справочники.Subsystem.Продажи.CommandInterface
+﻿New: Configuration.Конфигурация.ClientApplicationInterface
 Modified: Configuration.Конфигурация
