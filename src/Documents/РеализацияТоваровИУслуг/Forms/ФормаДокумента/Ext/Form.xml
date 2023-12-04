@@ -213,6 +213,7 @@
 					<ChildItems>
 						<Table name="Товары" id="56">
 							<Representation>List</Representation>
+							<Footer>true</Footer>
 							<AutoInsertNewRow>true</AutoInsertNewRow>
 							<EnableStartDrag>true</EnableStartDrag>
 							<EnableDrag>true</EnableDrag>
@@ -276,6 +277,7 @@
 								<InputField name="ТоварыКоличество" id="81">
 									<DataPath>Объект.Товары.Количество</DataPath>
 									<EditMode>EnterOnInput</EditMode>
+									<FooterDataPath>Объект.Товары.TotalКоличество</FooterDataPath>
 									<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 									<ContextMenu name="ТоварыКоличествоКонтекстноеМеню" id="82"/>
 									<ExtendedTooltip name="ТоварыКоличествоРасширеннаяПодсказка" id="83"/>
@@ -283,6 +285,7 @@
 								<InputField name="ТоварыСумма" id="84">
 									<DataPath>Объект.Товары.Сумма</DataPath>
 									<EditMode>EnterOnInput</EditMode>
+									<FooterDataPath>Объект.Товары.TotalСумма</FooterDataPath>
 									<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 									<ContextMenu name="ТоварыСуммаКонтекстноеМеню" id="85"/>
 									<ExtendedTooltip name="ТоварыСуммаРасширеннаяПодсказка" id="86"/>
