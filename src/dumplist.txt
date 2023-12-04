@@ -1,2 +1,4 @@
-﻿Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента
-Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента.Form
+﻿Modified: Catalog.Контрагенты.Form.ФормаЭлемента
+Modified: Catalog.Контрагенты.Form.ФормаЭлемента.Form
+Modified: Catalog.Номенклатура
+Modified: Catalog.Сотрудники

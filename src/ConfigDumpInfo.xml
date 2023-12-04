@@ -37,9 +37,9 @@
 			<Metadata name="Catalog.Контрагенты.Attribute.ТипКонтрагента" id="d9832766-6dd4-4bf9-8712-8542e5c88aba"/>
 			<Metadata name="Catalog.Контрагенты.Attribute.Пол" id="e934e8f3-667c-497e-b0ba-a0475ef4ff9a"/>
 		</Metadata>
-		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента" id="72c2fba4-c504-4947-b70b-0eb31beae9c7" configVersion="3f47375642e912488c4da0e8eb5ebb9200000000"/>
-		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента.Form" id="72c2fba4-c504-4947-b70b-0eb31beae9c7.0" configVersion="a4bf636af76e7244a35a4c8afd7d60b000000000"/>
-		<Metadata name="Catalog.Номенклатура" id="24aa4671-3ec5-4152-8ff3-65d38753139c" configVersion="82ab1963d083d44dbfdc2a570d7be5f600000000">
+		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента" id="72c2fba4-c504-4947-b70b-0eb31beae9c7" configVersion="7eeaa1acc43d58488501dfc0b5e6953d00000000"/>
+		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента.Form" id="72c2fba4-c504-4947-b70b-0eb31beae9c7.0" configVersion="cf347fedbd4bfc4eaabbc1e743c84d5100000000"/>
+		<Metadata name="Catalog.Номенклатура" id="24aa4671-3ec5-4152-8ff3-65d38753139c" configVersion="d7deccf79a0fa9438cd06bbd1425602500000000">
 			<Metadata name="Catalog.Номенклатура.Attribute.ТипНоменклатуры" id="7b8f17a5-3eb7-4441-b8ed-e387496dac9b"/>
 		</Metadata>
 		<Metadata name="Catalog.Организации" id="d9e4907b-33c2-4a70-be96-f3315ad514a3" configVersion="ff9d36db1de94e478f84674607374c9200000000">
@@ -52,7 +52,7 @@
 		</Metadata>
 		<Metadata name="Catalog.Пользователи" id="1918026f-775e-4094-9261-b2424e8978fd" configVersion="a360ab85def8a64eb8a3dd76e99d8bc100000000"/>
 		<Metadata name="Catalog.Склады" id="5f72d71b-73e2-47f4-bb66-6753539827b1" configVersion="b05a67ebb9070e42b03c203386a23cef00000000"/>
-		<Metadata name="Catalog.Сотрудники" id="12df6926-984b-4267-b209-3301a95724b5" configVersion="e9ba9e9d02a0fd41b6356ec0604f2e8500000000">
+		<Metadata name="Catalog.Сотрудники" id="12df6926-984b-4267-b209-3301a95724b5" configVersion="8ed673902ec1834896ae5aa2217e3f9d00000000">
 			<Metadata name="Catalog.Сотрудники.Attribute.Имя" id="6f01011b-cead-470a-bd65-2c9355351236"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.Пол" id="86bab519-0dc5-40cc-a2aa-fd650a3e923b"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.Фамилия" id="b4a515bc-cb70-4a76-bc87-27a091116901"/>
