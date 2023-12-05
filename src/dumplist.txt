@@ -1,0 +1,2 @@
+﻿New: Configuration.Конфигурация.CommandInterface
+Modified: Configuration.Конфигурация
