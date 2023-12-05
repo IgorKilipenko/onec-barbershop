@@ -1,2 +1,2 @@
-﻿New: CommonModule.ГлобальныйМодуль.Module
-Modified: CommonModule.ГлобальныйМодуль
+﻿New: Configuration.Конфигурация.ManagedApplicationModule
+Modified: Configuration.Конфигурация
