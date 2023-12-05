@@ -1,2 +1,5 @@
-﻿Modified: Catalog.ФизическиеЛица.Form.ФормаЭлемента
-Modified: Catalog.ФизическиеЛица.Form.ФормаЭлемента.Form
+﻿New: Configuration.Конфигурация.HomePageWorkArea
+New: Subsystem.Настройки
+New: Subsystem.Сервис
+Modified: Configuration.Конфигурация
+Modified: Configuration.Конфигурация.MainSectionCommandInterface
