@@ -1,2 +1,2 @@
-﻿New: Configuration.Конфигурация.CommandInterface
+﻿New: SessionParameter.ТекущийПользователь
 Modified: Configuration.Конфигурация

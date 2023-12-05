@@ -235,6 +235,7 @@
 			<Subsystem>Настройки</Subsystem>
 			<Subsystem>Сервис</Subsystem>
 			<Subsystem>НСИИАдминистрирование</Subsystem>
+			<SessionParameter>ТекущийПользователь</SessionParameter>
 			<Role>Администратор</Role>
 			<Role>Пользователь</Role>
 			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
