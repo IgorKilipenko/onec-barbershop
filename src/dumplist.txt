@@ -1,2 +1,2 @@
-﻿New: CommonModule.ГлобальныйМодуль
-Modified: Configuration.Конфигурация
+﻿New: CommonModule.ГлобальныйМодуль.Module
+Modified: CommonModule.ГлобальныйМодуль
