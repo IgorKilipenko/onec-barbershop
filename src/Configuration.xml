@@ -234,7 +234,7 @@
 			<Subsystem>Персонал</Subsystem>
 			<Subsystem>Настройки</Subsystem>
 			<Subsystem>Сервис</Subsystem>
-			<Subsystem>Справочники</Subsystem>
+			<Subsystem>НСИИАдминистрирование</Subsystem>
 			<Role>Администратор</Role>
 			<Role>Пользователь</Role>
 			<FunctionalOption>ИспользоватьСклады</FunctionalOption>

@@ -1,5 +1,0 @@
-﻿New: Configuration.Конфигурация.HomePageWorkArea
-New: Subsystem.Настройки
-New: Subsystem.Сервис
-Modified: Configuration.Конфигурация
-Modified: Configuration.Конфигурация.MainSectionCommandInterface
