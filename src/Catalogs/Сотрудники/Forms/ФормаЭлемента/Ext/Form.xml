@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Form xmlns="http://v8.1c.ru/8.3/xcf/logform" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:dcscor="http://v8.1c.ru/8.1/data-composition-system/core" xmlns:dcssch="http://v8.1c.ru/8.1/data-composition-system/schema" xmlns:dcsset="http://v8.1c.ru/8.1/data-composition-system/settings" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<WindowOpeningMode>LockOwnerWindow</WindowOpeningMode>
+	<UseForFoldersAndItems>Items</UseForFoldersAndItems>
+	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
+	<ChildItems>
+		<InputField name="Код" id="1">
+			<DataPath>Объект.Code</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="КодКонтекстноеМеню" id="2"/>
+			<ExtendedTooltip name="КодРасширеннаяПодсказка" id="3"/>
+		</InputField>
+		<InputField name="ФизическоеЛицоСсылка" id="34">
+			<DataPath>Объект.ФизическоеЛицо</DataPath>
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Ф.И.О.</v8:content>
+				</v8:item>
+			</Title>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ChoiceParameterLinks>
+				<xr:Link>
+					<xr:Name>Ссылка</xr:Name>
+					<xr:DataPath xsi:type="xs:string">Объект.Ref</xr:DataPath>
+					<xr:ValueChange>Clear</xr:ValueChange>
+				</xr:Link>
+			</ChoiceParameterLinks>
+			<TypeLink>
+				<xr:DataPath>Объект.ФизическоеЛицо</xr:DataPath>
+				<xr:LinkItem>0</xr:LinkItem>
+			</TypeLink>
+			<ContextMenu name="ФизическоеЛицоСсылкаКонтекстноеМеню" id="35"/>
+			<ExtendedTooltip name="ФизическоеЛицоСсылкаРасширеннаяПодсказка" id="36"/>
+		</InputField>
+		<InputField name="ФизическоеЛицоФамилия" id="16">
+			<DataPath>Объект.ФизическоеЛицо.Фамилия</DataPath>
+			<ReadOnly>true</ReadOnly>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="ФизическоеЛицоФамилияКонтекстноеМеню" id="17"/>
+			<ExtendedTooltip name="ФизическоеЛицоФамилияРасширеннаяПодсказка" id="18"/>
+		</InputField>
+		<InputField name="ФизическоеЛицоИмя" id="19">
+			<DataPath>Объект.ФизическоеЛицо.Имя</DataPath>
+			<ReadOnly>true</ReadOnly>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="ФизическоеЛицоИмяКонтекстноеМеню" id="20"/>
+			<ExtendedTooltip name="ФизическоеЛицоИмяРасширеннаяПодсказка" id="21"/>
+		</InputField>
+		<InputField name="ФизическоеЛицоОтчество" id="22">
+			<DataPath>Объект.ФизическоеЛицо.Отчество</DataPath>
+			<ReadOnly>true</ReadOnly>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="ФизическоеЛицоОтчествоКонтекстноеМеню" id="23"/>
+			<ExtendedTooltip name="ФизическоеЛицоОтчествоРасширеннаяПодсказка" id="24"/>
+		</InputField>
+		<InputField name="ФизическоеЛицоПол" id="25">
+			<DataPath>Объект.ФизическоеЛицо.Пол</DataPath>
+			<ReadOnly>true</ReadOnly>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="ФизическоеЛицоПолКонтекстноеМеню" id="26"/>
+			<ExtendedTooltip name="ФизическоеЛицоПолРасширеннаяПодсказка" id="27"/>
+		</InputField>
+		<InputField name="ФизическоеЛицоДатаРождения" id="28">
+			<DataPath>Объект.ФизическоеЛицо.ДатаРождения</DataPath>
+			<ReadOnly>true</ReadOnly>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="ФизическоеЛицоДатаРожденияКонтекстноеМеню" id="29"/>
+			<ExtendedTooltip name="ФизическоеЛицоДатаРожденияРасширеннаяПодсказка" id="30"/>
+		</InputField>
+		<InputField name="ФизическоеЛицоКонтактныйТелефон" id="31">
+			<DataPath>Объект.ФизическоеЛицо.КонтактныйТелефон</DataPath>
+			<ReadOnly>true</ReadOnly>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="ФизическоеЛицоКонтактныйТелефонКонтекстноеМеню" id="32"/>
+			<ExtendedTooltip name="ФизическоеЛицоКонтактныйТелефонРасширеннаяПодсказка" id="33"/>
+		</InputField>
+		<InputField name="Должность" id="7">
+			<DataPath>Объект.Должность</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="ДолжностьКонтекстноеМеню" id="8"/>
+			<ExtendedTooltip name="ДолжностьРасширеннаяПодсказка" id="9"/>
+		</InputField>
+	</ChildItems>
+	<Attributes>
+		<Attribute name="Объект" id="1">
+			<Type>
+				<v8:Type>cfg:CatalogObject.Сотрудники</v8:Type>
+			</Type>
+			<MainAttribute>true</MainAttribute>
+			<SavedData>true</SavedData>
+		</Attribute>
+	</Attributes>
+	<CommandInterface>
+		<NavigationPanel>
+			<Item>
+				<Command>Catalog.ФизическиеЛица.StandardCommand.OpenList</Command>
+				<Type>Added</Type>
+				<CommandGroup>FormNavigationPanelGoTo</CommandGroup>
+				<DefaultVisible>false</DefaultVisible>
+			</Item>
+		</NavigationPanel>
+		<CommandBar>
+			<Item>
+				<Command>Catalog.ФизическиеЛица.StandardCommand.Create</Command>
+				<Type>Added</Type>
+				<CommandGroup>FormCommandBarImportant</CommandGroup>
+				<DefaultVisible>false</DefaultVisible>
+			</Item>
+		</CommandBar>
+	</CommandInterface>
+</Form>

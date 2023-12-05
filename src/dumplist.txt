@@ -1,2 +1,0 @@
-﻿New: Catalog.ФизическиеЛица
-Modified: Configuration.Конфигурация

@@ -52,21 +52,23 @@
 		</Metadata>
 		<Metadata name="Catalog.Пользователи" id="1918026f-775e-4094-9261-b2424e8978fd" configVersion="a360ab85def8a64eb8a3dd76e99d8bc100000000"/>
 		<Metadata name="Catalog.Склады" id="5f72d71b-73e2-47f4-bb66-6753539827b1" configVersion="b05a67ebb9070e42b03c203386a23cef00000000"/>
-		<Metadata name="Catalog.Сотрудники" id="12df6926-984b-4267-b209-3301a95724b5" configVersion="8ed673902ec1834896ae5aa2217e3f9d00000000">
-			<Metadata name="Catalog.Сотрудники.Attribute.Имя" id="6f01011b-cead-470a-bd65-2c9355351236"/>
-			<Metadata name="Catalog.Сотрудники.Attribute.Пол" id="86bab519-0dc5-40cc-a2aa-fd650a3e923b"/>
-			<Metadata name="Catalog.Сотрудники.Attribute.Фамилия" id="b4a515bc-cb70-4a76-bc87-27a091116901"/>
+		<Metadata name="Catalog.Сотрудники" id="12df6926-984b-4267-b209-3301a95724b5" configVersion="eb917c78d1c6a94cac1ee856b2289ce100000000">
+			<Metadata name="Catalog.Сотрудники.Attribute.ФизическоеЛицо" id="52025bea-1a2f-49bd-84b6-822f4abb0433"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.Должность" id="c28bd2f3-7ecf-4c58-913f-1ea5e45e41f4"/>
-			<Metadata name="Catalog.Сотрудники.Attribute.ДатаРождения" id="d1351afc-9d6e-475b-8077-ab9132a90a8c"/>
-			<Metadata name="Catalog.Сотрудники.Attribute.Отчество" id="d8a1d327-14a1-4553-ad22-dc163ebc3f25"/>
-			<Metadata name="Catalog.Сотрудники.Attribute.КонтактныйТелефон" id="de3c0b19-d35e-42b7-91bc-353471bdd23b"/>
 		</Metadata>
-		<Metadata name="Catalog.ФизическиеЛица" id="b53f5623-983b-43b0-a3ee-9aaefa1bcb11" configVersion="049c641fac188a49993b79d3edfc7df400000000">
+		<Metadata name="Catalog.Сотрудники.Form.ФормаЭлемента" id="74092796-bf7b-4fbc-aef8-4c3178d75d9c" configVersion="7e610b82f6bf394fa80766f144f73b3700000000"/>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаЭлемента.Form" id="74092796-bf7b-4fbc-aef8-4c3178d75d9c.0" configVersion="4ee4fb57e009c0448e31b1318f4e8dd500000000"/>
+		<Metadata name="Catalog.Сотрудники.ObjectModule" id="12df6926-984b-4267-b209-3301a95724b5.0" configVersion="49a8faece66a124a80ba63c60308f27600000000"/>
+		<Metadata name="Catalog.ФизическиеЛица" id="b53f5623-983b-43b0-a3ee-9aaefa1bcb11" configVersion="1d9229dad59902418fdd9491eb160ff600000000">
 			<Metadata name="Catalog.ФизическиеЛица.Attribute.Имя" id="226f1833-8826-4582-bef2-853e1e417240"/>
 			<Metadata name="Catalog.ФизическиеЛица.Attribute.Отчество" id="6a9e14de-6202-4a83-9953-675ea727c2b0"/>
+			<Metadata name="Catalog.ФизическиеЛица.Attribute.КонтактныйТелефон" id="700aedf3-648d-41a5-87ff-1835df5ddbe2"/>
+			<Metadata name="Catalog.ФизическиеЛица.Attribute.ДатаРождения" id="928555fd-6d4e-481b-91da-3182a33152b5"/>
 			<Metadata name="Catalog.ФизическиеЛица.Attribute.Фамилия" id="b036c557-d2e2-4f79-a22a-0053a309e46f"/>
 			<Metadata name="Catalog.ФизическиеЛица.Attribute.Пол" id="da1f7ed7-e35c-4d18-b140-63587325b7d5"/>
 		</Metadata>
+		<Metadata name="Catalog.ФизическиеЛица.Form.ФормаЭлемента" id="ffec83e5-5ce8-40a4-bd7a-46a5c9a7bdd9" configVersion="9df1d10e5cee624bb04cf08903fa66a400000000"/>
+		<Metadata name="Catalog.ФизическиеЛица.Form.ФормаЭлемента.Form" id="ffec83e5-5ce8-40a4-bd7a-46a5c9a7bdd9.0" configVersion="96bf62c8cad5394aa83f3c91f83c2cfe00000000"/>
 		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="bf5f4739d4530843991752586264024d00000000"/>
 		<Metadata name="Configuration.Конфигурация.ClientApplicationInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.b" configVersion="1a9eeefcaace7d4aa9a170ce07d999ec00000000"/>
 		<Metadata name="Configuration.Конфигурация.MainSectionCommandInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.9" configVersion="7550a3d7e1ea134390d476539e52de5300000000"/>
