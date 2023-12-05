@@ -1,2 +1,2 @@
-﻿New: SessionParameter.ТекущийПользователь
+﻿New: CommonModule.ГлобальныйМодуль
 Modified: Configuration.Конфигурация

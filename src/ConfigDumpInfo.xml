@@ -69,7 +69,8 @@
 		</Metadata>
 		<Metadata name="Catalog.ФизическиеЛица.Form.ФормаЭлемента" id="ffec83e5-5ce8-40a4-bd7a-46a5c9a7bdd9" configVersion="11c12009deab8f4694cb4bd56fd5324b00000000"/>
 		<Metadata name="Catalog.ФизическиеЛица.Form.ФормаЭлемента.Form" id="ffec83e5-5ce8-40a4-bd7a-46a5c9a7bdd9.0" configVersion="4bc828d155e5464f9c499978a8a105c400000000"/>
-		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="d1a37d582643c746918be328a301a24400000000"/>
+		<Metadata name="CommonModule.ГлобальныйМодуль" id="ea688770-9c63-49e9-bae0-ba2c71a29cbd" configVersion="385bdaa421bd7f4ab310ba63271cc31900000000"/>
+		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="0b5d709a55d8974c8fea76759ee4314b00000000"/>
 		<Metadata name="Configuration.Конфигурация.ClientApplicationInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.b" configVersion="1a9eeefcaace7d4aa9a170ce07d999ec00000000"/>
 		<Metadata name="Configuration.Конфигурация.CommandInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.a" configVersion="ce8c15cbda4c074aa203ffc32401319600000000"/>
 		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.8" configVersion="6dd0b46c1291d34da48f6ba66ce78f1700000000"/>
