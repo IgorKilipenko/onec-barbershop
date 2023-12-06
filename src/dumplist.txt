@@ -1,12 +1,2 @@
-﻿New: Catalog.ФизическиеЛица.ManagerModule
-New: Catalog.ФизическиеЛица.ObjectModule
-New: DataProcessor.ТестыСпринт2
-New: DataProcessor.ТестыСпринт2.Form.Форма
-New: DataProcessor.ТестыСпринт2.Form.Форма.Form
-Modified: Catalog.ФизическиеЛица
-Modified: Catalog.ФизическиеЛица.Form.ФормаЭлемента
-Modified: Catalog.ФизическиеЛица.Form.ФормаЭлемента.Form
-Modified: CommonModule.РаботаСТабличнымиЧастямиГлобальный
-Modified: CommonModule.РаботаСТабличнымиЧастямиГлобальный.Module
-Modified: Configuration.Конфигурация
-Modified: Subsystem.Сервис
+﻿Modified: DataProcessor.ТестыСпринт2.Form.Форма
+Modified: DataProcessor.ТестыСпринт2.Form.Форма.Form
