@@ -1,2 +1,2 @@
-﻿Modified: DataProcessor.ТестыСпринт2.Form.Форма
-Modified: DataProcessor.ТестыСпринт2.Form.Форма.Form
+﻿Modified: Document.ПоступлениеТоваровИМатериалов
+Modified: Document.ПоступлениеТоваровИМатериалов.ObjectModule
