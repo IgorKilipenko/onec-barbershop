@@ -1,2 +1,5 @@
 {
+    "bsl.trace.server": "verbose",
+    "language-1c-bsl.enableOneScriptLinter": false,
+    "language-1c-bsl.linterEntryPoint": "./src"
 }
