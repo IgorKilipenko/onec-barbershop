@@ -238,6 +238,7 @@
 			<SessionParameter>ТекущийПользователь</SessionParameter>
 			<Role>Администратор</Role>
 			<Role>Пользователь</Role>
+			<Role>ПолныеПрава</Role>
 			<CommonModule>РаботаСТабличнымиЧастямиГлобальный</CommonModule>
 			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
 			<DefinedType>ФинансовыеДанные</DefinedType>
