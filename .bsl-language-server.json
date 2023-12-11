@@ -5,8 +5,9 @@
         "computeTrigger": "onType",
         "parameters": {
             "CodeOutOfRegion": {
-                "checkUnknownModuleType": false
-            }
+                "checkUnknownModuleType": true
+            },
+            "NestedTernaryOperator": false
         }
     }
 }
