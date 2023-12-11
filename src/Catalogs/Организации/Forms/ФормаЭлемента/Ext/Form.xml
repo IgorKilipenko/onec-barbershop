@@ -62,6 +62,9 @@
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="ТипОрганизацииКонтекстноеМеню" id="23"/>
 			<ExtendedTooltip name="ТипОрганизацииРасширеннаяПодсказка" id="24"/>
+			<Events>
+				<Event name="OnChange">ТипОрганизацииПриИзменении</Event>
+			</Events>
 		</InputField>
 	</ChildItems>
 	<Attributes>
