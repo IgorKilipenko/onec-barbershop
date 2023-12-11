@@ -3,6 +3,9 @@
 	<WindowOpeningMode>LockOwnerWindow</WindowOpeningMode>
 	<UseForFoldersAndItems>Items</UseForFoldersAndItems>
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
+	<Events>
+		<Event name="OnOpen">ПриОткрытии</Event>
+	</Events>
 	<ChildItems>
 		<InputField name="Код" id="1">
 			<DataPath>Объект.Code</DataPath>
@@ -42,6 +45,9 @@
 			</ChoiceList>
 			<ContextMenu name="ТипКонтрагентаКонтекстноеМеню" id="8"/>
 			<ExtendedTooltip name="ТипКонтрагентаРасширеннаяПодсказка" id="9"/>
+			<Events>
+				<Event name="OnChange">ТипКонтрагентаПриИзменении</Event>
+			</Events>
 		</RadioButtonField>
 		<InputField name="КонтактныйТелефон" id="10">
 			<DataPath>Объект.КонтактныйТелефон</DataPath>
