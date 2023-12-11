@@ -1,2 +1,2 @@
-﻿Modified: Configuration.Конфигурация
-Modified: Configuration.Конфигурация.SessionModule
+﻿Modified: Document.ПоступлениеТоваровИМатериалов
+Modified: Document.ПоступлениеТоваровИМатериалов.ObjectModule
