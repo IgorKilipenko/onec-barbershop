@@ -1,2 +1,2 @@
-﻿New: Configuration.Конфигурация.SessionModule
-Modified: Configuration.Конфигурация
+﻿Modified: Configuration.Конфигурация
+Modified: Configuration.Конфигурация.SessionModule
