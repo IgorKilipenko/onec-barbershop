@@ -1,2 +1,3 @@
-﻿Modified: Document.ПоступлениеТоваровИМатериалов
-Modified: Document.ПоступлениеТоваровИМатериалов.ObjectModule
+﻿New: Catalog.Организации.Form.ФормаЭлемента
+New: Catalog.Организации.Form.ФормаЭлемента.Form
+Modified: Catalog.Организации
