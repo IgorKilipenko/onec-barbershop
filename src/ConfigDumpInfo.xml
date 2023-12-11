@@ -50,8 +50,8 @@
 			<Metadata name="Catalog.Организации.Attribute.Руководитель" id="c97f5171-f2af-44da-b366-636127f9ddb1"/>
 			<Metadata name="Catalog.Организации.Attribute.ИНН" id="ef3b193d-8ba7-47ff-8ceb-2aa48452ab6c"/>
 		</Metadata>
-		<Metadata name="Catalog.Организации.Form.ФормаЭлемента" id="133180d3-812e-4846-a230-0227fc26f5c9" configVersion="507e35244aba9d45bb5b748fa639dc9e00000000"/>
-		<Metadata name="Catalog.Организации.Form.ФормаЭлемента.Form" id="133180d3-812e-4846-a230-0227fc26f5c9.0" configVersion="0a69f2b5fcab3343b0468a7e5ddcf0e400000000"/>
+		<Metadata name="Catalog.Организации.Form.ФормаЭлемента" id="133180d3-812e-4846-a230-0227fc26f5c9" configVersion="7d8be5467cdba44f8858fa7cc5b33d1900000000"/>
+		<Metadata name="Catalog.Организации.Form.ФормаЭлемента.Form" id="133180d3-812e-4846-a230-0227fc26f5c9.0" configVersion="37e0580af4a7cf4c985153910f69caad00000000"/>
 		<Metadata name="Catalog.Пользователи" id="1918026f-775e-4094-9261-b2424e8978fd" configVersion="a360ab85def8a64eb8a3dd76e99d8bc100000000"/>
 		<Metadata name="Catalog.Склады" id="5f72d71b-73e2-47f4-bb66-6753539827b1" configVersion="b05a67ebb9070e42b03c203386a23cef00000000"/>
 		<Metadata name="Catalog.Сотрудники" id="12df6926-984b-4267-b209-3301a95724b5" configVersion="eb917c78d1c6a94cac1ee856b2289ce100000000">
