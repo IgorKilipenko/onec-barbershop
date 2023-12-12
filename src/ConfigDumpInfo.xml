@@ -25,8 +25,8 @@
 			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.ПризнакБессрочногоДоговора" id="60dcca26-4ddd-4a2d-9c18-53baa878cf71"/>
 			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.Комментарий" id="f3998781-dc90-4726-96f1-33dbcb9a2e96"/>
 		</Metadata>
-		<Metadata name="Catalog.ДоговорыКонтрагентов.Form.ФормаЭлемента" id="f8248e4d-fe21-48b6-aa5a-feb1a24de5aa" configVersion="7ff1f53e14f06c43b73b22dde2de3df400000000"/>
-		<Metadata name="Catalog.ДоговорыКонтрагентов.Form.ФормаЭлемента.Form" id="f8248e4d-fe21-48b6-aa5a-feb1a24de5aa.0" configVersion="14ede5bdf156184583ff417e0823058600000000"/>
+		<Metadata name="Catalog.ДоговорыКонтрагентов.Form.ФормаЭлемента" id="f8248e4d-fe21-48b6-aa5a-feb1a24de5aa" configVersion="2b1162d783f83c4cbb616edbf5c8339e00000000"/>
+		<Metadata name="Catalog.ДоговорыКонтрагентов.Form.ФормаЭлемента.Form" id="f8248e4d-fe21-48b6-aa5a-feb1a24de5aa.0" configVersion="68783571b4738d4aa843deac5bf69b4300000000"/>
 		<Metadata name="Catalog.Должности" id="528ef307-f8f2-429b-a5ea-d08c2cd56d97" configVersion="e03b2c0ad2948f4dbd15fde375a4ddec00000000"/>
 		<Metadata name="Catalog.ИсточникиПолученияИнформацииОКомпании" id="eba4f085-1f45-4165-9d5a-a9af48d93a6c" configVersion="dfc8761653b6c84db8411becfe41adbe00000000"/>
 		<Metadata name="Catalog.ИсточникиПолученияИнформацииОКомпании.Predefined" id="eba4f085-1f45-4165-9d5a-a9af48d93a6c.1c" configVersion="f5278d67ce971644b6f38e29588f4fab00000000"/>

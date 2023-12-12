@@ -1,4 +1,2 @@
-﻿New: Catalog.Контрагенты.ManagerModule
-Modified: Catalog.Контрагенты
-Modified: Catalog.Контрагенты.Form.ФормаЭлемента
-Modified: Catalog.Контрагенты.Form.ФормаЭлемента.Form
+﻿Modified: Catalog.ДоговорыКонтрагентов.Form.ФормаЭлемента
+Modified: Catalog.ДоговорыКонтрагентов.Form.ФормаЭлемента.Form
