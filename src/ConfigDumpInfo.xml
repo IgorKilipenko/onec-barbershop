@@ -18,13 +18,15 @@
 			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Resource.Количество" id="c7058795-35d6-4295-8d5d-a5d948d0c7b7"/>
 			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Dimension.Номенклатура" id="dc9ca8b8-d019-416a-b8ce-d5061152eca3"/>
 		</Metadata>
-		<Metadata name="Catalog.ДоговорыКонтрагентов" id="8358dbd4-0669-4e70-896e-44c4856bfefe" configVersion="b85d216798bbac44ba5819070a75672f00000000">
+		<Metadata name="Catalog.ДоговорыКонтрагентов" id="8358dbd4-0669-4e70-896e-44c4856bfefe" configVersion="f0f5b6dbf84b72408f54846843f0420d00000000">
 			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.ДатаОкончанияДоговора" id="1f128f7f-34c3-4439-a5f4-fbfe6c37ea6c"/>
 			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.ВнешнийНомерДоговора" id="2258fbca-da4c-4287-b140-43014f9ccd65"/>
 			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.ДатаЗаключенияДоговора" id="4e61be39-bf79-4f5b-bee1-f662b55792ed"/>
 			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.ПризнакБессрочногоДоговора" id="60dcca26-4ddd-4a2d-9c18-53baa878cf71"/>
 			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.Комментарий" id="f3998781-dc90-4726-96f1-33dbcb9a2e96"/>
 		</Metadata>
+		<Metadata name="Catalog.ДоговорыКонтрагентов.Form.ФормаЭлемента" id="f8248e4d-fe21-48b6-aa5a-feb1a24de5aa" configVersion="7ff1f53e14f06c43b73b22dde2de3df400000000"/>
+		<Metadata name="Catalog.ДоговорыКонтрагентов.Form.ФормаЭлемента.Form" id="f8248e4d-fe21-48b6-aa5a-feb1a24de5aa.0" configVersion="14ede5bdf156184583ff417e0823058600000000"/>
 		<Metadata name="Catalog.Должности" id="528ef307-f8f2-429b-a5ea-d08c2cd56d97" configVersion="e03b2c0ad2948f4dbd15fde375a4ddec00000000"/>
 		<Metadata name="Catalog.ИсточникиПолученияИнформацииОКомпании" id="eba4f085-1f45-4165-9d5a-a9af48d93a6c" configVersion="dfc8761653b6c84db8411becfe41adbe00000000"/>
 		<Metadata name="Catalog.ИсточникиПолученияИнформацииОКомпании.Predefined" id="eba4f085-1f45-4165-9d5a-a9af48d93a6c.1c" configVersion="f5278d67ce971644b6f38e29588f4fab00000000"/>
