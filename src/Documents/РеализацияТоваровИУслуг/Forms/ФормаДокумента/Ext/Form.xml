@@ -5,6 +5,12 @@
 	<RepostOnWrite>true</RepostOnWrite>
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
 	<ChildItems>
+		<LabelField name="ДокументОснование" id="98">
+			<DataPath>Объект.ДокументОснование</DataPath>
+			<Hiperlink>true</Hiperlink>
+			<ContextMenu name="ДокументОснованиеКонтекстноеМеню" id="99"/>
+			<ExtendedTooltip name="ДокументОснованиеРасширеннаяПодсказка" id="100"/>
+		</LabelField>
 		<UsualGroup name="ГруппаШапка" id="87">
 			<Title>
 				<v8:item>
