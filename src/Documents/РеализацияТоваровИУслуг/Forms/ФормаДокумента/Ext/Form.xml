@@ -96,14 +96,13 @@
 							<ContextMenu name="КлиентКонтекстноеМеню" id="8"/>
 							<ExtendedTooltip name="КлиентРасширеннаяПодсказка" id="9"/>
 						</InputField>
-						<InputField name="СуммаДокумента" id="19">
+						<LabelField name="СуммаДокумента" id="19">
 							<DataPath>Объект.СуммаДокумента</DataPath>
 							<ReadOnly>true</ReadOnly>
 							<EditMode>EnterOnInput</EditMode>
-							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 							<ContextMenu name="СуммаДокументаКонтекстноеМеню" id="20"/>
 							<ExtendedTooltip name="СуммаДокументаРасширеннаяПодсказка" id="21"/>
-						</InputField>
+						</LabelField>
 					</ChildItems>
 				</UsualGroup>
 			</ChildItems>
@@ -181,6 +180,9 @@
 									<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 									<ContextMenu name="УслугиЦенаКонтекстноеМеню" id="46"/>
 									<ExtendedTooltip name="УслугиЦенаРасширеннаяПодсказка" id="47"/>
+									<Events>
+										<Event name="OnChange">УслугиЦенаПриИзменении</Event>
+									</Events>
 								</InputField>
 								<InputField name="УслугиКоличество" id="48">
 									<DataPath>Объект.Услуги.Количество</DataPath>
@@ -189,9 +191,13 @@
 									<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 									<ContextMenu name="УслугиКоличествоКонтекстноеМеню" id="49"/>
 									<ExtendedTooltip name="УслугиКоличествоРасширеннаяПодсказка" id="50"/>
+									<Events>
+										<Event name="OnChange">УслугиКоличествоПриИзменении</Event>
+									</Events>
 								</InputField>
 								<InputField name="УслугиСумма" id="51">
 									<DataPath>Объект.Услуги.Сумма</DataPath>
+									<ReadOnly>true</ReadOnly>
 									<EditMode>EnterOnInput</EditMode>
 									<FooterDataPath>Объект.Услуги.TotalСумма</FooterDataPath>
 									<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
@@ -273,6 +279,9 @@
 									<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 									<ContextMenu name="ТоварыЦенаКонтекстноеМеню" id="79"/>
 									<ExtendedTooltip name="ТоварыЦенаРасширеннаяПодсказка" id="80"/>
+									<Events>
+										<Event name="OnChange">ТоварыЦенаПриИзменении</Event>
+									</Events>
 								</InputField>
 								<InputField name="ТоварыКоличество" id="81">
 									<DataPath>Объект.Товары.Количество</DataPath>
@@ -281,9 +290,13 @@
 									<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 									<ContextMenu name="ТоварыКоличествоКонтекстноеМеню" id="82"/>
 									<ExtendedTooltip name="ТоварыКоличествоРасширеннаяПодсказка" id="83"/>
+									<Events>
+										<Event name="OnChange">ТоварыКоличествоПриИзменении</Event>
+									</Events>
 								</InputField>
 								<InputField name="ТоварыСумма" id="84">
 									<DataPath>Объект.Товары.Сумма</DataPath>
+									<ReadOnly>true</ReadOnly>
 									<EditMode>EnterOnInput</EditMode>
 									<FooterDataPath>Объект.Товары.TotalСумма</FooterDataPath>
 									<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
@@ -296,20 +309,40 @@
 				</Page>
 			</ChildItems>
 		</Pages>
-		<InputField name="Комментарий" id="93">
-			<DataPath>Объект.Комментарий</DataPath>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="КомментарийКонтекстноеМеню" id="94"/>
-			<ExtendedTooltip name="КомментарийРасширеннаяПодсказка" id="95"/>
-		</InputField>
-		<InputField name="АвторДокумента" id="16">
-			<DataPath>Объект.АвторДокумента</DataPath>
-			<ReadOnly>true</ReadOnly>
-			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="АвторДокументаКонтекстноеМеню" id="17"/>
-			<ExtendedTooltip name="АвторДокументаРасширеннаяПодсказка" id="18"/>
-		</InputField>
+		<UsualGroup name="ГруппаПодвал" id="96">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа подвал</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа подвал</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Group>AlwaysHorizontal</Group>
+			<Representation>None</Representation>
+			<ShowTitle>false</ShowTitle>
+			<ExtendedTooltip name="ГруппаПодвалРасширеннаяПодсказка" id="97"/>
+			<ChildItems>
+				<InputField name="Комментарий" id="93">
+					<DataPath>Объект.Комментарий</DataPath>
+					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<ContextMenu name="КомментарийКонтекстноеМеню" id="94"/>
+					<ExtendedTooltip name="КомментарийРасширеннаяПодсказка" id="95"/>
+				</InputField>
+				<InputField name="АвторДокумента" id="16">
+					<DataPath>Объект.АвторДокумента</DataPath>
+					<ReadOnly>true</ReadOnly>
+					<EditMode>EnterOnInput</EditMode>
+					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<ContextMenu name="АвторДокументаКонтекстноеМеню" id="17"/>
+					<ExtendedTooltip name="АвторДокументаРасширеннаяПодсказка" id="18"/>
+				</InputField>
+			</ChildItems>
+		</UsualGroup>
 	</ChildItems>
 	<Attributes>
 		<Attribute name="Объект" id="1">
