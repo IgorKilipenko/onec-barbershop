@@ -64,7 +64,7 @@
 			<ExtendedTooltip name="ДатаРожденияРасширеннаяПодсказка" id="15"/>
 		</InputField>
 		<InputField name="Пол" id="16">
-			<DataPath>Объект.Пол</DataPath>
+			<DataPath>1/0:e934e8f3-667c-497e-b0ba-a0475ef4ff9a</DataPath>
 			<EditMode>EnterOnInput</EditMode>
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="ПолКонтекстноеМеню" id="17"/>

@@ -30,14 +30,14 @@
 		<Metadata name="Catalog.Должности" id="528ef307-f8f2-429b-a5ea-d08c2cd56d97" configVersion="e03b2c0ad2948f4dbd15fde375a4ddec00000000"/>
 		<Metadata name="Catalog.ИсточникиПолученияИнформацииОКомпании" id="eba4f085-1f45-4165-9d5a-a9af48d93a6c" configVersion="dfc8761653b6c84db8411becfe41adbe00000000"/>
 		<Metadata name="Catalog.ИсточникиПолученияИнформацииОКомпании.Predefined" id="eba4f085-1f45-4165-9d5a-a9af48d93a6c.1c" configVersion="f5278d67ce971644b6f38e29588f4fab00000000"/>
-		<Metadata name="Catalog.Контрагенты" id="a6a183e3-fac7-4ef4-bbdd-984b32d5c145" configVersion="1f9e44985136554fb63c1a19d973b26400000000">
+		<Metadata name="Catalog.Контрагенты" id="a6a183e3-fac7-4ef4-bbdd-984b32d5c145" configVersion="66f62ea1554c1a408e3bbb8decd9467700000000">
 			<Metadata name="Catalog.Контрагенты.Attribute.Источник" id="004151c2-7c6d-43d1-8342-66c4737eeb55"/>
 			<Metadata name="Catalog.Контрагенты.Attribute.КонтактныйТелефон" id="0c656b87-a9f5-4fe2-884d-99a609ccbe6e"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.ФизическоеЛицо" id="2b197a0e-be54-4748-8d9d-ab15088a0517"/>
 			<Metadata name="Catalog.Контрагенты.Attribute.ДатаРождения" id="43c0a7ed-4690-4311-91fb-beb4698294ae"/>
 			<Metadata name="Catalog.Контрагенты.Attribute.Комментарий" id="44e90cef-a1db-4c11-a1c3-b807fbd932e5"/>
 			<Metadata name="Catalog.Контрагенты.Attribute.ОсновнойДоговор" id="d62c73ae-e8c5-4785-a814-3c79847a7e5f"/>
 			<Metadata name="Catalog.Контрагенты.Attribute.ТипКонтрагента" id="d9832766-6dd4-4bf9-8712-8542e5c88aba"/>
-			<Metadata name="Catalog.Контрагенты.Attribute.Пол" id="e934e8f3-667c-497e-b0ba-a0475ef4ff9a"/>
 		</Metadata>
 		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента" id="72c2fba4-c504-4947-b70b-0eb31beae9c7" configVersion="d98ac1c551268846a0c9b413facb8bec00000000"/>
 		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента.Form" id="72c2fba4-c504-4947-b70b-0eb31beae9c7.0" configVersion="3cedc01d2f6a754e9b0d994ba956980d00000000"/>
