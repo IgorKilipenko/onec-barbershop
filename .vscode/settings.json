@@ -5,20 +5,4 @@
     "cSpell.language": "en,ru,ru-RU",
     "cSpell.enableFiletypes": ["bsl"],
     "cSpell.words": ["неопределено"],
-    "editor.tokenColorCustomizations": {
-        "textMateRules": [
-            {
-                "scope": "variable.other.unknown.property.bsl",
-                "settings": {
-                    "foreground": "#4FC1FF"
-                }
-            },
-            {
-                "scope": "support.function.bsl",
-                "settings": {
-                    "fontStyle": "italic bold"
-                }
-            }
-        ]
-    }
 }
