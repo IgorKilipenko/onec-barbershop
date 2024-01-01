@@ -262,8 +262,10 @@
 			<Enum>ТипыНоменклатуры</Enum>
 			<Enum>ПолФизическогоЛица</Enum>
 			<Enum>ТипыКонтрагентов</Enum>
+			<Enum>ВидыЦенПродажи</Enum>
 			<DataProcessor>ТестыСпринт2</DataProcessor>
 			<InformationRegister>ЦеныНоменклатурыПоставщиков</InformationRegister>
+			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
 			<AccumulationRegister>ЗаказыКлиентов</AccumulationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>

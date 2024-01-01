@@ -1,2 +1,8 @@
-﻿Modified: Configuration.Конфигурация
-Modified: Configuration.Конфигурация.ClientApplicationInterface
+﻿New: Enum.ВидыЦенПродажи
+New: InformationRegister.ЦеныНоменклатуры
+New: InformationRegister.ЦеныНоменклатуры.Form.ФормаЗаписи
+New: InformationRegister.ЦеныНоменклатуры.Form.ФормаЗаписи.Form
+New: InformationRegister.ЦеныНоменклатуры.Form.ФормаСписка
+New: InformationRegister.ЦеныНоменклатуры.Form.ФормаСписка.Form
+Modified: Configuration.Конфигурация
+Modified: Subsystem.НСИИАдминистрирование.Subsystem.Продажи
