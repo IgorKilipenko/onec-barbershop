@@ -1,3 +1,2 @@
-﻿New: CommonModule.РаботаСЦенами
-New: CommonModule.РаботаСЦенами.Module
-Modified: Configuration.Конфигурация
+﻿Modified: Catalog.ФизическиеЛица.Form.ФормаЭлемента
+Modified: Catalog.ФизическиеЛица.Form.ФормаЭлемента.Form

@@ -72,8 +72,8 @@
 			<Metadata name="Catalog.ФизическиеЛица.Attribute.Фамилия" id="b036c557-d2e2-4f79-a22a-0053a309e46f"/>
 			<Metadata name="Catalog.ФизическиеЛица.Attribute.Пол" id="da1f7ed7-e35c-4d18-b140-63587325b7d5"/>
 		</Metadata>
-		<Metadata name="Catalog.ФизическиеЛица.Form.ФормаЭлемента" id="ffec83e5-5ce8-40a4-bd7a-46a5c9a7bdd9" configVersion="d0d75a3fc5d61741a5e4eba9754cdd7700000000"/>
-		<Metadata name="Catalog.ФизическиеЛица.Form.ФормаЭлемента.Form" id="ffec83e5-5ce8-40a4-bd7a-46a5c9a7bdd9.0" configVersion="5f9164cf8d7dca4e909b7034e8252a9500000000"/>
+		<Metadata name="Catalog.ФизическиеЛица.Form.ФормаЭлемента" id="ffec83e5-5ce8-40a4-bd7a-46a5c9a7bdd9" configVersion="64d636b86a47c8438a976d89083490ab00000000"/>
+		<Metadata name="Catalog.ФизическиеЛица.Form.ФормаЭлемента.Form" id="ffec83e5-5ce8-40a4-bd7a-46a5c9a7bdd9.0" configVersion="629b9de7af43274f893cc24cb89b770000000000"/>
 		<Metadata name="Catalog.ФизическиеЛица.ManagerModule" id="b53f5623-983b-43b0-a3ee-9aaefa1bcb11.3" configVersion="d361ce2d7717c141bc594836a4c3b04200000000"/>
 		<Metadata name="Catalog.ФизическиеЛица.ObjectModule" id="b53f5623-983b-43b0-a3ee-9aaefa1bcb11.0" configVersion="0cb6a191bcf8ec4eae739ad91ee395f200000000"/>
 		<Metadata name="CommonModule.РаботаСТабличнымиЧастямиГлобальный" id="ea688770-9c63-49e9-bae0-ba2c71a29cbd" configVersion="43f28fadd0c09a4b870021855059555300000000"/>
