@@ -1,2 +1,2 @@
-﻿Modified: Catalog.ФизическиеЛица.Form.ФормаЭлемента
-Modified: Catalog.ФизическиеЛица.Form.ФормаЭлемента.Form
+﻿Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента
+Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента.Form

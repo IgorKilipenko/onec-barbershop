@@ -166,6 +166,9 @@
 								<ContextMenu name="УслугиУправлениеПоискомКонтекстноеМеню" id="37"/>
 								<ExtendedTooltip name="УслугиУправлениеПоискомРасширеннаяПодсказка" id="38"/>
 							</SearchControlAddition>
+							<Events>
+								<Event name="AfterDeleteRow">УслугиПослеУдаления</Event>
+							</Events>
 							<ChildItems>
 								<LabelField name="УслугиНомерСтроки" id="39">
 									<DataPath>Объект.Услуги.LineNumber</DataPath>
@@ -179,6 +182,9 @@
 									<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 									<ContextMenu name="УслугиНоменклатураКонтекстноеМеню" id="43"/>
 									<ExtendedTooltip name="УслугиНоменклатураРасширеннаяПодсказка" id="44"/>
+									<Events>
+										<Event name="OnChange">УслугиНоменклатураПриИзменении</Event>
+									</Events>
 								</InputField>
 								<InputField name="УслугиЦена" id="45">
 									<DataPath>Объект.Услуги.Цена</DataPath>
@@ -258,6 +264,9 @@
 								<ContextMenu name="ТоварыУправлениеПоискомКонтекстноеМеню" id="67"/>
 								<ExtendedTooltip name="ТоварыУправлениеПоискомРасширеннаяПодсказка" id="68"/>
 							</SearchControlAddition>
+							<Events>
+								<Event name="AfterDeleteRow">ТоварыПослеУдаления</Event>
+							</Events>
 							<ChildItems>
 								<LabelField name="ТоварыНомерСтроки" id="69">
 									<DataPath>Объект.Товары.LineNumber</DataPath>
@@ -271,6 +280,9 @@
 									<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 									<ContextMenu name="ТоварыНоменклатураКонтекстноеМеню" id="73"/>
 									<ExtendedTooltip name="ТоварыНоменклатураРасширеннаяПодсказка" id="74"/>
+									<Events>
+										<Event name="OnChange">ТоварыНоменклатураПриИзменении</Event>
+									</Events>
 								</InputField>
 								<InputField name="ТоварыСклад" id="75">
 									<DataPath>Объект.Товары.Склад</DataPath>
