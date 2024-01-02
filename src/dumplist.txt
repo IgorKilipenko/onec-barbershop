@@ -1,5 +1,2 @@
-﻿New: Report.ОтчетПоТоварамНаСкладах
-New: Report.ОтчетПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных
-New: Report.ОтчетПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных.Template
-Modified: Configuration.Конфигурация
-Modified: Subsystem.Сервис
+﻿Modified: Report.ОтчетПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных
+Modified: Report.ОтчетПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных.Template
