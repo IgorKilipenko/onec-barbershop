@@ -69,19 +69,19 @@
 			</role>
 		</field>
 		<field xsi:type="DataSetFieldField">
-			<dataPath>Дата</dataPath>
-			<field>Дата</field>
+			<dataPath>Приход</dataPath>
+			<field>Приход</field>
 			<title xsi:type="v8:LocalStringType">
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Дата</v8:content>
+					<v8:content>Приход</v8:content>
 				</v8:item>
 			</title>
 		</field>
 		<dataSource>ИсточникДанных1</dataSource>
 		<query>ВЫБРАТЬ
 	ТоварыНаСкладахОстаткиИОбороты.КоличествоНачальныйОстаток КАК НачальныйОстаток,
-	ТоварыНаСкладахОстаткиИОбороты.КоличествоПриход КАК Дата,
+	ТоварыНаСкладахОстаткиИОбороты.КоличествоПриход КАК Приход,
 	ТоварыНаСкладахОстаткиИОбороты.КоличествоРасход КАК Расход,
 	ТоварыНаСкладахОстаткиИОбороты.КоличествоКонечныйОстаток КАК КонечныйОстаток,
 	ТоварыНаСкладахОстаткиИОбороты.Номенклатура КАК Номенклатура,
@@ -89,7 +89,7 @@
 	ТоварыНаСкладахОстаткиИОбороты.Склад КАК Склад
 {ВЫБРАТЬ
 	Номенклатура.*,
-	Дата,
+	Приход,
 	Расход}
 ИЗ
 	РегистрНакопления.ТоварыНаСкладах.ОстаткиИОбороты(&amp;НачалоПериода, &amp;КонецПериода, День, ДвиженияИГраницыПериода, ) КАК ТоварыНаСкладахОстаткиИОбороты
@@ -168,7 +168,7 @@
 					<dcsset:field>НачальныйОстаток</dcsset:field>
 				</dcsset:item>
 				<dcsset:item xsi:type="dcsset:SelectedItemField">
-					<dcsset:field>Дата</dcsset:field>
+					<dcsset:field>Приход</dcsset:field>
 				</dcsset:item>
 				<dcsset:item xsi:type="dcsset:SelectedItemField">
 					<dcsset:field>Расход</dcsset:field>
@@ -206,6 +206,36 @@
 					<dcsset:userSettingID>c3225a2a-f6a9-4a03-8a28-129effffaec9</dcsset:userSettingID>
 				</dcscor:item>
 			</dcsset:dataParameters>
+			<dcsset:order>
+				<dcsset:item xsi:type="dcsset:OrderItemField">
+					<dcsset:field>КонечныйОстаток</dcsset:field>
+					<dcsset:orderType>Desc</dcsset:orderType>
+				</dcsset:item>
+			</dcsset:order>
+			<dcsset:conditionalAppearance>
+				<dcsset:item>
+					<dcsset:selection/>
+					<dcsset:filter>
+						<dcsset:item xsi:type="dcsset:FilterItemComparison">
+							<dcsset:left xsi:type="dcscor:Field">КонечныйОстаток</dcsset:left>
+							<dcsset:comparisonType>Less</dcsset:comparisonType>
+							<dcsset:right xsi:type="xs:decimal">5</dcsset:right>
+						</dcsset:item>
+					</dcsset:filter>
+					<dcsset:appearance>
+						<dcscor:item xsi:type="dcsset:SettingsParameterValue">
+							<dcscor:parameter>ЦветТекста</dcscor:parameter>
+							<dcscor:value xsi:type="v8ui:Color">#FF0000</dcscor:value>
+						</dcscor:item>
+					</dcsset:appearance>
+				</dcsset:item>
+			</dcsset:conditionalAppearance>
+			<dcsset:outputParameters>
+				<dcscor:item xsi:type="dcsset:SettingsParameterValue">
+					<dcscor:parameter>МакетОформления</dcscor:parameter>
+					<dcscor:value xsi:type="xs:string">Античный</dcscor:value>
+				</dcscor:item>
+			</dcsset:outputParameters>
 			<dcsset:item xsi:type="dcsset:StructureItemGroup">
 				<dcsset:groupItems>
 					<dcsset:item xsi:type="dcsset:GroupItemField">
