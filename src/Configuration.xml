@@ -264,6 +264,7 @@
 			<Enum>ПолФизическогоЛица</Enum>
 			<Enum>ТипыКонтрагентов</Enum>
 			<Enum>ВидыЦенПродажи</Enum>
+			<Report>ОтчетПоТоварамНаСкладах</Report>
 			<DataProcessor>ТестыСпринт2</DataProcessor>
 			<InformationRegister>ЦеныНоменклатурыПоставщиков</InformationRegister>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>

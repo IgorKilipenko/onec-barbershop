@@ -1,2 +1,5 @@
-﻿Modified: CommonModule.РаботаСЦенамиВызовСеревера
-Modified: CommonModule.РаботаСЦенамиВызовСеревера.Module
+﻿New: Report.ОтчетПоТоварамНаСкладах
+New: Report.ОтчетПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных
+New: Report.ОтчетПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных.Template
+Modified: Configuration.Конфигурация
+Modified: Subsystem.Сервис
