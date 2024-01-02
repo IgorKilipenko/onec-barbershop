@@ -240,7 +240,7 @@
 			<Role>Пользователь</Role>
 			<Role>ПолныеПрава</Role>
 			<CommonModule>РаботаСТабличнымиЧастямиГлобальный</CommonModule>
-			<CommonModule>РаботаСЦенами</CommonModule>
+			<CommonModule>РаботаСЦенамиВызовСеревера</CommonModule>
 			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
 			<DefinedType>ФинансовыеДанные</DefinedType>
 			<DefinedType>КоличествоУслуг</DefinedType>
