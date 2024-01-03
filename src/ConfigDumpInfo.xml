@@ -7,7 +7,8 @@
 			<Metadata name="AccumulationRegister.ЗаказыКлиентов.Dimension.Клиент" id="44fb11a9-a58f-433f-9f4b-1a81498aef9a"/>
 			<Metadata name="AccumulationRegister.ЗаказыКлиентов.Dimension.ДатаЗаписи" id="61516e60-485d-493b-afcc-b63cc29ab0bf"/>
 		</Metadata>
-		<Metadata name="AccumulationRegister.Продажи" id="a8adec3d-af61-407e-927d-f4459fcbeae8" configVersion="2b11d270ab97b943b8d3f75f5728344300000000">
+		<Metadata name="AccumulationRegister.Продажи" id="a8adec3d-af61-407e-927d-f4459fcbeae8" configVersion="f697dcc8e237fa4d9e51422ad8ab5f3500000000">
+			<Metadata name="AccumulationRegister.Продажи.Dimension.Клиент" id="148b1d92-1f05-401e-8d9a-f8aa95905375"/>
 			<Metadata name="AccumulationRegister.Продажи.Resource.Сумма" id="15e5f09a-6eef-41e1-aed3-1c1259a335d8"/>
 			<Metadata name="AccumulationRegister.Продажи.Dimension.Сотрудник" id="260cc40a-8b59-4e55-9167-a57693cef777"/>
 			<Metadata name="AccumulationRegister.Продажи.Dimension.Номенклатура" id="3f809e7a-b8d6-4c83-8c15-cccc2f9275b6"/>

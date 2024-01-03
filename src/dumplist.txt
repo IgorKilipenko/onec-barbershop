@@ -1,2 +1,1 @@
-﻿Modified: Report.ОтчетПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных
-Modified: Report.ОтчетПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных.Template
+﻿Modified: AccumulationRegister.Продажи
