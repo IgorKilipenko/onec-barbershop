@@ -132,7 +132,7 @@
 		<Metadata name="Document.ПоступлениеТоваровИМатериалов.Form.ФормаСписка" id="c0631ddf-a1ab-48f8-8927-86f9674740aa" configVersion="4e3d995533651e48832bd72b150652d800000000"/>
 		<Metadata name="Document.ПоступлениеТоваровИМатериалов.Form.ФормаСписка.Form" id="c0631ddf-a1ab-48f8-8927-86f9674740aa.0" configVersion="5d13b863f8eb394a8104f79ab48feaa000000000"/>
 		<Metadata name="Document.ПоступлениеТоваровИМатериалов.ObjectModule" id="4c691001-4a4a-40c6-b579-f53553b58f5c.0" configVersion="4941b5a3336ef543917a4cdb89a4245f00000000"/>
-		<Metadata name="Document.РеализацияТоваровИУслуг" id="a1d460c2-1311-4ee7-8a52-b2936fcaf401" configVersion="57d0f0f98ab837498b1ff15a176a43f600000000">
+		<Metadata name="Document.РеализацияТоваровИУслуг" id="a1d460c2-1311-4ee7-8a52-b2936fcaf401" configVersion="58231873eac1ae41b1d1c1a1d828da4b00000000">
 			<Metadata name="Document.РеализацияТоваровИУслуг.TabularSection.Услуги.Attribute.Количество" id="0aabe0f7-d843-4ced-8c68-e2e4850ff2c1"/>
 			<Metadata name="Document.РеализацияТоваровИУслуг.Attribute.СуммаДокумента" id="1a5ca526-e097-4acd-9d38-18147ef9aedc"/>
 			<Metadata name="Document.РеализацияТоваровИУслуг.TabularSection.Услуги" id="1d80774b-32ce-4961-86b3-659e3ccb1028"/>
@@ -159,7 +159,7 @@
 		<Metadata name="Document.РеализацияТоваровИУслуг.Form.ФормаСписка" id="f7ea42cc-12a1-4af9-a045-df58b2ff47cc" configVersion="97865a619bbf954187514ac24df2256600000000"/>
 		<Metadata name="Document.РеализацияТоваровИУслуг.Form.ФормаСписка.Form" id="f7ea42cc-12a1-4af9-a045-df58b2ff47cc.0" configVersion="23a2743b8207304a97fb75f837da2c8600000000"/>
 		<Metadata name="Document.РеализацияТоваровИУслуг.ManagerModule" id="a1d460c2-1311-4ee7-8a52-b2936fcaf401.2" configVersion="533b69070f3db147b9e4db180831164300000000"/>
-		<Metadata name="Document.РеализацияТоваровИУслуг.ObjectModule" id="a1d460c2-1311-4ee7-8a52-b2936fcaf401.0" configVersion="f331a60741ba1144a6854adccdabd82200000000"/>
+		<Metadata name="Document.РеализацияТоваровИУслуг.ObjectModule" id="a1d460c2-1311-4ee7-8a52-b2936fcaf401.0" configVersion="cdc43a1e6d26b442a0128fd688884aa800000000"/>
 		<Metadata name="Document.РеализацияТоваровИУслуг.Template.Печать" id="3e0c2ae4-6296-4c66-95af-122c03e7f3ce" configVersion="635e7e8f67372f4b8fef59a1e162af3100000000"/>
 		<Metadata name="Document.РеализацияТоваровИУслуг.Template.Печать.Template" id="3e0c2ae4-6296-4c66-95af-122c03e7f3ce.0" configVersion="1660c9a3d0887a4991de5ae529230f8600000000"/>
 		<Metadata name="Enum.ВидыЦенПродажи" id="7dcb7630-d74c-4a9f-a19f-abafe309093c" configVersion="4b1fcec77fe8914ea7aaadadc51f620a00000000">
