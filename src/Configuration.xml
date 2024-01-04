@@ -265,6 +265,7 @@
 			<Enum>ТипыКонтрагентов</Enum>
 			<Enum>ВидыЦенПродажи</Enum>
 			<Report>ОтчетПоТоварамНаСкладах</Report>
+			<Report>ОтчетПоОказаннымУслугам</Report>
 			<DataProcessor>ТестыСпринт2</DataProcessor>
 			<InformationRegister>ЦеныНоменклатурыПоставщиков</InformationRegister>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
