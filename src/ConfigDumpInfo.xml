@@ -225,7 +225,7 @@
 		<Metadata name="Subsystem.Покупки.Subsystem.Покупки.CommandInterface" id="d2960b12-1b28-46a2-b224-09303fb4ea8b.1" configVersion="98e67ba8947d27449449807c8b38b86d00000000"/>
 		<Metadata name="Subsystem.Покупки.Subsystem.Справочники" id="f53f81d1-7c9f-44fc-9987-f8cbca7d241e" configVersion="40da244fb21d3b4e86ca507702c8707a00000000"/>
 		<Metadata name="Subsystem.Продажи" id="044720da-cc1f-48c4-b1a5-d7bb1ead9b84" configVersion="821ecda7f7db6c4bab2af9fa69bdd15900000000"/>
-		<Metadata name="Subsystem.Продажи.Subsystem.Продажи" id="5fde176a-a480-459e-902e-85745ddda645" configVersion="c389daf4a4e9094dbf37e7be5f17fb9b00000000"/>
+		<Metadata name="Subsystem.Продажи.Subsystem.Продажи" id="5fde176a-a480-459e-902e-85745ddda645" configVersion="47a8e32af06a4643914e05bdb90ef21600000000"/>
 		<Metadata name="Subsystem.Продажи.Subsystem.Продажи.CommandInterface" id="5fde176a-a480-459e-902e-85745ddda645.1" configVersion="288b48e886490e479be0b317a0e7ab6900000000"/>
 		<Metadata name="Subsystem.Продажи.Subsystem.Справочники" id="363682a3-6d9a-40e9-969a-e9b5c69a6b8d" configVersion="209c8da41ac1ff43b027b9752e112e3300000000"/>
 		<Metadata name="Subsystem.Продажи.Subsystem.Справочники.CommandInterface" id="363682a3-6d9a-40e9-969a-e9b5c69a6b8d.1" configVersion="2a9a849611c1d342af66fcbabdd9c78b00000000"/>

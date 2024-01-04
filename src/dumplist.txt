@@ -1,4 +1,1 @@
-﻿New: Report.ОтчетПоОказаннымУслугам
-New: Report.ОтчетПоОказаннымУслугам.Template.ОсновнаяСхемаКомпоновкиДанных
-New: Report.ОтчетПоОказаннымУслугам.Template.ОсновнаяСхемаКомпоновкиДанных.Template
-Modified: Configuration.Конфигурация
+﻿Modified: Subsystem.Продажи.Subsystem.Продажи
