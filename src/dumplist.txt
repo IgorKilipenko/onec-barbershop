@@ -1,1 +1,1 @@
-﻿Modified: Subsystem.Продажи.Subsystem.Продажи
+﻿Modified: Configuration.Конфигурация
