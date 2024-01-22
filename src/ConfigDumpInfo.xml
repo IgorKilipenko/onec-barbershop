@@ -81,7 +81,7 @@
 		<Metadata name="CommonModule.РаботаСТабличнымиЧастямиГлобальный.Module" id="ea688770-9c63-49e9-bae0-ba2c71a29cbd.0" configVersion="a1d64af7953a6940bb5274f6754a7cad00000000"/>
 		<Metadata name="CommonModule.РаботаСЦенамиВызовСеревера" id="1008940a-4842-4371-b431-8445a9281585" configVersion="dadac631c22fa545a864f28d513a238e00000000"/>
 		<Metadata name="CommonModule.РаботаСЦенамиВызовСеревера.Module" id="1008940a-4842-4371-b431-8445a9281585.0" configVersion="92b4882e8b81254cab6b78db2c92eb9f00000000"/>
-		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="3e8ea1a314f6d5439df33e29a9b5e20000000000"/>
+		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="63ba06e19bfac24c9c30d94088b947cd00000000"/>
 		<Metadata name="Configuration.Конфигурация.ClientApplicationInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.b" configVersion="b92f149d3e0b0c4ab78dfcd31511ff3700000000"/>
 		<Metadata name="Configuration.Конфигурация.CommandInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.a" configVersion="ce8c15cbda4c074aa203ffc32401319600000000"/>
 		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.8" configVersion="6dd0b46c1291d34da48f6ba66ce78f1700000000"/>
@@ -187,6 +187,9 @@
 			<Metadata name="Enum.ТипыОрганизаций.EnumValue.ЮридическоеЛицо" id="c73eaede-bdcd-44be-821e-5154f57e3f97"/>
 		</Metadata>
 		<Metadata name="FunctionalOption.ИспользоватьСклады" id="9054bf45-cb64-4fc8-be8a-fadb58f70d30" configVersion="1d5b09375fe7484d92dad8aa5f6e968700000000"/>
+		<Metadata name="InformationRegister.УчетнаяПолитика" id="ba7fd621-7311-4390-9da2-7cb2b94cd320" configVersion="39712abdaa15c44daf5da3b09fc706e500000000">
+			<Metadata name="InformationRegister.УчетнаяПолитика.Dimension.УчетнаяПолитика" id="192226fe-608b-458f-be97-7ab50dc109ea"/>
+		</Metadata>
 		<Metadata name="InformationRegister.ЦеныНоменклатуры" id="ac4308fb-47af-469f-b5d8-dca84770e7c1" configVersion="915bc5358f4d08428c8fd83d952966e000000000">
 			<Metadata name="InformationRegister.ЦеныНоменклатуры.Dimension.ВидЦены" id="81db743c-11c4-4911-a000-60e3a4614928"/>
 			<Metadata name="InformationRegister.ЦеныНоменклатуры.Dimension.Номенклатура" id="d36c1893-f4a9-4418-80db-416b8b8e9f2e"/>

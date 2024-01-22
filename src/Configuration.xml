@@ -270,6 +270,7 @@
 			<DataProcessor>ТестыСпринт2</DataProcessor>
 			<InformationRegister>ЦеныНоменклатурыПоставщиков</InformationRegister>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
+			<InformationRegister>УчетнаяПолитика</InformationRegister>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
 			<AccumulationRegister>ЗаказыКлиентов</AccumulationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>

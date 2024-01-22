@@ -1,2 +1,2 @@
-﻿New: Enum.ВидыУчетнойПолитики
+﻿New: InformationRegister.УчетнаяПолитика
 Modified: Configuration.Конфигурация
