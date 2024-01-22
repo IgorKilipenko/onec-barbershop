@@ -1,4 +1,4 @@
-﻿New: Document.УстановкаУчетнойПолитикиОрганизации
-New: Document.УстановкаУчетнойПолитикиОрганизации.ObjectModule
-Modified: Configuration.Конфигурация
-Modified: Subsystem.Настройки
+﻿Modified: AccumulationRegister.ТоварыНаСкладах
+Modified: Document.ПоступлениеТоваровИМатериалов
+Modified: Document.ПоступлениеТоваровИМатериалов.Form.ФормаДокумента
+Modified: Document.ПоступлениеТоваровИМатериалов.Form.ФормаДокумента.Form

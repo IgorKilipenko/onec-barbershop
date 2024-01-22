@@ -14,9 +14,11 @@
 			<Metadata name="AccumulationRegister.Продажи.Dimension.Номенклатура" id="3f809e7a-b8d6-4c83-8c15-cccc2f9275b6"/>
 			<Metadata name="AccumulationRegister.Продажи.Resource.Количество" id="bc78a12a-9817-4a26-a743-65d1164e2b12"/>
 		</Metadata>
-		<Metadata name="AccumulationRegister.ТоварыНаСкладах" id="53f5c7de-da8e-4af2-80b3-c5d7c6edceea" configVersion="da570b152530c64ab1c055301d81d80f00000000">
+		<Metadata name="AccumulationRegister.ТоварыНаСкладах" id="53f5c7de-da8e-4af2-80b3-c5d7c6edceea" configVersion="0e662790ad0b7d42a27c77e014c56fbf00000000">
+			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Dimension.СрокГодности" id="30895f81-6d97-417c-84f0-c4e10e9d0b04"/>
 			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Dimension.Склад" id="41bf8d04-d7c0-4127-b38a-5e39cc7008b6"/>
 			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Resource.Количество" id="c7058795-35d6-4295-8d5d-a5d948d0c7b7"/>
+			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Resource.Сумма" id="d2bc41c2-c7e2-42f0-afab-ccfb6c167426"/>
 			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Dimension.Номенклатура" id="dc9ca8b8-d019-416a-b8ce-d5061152eca3"/>
 		</Metadata>
 		<Metadata name="Catalog.ДоговорыКонтрагентов" id="8358dbd4-0669-4e70-896e-44c4856bfefe" configVersion="f0f5b6dbf84b72408f54846843f0420d00000000">
@@ -112,9 +114,10 @@
 		<Metadata name="Document.ЗаписьКлиента.Form.ФормаСписка" id="ebca6e25-5166-4879-ab9a-9dcf4d92c623" configVersion="e08bf105ba038041a96f1c3480caa14300000000"/>
 		<Metadata name="Document.ЗаписьКлиента.Form.ФормаСписка.Form" id="ebca6e25-5166-4879-ab9a-9dcf4d92c623.0" configVersion="a2490a823b03a24a80edb644c408fe7300000000"/>
 		<Metadata name="Document.ЗаписьКлиента.ObjectModule" id="e90aa070-3e4c-4e5a-a825-9fde73ed1ece.0" configVersion="fd8d7d2569810146a460e6e1e09c5c4800000000"/>
-		<Metadata name="Document.ПоступлениеТоваровИМатериалов" id="4c691001-4a4a-40c6-b579-f53553b58f5c" configVersion="1688926305feda499d3cb3ffb25a2eeb00000000">
+		<Metadata name="Document.ПоступлениеТоваровИМатериалов" id="4c691001-4a4a-40c6-b579-f53553b58f5c" configVersion="897eae45b368d64793ae3a8b07e8780c00000000">
 			<Metadata name="Document.ПоступлениеТоваровИМатериалов.Attribute.ДоговорПоставщика" id="0df6667f-62f1-479e-a7e6-b1b3de9a3587"/>
 			<Metadata name="Document.ПоступлениеТоваровИМатериалов.TabularSection.Товары" id="0ff6e96f-8c86-49e9-bb48-3254fc68ff40"/>
+			<Metadata name="Document.ПоступлениеТоваровИМатериалов.TabularSection.Товары.Attribute.СрокГодности" id="2482913e-004c-4ed1-bc45-b76a178d8b64"/>
 			<Metadata name="Document.ПоступлениеТоваровИМатериалов.TabularSection.Товары.Attribute.Номенклатура" id="253a2c28-88a3-489d-8dad-f9b02fae0263"/>
 			<Metadata name="Document.ПоступлениеТоваровИМатериалов.TabularSection.Товары.Attribute.Сумма" id="2b3bb01c-5ce4-4ba5-b0cd-defc32b22680"/>
 			<Metadata name="Document.ПоступлениеТоваровИМатериалов.Attribute.ВходящаяДата" id="33ff7325-d01c-429c-a3c8-ceaad0c83804"/>
@@ -127,8 +130,8 @@
 			<Metadata name="Document.ПоступлениеТоваровИМатериалов.Attribute.Склад" id="dee3e06d-4586-4557-9e17-42ac47b0cd27"/>
 			<Metadata name="Document.ПоступлениеТоваровИМатериалов.Attribute.Поставщик" id="f00d42ff-b95d-4426-8481-deacb2215c1f"/>
 		</Metadata>
-		<Metadata name="Document.ПоступлениеТоваровИМатериалов.Form.ФормаДокумента" id="682347ae-bf0a-4f6e-8207-db1112b23f58" configVersion="ba4f4158bd011e41ba280c1bcf3c7a5200000000"/>
-		<Metadata name="Document.ПоступлениеТоваровИМатериалов.Form.ФормаДокумента.Form" id="682347ae-bf0a-4f6e-8207-db1112b23f58.0" configVersion="e9aa403c8c24b74eac2c5f8c90f11c9300000000"/>
+		<Metadata name="Document.ПоступлениеТоваровИМатериалов.Form.ФормаДокумента" id="682347ae-bf0a-4f6e-8207-db1112b23f58" configVersion="29247bdc1f2aa84eb064619b939f3f5400000000"/>
+		<Metadata name="Document.ПоступлениеТоваровИМатериалов.Form.ФормаДокумента.Form" id="682347ae-bf0a-4f6e-8207-db1112b23f58.0" configVersion="b075174ef12f934abba95531a22f8e8800000000"/>
 		<Metadata name="Document.ПоступлениеТоваровИМатериалов.Form.ФормаСписка" id="c0631ddf-a1ab-48f8-8927-86f9674740aa" configVersion="4e3d995533651e48832bd72b150652d800000000"/>
 		<Metadata name="Document.ПоступлениеТоваровИМатериалов.Form.ФормаСписка.Form" id="c0631ddf-a1ab-48f8-8927-86f9674740aa.0" configVersion="5d13b863f8eb394a8104f79ab48feaa000000000"/>
 		<Metadata name="Document.ПоступлениеТоваровИМатериалов.ObjectModule" id="4c691001-4a4a-40c6-b579-f53553b58f5c.0" configVersion="4941b5a3336ef543917a4cdb89a4245f00000000"/>
