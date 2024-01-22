@@ -81,7 +81,7 @@
 		<Metadata name="CommonModule.РаботаСТабличнымиЧастямиГлобальный.Module" id="ea688770-9c63-49e9-bae0-ba2c71a29cbd.0" configVersion="a1d64af7953a6940bb5274f6754a7cad00000000"/>
 		<Metadata name="CommonModule.РаботаСЦенамиВызовСеревера" id="1008940a-4842-4371-b431-8445a9281585" configVersion="dadac631c22fa545a864f28d513a238e00000000"/>
 		<Metadata name="CommonModule.РаботаСЦенамиВызовСеревера.Module" id="1008940a-4842-4371-b431-8445a9281585.0" configVersion="92b4882e8b81254cab6b78db2c92eb9f00000000"/>
-		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="63ba06e19bfac24c9c30d94088b947cd00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="5a57d5c9a44a5d4cbb096ceb7d87b15c00000000"/>
 		<Metadata name="Configuration.Конфигурация.ClientApplicationInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.b" configVersion="b92f149d3e0b0c4ab78dfcd31511ff3700000000"/>
 		<Metadata name="Configuration.Конфигурация.CommandInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.a" configVersion="ce8c15cbda4c074aa203ffc32401319600000000"/>
 		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.8" configVersion="6dd0b46c1291d34da48f6ba66ce78f1700000000"/>
@@ -162,6 +162,10 @@
 		<Metadata name="Document.РеализацияТоваровИУслуг.ObjectModule" id="a1d460c2-1311-4ee7-8a52-b2936fcaf401.0" configVersion="cdc43a1e6d26b442a0128fd688884aa800000000"/>
 		<Metadata name="Document.РеализацияТоваровИУслуг.Template.Печать" id="3e0c2ae4-6296-4c66-95af-122c03e7f3ce" configVersion="635e7e8f67372f4b8fef59a1e162af3100000000"/>
 		<Metadata name="Document.РеализацияТоваровИУслуг.Template.Печать.Template" id="3e0c2ae4-6296-4c66-95af-122c03e7f3ce.0" configVersion="1660c9a3d0887a4991de5ae529230f8600000000"/>
+		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации" id="ce53db2e-95ef-42f5-adeb-a6b0222c9784" configVersion="74d87eca20f5f241b992973ea8b1745300000000">
+			<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.Attribute.УчетнаяПолитика" id="93507612-f788-4b0a-a891-9f364eda0c5a"/>
+		</Metadata>
+		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.ObjectModule" id="ce53db2e-95ef-42f5-adeb-a6b0222c9784.0" configVersion="83d9e145176d8d49a556a447592ca73d00000000"/>
 		<Metadata name="Enum.ВидыУчетнойПолитики" id="d5a4b446-8eca-4a09-bcf3-ab23230ea163" configVersion="6ca9e314d2d0bd4081edaa9c252c7f9500000000">
 			<Metadata name="Enum.ВидыУчетнойПолитики.EnumValue.FEFO" id="188ee995-caaf-4171-843c-4bbbbd8e0e2f"/>
 			<Metadata name="Enum.ВидыУчетнойПолитики.EnumValue.ПоСредней" id="68ea8aba-2951-467d-b994-1ae1336a8af0"/>
@@ -223,7 +227,7 @@
 		<Metadata name="Subsystem.НСИИАдминистрирование.Subsystem.Персонал.CommandInterface" id="90b51a74-90f6-4bf3-b938-a89f3d30e732.1" configVersion="62a3186afbc89a45b2002d10c39a8a3a00000000"/>
 		<Metadata name="Subsystem.НСИИАдминистрирование.Subsystem.Продажи" id="4b48634b-275f-4067-93e9-5204a8dacb2b" configVersion="70edc9a906194c498655998694568d1600000000"/>
 		<Metadata name="Subsystem.НСИИАдминистрирование.Subsystem.Продажи.CommandInterface" id="4b48634b-275f-4067-93e9-5204a8dacb2b.1" configVersion="6b2f0971c78af842a60c2495baac710300000000"/>
-		<Metadata name="Subsystem.Настройки" id="47f518e8-da48-4612-b6da-2242cf9a477f" configVersion="fe5da3fa2b525f44846ed0403c6a1cf700000000"/>
+		<Metadata name="Subsystem.Настройки" id="47f518e8-da48-4612-b6da-2242cf9a477f" configVersion="64821a092efe1347998d078a93ae0c5d00000000"/>
 		<Metadata name="Subsystem.Персонал" id="a4f0c756-4cce-4269-bebd-7fa2dfd8ca2e" configVersion="2abb944ce410b74b85110da6b3e5f5b200000000"/>
 		<Metadata name="Subsystem.Персонал.Subsystem.Справочники" id="a2a5564e-110e-45b6-9bce-091b4d193ae4" configVersion="9c831e58f84b534687847d010681f9b400000000"/>
 		<Metadata name="Subsystem.Персонал.Subsystem.Справочники.CommandInterface" id="a2a5564e-110e-45b6-9bce-091b4d193ae4.1" configVersion="10561862235fbd428610c7b2e4d25d2100000000"/>

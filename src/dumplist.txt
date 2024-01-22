@@ -1,2 +1,4 @@
-﻿New: InformationRegister.УчетнаяПолитика
+﻿New: Document.УстановкаУчетнойПолитикиОрганизации
+New: Document.УстановкаУчетнойПолитикиОрганизации.ObjectModule
 Modified: Configuration.Конфигурация
+Modified: Subsystem.Настройки

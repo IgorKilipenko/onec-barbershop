@@ -259,6 +259,7 @@
 			<Document>ПоступлениеТоваровИМатериалов</Document>
 			<Document>ЗаписьКлиента</Document>
 			<Document>РеализацияТоваровИУслуг</Document>
+			<Document>УстановкаУчетнойПолитикиОрганизации</Document>
 			<Enum>ТипыОрганизаций</Enum>
 			<Enum>ТипыНоменклатуры</Enum>
 			<Enum>ПолФизическогоЛица</Enum>
