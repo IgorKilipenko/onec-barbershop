@@ -1,1 +1,2 @@
-﻿Modified: Configuration.Конфигурация
+﻿New: Enum.ВидыУчетнойПолитики
+Modified: Configuration.Конфигурация

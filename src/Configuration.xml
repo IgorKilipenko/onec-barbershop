@@ -264,6 +264,7 @@
 			<Enum>ПолФизическогоЛица</Enum>
 			<Enum>ТипыКонтрагентов</Enum>
 			<Enum>ВидыЦенПродажи</Enum>
+			<Enum>ВидыУчетнойПолитики</Enum>
 			<Report>ОтчетПоТоварамНаСкладах</Report>
 			<Report>ОтчетПоОказаннымУслугам</Report>
 			<DataProcessor>ТестыСпринт2</DataProcessor>
