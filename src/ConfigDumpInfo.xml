@@ -194,8 +194,8 @@
 			<Metadata name="Enum.ТипыОрганизаций.EnumValue.ЮридическоеЛицо" id="c73eaede-bdcd-44be-821e-5154f57e3f97"/>
 		</Metadata>
 		<Metadata name="FunctionalOption.ИспользоватьСклады" id="9054bf45-cb64-4fc8-be8a-fadb58f70d30" configVersion="1d5b09375fe7484d92dad8aa5f6e968700000000"/>
-		<Metadata name="InformationRegister.УчетнаяПолитика" id="ba7fd621-7311-4390-9da2-7cb2b94cd320" configVersion="39712abdaa15c44daf5da3b09fc706e500000000">
-			<Metadata name="InformationRegister.УчетнаяПолитика.Dimension.УчетнаяПолитика" id="192226fe-608b-458f-be97-7ab50dc109ea"/>
+		<Metadata name="InformationRegister.УчетнаяПолитика" id="ba7fd621-7311-4390-9da2-7cb2b94cd320" configVersion="0609f6a8caf10745b29607b4af3c704f00000000">
+			<Metadata name="InformationRegister.УчетнаяПолитика.Resource.УчетнаяПолитика" id="badbbd8a-6ece-4d7a-8e29-0e15380a6812"/>
 		</Metadata>
 		<Metadata name="InformationRegister.ЦеныНоменклатуры" id="ac4308fb-47af-469f-b5d8-dca84770e7c1" configVersion="915bc5358f4d08428c8fd83d952966e000000000">
 			<Metadata name="InformationRegister.ЦеныНоменклатуры.Dimension.ВидЦены" id="81db743c-11c4-4911-a000-60e3a4614928"/>

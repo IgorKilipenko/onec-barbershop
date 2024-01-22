@@ -1,4 +1,0 @@
-﻿Modified: AccumulationRegister.ТоварыНаСкладах
-Modified: Document.ПоступлениеТоваровИМатериалов
-Modified: Document.ПоступлениеТоваровИМатериалов.Form.ФормаДокумента
-Modified: Document.ПоступлениеТоваровИМатериалов.Form.ФормаДокумента.Form
