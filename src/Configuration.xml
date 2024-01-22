@@ -49,7 +49,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Игорь Килипенко</Vendor>
-			<Version>Сприн 2</Version>
+			<Version>Сприн 3</Version>
 			<UpdateCatalogAddress/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
@@ -240,6 +240,7 @@
 			<Role>Пользователь</Role>
 			<Role>ПолныеПрава</Role>
 			<CommonModule>РаботаСТабличнымиЧастямиГлобальный</CommonModule>
+			<CommonModule>РаботаСЦенамиВызовСеревера</CommonModule>
 			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
 			<DefinedType>ФинансовыеДанные</DefinedType>
 			<DefinedType>КоличествоУслуг</DefinedType>
@@ -262,8 +263,12 @@
 			<Enum>ТипыНоменклатуры</Enum>
 			<Enum>ПолФизическогоЛица</Enum>
 			<Enum>ТипыКонтрагентов</Enum>
+			<Enum>ВидыЦенПродажи</Enum>
+			<Report>ОтчетПоТоварамНаСкладах</Report>
+			<Report>ОтчетПоОказаннымУслугам</Report>
 			<DataProcessor>ТестыСпринт2</DataProcessor>
 			<InformationRegister>ЦеныНоменклатурыПоставщиков</InformationRegister>
+			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
 			<AccumulationRegister>ЗаказыКлиентов</AccumulationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>
