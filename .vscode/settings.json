@@ -4,5 +4,8 @@
     "language-1c-bsl.linterEntryPoint": "./src",
     "cSpell.language": "en,ru,ru-RU",
     "cSpell.enableFiletypes": ["bsl"],
-    "cSpell.words": ["неопределено"],
+    "cSpell.words": [
+        "FEFO",
+        "неопределено"
+    ],
 }
