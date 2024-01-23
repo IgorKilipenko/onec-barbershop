@@ -1,2 +1,14 @@
-﻿Modified: Document.УстановкаУчетнойПолитикиОрганизации
-Modified: Document.УстановкаУчетнойПолитикиОрганизации.ObjectModule
+﻿New: AccumulationRegister.УчетЗатрат
+New: Catalog.СтатьиЗатрат
+New: Document.ПоступлениеУслуг
+New: Document.ПоступлениеУслуг.Form.ФормаДокумента
+New: Document.ПоступлениеУслуг.Form.ФормаДокумента.Form
+Modified: Catalog.Номенклатура
+Modified: Configuration.Конфигурация
+Modified: DefinedType.КоличествоТоваров
+Modified: DefinedType.КоличествоУслуг
+Modified: Document.РеализацияТоваровИУслуг
+Modified: Subsystem.НСИИАдминистрирование
+Modified: Subsystem.НСИИАдминистрирование.Subsystem.Продажи
+Modified: Subsystem.Покупки.Subsystem.Покупки
+Modified: Subsystem.Продажи.Subsystem.Справочники

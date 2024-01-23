@@ -256,10 +256,12 @@
 			<Catalog>Пользователи</Catalog>
 			<Catalog>Склады</Catalog>
 			<Catalog>ФизическиеЛица</Catalog>
+			<Catalog>СтатьиЗатрат</Catalog>
 			<Document>ПоступлениеТоваровИМатериалов</Document>
 			<Document>ЗаписьКлиента</Document>
 			<Document>РеализацияТоваровИУслуг</Document>
 			<Document>УстановкаУчетнойПолитикиОрганизации</Document>
+			<Document>ПоступлениеУслуг</Document>
 			<Enum>ТипыОрганизаций</Enum>
 			<Enum>ТипыНоменклатуры</Enum>
 			<Enum>ПолФизическогоЛица</Enum>
@@ -275,6 +277,7 @@
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
 			<AccumulationRegister>ЗаказыКлиентов</AccumulationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>
+			<AccumulationRegister>УчетЗатрат</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
