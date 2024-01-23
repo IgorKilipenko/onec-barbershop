@@ -87,11 +87,13 @@
 		<Metadata name="Catalog.ФизическиеЛица.Form.ФормаЭлемента.Form" id="ffec83e5-5ce8-40a4-bd7a-46a5c9a7bdd9.0" configVersion="629b9de7af43274f893cc24cb89b770000000000"/>
 		<Metadata name="Catalog.ФизическиеЛица.ManagerModule" id="b53f5623-983b-43b0-a3ee-9aaefa1bcb11.3" configVersion="d361ce2d7717c141bc594836a4c3b04200000000"/>
 		<Metadata name="Catalog.ФизическиеЛица.ObjectModule" id="b53f5623-983b-43b0-a3ee-9aaefa1bcb11.0" configVersion="0cb6a191bcf8ec4eae739ad91ee395f200000000"/>
+		<Metadata name="CommonModule.РаботаСДокументами" id="83d0ebd2-994c-4b49-8a56-581398e6f02b" configVersion="d1a124065916e84fb1c54fc08400d13300000000"/>
+		<Metadata name="CommonModule.РаботаСДокументами.Module" id="83d0ebd2-994c-4b49-8a56-581398e6f02b.0" configVersion="c8a3e83102effe47b7c496887b9f4e5900000000"/>
 		<Metadata name="CommonModule.РаботаСТабличнымиЧастямиГлобальный" id="ea688770-9c63-49e9-bae0-ba2c71a29cbd" configVersion="43f28fadd0c09a4b870021855059555300000000"/>
 		<Metadata name="CommonModule.РаботаСТабличнымиЧастямиГлобальный.Module" id="ea688770-9c63-49e9-bae0-ba2c71a29cbd.0" configVersion="a1d64af7953a6940bb5274f6754a7cad00000000"/>
 		<Metadata name="CommonModule.РаботаСЦенамиВызовСервера" id="1008940a-4842-4371-b431-8445a9281585" configVersion="6498a61fe831ba43bb04ac320790b7a900000000"/>
 		<Metadata name="CommonModule.РаботаСЦенамиВызовСервера.Module" id="1008940a-4842-4371-b431-8445a9281585.0" configVersion="c991fd8d0a91774ca0a6aa9a767cc5de00000000"/>
-		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="de1198da5b219f4f9deb8f62e3904f1100000000"/>
+		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="a7dea6b91aa74a4d9319461dfd31b1e300000000"/>
 		<Metadata name="Configuration.Конфигурация.ClientApplicationInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.b" configVersion="b92f149d3e0b0c4ab78dfcd31511ff3700000000"/>
 		<Metadata name="Configuration.Конфигурация.CommandInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.a" configVersion="ce8c15cbda4c074aa203ffc32401319600000000"/>
 		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.8" configVersion="6dd0b46c1291d34da48f6ba66ce78f1700000000"/>
