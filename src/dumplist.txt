@@ -1,3 +1,4 @@
-﻿New: CommonModule.РаботаСДокументами
-New: CommonModule.РаботаСДокументами.Module
-Modified: Configuration.Конфигурация
+﻿Modified: Document.ПоступлениеУслуг
+Modified: Document.ПоступлениеУслуг.Form.ФормаДокумента
+Modified: Document.ПоступлениеУслуг.Form.ФормаДокумента.Form
+Modified: Document.ПоступлениеУслуг.ObjectModule
