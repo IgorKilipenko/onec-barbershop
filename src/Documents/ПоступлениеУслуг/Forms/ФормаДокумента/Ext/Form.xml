@@ -128,6 +128,9 @@
 				<ContextMenu name="УслугиУправлениеПоискомКонтекстноеМеню" id="39"/>
 				<ExtendedTooltip name="УслугиУправлениеПоискомРасширеннаяПодсказка" id="40"/>
 			</SearchControlAddition>
+			<Events>
+				<Event name="AfterDeleteRow">УслугиПослеУдаления</Event>
+			</Events>
 			<ChildItems>
 				<LabelField name="УслугиНомерСтроки" id="41">
 					<DataPath>Объект.Услуги.LineNumber</DataPath>
@@ -141,9 +144,13 @@
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="УслугиНоменклатураКонтекстноеМеню" id="45"/>
 					<ExtendedTooltip name="УслугиНоменклатураРасширеннаяПодсказка" id="46"/>
+					<Events>
+						<Event name="OnChange">УслугиНоменклатураПриИзменении</Event>
+					</Events>
 				</InputField>
 				<InputField name="УслугиСтатьяЗатрат" id="47">
 					<DataPath>Объект.Услуги.СтатьяЗатрат</DataPath>
+					<ReadOnly>true</ReadOnly>
 					<EditMode>EnterOnInput</EditMode>
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="УслугиСтатьяЗатратКонтекстноеМеню" id="48"/>
@@ -155,6 +162,9 @@
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="УслугиЦенаКонтекстноеМеню" id="51"/>
 					<ExtendedTooltip name="УслугиЦенаРасширеннаяПодсказка" id="52"/>
+					<Events>
+						<Event name="OnChange">УслугиЦенаПриИзменении</Event>
+					</Events>
 				</InputField>
 				<InputField name="УслугиКоличество" id="53">
 					<DataPath>Объект.Услуги.Количество</DataPath>
@@ -162,9 +172,13 @@
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="УслугиКоличествоКонтекстноеМеню" id="54"/>
 					<ExtendedTooltip name="УслугиКоличествоРасширеннаяПодсказка" id="55"/>
+					<Events>
+						<Event name="OnChange">УслугиКоличествоПриИзменении</Event>
+					</Events>
 				</InputField>
 				<InputField name="УслугиСумма" id="56">
 					<DataPath>Объект.Услуги.Сумма</DataPath>
+					<ReadOnly>true</ReadOnly>
 					<EditMode>EnterOnInput</EditMode>
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="УслугиСуммаКонтекстноеМеню" id="57"/>

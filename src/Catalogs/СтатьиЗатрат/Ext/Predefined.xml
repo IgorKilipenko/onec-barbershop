@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.16">
+	<Item id="17e26331-f3e1-4d2c-bcb1-777a58027efb">
+		<Name>АрендаПомещения</Name>
+		<Code>000000001</Code>
+		<Description>Аренда помещения</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="c4c4167c-de7b-4b54-a649-9d0a2c54a259">
+		<Name>ЗаработнаяПлата</Name>
+		<Code>000000002</Code>
+		<Description>Заработная плата</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="5fb5bd35-c343-404b-8d8e-0c74fac2329c">
+		<Name>КоммунальныеПлатежи</Name>
+		<Code>000000003</Code>
+		<Description>Коммунальные платежи</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="2ea965f5-5b47-4457-877d-dfdff928f1fb">
+		<Name>Материалы</Name>
+		<Code>000000004</Code>
+		<Description>Материалы</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="6a0c6e6e-c92c-4df8-8c85-688c5ea654c1">
+		<Name>Налоги</Name>
+		<Code>000000005</Code>
+		<Description>Налоги</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="a9eca30c-c126-4deb-bbcc-797965d9620f">
+		<Name>Товары</Name>
+		<Code>000000006</Code>
+		<Description>Товары</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="fa163d9e-f572-4f4c-99bc-24b0744fa67a">
+		<Name>Услуги</Name>
+		<Code>000000007</Code>
+		<Description>Услуги</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>

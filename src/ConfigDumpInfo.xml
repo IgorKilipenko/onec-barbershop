@@ -73,7 +73,8 @@
 		<Metadata name="Catalog.Сотрудники.Form.ФормаЭлемента" id="74092796-bf7b-4fbc-aef8-4c3178d75d9c" configVersion="7e610b82f6bf394fa80766f144f73b3700000000"/>
 		<Metadata name="Catalog.Сотрудники.Form.ФормаЭлемента.Form" id="74092796-bf7b-4fbc-aef8-4c3178d75d9c.0" configVersion="4ee4fb57e009c0448e31b1318f4e8dd500000000"/>
 		<Metadata name="Catalog.Сотрудники.ObjectModule" id="12df6926-984b-4267-b209-3301a95724b5.0" configVersion="49a8faece66a124a80ba63c60308f27600000000"/>
-		<Metadata name="Catalog.СтатьиЗатрат" id="96fea163-343d-4e9f-8bb6-95dd0c117302" configVersion="f05bb831ea815c4b97aa4b2b61e7603a00000000"/>
+		<Metadata name="Catalog.СтатьиЗатрат" id="96fea163-343d-4e9f-8bb6-95dd0c117302" configVersion="9bea604409d63549968ad833b7ea844800000000"/>
+		<Metadata name="Catalog.СтатьиЗатрат.Predefined" id="96fea163-343d-4e9f-8bb6-95dd0c117302.1c" configVersion="c4da7c9f77947243b38acc2af85696b200000000"/>
 		<Metadata name="Catalog.ФизическиеЛица" id="b53f5623-983b-43b0-a3ee-9aaefa1bcb11" configVersion="b7a81cde6fd786498f1972c594ab89d900000000">
 			<Metadata name="Catalog.ФизическиеЛица.Attribute.Имя" id="226f1833-8826-4582-bef2-853e1e417240"/>
 			<Metadata name="Catalog.ФизическиеЛица.Attribute.Отчество" id="6a9e14de-6202-4a83-9953-675ea727c2b0"/>
@@ -142,7 +143,7 @@
 		<Metadata name="Document.ПоступлениеТоваровИМатериалов.Form.ФормаСписка" id="c0631ddf-a1ab-48f8-8927-86f9674740aa" configVersion="4e3d995533651e48832bd72b150652d800000000"/>
 		<Metadata name="Document.ПоступлениеТоваровИМатериалов.Form.ФормаСписка.Form" id="c0631ddf-a1ab-48f8-8927-86f9674740aa.0" configVersion="5d13b863f8eb394a8104f79ab48feaa000000000"/>
 		<Metadata name="Document.ПоступлениеТоваровИМатериалов.ObjectModule" id="4c691001-4a4a-40c6-b579-f53553b58f5c.0" configVersion="d4987224bbfdbd4ea65c292fd16abd2e00000000"/>
-		<Metadata name="Document.ПоступлениеУслуг" id="c255d70e-48ec-4c18-a276-85d6115e230e" configVersion="c34a60d23101a34c95d58b06681258ce00000000">
+		<Metadata name="Document.ПоступлениеУслуг" id="c255d70e-48ec-4c18-a276-85d6115e230e" configVersion="f4f8c3613315b14881895c34a71e1d6400000000">
 			<Metadata name="Document.ПоступлениеУслуг.TabularSection.Услуги.Attribute.СтатьяЗатрат" id="1ee2b58e-d092-43fb-b263-bc853e26ecf2"/>
 			<Metadata name="Document.ПоступлениеУслуг.Attribute.СуммаДокумента" id="26c87054-c3a4-4775-ad8c-2a35ee9394f3"/>
 			<Metadata name="Document.ПоступлениеУслуг.Attribute.ВходящийНомер" id="31a04fd6-bfbd-4d51-8e9f-3213138c116c"/>
@@ -155,8 +156,10 @@
 			<Metadata name="Document.ПоступлениеУслуг.TabularSection.Услуги.Attribute.Цена" id="f8539ee8-8778-4907-9d15-5f7194edc33d"/>
 			<Metadata name="Document.ПоступлениеУслуг.Attribute.Поставщик" id="fcb7d420-1883-4fc3-9b2a-eac69a7e3c18"/>
 		</Metadata>
-		<Metadata name="Document.ПоступлениеУслуг.Form.ФормаДокумента" id="ca385b32-d0bc-442f-b3cb-0db3fd7ebfc4" configVersion="92a02a124666e644b34850a9ac74582100000000"/>
-		<Metadata name="Document.ПоступлениеУслуг.Form.ФормаДокумента.Form" id="ca385b32-d0bc-442f-b3cb-0db3fd7ebfc4.0" configVersion="c315bc9c21ee1448b25a34dbb83b9ed600000000"/>
+		<Metadata name="Document.ПоступлениеУслуг.Form.ФормаДокумента" id="ca385b32-d0bc-442f-b3cb-0db3fd7ebfc4" configVersion="1cd22009ecff3543aa0e0f6869fd330a00000000"/>
+		<Metadata name="Document.ПоступлениеУслуг.Form.ФормаДокумента.Form" id="ca385b32-d0bc-442f-b3cb-0db3fd7ebfc4.0" configVersion="cbb1eb3d6b49a549bee6bfd65aec8e3f00000000"/>
+		<Metadata name="Document.ПоступлениеУслуг.ManagerModule" id="c255d70e-48ec-4c18-a276-85d6115e230e.2" configVersion="c57f51b9e6747948b3bc4869163eafb800000000"/>
+		<Metadata name="Document.ПоступлениеУслуг.ObjectModule" id="c255d70e-48ec-4c18-a276-85d6115e230e.0" configVersion="9a025229ff9ffd438129ad71f009f88b00000000"/>
 		<Metadata name="Document.РеализацияТоваровИУслуг" id="a1d460c2-1311-4ee7-8a52-b2936fcaf401" configVersion="d8d7ee421286124b8cd5852f0267847900000000">
 			<Metadata name="Document.РеализацияТоваровИУслуг.TabularSection.Услуги.Attribute.Количество" id="0aabe0f7-d843-4ced-8c68-e2e4850ff2c1"/>
 			<Metadata name="Document.РеализацияТоваровИУслуг.Attribute.СуммаДокумента" id="1a5ca526-e097-4acd-9d38-18147ef9aedc"/>

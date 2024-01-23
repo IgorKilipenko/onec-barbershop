@@ -1,2 +1,7 @@
-﻿Modified: CommonModule.РаботаСЦенамиВызовСервера
-Modified: CommonModule.РаботаСЦенамиВызовСервера.Module
+﻿New: Catalog.СтатьиЗатрат.Predefined
+New: Document.ПоступлениеУслуг.ManagerModule
+New: Document.ПоступлениеУслуг.ObjectModule
+Modified: Catalog.СтатьиЗатрат
+Modified: Document.ПоступлениеУслуг
+Modified: Document.ПоступлениеУслуг.Form.ФормаДокумента
+Modified: Document.ПоступлениеУслуг.Form.ФормаДокумента.Form
