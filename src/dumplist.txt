@@ -1,2 +1,2 @@
-﻿Modified: Document.ЗаписьКлиента
-Modified: Document.ЗаписьКлиента.ObjectModule
+﻿Modified: Document.РеализацияТоваровИУслуг
+Modified: Document.РеализацияТоваровИУслуг.ObjectModule
