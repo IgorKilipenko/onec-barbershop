@@ -71,8 +71,8 @@
 			<Metadata name="Catalog.Сотрудники.Attribute.ФизическоеЛицо" id="52025bea-1a2f-49bd-84b6-822f4abb0433"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.Должность" id="c28bd2f3-7ecf-4c58-913f-1ea5e45e41f4"/>
 		</Metadata>
-		<Metadata name="Catalog.Сотрудники.Form.ФормаЭлемента" id="74092796-bf7b-4fbc-aef8-4c3178d75d9c" configVersion="9eca02a785046942bbf4c16fd81bc7a900000000"/>
-		<Metadata name="Catalog.Сотрудники.Form.ФормаЭлемента.Form" id="74092796-bf7b-4fbc-aef8-4c3178d75d9c.0" configVersion="6d08b6598f227941b06476cf9fbd582300000000"/>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаЭлемента" id="74092796-bf7b-4fbc-aef8-4c3178d75d9c" configVersion="f99146305ed45b49994e2d1c1f151ab600000000"/>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаЭлемента.Form" id="74092796-bf7b-4fbc-aef8-4c3178d75d9c.0" configVersion="77fa1aad76d6b447aa81cfcae2a530b300000000"/>
 		<Metadata name="Catalog.Сотрудники.ObjectModule" id="12df6926-984b-4267-b209-3301a95724b5.0" configVersion="49a8faece66a124a80ba63c60308f27600000000"/>
 		<Metadata name="Catalog.СтатьиЗатрат" id="96fea163-343d-4e9f-8bb6-95dd0c117302" configVersion="9bea604409d63549968ad833b7ea844800000000"/>
 		<Metadata name="Catalog.СтатьиЗатрат.Predefined" id="96fea163-343d-4e9f-8bb6-95dd0c117302.1c" configVersion="c4da7c9f77947243b38acc2af85696b200000000"/>
