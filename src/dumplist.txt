@@ -1,3 +1,1 @@
-﻿New: Document.УстановкаУчетнойПолитикиОрганизации.Form.ФормаДокумента
-New: Document.УстановкаУчетнойПолитикиОрганизации.Form.ФормаДокумента.Form
-Modified: Document.УстановкаУчетнойПолитикиОрганизации
+﻿Modified: AccumulationRegister.ЗаказыКлиентов
