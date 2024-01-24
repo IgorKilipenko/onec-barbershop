@@ -14,14 +14,13 @@
 			<ContextMenu name="КодКонтекстноеМеню" id="2"/>
 			<ExtendedTooltip name="КодРасширеннаяПодсказка" id="3"/>
 		</InputField>
-		<InputField name="Наименование" id="4">
+		<LabelField name="Наименование" id="4">
 			<DataPath>Объект.Description</DataPath>
 			<ReadOnly>true</ReadOnly>
 			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="НаименованиеКонтекстноеМеню" id="5"/>
 			<ExtendedTooltip name="НаименованиеРасширеннаяПодсказка" id="6"/>
-		</InputField>
+		</LabelField>
 		<InputField name="Фамилия" id="7">
 			<DataPath>Объект.Фамилия</DataPath>
 			<EditMode>EnterOnInput</EditMode>
