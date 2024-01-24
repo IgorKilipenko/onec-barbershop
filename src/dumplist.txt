@@ -1,1 +1,2 @@
-﻿Modified: AccumulationRegister.ЗаказыКлиентов
+﻿Modified: Document.ЗаписьКлиента
+Modified: Document.ЗаписьКлиента.ObjectModule
