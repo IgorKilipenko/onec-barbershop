@@ -1,3 +1,2 @@
-﻿New: AccumulationRegister.БезналичнаяОплата
-Modified: Configuration.Конфигурация
+﻿New: Document.ПоступлениеДенежныхСредств.ObjectModule
 Modified: Document.ПоступлениеДенежныхСредств
