@@ -1,0 +1,3 @@
+﻿New: AccumulationRegister.БезналичнаяОплата
+Modified: Configuration.Конфигурация
+Modified: Document.ПоступлениеДенежныхСредств

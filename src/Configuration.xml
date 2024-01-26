@@ -290,6 +290,7 @@
 			<AccumulationRegister>Продажи</AccumulationRegister>
 			<AccumulationRegister>УчетЗатрат</AccumulationRegister>
 			<AccumulationRegister>ДенежныеСредства</AccumulationRegister>
+			<AccumulationRegister>БезналичнаяОплата</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
