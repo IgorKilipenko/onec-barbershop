@@ -271,6 +271,7 @@
 			<Enum>ВидыУчетнойПолитики</Enum>
 			<Report>ОтчетПоТоварамНаСкладах</Report>
 			<Report>ОтчетПоОказаннымУслугам</Report>
+			<Report>ОтчетПоПрибыли</Report>
 			<DataProcessor>ТестыСпринт2</DataProcessor>
 			<InformationRegister>ЦеныНоменклатурыПоставщиков</InformationRegister>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>

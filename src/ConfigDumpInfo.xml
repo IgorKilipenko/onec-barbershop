@@ -94,7 +94,7 @@
 		<Metadata name="CommonModule.РаботаСТабличнымиЧастямиГлобальный.Module" id="ea688770-9c63-49e9-bae0-ba2c71a29cbd.0" configVersion="a1d64af7953a6940bb5274f6754a7cad00000000"/>
 		<Metadata name="CommonModule.РаботаСЦенамиВызовСервера" id="1008940a-4842-4371-b431-8445a9281585" configVersion="6498a61fe831ba43bb04ac320790b7a900000000"/>
 		<Metadata name="CommonModule.РаботаСЦенамиВызовСервера.Module" id="1008940a-4842-4371-b431-8445a9281585.0" configVersion="c991fd8d0a91774ca0a6aa9a767cc5de00000000"/>
-		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="a7dea6b91aa74a4d9319461dfd31b1e300000000"/>
+		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="6fb5b139e27f364c82fd09e7f2c9086800000000"/>
 		<Metadata name="Configuration.Конфигурация.ClientApplicationInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.b" configVersion="b92f149d3e0b0c4ab78dfcd31511ff3700000000"/>
 		<Metadata name="Configuration.Конфигурация.CommandInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.a" configVersion="ce8c15cbda4c074aa203ffc32401319600000000"/>
 		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.8" configVersion="6dd0b46c1291d34da48f6ba66ce78f1700000000"/>
@@ -247,6 +247,9 @@
 		<Metadata name="Report.ОтчетПоОказаннымУслугам" id="535b5b83-e6b0-4c88-8d35-a04ff7e1a4e6" configVersion="79602a8b2a04c94286ce92e8ab7927bd00000000"/>
 		<Metadata name="Report.ОтчетПоОказаннымУслугам.Template.ОсновнаяСхемаКомпоновкиДанных" id="f8a7abbe-e362-4330-a3d8-84fd553f3b72" configVersion="5296685bd0ac8a4c8d221ab8a13757fc00000000"/>
 		<Metadata name="Report.ОтчетПоОказаннымУслугам.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="f8a7abbe-e362-4330-a3d8-84fd553f3b72.0" configVersion="7c28da84752b294d94ef082680c211e900000000"/>
+		<Metadata name="Report.ОтчетПоПрибыли" id="25875a1c-c38f-4acb-94fc-fdf31428e8d3" configVersion="2393bda706a0ea4cae17b41690b5d72600000000"/>
+		<Metadata name="Report.ОтчетПоПрибыли.Template.ОсновнаяСхемаКомпоновкиДанных" id="bb5c4607-721b-4d3a-b93a-8d04bafcbc0e" configVersion="01bff6153642704b88c82570e468ffd000000000"/>
+		<Metadata name="Report.ОтчетПоПрибыли.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="bb5c4607-721b-4d3a-b93a-8d04bafcbc0e.0" configVersion="12f3e9f3a2dd4042ac8c7cba5feb99d400000000"/>
 		<Metadata name="Report.ОтчетПоТоварамНаСкладах" id="3e981421-ea0f-4e5a-9fc8-f8a4ea3500e9" configVersion="3a8fb77606739942b2dfee715883204e00000000"/>
 		<Metadata name="Report.ОтчетПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных" id="f1ca54af-9e80-4fcb-af6d-4827e7598a61" configVersion="73bdee7923caac46afc1a7b52638b65300000000"/>
 		<Metadata name="Report.ОтчетПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="f1ca54af-9e80-4fcb-af6d-4827e7598a61.0" configVersion="a0d61e3a8b29444fbfc220fdd318075600000000"/>
