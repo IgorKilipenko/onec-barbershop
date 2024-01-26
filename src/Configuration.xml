@@ -259,6 +259,7 @@
 			<Catalog>Склады</Catalog>
 			<Catalog>ФизическиеЛица</Catalog>
 			<Catalog>СтатьиЗатрат</Catalog>
+			<Catalog>Кассы</Catalog>
 			<Document>ПоступлениеТоваровИМатериалов</Document>
 			<Document>ЗаписьКлиента</Document>
 			<Document>РеализацияТоваровИУслуг</Document>

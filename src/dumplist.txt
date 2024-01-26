@@ -1,2 +1,5 @@
-﻿New: Enum.ТипДенежныхСредств
+﻿New: Catalog.Кассы
 Modified: Configuration.Конфигурация
+Modified: Subsystem.Деньги
+Modified: Subsystem.НСИИАдминистрирование
+Modified: Subsystem.НСИИАдминистрирование.Subsystem.Продажи
