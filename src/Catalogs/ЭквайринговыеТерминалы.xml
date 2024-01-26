@@ -1,34 +1,34 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
-	<Catalog uuid="7cdb4ec1-143c-41c0-b3ec-71ad82c93638">
+	<Catalog uuid="6a7008ec-5ddf-45e5-bf1b-af2840486878">
 		<InternalInfo>
-			<xr:GeneratedType name="CatalogObject.Банки" category="Object">
-				<xr:TypeId>c0a05784-7c8f-4e72-8701-6347c8773947</xr:TypeId>
-				<xr:ValueId>ca16f8e2-ec5d-48f8-8a4e-488f2750ba72</xr:ValueId>
+			<xr:GeneratedType name="CatalogObject.ЭквайринговыеТерминалы" category="Object">
+				<xr:TypeId>18610faa-8f45-4929-8411-cc720013b10c</xr:TypeId>
+				<xr:ValueId>8d0c75bc-ddbf-455f-9107-d612f3059e65</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="CatalogRef.Банки" category="Ref">
-				<xr:TypeId>d94a596d-71f6-4ea4-a92d-3925bb65608d</xr:TypeId>
-				<xr:ValueId>653c68d2-74ef-4cf5-aebf-6e172bfee87f</xr:ValueId>
+			<xr:GeneratedType name="CatalogRef.ЭквайринговыеТерминалы" category="Ref">
+				<xr:TypeId>4a8ae79b-79f3-48f1-925a-38cc84334ff4</xr:TypeId>
+				<xr:ValueId>92e1cf44-6de5-4278-b229-733a3348fe9f</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="CatalogSelection.Банки" category="Selection">
-				<xr:TypeId>ed7e876a-766e-4c0d-9a32-a180d3c673c0</xr:TypeId>
-				<xr:ValueId>76c0d74c-5ab5-4ac7-8aea-4a6a95a21834</xr:ValueId>
+			<xr:GeneratedType name="CatalogSelection.ЭквайринговыеТерминалы" category="Selection">
+				<xr:TypeId>e03100c5-04e8-4f3f-8bac-0ed8fd2f9005</xr:TypeId>
+				<xr:ValueId>5d7c8ace-361e-407a-a383-f8f5fb1daa81</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="CatalogList.Банки" category="List">
-				<xr:TypeId>6c53e941-fa7f-4017-82a1-8220601fd50e</xr:TypeId>
-				<xr:ValueId>36fd4cf1-2e85-4aaf-b06f-74ce3312c25c</xr:ValueId>
+			<xr:GeneratedType name="CatalogList.ЭквайринговыеТерминалы" category="List">
+				<xr:TypeId>f0f6e5c9-885a-4eb2-ad9f-0791c4566094</xr:TypeId>
+				<xr:ValueId>b5649c9f-0000-4e19-84b7-1ac1c0639744</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="CatalogManager.Банки" category="Manager">
-				<xr:TypeId>b5f98d67-6b32-4c59-8b89-dc4f6a20ee20</xr:TypeId>
-				<xr:ValueId>00eee20c-048f-47b0-b0fe-b2d2bb93ca5a</xr:ValueId>
+			<xr:GeneratedType name="CatalogManager.ЭквайринговыеТерминалы" category="Manager">
+				<xr:TypeId>6fb3dd81-dd98-4d24-8cb8-8a96996be339</xr:TypeId>
+				<xr:ValueId>a61234a7-25f1-4017-8da0-6390cc03f9fc</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>Банки</Name>
+			<Name>ЭквайринговыеТерминалы</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Банки</v8:content>
+					<v8:content>Эквайринговые терминалы</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -41,7 +41,7 @@
 			<Owners/>
 			<SubordinationUse>ToItems</SubordinationUse>
 			<CodeLength>9</CodeLength>
-			<DescriptionLength>100</DescriptionLength>
+			<DescriptionLength>25</DescriptionLength>
 			<CodeType>String</CodeType>
 			<CodeAllowedLength>Variable</CodeAllowedLength>
 			<CodeSeries>WholeCatalog</CodeSeries>
@@ -54,8 +54,8 @@
 			<QuickChoice>false</QuickChoice>
 			<ChoiceMode>BothWays</ChoiceMode>
 			<InputByString>
-				<xr:Field>Catalog.Банки.StandardAttribute.Description</xr:Field>
-				<xr:Field>Catalog.Банки.StandardAttribute.Code</xr:Field>
+				<xr:Field>Catalog.ЭквайринговыеТерминалы.StandardAttribute.Description</xr:Field>
+				<xr:Field>Catalog.ЭквайринговыеТерминалы.StandardAttribute.Code</xr:Field>
 			</InputByString>
 			<SearchStringModeOnInputByString>Begin</SearchStringModeOnInputByString>
 			<FullTextSearchOnInputByString>DontUse</FullTextSearchOnInputByString>
@@ -87,22 +87,18 @@
 			<ExecuteAfterWriteDataHistoryVersionProcessing>false</ExecuteAfterWriteDataHistoryVersionProcessing>
 		</Properties>
 		<ChildObjects>
-			<Attribute uuid="d0eacc27-0ba3-4455-96c0-9ea39c298c28">
+			<Attribute uuid="568d4d92-a50c-4846-8f23-3bd7b6689d79">
 				<Properties>
-					<Name>БИК</Name>
+					<Name>Банк</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>БИК</v8:content>
+							<v8:content>Банк</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
-						<v8:Type>xs:string</v8:Type>
-						<v8:StringQualifiers>
-							<v8:Length>11</v8:Length>
-							<v8:AllowedLength>Variable</v8:AllowedLength>
-						</v8:StringQualifiers>
+						<v8:Type>cfg:CatalogRef.Банки</v8:Type>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>
@@ -115,7 +111,47 @@
 					<MinValue xsi:nil="true"/>
 					<MaxValue xsi:nil="true"/>
 					<FillFromFillingValue>false</FillFromFillingValue>
-					<FillValue xsi:type="xs:string"/>
+					<FillValue xsi:nil="true"/>
+					<FillChecking>DontCheck</FillChecking>
+					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
+					<ChoiceParameterLinks/>
+					<ChoiceParameters/>
+					<QuickChoice>Auto</QuickChoice>
+					<CreateOnInput>Auto</CreateOnInput>
+					<ChoiceForm/>
+					<LinkByType/>
+					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+					<Use>ForItem</Use>
+					<Indexing>DontIndex</Indexing>
+					<FullTextSearch>Use</FullTextSearch>
+					<DataHistory>Use</DataHistory>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="0321f382-6f2e-414a-9a80-4bb734f55df9">
+				<Properties>
+					<Name>Касса</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Касса</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Type>
+						<v8:Type>cfg:CatalogRef.Кассы</v8:Type>
+					</Type>
+					<PasswordMode>false</PasswordMode>
+					<Format/>
+					<EditFormat/>
+					<ToolTip/>
+					<MarkNegatives>false</MarkNegatives>
+					<Mask/>
+					<MultiLine>false</MultiLine>
+					<ExtendedEdit>false</ExtendedEdit>
+					<MinValue xsi:nil="true"/>
+					<MaxValue xsi:nil="true"/>
+					<FillFromFillingValue>false</FillFromFillingValue>
+					<FillValue xsi:nil="true"/>
 					<FillChecking>DontCheck</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
 					<ChoiceParameterLinks/>

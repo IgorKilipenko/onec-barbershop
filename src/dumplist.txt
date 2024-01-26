@@ -1,5 +1,4 @@
-﻿New: Catalog.Банки
+﻿New: Catalog.ЭквайринговыеТерминалы
+Modified: Catalog.Банки
 Modified: Configuration.Конфигурация
 Modified: Subsystem.Деньги
-Modified: Subsystem.НСИИАдминистрирование
-Modified: Subsystem.НСИИАдминистрирование.Subsystem.Продажи
