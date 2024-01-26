@@ -267,6 +267,8 @@
 			<Document>РеализацияТоваровИУслуг</Document>
 			<Document>УстановкаУчетнойПолитикиОрганизации</Document>
 			<Document>ПоступлениеУслуг</Document>
+			<Document>ПоступлениеДенежныхСредств</Document>
+			<Document>РасходДенежныхСредств</Document>
 			<Enum>ТипыОрганизаций</Enum>
 			<Enum>ТипыНоменклатуры</Enum>
 			<Enum>ПолФизическогоЛица</Enum>
@@ -275,7 +277,7 @@
 			<Enum>ВидыУчетнойПолитики</Enum>
 			<Enum>ВидыОперацийПоступленияДенег</Enum>
 			<Enum>ВидыОперацийРасходаДенег</Enum>
-			<Enum>ТипДенежныхСредств</Enum>
+			<Enum>ТипыДенежныхСредств</Enum>
 			<Report>ОтчетПоТоварамНаСкладах</Report>
 			<Report>ОтчетПоОказаннымУслугам</Report>
 			<Report>ОтчетПоПрибыли</Report>
@@ -287,6 +289,7 @@
 			<AccumulationRegister>ЗаказыКлиентов</AccumulationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>
 			<AccumulationRegister>УчетЗатрат</AccumulationRegister>
+			<AccumulationRegister>ДенежныеСредства</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
