@@ -94,7 +94,7 @@
 		<Metadata name="CommonModule.РаботаСТабличнымиЧастямиГлобальный.Module" id="ea688770-9c63-49e9-bae0-ba2c71a29cbd.0" configVersion="a1d64af7953a6940bb5274f6754a7cad00000000"/>
 		<Metadata name="CommonModule.РаботаСЦенамиВызовСервера" id="1008940a-4842-4371-b431-8445a9281585" configVersion="6498a61fe831ba43bb04ac320790b7a900000000"/>
 		<Metadata name="CommonModule.РаботаСЦенамиВызовСервера.Module" id="1008940a-4842-4371-b431-8445a9281585.0" configVersion="c991fd8d0a91774ca0a6aa9a767cc5de00000000"/>
-		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="d174ac9ef906e348b3ae4a23b5ed9b9300000000"/>
+		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="86d30975527a9f44acfdb1ea3200c31600000000"/>
 		<Metadata name="Configuration.Конфигурация.ClientApplicationInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.b" configVersion="b92f149d3e0b0c4ab78dfcd31511ff3700000000"/>
 		<Metadata name="Configuration.Конфигурация.CommandInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.a" configVersion="ce8c15cbda4c074aa203ffc32401319600000000"/>
 		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.8" configVersion="6dd0b46c1291d34da48f6ba66ce78f1700000000"/>
@@ -207,6 +207,13 @@
 			<Metadata name="Enum.ВидыОперацийПоступленияДенег.EnumValue.ВозвратОтПоставщика" id="79bdf093-891a-4472-99d0-1255deee3fb8"/>
 			<Metadata name="Enum.ВидыОперацийПоступленияДенег.EnumValue.ВозвратОтПодотчетника" id="d5085b3b-f90a-472d-aed0-716e29b72821"/>
 			<Metadata name="Enum.ВидыОперацийПоступленияДенег.EnumValue.ОплатаОтПокупателя" id="e61b0125-47b5-421d-bc8a-e545743a5636"/>
+		</Metadata>
+		<Metadata name="Enum.ВидыОперацийРасходаДенег" id="153960fc-ac13-4c21-9d71-3d690a1abc03" configVersion="eecd3a50663b16478ce036f94f1f2a0c00000000">
+			<Metadata name="Enum.ВидыОперацийРасходаДенег.EnumValue.ОплатаПоставщику" id="0a2e0cc7-e06d-4cd6-94ae-d4d1697aa8c2"/>
+			<Metadata name="Enum.ВидыОперацийРасходаДенег.EnumValue.ВыдачаДенегПодотчетнику" id="0d5fd7c9-5b5c-4755-9160-9ab2f675b815"/>
+			<Metadata name="Enum.ВидыОперацийРасходаДенег.EnumValue.ВзносНаличнымиВБанк" id="1670b5ce-f690-42cf-aba6-4326e4390059"/>
+			<Metadata name="Enum.ВидыОперацийРасходаДенег.EnumValue.ВозвратДенегПокупателю" id="4becf48f-7dba-4aa3-9088-4b8f7b48bc7f"/>
+			<Metadata name="Enum.ВидыОперацийРасходаДенег.EnumValue.ПрочийРасход" id="8a0c4f7c-09f2-4eac-b5e5-759b26dd48da"/>
 		</Metadata>
 		<Metadata name="Enum.ВидыУчетнойПолитики" id="d5a4b446-8eca-4a09-bcf3-ab23230ea163" configVersion="6ca9e314d2d0bd4081edaa9c252c7f9500000000">
 			<Metadata name="Enum.ВидыУчетнойПолитики.EnumValue.FEFO" id="188ee995-caaf-4171-843c-4bbbbd8e0e2f"/>
