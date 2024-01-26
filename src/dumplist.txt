@@ -1,2 +1,2 @@
-﻿New: Enum.ВидыОперацийРасходаДенег
+﻿New: Enum.ТипДенежныхСредств
 Modified: Configuration.Конфигурация

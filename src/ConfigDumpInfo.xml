@@ -94,7 +94,7 @@
 		<Metadata name="CommonModule.РаботаСТабличнымиЧастямиГлобальный.Module" id="ea688770-9c63-49e9-bae0-ba2c71a29cbd.0" configVersion="a1d64af7953a6940bb5274f6754a7cad00000000"/>
 		<Metadata name="CommonModule.РаботаСЦенамиВызовСервера" id="1008940a-4842-4371-b431-8445a9281585" configVersion="6498a61fe831ba43bb04ac320790b7a900000000"/>
 		<Metadata name="CommonModule.РаботаСЦенамиВызовСервера.Module" id="1008940a-4842-4371-b431-8445a9281585.0" configVersion="c991fd8d0a91774ca0a6aa9a767cc5de00000000"/>
-		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="86d30975527a9f44acfdb1ea3200c31600000000"/>
+		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="3bc4cc0d2ac39a43b3d1d7ecd684ec0500000000"/>
 		<Metadata name="Configuration.Конфигурация.ClientApplicationInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.b" configVersion="b92f149d3e0b0c4ab78dfcd31511ff3700000000"/>
 		<Metadata name="Configuration.Конфигурация.CommandInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.a" configVersion="ce8c15cbda4c074aa203ffc32401319600000000"/>
 		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.8" configVersion="6dd0b46c1291d34da48f6ba66ce78f1700000000"/>
@@ -226,6 +226,10 @@
 		<Metadata name="Enum.ПолФизическогоЛица" id="05f9a091-590d-4b74-b968-13a5ef0e39c4" configVersion="2fb5503e868e8f4b976bd4005fbcbf9f00000000">
 			<Metadata name="Enum.ПолФизическогоЛица.EnumValue.Женский" id="60785697-56e3-4f8c-8a25-dfb4bf1cc255"/>
 			<Metadata name="Enum.ПолФизическогоЛица.EnumValue.Мужской" id="9f396d4c-6f91-4b3f-8718-6fb15b8d1109"/>
+		</Metadata>
+		<Metadata name="Enum.ТипДенежныхСредств" id="faa45303-6139-4b62-a7d4-5d01b5a6d407" configVersion="5fa9bd41b646854aa340a39d06cc1aa100000000">
+			<Metadata name="Enum.ТипДенежныхСредств.EnumValue.Наличные" id="1515415d-2d16-4afa-b009-4d4e67d63188"/>
+			<Metadata name="Enum.ТипДенежныхСредств.EnumValue.Безналичные" id="8bfce982-d1d9-4b39-9c06-36e5ba73d92d"/>
 		</Metadata>
 		<Metadata name="Enum.ТипыКонтрагентов" id="a9679fca-7eb5-4a7c-9f10-b8d9b51e3332" configVersion="75911101f7e4c94fbe62ad5950f7668400000000">
 			<Metadata name="Enum.ТипыКонтрагентов.EnumValue.Поставщик" id="29324e23-f917-4f9e-89ad-e4e341daec8d"/>
