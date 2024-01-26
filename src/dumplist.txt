@@ -1,2 +1,2 @@
-﻿New: Subsystem.Деньги
+﻿New: Enum.ВидыОперацийПоступленияДенег
 Modified: Configuration.Конфигурация
