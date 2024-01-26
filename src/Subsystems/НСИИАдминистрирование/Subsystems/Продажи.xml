@@ -23,7 +23,6 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Склады</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ЦеныНоменклатуры</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.СтатьиЗатрат</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Кассы</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

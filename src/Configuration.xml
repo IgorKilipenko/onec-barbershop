@@ -260,6 +260,7 @@
 			<Catalog>ФизическиеЛица</Catalog>
 			<Catalog>СтатьиЗатрат</Catalog>
 			<Catalog>Кассы</Catalog>
+			<Catalog>Банки</Catalog>
 			<Document>ПоступлениеТоваровИМатериалов</Document>
 			<Document>ЗаписьКлиента</Document>
 			<Document>РеализацияТоваровИУслуг</Document>

@@ -17,6 +17,7 @@
 			<Picture/>
 			<Content>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Кассы</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Банки</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

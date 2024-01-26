@@ -1,4 +1,4 @@
-﻿New: Catalog.Кассы
+﻿New: Catalog.Банки
 Modified: Configuration.Конфигурация
 Modified: Subsystem.Деньги
 Modified: Subsystem.НСИИАдминистрирование
