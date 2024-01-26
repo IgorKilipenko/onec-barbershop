@@ -52,11 +52,11 @@
 			</EnumValue>
 			<EnumValue uuid="0ac8a5ce-e95d-4dd3-8020-ce74d289dc07">
 				<Properties>
-					<Name>ПрочккПоступление</Name>
+					<Name>ПрочееПоступление</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Прочкк поступление</v8:content>
+							<v8:content>Прочее поступление</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

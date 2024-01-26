@@ -234,8 +234,8 @@
 		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.Form.ФормаДокумента" id="42e1f445-ce6d-4d65-a717-8e80d7c871f3" configVersion="630cafb055ea6d4fa4a7181ed3a0a31400000000"/>
 		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.Form.ФормаДокумента.Form" id="42e1f445-ce6d-4d65-a717-8e80d7c871f3.0" configVersion="f84299a3f8621a4785182027b7ca97a200000000"/>
 		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.ObjectModule" id="ce53db2e-95ef-42f5-adeb-a6b0222c9784.0" configVersion="3ae1d19b6025634c967f18f20bcb570a00000000"/>
-		<Metadata name="Enum.ВидыОперацийПоступленияДенег" id="5d493a52-f473-4b6e-8076-a367dbbd7ac8" configVersion="2a72fbf31ad63749b8e1dde72c50cd6100000000">
-			<Metadata name="Enum.ВидыОперацийПоступленияДенег.EnumValue.ПрочккПоступление" id="0ac8a5ce-e95d-4dd3-8020-ce74d289dc07"/>
+		<Metadata name="Enum.ВидыОперацийПоступленияДенег" id="5d493a52-f473-4b6e-8076-a367dbbd7ac8" configVersion="cb06069618c69d49b2632555e0829dfe00000000">
+			<Metadata name="Enum.ВидыОперацийПоступленияДенег.EnumValue.ПрочееПоступление" id="0ac8a5ce-e95d-4dd3-8020-ce74d289dc07"/>
 			<Metadata name="Enum.ВидыОперацийПоступленияДенег.EnumValue.ПолучениеНаличныхВБанке" id="685bcb3d-bbde-4fbe-afcd-7e9a377137dd"/>
 			<Metadata name="Enum.ВидыОперацийПоступленияДенег.EnumValue.ВозвратОтПоставщика" id="79bdf093-891a-4472-99d0-1255deee3fb8"/>
 			<Metadata name="Enum.ВидыОперацийПоступленияДенег.EnumValue.ВозвратОтПодотчетника" id="d5085b3b-f90a-472d-aed0-716e29b72821"/>
