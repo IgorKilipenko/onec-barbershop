@@ -1,2 +1,4 @@
-﻿Modified: Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента
-Modified: Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента.Form
+﻿New: Document.РасходДенежныхСредств.Form.ФормаДокумента
+New: Document.РасходДенежныхСредств.Form.ФормаДокумента.Form
+New: Document.РасходДенежныхСредств.ObjectModule
+Modified: Document.РасходДенежныхСредств
