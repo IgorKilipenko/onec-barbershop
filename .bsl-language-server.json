@@ -11,6 +11,11 @@
             "LineLength": {
                 "maxLineLength": 140,
                 "checkMethodDescription": true
+            },
+            "RedundantAccessToObject": {
+                "checkObjectModule": false,
+                "checkFormModule": false,
+                "checkRecordSetModule": true
             }
         }
     }
