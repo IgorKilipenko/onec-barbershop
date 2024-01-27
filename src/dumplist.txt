@@ -1,2 +1,2 @@
-﻿Modified: Document.РасходДенежныхСредств
-Modified: Document.РасходДенежныхСредств.ObjectModule
+﻿Modified: CommonModule.РаботаСДокументами
+Modified: CommonModule.РаботаСДокументами.Module
