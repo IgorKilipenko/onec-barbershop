@@ -80,11 +80,21 @@
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="ПлательщикКонтекстноеМеню" id="17"/>
 			<ExtendedTooltip name="ПлательщикРасширеннаяПодсказка" id="18"/>
+			<Events>
+				<Event name="OnChange">ПлательщикПриИзменении</Event>
+			</Events>
 		</InputField>
 		<InputField name="ДоговорКонтрагента" id="19">
 			<DataPath>Объект.ДоговорКонтрагента</DataPath>
 			<EditMode>EnterOnInput</EditMode>
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ChoiceParameterLinks>
+				<xr:Link>
+					<xr:Name>Отбор.Владелец</xr:Name>
+					<xr:DataPath xsi:type="xs:string">Объект.Плательщик</xr:DataPath>
+					<xr:ValueChange>Clear</xr:ValueChange>
+				</xr:Link>
+			</ChoiceParameterLinks>
 			<ContextMenu name="ДоговорКонтрагентаКонтекстноеМеню" id="20"/>
 			<ExtendedTooltip name="ДоговорКонтрагентаРасширеннаяПодсказка" id="21"/>
 		</InputField>
