@@ -64,6 +64,9 @@
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="ВидОперацииКонтекстноеМеню" id="11"/>
 			<ExtendedTooltip name="ВидОперацииРасширеннаяПодсказка" id="12"/>
+			<Events>
+				<Event name="OnChange">ВидОперацииПриИзменении</Event>
+			</Events>
 		</InputField>
 		<LabelField name="ДокументОснование" id="13">
 			<DataPath>Объект.ДокументОснование</DataPath>
