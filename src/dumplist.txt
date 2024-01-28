@@ -1,1 +1,2 @@
-﻿Modified: Subsystem.Продажи.Subsystem.Продажи
+﻿Modified: Catalog.Номенклатура.Form.ФормаСозданияЦены
+Modified: Catalog.Номенклатура.Form.ФормаСозданияЦены.Form

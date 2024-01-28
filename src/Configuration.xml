@@ -49,7 +49,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Игорь Килипенко</Vendor>
-			<Version>Сприн 3</Version>
+			<Version>Сприн 4</Version>
 			<UpdateCatalogAddress/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
@@ -235,12 +235,14 @@
 			<Subsystem>Настройки</Subsystem>
 			<Subsystem>Сервис</Subsystem>
 			<Subsystem>НСИИАдминистрирование</Subsystem>
+			<Subsystem>Деньги</Subsystem>
 			<SessionParameter>ТекущийПользователь</SessionParameter>
 			<Role>Администратор</Role>
 			<Role>Пользователь</Role>
 			<Role>ПолныеПрава</Role>
 			<CommonModule>РаботаСТабличнымиЧастямиГлобальный</CommonModule>
-			<CommonModule>РаботаСЦенамиВызовСеревера</CommonModule>
+			<CommonModule>РаботаСЦенамиВызовСервера</CommonModule>
+			<CommonModule>РаботаСДокументами</CommonModule>
 			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
 			<DefinedType>ФинансовыеДанные</DefinedType>
 			<DefinedType>КоличествоУслуг</DefinedType>
@@ -256,22 +258,39 @@
 			<Catalog>Пользователи</Catalog>
 			<Catalog>Склады</Catalog>
 			<Catalog>ФизическиеЛица</Catalog>
+			<Catalog>СтатьиЗатрат</Catalog>
+			<Catalog>Кассы</Catalog>
+			<Catalog>Банки</Catalog>
+			<Catalog>ЭквайринговыеТерминалы</Catalog>
 			<Document>ПоступлениеТоваровИМатериалов</Document>
 			<Document>ЗаписьКлиента</Document>
 			<Document>РеализацияТоваровИУслуг</Document>
+			<Document>УстановкаУчетнойПолитикиОрганизации</Document>
+			<Document>ПоступлениеУслуг</Document>
+			<Document>ПоступлениеДенежныхСредств</Document>
+			<Document>РасходДенежныхСредств</Document>
 			<Enum>ТипыОрганизаций</Enum>
 			<Enum>ТипыНоменклатуры</Enum>
 			<Enum>ПолФизическогоЛица</Enum>
 			<Enum>ТипыКонтрагентов</Enum>
 			<Enum>ВидыЦенПродажи</Enum>
+			<Enum>ВидыУчетнойПолитики</Enum>
+			<Enum>ВидыОперацийПоступленияДенег</Enum>
+			<Enum>ВидыОперацийРасходаДенег</Enum>
+			<Enum>ТипыДенежныхСредств</Enum>
 			<Report>ОтчетПоТоварамНаСкладах</Report>
 			<Report>ОтчетПоОказаннымУслугам</Report>
+			<Report>ОтчетПоПрибыли</Report>
 			<DataProcessor>ТестыСпринт2</DataProcessor>
 			<InformationRegister>ЦеныНоменклатурыПоставщиков</InformationRegister>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
+			<InformationRegister>УчетнаяПолитика</InformationRegister>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
 			<AccumulationRegister>ЗаказыКлиентов</AccumulationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>
+			<AccumulationRegister>УчетЗатрат</AccumulationRegister>
+			<AccumulationRegister>ДенежныеСредства</AccumulationRegister>
+			<AccumulationRegister>БезналичнаяОплата</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

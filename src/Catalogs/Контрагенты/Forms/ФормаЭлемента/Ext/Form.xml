@@ -72,41 +72,36 @@
 			<ContextMenu name="КонтактныйТелефонКонтекстноеМеню" id="11"/>
 			<ExtendedTooltip name="КонтактныйТелефонРасширеннаяПодсказка" id="12"/>
 		</InputField>
-		<InputField name="ФизическоеЛицоФамилия" id="37">
+		<LabelField name="ФизическоеЛицоФамилия" id="37">
 			<DataPath>Объект.ФизическоеЛицо.Фамилия</DataPath>
 			<ReadOnly>true</ReadOnly>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="ФизическоеЛицоФамилияКонтекстноеМеню" id="38"/>
 			<ExtendedTooltip name="ФизическоеЛицоФамилияРасширеннаяПодсказка" id="39"/>
-		</InputField>
-		<InputField name="ФизическоеЛицоИмя" id="40">
+		</LabelField>
+		<LabelField name="ФизическоеЛицоИмя" id="40">
 			<DataPath>Объект.ФизическоеЛицо.Имя</DataPath>
 			<ReadOnly>true</ReadOnly>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="ФизическоеЛицоИмяКонтекстноеМеню" id="41"/>
 			<ExtendedTooltip name="ФизическоеЛицоИмяРасширеннаяПодсказка" id="42"/>
-		</InputField>
-		<InputField name="ФизическоеЛицоОтчество" id="43">
+		</LabelField>
+		<LabelField name="ФизическоеЛицоОтчество" id="43">
 			<DataPath>Объект.ФизическоеЛицо.Отчество</DataPath>
 			<ReadOnly>true</ReadOnly>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="ФизическоеЛицоОтчествоКонтекстноеМеню" id="44"/>
 			<ExtendedTooltip name="ФизическоеЛицоОтчествоРасширеннаяПодсказка" id="45"/>
-		</InputField>
-		<InputField name="ФизическоеЛицоПол" id="34">
+		</LabelField>
+		<LabelField name="ФизическоеЛицоПол" id="34">
 			<DataPath>Объект.ФизическоеЛицо.Пол</DataPath>
 			<ReadOnly>true</ReadOnly>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="ФизическоеЛицоПолКонтекстноеМеню" id="35"/>
 			<ExtendedTooltip name="ФизическоеЛицоПолРасширеннаяПодсказка" id="36"/>
-		</InputField>
-		<InputField name="ФизическоеЛицоДатаРождения" id="31">
+		</LabelField>
+		<LabelField name="ФизическоеЛицоДатаРождения" id="31">
 			<DataPath>Объект.ФизическоеЛицо.ДатаРождения</DataPath>
 			<ReadOnly>true</ReadOnly>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="ФизическоеЛицоДатаРожденияКонтекстноеМеню" id="32"/>
 			<ExtendedTooltip name="ФизическоеЛицоДатаРожденияРасширеннаяПодсказка" id="33"/>
-		</InputField>
+		</LabelField>
 		<InputField name="Источник" id="19">
 			<DataPath>Объект.Источник</DataPath>
 			<Title>

@@ -74,7 +74,7 @@
                 "Администратор",
                 "-p",
                 "Секрет",
-                "/home/igor/Documents/_onec_dbs/barbershop-db/storage",
+                "~/Documents/_onec_dbs/barbershop-db/storage",
                 "${workspaceRoot}/src"
             ],
             "group": "none",
