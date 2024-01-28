@@ -1,1 +1,2 @@
-﻿Modified: InformationRegister.ЦеныНоменклатуры
+﻿Modified: CommonModule.РаботаСЦенамиВызовСервера
+Modified: CommonModule.РаботаСЦенамиВызовСервера.Module
