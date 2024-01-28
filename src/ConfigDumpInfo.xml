@@ -299,7 +299,7 @@
 		<Metadata name="InformationRegister.УчетнаяПолитика" id="ba7fd621-7311-4390-9da2-7cb2b94cd320" configVersion="0609f6a8caf10745b29607b4af3c704f00000000">
 			<Metadata name="InformationRegister.УчетнаяПолитика.Resource.УчетнаяПолитика" id="badbbd8a-6ece-4d7a-8e29-0e15380a6812"/>
 		</Metadata>
-		<Metadata name="InformationRegister.ЦеныНоменклатуры" id="ac4308fb-47af-469f-b5d8-dca84770e7c1" configVersion="915bc5358f4d08428c8fd83d952966e000000000">
+		<Metadata name="InformationRegister.ЦеныНоменклатуры" id="ac4308fb-47af-469f-b5d8-dca84770e7c1" configVersion="4a492ae074c0154da14d3644a04d386800000000">
 			<Metadata name="InformationRegister.ЦеныНоменклатуры.Dimension.ВидЦены" id="81db743c-11c4-4911-a000-60e3a4614928"/>
 			<Metadata name="InformationRegister.ЦеныНоменклатуры.Dimension.Номенклатура" id="d36c1893-f4a9-4418-80db-416b8b8e9f2e"/>
 			<Metadata name="InformationRegister.ЦеныНоменклатуры.Resource.Цена" id="edd591d1-8373-4fb7-a623-581dfc819f24"/>
