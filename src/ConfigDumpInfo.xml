@@ -199,7 +199,7 @@
 		<Metadata name="Document.ПоступлениеУслуг.Form.ФормаДокумента.Form" id="ca385b32-d0bc-442f-b3cb-0db3fd7ebfc4.0" configVersion="24d4c84ed1b603419e557a2ee83985ec00000000"/>
 		<Metadata name="Document.ПоступлениеУслуг.ManagerModule" id="c255d70e-48ec-4c18-a276-85d6115e230e.2" configVersion="c57f51b9e6747948b3bc4869163eafb800000000"/>
 		<Metadata name="Document.ПоступлениеУслуг.ObjectModule" id="c255d70e-48ec-4c18-a276-85d6115e230e.0" configVersion="b9fcc9b7df32964fbd49664d5df8c31200000000"/>
-		<Metadata name="Document.РасходДенежныхСредств" id="d596a7fa-5da0-45a1-87e1-f113c1f43349" configVersion="ee35130b534cd546a98d1f01c73f55a000000000">
+		<Metadata name="Document.РасходДенежныхСредств" id="d596a7fa-5da0-45a1-87e1-f113c1f43349" configVersion="67501241bbb0b34298e37b7fbfe3c28600000000">
 			<Metadata name="Document.РасходДенежныхСредств.Attribute.ВидОперации" id="2a50b8b0-c4f0-4786-916e-e57d5878043e"/>
 			<Metadata name="Document.РасходДенежныхСредств.Attribute.АвторДокумента" id="36518f6e-500b-4ab4-a6e2-a7f87e428eaf"/>
 			<Metadata name="Document.РасходДенежныхСредств.Attribute.Получатель" id="4ff570c3-bca7-442c-bef1-2f71123e45db"/>
@@ -212,7 +212,7 @@
 		</Metadata>
 		<Metadata name="Document.РасходДенежныхСредств.Form.ФормаДокумента" id="59fdafa9-9946-4160-bc8b-41d7bb7b964b" configVersion="6fd2aa0cc88ffc4692bad6454312a68200000000"/>
 		<Metadata name="Document.РасходДенежныхСредств.Form.ФормаДокумента.Form" id="59fdafa9-9946-4160-bc8b-41d7bb7b964b.0" configVersion="863977161fcfa74a955670f74c114e5b00000000"/>
-		<Metadata name="Document.РасходДенежныхСредств.ObjectModule" id="d596a7fa-5da0-45a1-87e1-f113c1f43349.0" configVersion="617dbc84faf72942b3f3e0ad133b914300000000"/>
+		<Metadata name="Document.РасходДенежныхСредств.ObjectModule" id="d596a7fa-5da0-45a1-87e1-f113c1f43349.0" configVersion="e8e8673b0da04549bae80f48d6695dd300000000"/>
 		<Metadata name="Document.РеализацияТоваровИУслуг" id="a1d460c2-1311-4ee7-8a52-b2936fcaf401" configVersion="9c2e578d5d3156479d651c7ae869ebdc00000000">
 			<Metadata name="Document.РеализацияТоваровИУслуг.TabularSection.Услуги.Attribute.Количество" id="0aabe0f7-d843-4ced-8c68-e2e4850ff2c1"/>
 			<Metadata name="Document.РеализацияТоваровИУслуг.Attribute.СуммаДокумента" id="1a5ca526-e097-4acd-9d38-18147ef9aedc"/>
