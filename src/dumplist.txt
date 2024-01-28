@@ -1,2 +1,5 @@
-﻿Modified: Document.РасходДенежныхСредств
-Modified: Document.РасходДенежныхСредств.ObjectModule
+﻿New: Catalog.Номенклатура.Form.ФормаСозданияЦены
+New: Catalog.Номенклатура.Form.ФормаСозданияЦены.Form
+New: Catalog.Номенклатура.Form.ФормаЭлемента
+New: Catalog.Номенклатура.Form.ФормаЭлемента.Form
+Modified: Catalog.Номенклатура

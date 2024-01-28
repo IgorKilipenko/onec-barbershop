@@ -65,11 +65,15 @@
 		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента" id="72c2fba4-c504-4947-b70b-0eb31beae9c7" configVersion="2811b1c6ad893f4eb04a5673eb6449ac00000000"/>
 		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента.Form" id="72c2fba4-c504-4947-b70b-0eb31beae9c7.0" configVersion="39422f501726a74e9f4178f14cc4c12b00000000"/>
 		<Metadata name="Catalog.Контрагенты.ManagerModule" id="a6a183e3-fac7-4ef4-bbdd-984b32d5c145.3" configVersion="7139e49bc7d4b140ba38948188df737500000000"/>
-		<Metadata name="Catalog.Номенклатура" id="24aa4671-3ec5-4152-8ff3-65d38753139c" configVersion="d8a9aca4f5e31d4a8e0056cfc9cba5e200000000">
+		<Metadata name="Catalog.Номенклатура" id="24aa4671-3ec5-4152-8ff3-65d38753139c" configVersion="5ef45c1458e93948a3c9668e8c8b8be600000000">
 			<Metadata name="Catalog.Номенклатура.Attribute.СтатьяЗатрат" id="0832c8cf-f503-4778-b96e-d93cac8c53ed"/>
 			<Metadata name="Catalog.Номенклатура.Attribute.Артикул" id="2bdd1fb1-f56a-403c-afc3-c9f015c8541d"/>
 			<Metadata name="Catalog.Номенклатура.Attribute.ТипНоменклатуры" id="7b8f17a5-3eb7-4441-b8ed-e387496dac9b"/>
 		</Metadata>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаСозданияЦены" id="94397ef3-8e85-4868-82a6-612b0242b722" configVersion="db88bc3b151e284fb9af5005288cd31200000000"/>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаСозданияЦены.Form" id="94397ef3-8e85-4868-82a6-612b0242b722.0" configVersion="728a0bcdf377f04d946e83ff91c5d69100000000"/>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента" id="1b05e857-4dae-4415-9fbd-bd2793ff31ea" configVersion="35a4e804ca4aea45ae52b37e6e2f25a000000000"/>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента.Form" id="1b05e857-4dae-4415-9fbd-bd2793ff31ea.0" configVersion="74422147909b8d4b9724b7345f09f95800000000"/>
 		<Metadata name="Catalog.Организации" id="d9e4907b-33c2-4a70-be96-f3315ad514a3" configVersion="7afb8c09b71f3b4fb3588c999199213900000000">
 			<Metadata name="Catalog.Организации.Attribute.ТипОрганизации" id="0ef04e38-13c2-4593-9457-6beb894d0cb0"/>
 			<Metadata name="Catalog.Организации.Attribute.ГлавныйБухгалтер" id="8f68021d-494c-40e6-97cd-75f4d4778c73"/>
