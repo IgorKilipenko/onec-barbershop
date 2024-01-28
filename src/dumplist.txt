@@ -1,2 +1,2 @@
-﻿Modified: CommonModule.РаботаСДокументами
-Modified: CommonModule.РаботаСДокументами.Module
+﻿Modified: Document.РасходДенежныхСредств.Form.ФормаДокумента
+Modified: Document.РасходДенежныхСредств.Form.ФормаДокумента.Form

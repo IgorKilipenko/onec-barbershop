@@ -53,6 +53,13 @@
 			<DataPath>Объект.ДоговорКонтрагента</DataPath>
 			<EditMode>EnterOnInput</EditMode>
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ChoiceParameterLinks>
+				<xr:Link>
+					<xr:Name>Отбор.Владелец</xr:Name>
+					<xr:DataPath xsi:type="xs:string">Объект.Получатель</xr:DataPath>
+					<xr:ValueChange>Clear</xr:ValueChange>
+				</xr:Link>
+			</ChoiceParameterLinks>
 			<ContextMenu name="ДоговорКонтрагентаКонтекстноеМеню" id="17"/>
 			<ExtendedTooltip name="ДоговорКонтрагентаРасширеннаяПодсказка" id="18"/>
 		</InputField>
