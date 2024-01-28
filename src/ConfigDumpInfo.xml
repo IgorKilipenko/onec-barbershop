@@ -143,8 +143,8 @@
 			<Metadata name="Document.ЗаписьКлиента.Attribute.Сотрудник" id="e2d8a90d-0955-4b10-b037-af6439d6dbe7"/>
 			<Metadata name="Document.ЗаписьКлиента.Attribute.Комментарий" id="e3d1453d-1ff9-4e36-8d8c-c5ba0325e60d"/>
 		</Metadata>
-		<Metadata name="Document.ЗаписьКлиента.Form.ФормаДокумента" id="a771e78b-dae0-44f1-a5f7-1071e06b23ca" configVersion="05a0e9524532ac4495070da7fc9bca6f00000000"/>
-		<Metadata name="Document.ЗаписьКлиента.Form.ФормаДокумента.Form" id="a771e78b-dae0-44f1-a5f7-1071e06b23ca.0" configVersion="a463b3c1668a4042a3e97323e79950e500000000"/>
+		<Metadata name="Document.ЗаписьКлиента.Form.ФормаДокумента" id="a771e78b-dae0-44f1-a5f7-1071e06b23ca" configVersion="6634a56a460b634d995a87e7d319231f00000000"/>
+		<Metadata name="Document.ЗаписьКлиента.Form.ФормаДокумента.Form" id="a771e78b-dae0-44f1-a5f7-1071e06b23ca.0" configVersion="bd567e4b64359045a469ee70c7d90bb700000000"/>
 		<Metadata name="Document.ЗаписьКлиента.Form.ФормаСписка" id="ebca6e25-5166-4879-ab9a-9dcf4d92c623" configVersion="e08bf105ba038041a96f1c3480caa14300000000"/>
 		<Metadata name="Document.ЗаписьКлиента.Form.ФормаСписка.Form" id="ebca6e25-5166-4879-ab9a-9dcf4d92c623.0" configVersion="a2490a823b03a24a80edb644c408fe7300000000"/>
 		<Metadata name="Document.ЗаписьКлиента.ObjectModule" id="e90aa070-3e4c-4e5a-a825-9fde73ed1ece.0" configVersion="dbe97c083666a04fbfa7e8e7eaebf61c00000000"/>
