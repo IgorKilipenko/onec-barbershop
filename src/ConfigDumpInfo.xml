@@ -62,8 +62,8 @@
 			<Metadata name="Catalog.Контрагенты.Attribute.ОсновнойДоговор" id="d62c73ae-e8c5-4785-a814-3c79847a7e5f"/>
 			<Metadata name="Catalog.Контрагенты.Attribute.ТипКонтрагента" id="d9832766-6dd4-4bf9-8712-8542e5c88aba"/>
 		</Metadata>
-		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента" id="72c2fba4-c504-4947-b70b-0eb31beae9c7" configVersion="2811b1c6ad893f4eb04a5673eb6449ac00000000"/>
-		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента.Form" id="72c2fba4-c504-4947-b70b-0eb31beae9c7.0" configVersion="39422f501726a74e9f4178f14cc4c12b00000000"/>
+		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента" id="72c2fba4-c504-4947-b70b-0eb31beae9c7" configVersion="aba41034b296824e87769868e26ec8f700000000"/>
+		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента.Form" id="72c2fba4-c504-4947-b70b-0eb31beae9c7.0" configVersion="38584dc68027f042a3958e2d82b10ee900000000"/>
 		<Metadata name="Catalog.Контрагенты.ManagerModule" id="a6a183e3-fac7-4ef4-bbdd-984b32d5c145.3" configVersion="7139e49bc7d4b140ba38948188df737500000000"/>
 		<Metadata name="Catalog.Номенклатура" id="24aa4671-3ec5-4152-8ff3-65d38753139c" configVersion="5ef45c1458e93948a3c9668e8c8b8be600000000">
 			<Metadata name="Catalog.Номенклатура.Attribute.СтатьяЗатрат" id="0832c8cf-f503-4778-b96e-d93cac8c53ed"/>
