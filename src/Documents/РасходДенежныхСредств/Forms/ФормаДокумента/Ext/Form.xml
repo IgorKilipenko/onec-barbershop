@@ -29,20 +29,25 @@
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="ВидОперацииКонтекстноеМеню" id="8"/>
 			<ExtendedTooltip name="ВидОперацииРасширеннаяПодсказка" id="9"/>
+			<Events>
+				<Event name="OnChange">ВидОперацииПриИзменении</Event>
+			</Events>
 		</InputField>
-		<InputField name="ДокументОснование" id="10">
+		<LabelField name="ДокументОснование" id="10">
 			<DataPath>Объект.ДокументОснование</DataPath>
 			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="ДокументОснованиеКонтекстноеМеню" id="11"/>
 			<ExtendedTooltip name="ДокументОснованиеРасширеннаяПодсказка" id="12"/>
-		</InputField>
+		</LabelField>
 		<InputField name="Получатель" id="13">
 			<DataPath>Объект.Получатель</DataPath>
 			<EditMode>EnterOnInput</EditMode>
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="ПолучательКонтекстноеМеню" id="14"/>
 			<ExtendedTooltip name="ПолучательРасширеннаяПодсказка" id="15"/>
+			<Events>
+				<Event name="OnChange">ПолучательПриИзменении</Event>
+			</Events>
 		</InputField>
 		<InputField name="ДоговорКонтрагента" id="16">
 			<DataPath>Объект.ДоговорКонтрагента</DataPath>
@@ -57,13 +62,6 @@
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="КассаКонтекстноеМеню" id="20"/>
 			<ExtendedTooltip name="КассаРасширеннаяПодсказка" id="21"/>
-		</InputField>
-		<InputField name="ЭквайринговыйТерминал" id="22">
-			<DataPath>Объект.ЭквайринговыйТерминал</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="ЭквайринговыйТерминалКонтекстноеМеню" id="23"/>
-			<ExtendedTooltip name="ЭквайринговыйТерминалРасширеннаяПодсказка" id="24"/>
 		</InputField>
 		<InputField name="СуммаДокумента" id="25">
 			<DataPath>Объект.СуммаДокумента</DataPath>
@@ -81,6 +79,7 @@
 		</InputField>
 		<InputField name="АвторДокумента" id="31">
 			<DataPath>Объект.АвторДокумента</DataPath>
+			<ReadOnly>true</ReadOnly>
 			<EditMode>EnterOnInput</EditMode>
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="АвторДокументаКонтекстноеМеню" id="32"/>
