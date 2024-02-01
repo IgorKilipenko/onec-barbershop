@@ -131,7 +131,7 @@
 		<Metadata name="DefinedType.КоличествоТоваров" id="7a5d0f3c-5970-4bb2-a767-a036168ef24c" configVersion="6393aeed063dac489275f5abe53c661500000000"/>
 		<Metadata name="DefinedType.КоличествоУслуг" id="2a9446f8-3e74-4503-b109-5024a9e1e49c" configVersion="f0cd902ac9847f4fb3906428abac8f6300000000"/>
 		<Metadata name="DefinedType.ФинансовыеДанные" id="4112a946-7d88-44c3-b5de-01be94c77fce" configVersion="c5abee09ecb636408e0e15137e022e0b00000000"/>
-		<Metadata name="Document.ЗаписьКлиента" id="e90aa070-3e4c-4e5a-a825-9fde73ed1ece" configVersion="eb63b9fb1bb2c0428a8fb089c9c2f26100000000">
+		<Metadata name="Document.ЗаписьКлиента" id="e90aa070-3e4c-4e5a-a825-9fde73ed1ece" configVersion="65eede614b39dc4caab08298e45a478900000000">
 			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги.Attribute.Сумма" id="0d5a12ae-0a23-4fda-bd6f-d90202271b45"/>
 			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги.Attribute.Номенклатура" id="2f19bbe4-4df0-4340-803a-59605ef55c70"/>
 			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги" id="3d2e3aeb-7459-42bc-ade5-de0e122fd017"/>
@@ -143,11 +143,11 @@
 			<Metadata name="Document.ЗаписьКлиента.Attribute.Сотрудник" id="e2d8a90d-0955-4b10-b037-af6439d6dbe7"/>
 			<Metadata name="Document.ЗаписьКлиента.Attribute.Комментарий" id="e3d1453d-1ff9-4e36-8d8c-c5ba0325e60d"/>
 		</Metadata>
-		<Metadata name="Document.ЗаписьКлиента.Form.ФормаДокумента" id="a771e78b-dae0-44f1-a5f7-1071e06b23ca" configVersion="6634a56a460b634d995a87e7d319231f00000000"/>
-		<Metadata name="Document.ЗаписьКлиента.Form.ФормаДокумента.Form" id="a771e78b-dae0-44f1-a5f7-1071e06b23ca.0" configVersion="bd567e4b64359045a469ee70c7d90bb700000000"/>
+		<Metadata name="Document.ЗаписьКлиента.Form.ФормаДокумента" id="a771e78b-dae0-44f1-a5f7-1071e06b23ca" configVersion="c023a3ddde22874f8cb364820158890800000000"/>
+		<Metadata name="Document.ЗаписьКлиента.Form.ФормаДокумента.Form" id="a771e78b-dae0-44f1-a5f7-1071e06b23ca.0" configVersion="db16ff5f7aaa66448e98345ea4708ce900000000"/>
 		<Metadata name="Document.ЗаписьКлиента.Form.ФормаСписка" id="ebca6e25-5166-4879-ab9a-9dcf4d92c623" configVersion="e08bf105ba038041a96f1c3480caa14300000000"/>
 		<Metadata name="Document.ЗаписьКлиента.Form.ФормаСписка.Form" id="ebca6e25-5166-4879-ab9a-9dcf4d92c623.0" configVersion="a2490a823b03a24a80edb644c408fe7300000000"/>
-		<Metadata name="Document.ЗаписьКлиента.ObjectModule" id="e90aa070-3e4c-4e5a-a825-9fde73ed1ece.0" configVersion="dbe97c083666a04fbfa7e8e7eaebf61c00000000"/>
+		<Metadata name="Document.ЗаписьКлиента.ObjectModule" id="e90aa070-3e4c-4e5a-a825-9fde73ed1ece.0" configVersion="0dfea0b419bc634bb7a16eb93bb6742900000000"/>
 		<Metadata name="Document.ПоступлениеДенежныхСредств" id="d37a204f-1db5-4f26-99d8-882cf376b121" configVersion="8265d448614be7449f15b3e5265cc8aa00000000">
 			<Metadata name="Document.ПоступлениеДенежныхСредств.Attribute.Касса" id="00713ac3-69a8-45e9-bbbe-7b4fd778df25"/>
 			<Metadata name="Document.ПоступлениеДенежныхСредств.Attribute.ДоговорКонтрагента" id="096f9b1d-220b-4950-bc71-4feb45433188"/>

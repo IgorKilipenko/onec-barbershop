@@ -1,2 +1,4 @@
-﻿Modified: Report.ОтчетПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных
-Modified: Report.ОтчетПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных.Template
+﻿Modified: Document.ЗаписьКлиента
+Modified: Document.ЗаписьКлиента.Form.ФормаДокумента
+Modified: Document.ЗаписьКлиента.Form.ФормаДокумента.Form
+Modified: Document.ЗаписьКлиента.ObjectModule

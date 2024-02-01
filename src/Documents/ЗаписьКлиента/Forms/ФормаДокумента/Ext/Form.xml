@@ -135,6 +135,9 @@
 				<ContextMenu name="УслугиУправлениеПоискомКонтекстноеМеню" id="33"/>
 				<ExtendedTooltip name="УслугиУправлениеПоискомРасширеннаяПодсказка" id="34"/>
 			</SearchControlAddition>
+			<Events>
+				<Event name="AfterDeleteRow">УслугиПослеУдаления</Event>
+			</Events>
 			<ChildItems>
 				<LabelField name="УслугиНомерСтроки" id="35">
 					<DataPath>Объект.Услуги.LineNumber</DataPath>
@@ -148,9 +151,13 @@
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="УслугиНоменклатураКонтекстноеМеню" id="39"/>
 					<ExtendedTooltip name="УслугиНоменклатураРасширеннаяПодсказка" id="40"/>
+					<Events>
+						<Event name="OnChange">УслугиУслугаПриИзменении</Event>
+					</Events>
 				</InputField>
 				<InputField name="УслугиЦена" id="41">
 					<DataPath>Объект.Услуги.Цена</DataPath>
+					<ReadOnly>true</ReadOnly>
 					<EditMode>EnterOnInput</EditMode>
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="УслугиЦенаКонтекстноеМеню" id="42"/>
