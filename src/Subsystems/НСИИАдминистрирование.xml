@@ -14,10 +14,7 @@
 			<IncludeInCommandInterface>true</IncludeInCommandInterface>
 			<UseOneCommand>false</UseOneCommand>
 			<Explanation/>
-			<Picture>
-				<xr:Ref>StdPicture.Catalog</xr:Ref>
-				<xr:LoadTransparent>true</xr:LoadTransparent>
-			</Picture>
+			<Picture/>
 			<Content>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Банки</xr:Item>
 			</Content>
