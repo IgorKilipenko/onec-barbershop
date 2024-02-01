@@ -22,7 +22,7 @@
 	БезналичнаяОплатаОбороты.ЭквайринговыйТерминал КАК ЭквайринговыйТерминал,
 	БезналичнаяОплатаОбороты.СуммаОборот КАК СуммаОборот
 ИЗ
-	РегистрНакопления.БезналичнаяОплата.Обороты({(&amp;ДатаНачала)}, {(&amp;ДатаОкончания)}, , ) КАК БезналичнаяОплатаОбороты</query>
+	РегистрНакопления.БезналичнаяОплата.Обороты({(&amp;НачалоПериода)}, {(&amp;КонецПериода)}, , ) КАК БезналичнаяОплатаОбороты</query>
 	</dataSet>
 	<totalField>
 		<dataPath>СуммаОборот</dataPath>
@@ -45,11 +45,11 @@
 		<useRestriction>false</useRestriction>
 	</parameter>
 	<parameter>
-		<name>ДатаНачала</name>
+		<name>КонецПериода</name>
 		<title xsi:type="v8:LocalStringType">
 			<v8:item>
 				<v8:lang>ru</v8:lang>
-				<v8:content>Дата начала</v8:content>
+				<v8:content>Конец периода</v8:content>
 			</v8:item>
 		</title>
 		<valueType>
@@ -59,14 +59,14 @@
 			</v8:DateQualifiers>
 		</valueType>
 		<value xsi:type="xs:dateTime">0001-01-01T00:00:00</value>
-		<useRestriction>true</useRestriction>
+		<useRestriction>false</useRestriction>
 	</parameter>
 	<parameter>
-		<name>ДатаОкончания</name>
+		<name>НачалоПериода</name>
 		<title xsi:type="v8:LocalStringType">
 			<v8:item>
 				<v8:lang>ru</v8:lang>
-				<v8:content>Дата окончания</v8:content>
+				<v8:content>Начало периода</v8:content>
 			</v8:item>
 		</title>
 		<valueType>
@@ -76,7 +76,7 @@
 			</v8:DateQualifiers>
 		</valueType>
 		<value xsi:type="xs:dateTime">0001-01-01T00:00:00</value>
-		<useRestriction>true</useRestriction>
+		<useRestriction>false</useRestriction>
 	</parameter>
 	<settingsVariant>
 		<dcsset:name>Основной</dcsset:name>

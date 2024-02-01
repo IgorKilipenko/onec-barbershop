@@ -1,5 +1,2 @@
-﻿New: Report.ОтчетПоБезналичнойОплате
-New: Report.ОтчетПоБезналичнойОплате.Template.ОсновнаяСхемаКомпоновкиДанных
-New: Report.ОтчетПоБезналичнойОплате.Template.ОсновнаяСхемаКомпоновкиДанных.Template
-Modified: Configuration.Конфигурация
-Modified: Subsystem.Деньги
+﻿Modified: Report.ОтчетПоБезналичнойОплате.Template.ОсновнаяСхемаКомпоновкиДанных
+Modified: Report.ОтчетПоБезналичнойОплате.Template.ОсновнаяСхемаКомпоновкиДанных.Template

@@ -315,8 +315,8 @@
 		</Metadata>
 		<Metadata name="Language.Русский" id="274a006e-1787-4998-b666-401bb6bd30a4" configVersion="0474dd32e54b7044a8f7e1b2197f429900000000"/>
 		<Metadata name="Report.ОтчетПоБезналичнойОплате" id="803ee7db-3ffb-4e05-8f0a-4c9e6770f8a8" configVersion="b6224f83ae51f344a64057ea9d77b3a300000000"/>
-		<Metadata name="Report.ОтчетПоБезналичнойОплате.Template.ОсновнаяСхемаКомпоновкиДанных" id="5493bf17-c613-4c51-a458-c25ad11f754e" configVersion="8128329a3cebc649ab5887433d2b156000000000"/>
-		<Metadata name="Report.ОтчетПоБезналичнойОплате.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="5493bf17-c613-4c51-a458-c25ad11f754e.0" configVersion="08709b7e3929844792db136efe31c05300000000"/>
+		<Metadata name="Report.ОтчетПоБезналичнойОплате.Template.ОсновнаяСхемаКомпоновкиДанных" id="5493bf17-c613-4c51-a458-c25ad11f754e" configVersion="bdf56acde48a6847813d2d1ffc7d9ec300000000"/>
+		<Metadata name="Report.ОтчетПоБезналичнойОплате.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="5493bf17-c613-4c51-a458-c25ad11f754e.0" configVersion="0853e972ebe0e94cb0900a40fa3ba87100000000"/>
 		<Metadata name="Report.ОтчетПоОказаннымУслугам" id="535b5b83-e6b0-4c88-8d35-a04ff7e1a4e6" configVersion="79602a8b2a04c94286ce92e8ab7927bd00000000"/>
 		<Metadata name="Report.ОтчетПоОказаннымУслугам.Template.ОсновнаяСхемаКомпоновкиДанных" id="f8a7abbe-e362-4330-a3d8-84fd553f3b72" configVersion="5296685bd0ac8a4c8d221ab8a13757fc00000000"/>
 		<Metadata name="Report.ОтчетПоОказаннымУслугам.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="f8a7abbe-e362-4330-a3d8-84fd553f3b72.0" configVersion="7c28da84752b294d94ef082680c211e900000000"/>
