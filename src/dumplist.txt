@@ -1,2 +1,5 @@
-﻿Modified: Document.ЗаписьКлиента.Form.ФормаДокумента
-Modified: Document.ЗаписьКлиента.Form.ФормаДокумента.Form
+﻿New: Report.ОтчетПоБезналичнойОплате
+New: Report.ОтчетПоБезналичнойОплате.Template.ОсновнаяСхемаКомпоновкиДанных
+New: Report.ОтчетПоБезналичнойОплате.Template.ОсновнаяСхемаКомпоновкиДанных.Template
+Modified: Configuration.Конфигурация
+Modified: Subsystem.Деньги
