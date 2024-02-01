@@ -117,7 +117,25 @@
 		<Metadata name="CommonModule.РаботаСТабличнымиЧастямиГлобальный.Module" id="ea688770-9c63-49e9-bae0-ba2c71a29cbd.0" configVersion="a1d64af7953a6940bb5274f6754a7cad00000000"/>
 		<Metadata name="CommonModule.РаботаСЦенамиВызовСервера" id="1008940a-4842-4371-b431-8445a9281585" configVersion="066f029693d0ed438ca70ce1889d02a800000000"/>
 		<Metadata name="CommonModule.РаботаСЦенамиВызовСервера.Module" id="1008940a-4842-4371-b431-8445a9281585.0" configVersion="155b7c06d3a4ce499e32d3a7a634d3f000000000"/>
-		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="d7ef33f3743f554e862a479c7b36b16900000000"/>
+		<Metadata name="CommonPicture.БизнесПроцессы" id="adaaa746-f749-4206-9175-7fb3a0496544" configVersion="1d3b2d4d88b1524aac77f0bd3c9ad68b00000000"/>
+		<Metadata name="CommonPicture.БизнесПроцессы.Picture" id="adaaa746-f749-4206-9175-7fb3a0496544.0" configVersion="345d77427a1aa645b971f2597d74361200000000"/>
+		<Metadata name="CommonPicture.БухгалтерскийУчет" id="e8a5d61d-7aba-4a4e-ac55-7065fc7c3ff9" configVersion="1fd13d170e589c459ce4ab78f93bcec600000000"/>
+		<Metadata name="CommonPicture.БухгалтерскийУчет.Picture" id="e8a5d61d-7aba-4a4e-ac55-7065fc7c3ff9.0" configVersion="65de92bc6640804cb281de673bbe9bae00000000"/>
+		<Metadata name="CommonPicture.Главное" id="17ea8860-d6cf-4fe9-9566-fb9d8cdcca4b" configVersion="428523bff3adbd41b02041159d1a47f400000000"/>
+		<Metadata name="CommonPicture.Главное.Picture" id="17ea8860-d6cf-4fe9-9566-fb9d8cdcca4b.0" configVersion="f615f5939357ad4da521dc79886b1f0200000000"/>
+		<Metadata name="CommonPicture.Деньги" id="f06b80b5-1fa1-4930-b0b2-cfb62da9082c" configVersion="d5d52e0d964ddb4eaaf6ecad0363033c00000000"/>
+		<Metadata name="CommonPicture.Деньги.Picture" id="f06b80b5-1fa1-4930-b0b2-cfb62da9082c.0" configVersion="1e28662f8734e94fa7f8ef8bd561154500000000"/>
+		<Metadata name="CommonPicture.Настройки" id="4b270235-4d9f-474c-8d0f-56e8449d9622" configVersion="5df3b2e70a25bc4fa9d331765683b68300000000"/>
+		<Metadata name="CommonPicture.Настройки.Picture" id="4b270235-4d9f-474c-8d0f-56e8449d9622.0" configVersion="829071a5d5d13a4d98d74709642a7bf500000000"/>
+		<Metadata name="CommonPicture.Персонал" id="42457a92-f84f-47be-b93c-2a84e9a2bbd8" configVersion="8b5249341802a44c8470659609eb971300000000"/>
+		<Metadata name="CommonPicture.Персонал.Picture" id="42457a92-f84f-47be-b93c-2a84e9a2bbd8.0" configVersion="45a067336a437441a8ec9a4bc5c06d3400000000"/>
+		<Metadata name="CommonPicture.Покупки" id="960eeac9-3161-477c-a690-474d3f040abd" configVersion="933b78436dad594dbf0e50951e8946b100000000"/>
+		<Metadata name="CommonPicture.Покупки.Picture" id="960eeac9-3161-477c-a690-474d3f040abd.0" configVersion="c85965d6788d0f459f8d6ddd165c7de400000000"/>
+		<Metadata name="CommonPicture.Продажи" id="51a79af0-8692-4460-b9c8-156fc59c1aba" configVersion="1dc5d3c64044f54b97cb347ed8b004ca00000000"/>
+		<Metadata name="CommonPicture.Продажи.Picture" id="51a79af0-8692-4460-b9c8-156fc59c1aba.0" configVersion="bdb6e99500c15947a896c9e352af9a8800000000"/>
+		<Metadata name="CommonPicture.Справочники" id="79b9328d-ed7d-418b-a93e-40f925149ef6" configVersion="d030f1775f0a114094e3776a5457e57f00000000"/>
+		<Metadata name="CommonPicture.Справочники.Picture" id="79b9328d-ed7d-418b-a93e-40f925149ef6.0" configVersion="aecf472f5c86e543998eebf5f100ff5400000000"/>
+		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="0b84e966eeab4243b52e756b7045665900000000"/>
 		<Metadata name="Configuration.Конфигурация.ClientApplicationInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.b" configVersion="b92f149d3e0b0c4ab78dfcd31511ff3700000000"/>
 		<Metadata name="Configuration.Конфигурация.CommandInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.a" configVersion="ce8c15cbda4c074aa203ffc32401319600000000"/>
 		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.8" configVersion="6dd0b46c1291d34da48f6ba66ce78f1700000000"/>

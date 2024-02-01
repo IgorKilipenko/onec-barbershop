@@ -236,6 +236,15 @@
 			<Subsystem>Сервис</Subsystem>
 			<Subsystem>НСИИАдминистрирование</Subsystem>
 			<Subsystem>Деньги</Subsystem>
+			<CommonPicture>Справочники</CommonPicture>
+			<CommonPicture>БизнесПроцессы</CommonPicture>
+			<CommonPicture>БухгалтерскийУчет</CommonPicture>
+			<CommonPicture>Главное</CommonPicture>
+			<CommonPicture>Деньги</CommonPicture>
+			<CommonPicture>Настройки</CommonPicture>
+			<CommonPicture>Персонал</CommonPicture>
+			<CommonPicture>Покупки</CommonPicture>
+			<CommonPicture>Продажи</CommonPicture>
 			<SessionParameter>ТекущийПользователь</SessionParameter>
 			<Role>Администратор</Role>
 			<Role>Пользователь</Role>
