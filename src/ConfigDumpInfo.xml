@@ -321,8 +321,8 @@
 		<Metadata name="Report.ОтчетПоПрибыли.Template.ОсновнаяСхемаКомпоновкиДанных" id="bb5c4607-721b-4d3a-b93a-8d04bafcbc0e" configVersion="01bff6153642704b88c82570e468ffd000000000"/>
 		<Metadata name="Report.ОтчетПоПрибыли.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="bb5c4607-721b-4d3a-b93a-8d04bafcbc0e.0" configVersion="12f3e9f3a2dd4042ac8c7cba5feb99d400000000"/>
 		<Metadata name="Report.ОтчетПоТоварамНаСкладах" id="3e981421-ea0f-4e5a-9fc8-f8a4ea3500e9" configVersion="3a8fb77606739942b2dfee715883204e00000000"/>
-		<Metadata name="Report.ОтчетПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных" id="f1ca54af-9e80-4fcb-af6d-4827e7598a61" configVersion="73bdee7923caac46afc1a7b52638b65300000000"/>
-		<Metadata name="Report.ОтчетПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="f1ca54af-9e80-4fcb-af6d-4827e7598a61.0" configVersion="a0d61e3a8b29444fbfc220fdd318075600000000"/>
+		<Metadata name="Report.ОтчетПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных" id="f1ca54af-9e80-4fcb-af6d-4827e7598a61" configVersion="e727861b572e99449979e0ae19c2139e00000000"/>
+		<Metadata name="Report.ОтчетПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="f1ca54af-9e80-4fcb-af6d-4827e7598a61.0" configVersion="26f382343645ad4cb46a2a75b0c9ad0d00000000"/>
 		<Metadata name="Role.Администратор" id="cbb4537d-fb62-4107-b8b9-ef29035db7e6" configVersion="d657a4b4762d3849af3b5389752573a200000000"/>
 		<Metadata name="Role.Администратор.Rights" id="cbb4537d-fb62-4107-b8b9-ef29035db7e6.0" configVersion="01e10d36fb96cd4dbb928bb563b41f5f00000000"/>
 		<Metadata name="Role.ПолныеПрава" id="72fb1f95-de1f-40e6-b570-73ca5adc4975" configVersion="8931a38fdb9c9945b633918a4924de2c00000000"/>
