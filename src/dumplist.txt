@@ -1,1 +1,4 @@
-﻿Modified: Configuration.Конфигурация
+﻿New: Configuration.Конфигурация.Logo
+New: Configuration.Конфигурация.MainSectionPicture
+New: Configuration.Конфигурация.Splash
+Modified: Configuration.Конфигурация

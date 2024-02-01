@@ -135,13 +135,16 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="51a79af0-8692-4460-b9c8-156fc59c1aba.0" configVersion="bdb6e99500c15947a896c9e352af9a8800000000"/>
 		<Metadata name="CommonPicture.Справочники" id="79b9328d-ed7d-418b-a93e-40f925149ef6" configVersion="d030f1775f0a114094e3776a5457e57f00000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="79b9328d-ed7d-418b-a93e-40f925149ef6.0" configVersion="aecf472f5c86e543998eebf5f100ff5400000000"/>
-		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="73d61adcefa39f4dad6c7dedb0a20f8500000000"/>
+		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="4d96a2d94da25447b0ed3134591a8aa200000000"/>
 		<Metadata name="Configuration.Конфигурация.ClientApplicationInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.b" configVersion="184f50c9d5ac3b45b93a2d189689c80700000000"/>
 		<Metadata name="Configuration.Конфигурация.CommandInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.a" configVersion="ce8c15cbda4c074aa203ffc32401319600000000"/>
 		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.8" configVersion="6dd0b46c1291d34da48f6ba66ce78f1700000000"/>
+		<Metadata name="Configuration.Конфигурация.Logo" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.1" configVersion="bf9d0ef161a5a54c9c589638bd13657f00000000"/>
 		<Metadata name="Configuration.Конфигурация.MainSectionCommandInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.9" configVersion="6b934005db41364a981c142e1ba75aae00000000"/>
+		<Metadata name="Configuration.Конфигурация.MainSectionPicture" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.c" configVersion="b919cfe0d3e17f4ab45ec4f8a4dea98700000000"/>
 		<Metadata name="Configuration.Конфигурация.ManagedApplicationModule" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.6" configVersion="dc04043dba4f954f9a9641c933e0611b00000000"/>
 		<Metadata name="Configuration.Конфигурация.SessionModule" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.7" configVersion="78e237bd23d02b47aea1c0fe012947e400000000"/>
+		<Metadata name="Configuration.Конфигурация.Splash" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.2" configVersion="acc01d56198196479f29c790ca61888d00000000"/>
 		<Metadata name="Constant.ИспользоватьСклады" id="fab850d7-c284-44c9-b066-96d96aecc595" configVersion="52b7b59263f9de49bd79a897d8964c7f00000000"/>
 		<Metadata name="DataProcessor.ТестыСпринт2" id="f6a21b04-033f-4a96-bcab-08233b01f80a" configVersion="26963780a30e4541a5aeea0c5ce28de500000000"/>
 		<Metadata name="DataProcessor.ТестыСпринт2.Form.Форма" id="5232f284-ca58-480f-adf5-53b35cf0bf3d" configVersion="2070abf81721ed42bc77c1fba4469ee600000000"/>
