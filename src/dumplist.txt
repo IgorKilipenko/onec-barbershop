@@ -1,4 +1,2 @@
-﻿New: Configuration.Конфигурация.Logo
-New: Configuration.Конфигурация.MainSectionPicture
-New: Configuration.Конфигурация.Splash
-Modified: Configuration.Конфигурация
+﻿Modified: Catalog.Контрагенты.Form.ФормаЭлемента
+Modified: Catalog.Контрагенты.Form.ФормаЭлемента.Form
