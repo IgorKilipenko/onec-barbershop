@@ -1,3 +1,2 @@
-﻿Modified: Document.ПоступлениеДенежныхСредств
-Modified: Document.ПоступлениеДенежныхСредств.ManagerModule
-Modified: Document.ПоступлениеДенежныхСредств.ObjectModule
+﻿Modified: Document.РеализацияТоваровИУслуг
+Modified: Document.РеализацияТоваровИУслуг.ObjectModule
