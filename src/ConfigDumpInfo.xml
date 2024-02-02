@@ -50,9 +50,10 @@
 		<Metadata name="Catalog.Должности" id="528ef307-f8f2-429b-a5ea-d08c2cd56d97" configVersion="e03b2c0ad2948f4dbd15fde375a4ddec00000000"/>
 		<Metadata name="Catalog.ИсточникиПолученияИнформацииОКомпании" id="eba4f085-1f45-4165-9d5a-a9af48d93a6c" configVersion="dfc8761653b6c84db8411becfe41adbe00000000"/>
 		<Metadata name="Catalog.ИсточникиПолученияИнформацииОКомпании.Predefined" id="eba4f085-1f45-4165-9d5a-a9af48d93a6c.1c" configVersion="f5278d67ce971644b6f38e29588f4fab00000000"/>
-		<Metadata name="Catalog.Кассы" id="1ffab3f1-44b7-4cf7-8049-a6ed7f03b201" configVersion="4b6d075bd121f241850d5b2653e710c800000000">
+		<Metadata name="Catalog.Кассы" id="1ffab3f1-44b7-4cf7-8049-a6ed7f03b201" configVersion="e0d39cd814c46247939f5ee979aaa4ad00000000">
 			<Metadata name="Catalog.Кассы.Attribute.Ответственный" id="3fe0fda7-857d-4e67-a88d-0397dd71460b"/>
 		</Metadata>
+		<Metadata name="Catalog.Кассы.ManagerModule" id="1ffab3f1-44b7-4cf7-8049-a6ed7f03b201.3" configVersion="d1d3c056cec7c24882571eff925d3a8000000000"/>
 		<Metadata name="Catalog.Контрагенты" id="a6a183e3-fac7-4ef4-bbdd-984b32d5c145" configVersion="8ca6ab58eced4e4884b9cc87b9c2940700000000">
 			<Metadata name="Catalog.Контрагенты.Attribute.Источник" id="004151c2-7c6d-43d1-8342-66c4737eeb55"/>
 			<Metadata name="Catalog.Контрагенты.Attribute.КонтактныйТелефон" id="0c656b87-a9f5-4fe2-884d-99a609ccbe6e"/>

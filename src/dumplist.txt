@@ -1,5 +1,2 @@
-﻿New: Document.ПоступлениеДенежныхСредств.ManagerModule
-Modified: Document.ПоступлениеДенежныхСредств
-Modified: Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента
-Modified: Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента.Form
-Modified: Document.ПоступлениеДенежныхСредств.ObjectModule
+﻿New: Catalog.Кассы.ManagerModule
+Modified: Catalog.Кассы
