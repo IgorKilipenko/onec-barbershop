@@ -1,5 +1,5 @@
-﻿New: Document.ЗаписьКлиента.ManagerModule
-Modified: Document.ЗаписьКлиента
-Modified: Document.ЗаписьКлиента.Form.ФормаДокумента
-Modified: Document.ЗаписьКлиента.Form.ФормаДокумента.Form
-Modified: Document.ЗаписьКлиента.ObjectModule
+﻿New: Document.ПоступлениеДенежныхСредств.ManagerModule
+Modified: Document.ПоступлениеДенежныхСредств
+Modified: Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента
+Modified: Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента.Form
+Modified: Document.ПоступлениеДенежныхСредств.ObjectModule
