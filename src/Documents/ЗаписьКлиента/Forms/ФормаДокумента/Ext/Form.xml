@@ -4,6 +4,9 @@
 	<UsePostingMode>Auto</UsePostingMode>
 	<RepostOnWrite>true</RepostOnWrite>
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
+	<Events>
+		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
+	</Events>
 	<ChildItems>
 		<UsualGroup name="ГруппаШапка" id="50">
 			<Title>
@@ -96,6 +99,12 @@
 							<ContextMenu name="КлиентКонтекстноеМеню" id="8"/>
 							<ExtendedTooltip name="КлиентРасширеннаяПодсказка" id="9"/>
 						</InputField>
+						<CheckBoxField name="УслугаОказана" id="61">
+							<DataPath>Объект.УслугаОказана</DataPath>
+							<CheckBoxType>Auto</CheckBoxType>
+							<ContextMenu name="УслугаОказанаКонтекстноеМеню" id="62"/>
+							<ExtendedTooltip name="УслугаОказанаРасширеннаяПодсказка" id="63"/>
+						</CheckBoxField>
 					</ChildItems>
 				</UsualGroup>
 			</ChildItems>
