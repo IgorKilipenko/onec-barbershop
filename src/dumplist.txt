@@ -1,2 +1,3 @@
-﻿New: Catalog.Кассы.ManagerModule
-Modified: Catalog.Кассы
+﻿Modified: Document.ПоступлениеДенежныхСредств
+Modified: Document.ПоступлениеДенежныхСредств.ManagerModule
+Modified: Document.ПоступлениеДенежныхСредств.ObjectModule
