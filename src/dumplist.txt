@@ -1,3 +1,2 @@
-﻿New: CommonModule.РаботаСМетаданными
-New: CommonModule.РаботаСМетаданными.Module
-Modified: Configuration.Конфигурация
+﻿Modified: Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента
+Modified: Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента.Form
