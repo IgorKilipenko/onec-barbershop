@@ -1,2 +1,2 @@
-﻿Modified: Document.РеализацияТоваровИУслуг
-Modified: Document.РеализацияТоваровИУслуг.ObjectModule
+﻿Modified: CommonModule.РаботаСДокументами
+Modified: CommonModule.РаботаСДокументами.Module

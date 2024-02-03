@@ -112,8 +112,8 @@
 			<Metadata name="Catalog.ЭквайринговыеТерминалы.Attribute.Касса" id="0321f382-6f2e-414a-9a80-4bb734f55df9"/>
 			<Metadata name="Catalog.ЭквайринговыеТерминалы.Attribute.Банк" id="568d4d92-a50c-4846-8f23-3bd7b6689d79"/>
 		</Metadata>
-		<Metadata name="CommonModule.РаботаСДокументами" id="83d0ebd2-994c-4b49-8a56-581398e6f02b" configVersion="8d94570666b09c44af375cd67e7bb4cb00000000"/>
-		<Metadata name="CommonModule.РаботаСДокументами.Module" id="83d0ebd2-994c-4b49-8a56-581398e6f02b.0" configVersion="9b08c6836e5e1342a45df71c2e3b435000000000"/>
+		<Metadata name="CommonModule.РаботаСДокументами" id="83d0ebd2-994c-4b49-8a56-581398e6f02b" configVersion="399b559c0947db469b0d9db081df27b200000000"/>
+		<Metadata name="CommonModule.РаботаСДокументами.Module" id="83d0ebd2-994c-4b49-8a56-581398e6f02b.0" configVersion="10dcb6df8e78e84290c127bbade010c200000000"/>
 		<Metadata name="CommonModule.РаботаСТабличнымиЧастямиГлобальный" id="ea688770-9c63-49e9-bae0-ba2c71a29cbd" configVersion="43f28fadd0c09a4b870021855059555300000000"/>
 		<Metadata name="CommonModule.РаботаСТабличнымиЧастямиГлобальный.Module" id="ea688770-9c63-49e9-bae0-ba2c71a29cbd.0" configVersion="a1d64af7953a6940bb5274f6754a7cad00000000"/>
 		<Metadata name="CommonModule.РаботаСЦенамиВызовСервера" id="1008940a-4842-4371-b431-8445a9281585" configVersion="066f029693d0ed438ca70ce1889d02a800000000"/>
