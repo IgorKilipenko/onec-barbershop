@@ -239,8 +239,8 @@
 			<Metadata name="Document.РасходДенежныхСредств.Attribute.ДоговорКонтрагента" id="b7af61e6-2b62-433b-8859-8a7342e3febc"/>
 			<Metadata name="Document.РасходДенежныхСредств.Attribute.ДокументОснование" id="bc3c611e-614d-49ab-8fd9-65d746b0f703"/>
 		</Metadata>
-		<Metadata name="Document.РасходДенежныхСредств.Form.ФормаДокумента" id="59fdafa9-9946-4160-bc8b-41d7bb7b964b" configVersion="6fd2aa0cc88ffc4692bad6454312a68200000000"/>
-		<Metadata name="Document.РасходДенежныхСредств.Form.ФормаДокумента.Form" id="59fdafa9-9946-4160-bc8b-41d7bb7b964b.0" configVersion="863977161fcfa74a955670f74c114e5b00000000"/>
+		<Metadata name="Document.РасходДенежныхСредств.Form.ФормаДокумента" id="59fdafa9-9946-4160-bc8b-41d7bb7b964b" configVersion="b21c9ec3fcce2d4fa14a3bb7d6c2cc7800000000"/>
+		<Metadata name="Document.РасходДенежныхСредств.Form.ФормаДокумента.Form" id="59fdafa9-9946-4160-bc8b-41d7bb7b964b.0" configVersion="b850edb221f21e45b4852db7774dbc3c00000000"/>
 		<Metadata name="Document.РасходДенежныхСредств.ObjectModule" id="d596a7fa-5da0-45a1-87e1-f113c1f43349.0" configVersion="e8e8673b0da04549bae80f48d6695dd300000000"/>
 		<Metadata name="Document.РеализацияТоваровИУслуг" id="a1d460c2-1311-4ee7-8a52-b2936fcaf401" configVersion="f96f465a6acd304ca5029f57fc14a06600000000">
 			<Metadata name="Document.РеализацияТоваровИУслуг.TabularSection.Услуги.Attribute.Количество" id="0aabe0f7-d843-4ced-8c68-e2e4850ff2c1"/>
