@@ -54,7 +54,7 @@
 			<Metadata name="Catalog.Кассы.Attribute.Ответственный" id="3fe0fda7-857d-4e67-a88d-0397dd71460b"/>
 		</Metadata>
 		<Metadata name="Catalog.Кассы.ManagerModule" id="1ffab3f1-44b7-4cf7-8049-a6ed7f03b201.3" configVersion="d1d3c056cec7c24882571eff925d3a8000000000"/>
-		<Metadata name="Catalog.Контрагенты" id="a6a183e3-fac7-4ef4-bbdd-984b32d5c145" configVersion="8ca6ab58eced4e4884b9cc87b9c2940700000000">
+		<Metadata name="Catalog.Контрагенты" id="a6a183e3-fac7-4ef4-bbdd-984b32d5c145" configVersion="af0032b9b9a6a049831008e9f41286a000000000">
 			<Metadata name="Catalog.Контрагенты.Attribute.Источник" id="004151c2-7c6d-43d1-8342-66c4737eeb55"/>
 			<Metadata name="Catalog.Контрагенты.Attribute.КонтактныйТелефон" id="0c656b87-a9f5-4fe2-884d-99a609ccbe6e"/>
 			<Metadata name="Catalog.Контрагенты.Attribute.ФизическоеЛицо" id="2b197a0e-be54-4748-8d9d-ab15088a0517"/>
@@ -65,7 +65,7 @@
 		</Metadata>
 		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента" id="72c2fba4-c504-4947-b70b-0eb31beae9c7" configVersion="d15682c416ef7941af660c77f3bbe40500000000"/>
 		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента.Form" id="72c2fba4-c504-4947-b70b-0eb31beae9c7.0" configVersion="e845c7d8ab03544897a941b0d5f5ee0400000000"/>
-		<Metadata name="Catalog.Контрагенты.ManagerModule" id="a6a183e3-fac7-4ef4-bbdd-984b32d5c145.3" configVersion="7139e49bc7d4b140ba38948188df737500000000"/>
+		<Metadata name="Catalog.Контрагенты.ManagerModule" id="a6a183e3-fac7-4ef4-bbdd-984b32d5c145.3" configVersion="e06fc0921c7f854db658d02d291a850900000000"/>
 		<Metadata name="Catalog.Номенклатура" id="24aa4671-3ec5-4152-8ff3-65d38753139c" configVersion="5ef45c1458e93948a3c9668e8c8b8be600000000">
 			<Metadata name="Catalog.Номенклатура.Attribute.СтатьяЗатрат" id="0832c8cf-f503-4778-b96e-d93cac8c53ed"/>
 			<Metadata name="Catalog.Номенклатура.Attribute.Артикул" id="2bdd1fb1-f56a-403c-afc3-c9f015c8541d"/>

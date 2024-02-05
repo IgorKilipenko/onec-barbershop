@@ -1,2 +1,2 @@
-﻿Modified: Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента
-Modified: Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента.Form
+﻿Modified: Catalog.Контрагенты
+Modified: Catalog.Контрагенты.ManagerModule
