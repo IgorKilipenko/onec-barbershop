@@ -11,6 +11,11 @@
 			<ContextMenu name="ДокументОснованиеКонтекстноеМеню" id="99"/>
 			<ExtendedTooltip name="ДокументОснованиеРасширеннаяПодсказка" id="100"/>
 		</LabelField>
+		<LabelField name="ПризнакОплаты" id="101">
+			<DataPath>Объект.ПризнакОплаты</DataPath>
+			<ContextMenu name="ПризнакОплатыКонтекстноеМеню" id="102"/>
+			<ExtendedTooltip name="ПризнакОплатыРасширеннаяПодсказка" id="103"/>
+		</LabelField>
 		<UsualGroup name="ГруппаШапка" id="87">
 			<Title>
 				<v8:item>
