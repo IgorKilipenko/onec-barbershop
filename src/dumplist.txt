@@ -1,2 +1,2 @@
-﻿Modified: Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента
-Modified: Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента.Form
+﻿New: Enum.ОплатаДокумента
+Modified: Configuration.Конфигурация

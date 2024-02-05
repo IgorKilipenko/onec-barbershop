@@ -138,7 +138,7 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="51a79af0-8692-4460-b9c8-156fc59c1aba.0" configVersion="bdb6e99500c15947a896c9e352af9a8800000000"/>
 		<Metadata name="CommonPicture.Справочники" id="79b9328d-ed7d-418b-a93e-40f925149ef6" configVersion="d030f1775f0a114094e3776a5457e57f00000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="79b9328d-ed7d-418b-a93e-40f925149ef6.0" configVersion="aecf472f5c86e543998eebf5f100ff5400000000"/>
-		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="e980935983ed6547acb356360e5408b600000000"/>
+		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="89c7477146146b4ba64eeb1c5486f03c00000000"/>
 		<Metadata name="Configuration.Конфигурация.ClientApplicationInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.b" configVersion="184f50c9d5ac3b45b93a2d189689c80700000000"/>
 		<Metadata name="Configuration.Конфигурация.CommandInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.a" configVersion="ce8c15cbda4c074aa203ffc32401319600000000"/>
 		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.8" configVersion="6dd0b46c1291d34da48f6ba66ce78f1700000000"/>
@@ -301,6 +301,11 @@
 		<Metadata name="Enum.ВидыЦенПродажи" id="7dcb7630-d74c-4a9f-a19f-abafe309093c" configVersion="4b1fcec77fe8914ea7aaadadc51f620a00000000">
 			<Metadata name="Enum.ВидыЦенПродажи.EnumValue.Дисконт" id="6f15c5f4-6b00-4b64-a868-98bebdc2cc8e"/>
 			<Metadata name="Enum.ВидыЦенПродажи.EnumValue.РозничнаяЦена" id="755e17eb-ef59-4ffe-bdca-c9f1e9b31564"/>
+		</Metadata>
+		<Metadata name="Enum.ОплатаДокумента" id="5f32ebf5-ee1f-4d98-872a-efd8c8d6d1cf" configVersion="1957cb1c4334c34fbe17825cf14e71bf00000000">
+			<Metadata name="Enum.ОплатаДокумента.EnumValue.ПолностьюОплачен" id="67c22094-4807-4068-9507-760ced83da10"/>
+			<Metadata name="Enum.ОплатаДокумента.EnumValue.НеОплачен" id="9fdb3c18-4acb-4c68-8983-a0faf6b9e1d0"/>
+			<Metadata name="Enum.ОплатаДокумента.EnumValue.ЧастичноОплачен" id="a9db2816-5b07-4838-a2a1-1a7eda68485f"/>
 		</Metadata>
 		<Metadata name="Enum.ПолФизическогоЛица" id="05f9a091-590d-4b74-b968-13a5ef0e39c4" configVersion="2fb5503e868e8f4b976bd4005fbcbf9f00000000">
 			<Metadata name="Enum.ПолФизическогоЛица.EnumValue.Женский" id="60785697-56e3-4f8c-8a25-dfb4bf1cc255"/>
