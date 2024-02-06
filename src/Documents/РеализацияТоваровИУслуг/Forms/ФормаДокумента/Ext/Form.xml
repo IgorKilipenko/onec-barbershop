@@ -4,6 +4,9 @@
 	<UsePostingMode>Auto</UsePostingMode>
 	<RepostOnWrite>true</RepostOnWrite>
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
+	<Events>
+		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
+	</Events>
 	<ChildItems>
 		<LabelField name="ДокументОснование" id="98">
 			<DataPath>Объект.ДокументОснование</DataPath>
@@ -13,6 +16,9 @@
 		</LabelField>
 		<LabelField name="ПризнакОплаты" id="101">
 			<DataPath>Объект.ПризнакОплаты</DataPath>
+			<ReadOnly>true</ReadOnly>
+			<TitleLocation>None</TitleLocation>
+			<Hiperlink>true</Hiperlink>
 			<ContextMenu name="ПризнакОплатыКонтекстноеМеню" id="102"/>
 			<ExtendedTooltip name="ПризнакОплатыРасширеннаяПодсказка" id="103"/>
 		</LabelField>
