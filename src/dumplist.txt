@@ -1,3 +1,2 @@
-﻿New: CommonModule.РаботаСоСтрокамиВызовСервера
-New: CommonModule.РаботаСоСтрокамиВызовСервера.Module
-Modified: Configuration.Конфигурация
+﻿Modified: Document.РеализацияТоваровИУслуг
+Modified: Document.РеализацияТоваровИУслуг.ManagerModule
