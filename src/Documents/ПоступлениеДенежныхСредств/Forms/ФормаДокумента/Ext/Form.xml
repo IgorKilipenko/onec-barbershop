@@ -163,6 +163,14 @@
 				<Type>Auto</Type>
 				<DefaultVisible>false</DefaultVisible>
 			</Item>
+			<Item>
+				<Command>0:edbc2797-8423-4566-9415-6aa46f692394</Command>
+				<Type>Auto</Type>
+				<DefaultVisible>false</DefaultVisible>
+				<Visible>
+					<xr:Common>false</xr:Common>
+				</Visible>
+			</Item>
 		</NavigationPanel>
 	</CommandInterface>
 </Form>

@@ -1,2 +1,7 @@
-﻿Modified: Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента
+﻿New: FilterCriterion.СвязанныеДокументы
+Modified: Configuration.Конфигурация
+Modified: Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента
 Modified: Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента.Form
+Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента
+Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента.Form
+Modified: Subsystem.Сервис

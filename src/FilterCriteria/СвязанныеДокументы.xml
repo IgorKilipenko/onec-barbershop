@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<FilterCriterion uuid="63fe96a9-22e8-4d06-9130-7fa772bbe48f">
+		<InternalInfo>
+			<xr:GeneratedType name="FilterCriterionManager.СвязанныеДокументы" category="Manager">
+				<xr:TypeId>fc7cd28a-50c8-4b9f-8cb8-db339a1c2249</xr:TypeId>
+				<xr:ValueId>318cfe1d-955e-465b-84ac-c4b9c856fa82</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="FilterCriterionList.СвязанныеДокументы" category="List">
+				<xr:TypeId>e0f1b5b0-7fc0-41eb-91f7-07b0de68b39a</xr:TypeId>
+				<xr:ValueId>ef4cafd6-5041-4da6-b0d6-401cda943b3d</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>СвязанныеДокументы</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Связанные документы</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<Type>
+				<v8:Type>cfg:DocumentRef.ПоступлениеТоваровИМатериалов</v8:Type>
+				<v8:Type>cfg:DocumentRef.ПоступлениеДенежныхСредств</v8:Type>
+				<v8:Type>cfg:DocumentRef.ПоступлениеУслуг</v8:Type>
+				<v8:Type>cfg:DocumentRef.РеализацияТоваровИУслуг</v8:Type>
+				<v8:Type>cfg:DocumentRef.РасходДенежныхСредств</v8:Type>
+				<v8:Type>cfg:CatalogRef.Номенклатура</v8:Type>
+				<v8:Type>cfg:DocumentRef.ЗаписьКлиента</v8:Type>
+				<v8:Type>cfg:DocumentRef.УстановкаУчетнойПолитикиОрганизации</v8:Type>
+			</Type>
+			<UseStandardCommands>true</UseStandardCommands>
+			<Content>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.РеализацияТоваровИУслуг.Attribute.ДокументОснование</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПоступлениеДенежныхСредств.Attribute.ДокументОснование</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.РасходДенежныхСредств.Attribute.ДокументОснование</xr:Item>
+			</Content>
+			<DefaultForm/>
+			<AuxiliaryForm/>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+		</Properties>
+		<ChildObjects/>
+	</FilterCriterion>
+</MetaDataObject>

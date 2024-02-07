@@ -18,6 +18,7 @@
 			<Content>
 				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.ТестыСпринт2</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Report.ОтчетПоТоварамНаСкладах</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">FilterCriterion.СвязанныеДокументы</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
