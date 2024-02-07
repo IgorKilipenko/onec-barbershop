@@ -119,6 +119,9 @@
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="СуммаДокументаКонтекстноеМеню" id="29"/>
 			<ExtendedTooltip name="СуммаДокументаРасширеннаяПодсказка" id="30"/>
+			<Events>
+				<Event name="OnChange">СуммаДокументаПриИзменении</Event>
+			</Events>
 		</InputField>
 		<InputField name="Комментарий" id="31">
 			<DataPath>Объект.Комментарий</DataPath>
