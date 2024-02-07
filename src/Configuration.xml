@@ -298,6 +298,7 @@
 			<Report>ОтчетПоБезналичнойОплате</Report>
 			<Report>ОтчетДвиженияНаличныхДенег</Report>
 			<DataProcessor>ТестыСпринт2</DataProcessor>
+			<DataProcessor>МониторРуководителя</DataProcessor>
 			<InformationRegister>ЦеныНоменклатурыПоставщиков</InformationRegister>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<InformationRegister>УчетнаяПолитика</InformationRegister>
