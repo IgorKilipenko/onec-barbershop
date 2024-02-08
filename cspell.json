@@ -4,8 +4,7 @@
     "version": "0.2",
     // language - current active spelling language
     "language": "en,ru,ru-RU",
-    // Specify file types to spell check.
-    "enabledLanguageIds": [
+    "enableFiletypes": [
         "bsl",
         "sdbl"
     ],
