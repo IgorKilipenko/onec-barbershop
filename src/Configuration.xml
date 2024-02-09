@@ -262,6 +262,8 @@
 			<DefinedType>КоличествоУслуг</DefinedType>
 			<DefinedType>КоличествоТоваров</DefinedType>
 			<Constant>ИспользоватьСклады</Constant>
+			<Constant>НачалоРабочегоДня</Constant>
+			<Constant>ОкончаниеРабочегоДня</Constant>
 			<Catalog>Организации</Catalog>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Должности</Catalog>

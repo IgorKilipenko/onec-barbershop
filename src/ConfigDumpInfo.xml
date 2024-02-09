@@ -142,7 +142,7 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="51a79af0-8692-4460-b9c8-156fc59c1aba.0" configVersion="bdb6e99500c15947a896c9e352af9a8800000000"/>
 		<Metadata name="CommonPicture.Справочники" id="79b9328d-ed7d-418b-a93e-40f925149ef6" configVersion="d030f1775f0a114094e3776a5457e57f00000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="79b9328d-ed7d-418b-a93e-40f925149ef6.0" configVersion="aecf472f5c86e543998eebf5f100ff5400000000"/>
-		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="08c8891dc6d3d7418a1cbce857b5999500000000"/>
+		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="a30f38abfae26741a5c48470366f41f100000000"/>
 		<Metadata name="Configuration.Конфигурация.ClientApplicationInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.b" configVersion="184f50c9d5ac3b45b93a2d189689c80700000000"/>
 		<Metadata name="Configuration.Конфигурация.CommandInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.a" configVersion="ce8c15cbda4c074aa203ffc32401319600000000"/>
 		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.8" configVersion="6dd0b46c1291d34da48f6ba66ce78f1700000000"/>
@@ -153,6 +153,8 @@
 		<Metadata name="Configuration.Конфигурация.SessionModule" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.7" configVersion="78e237bd23d02b47aea1c0fe012947e400000000"/>
 		<Metadata name="Configuration.Конфигурация.Splash" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.2" configVersion="acc01d56198196479f29c790ca61888d00000000"/>
 		<Metadata name="Constant.ИспользоватьСклады" id="fab850d7-c284-44c9-b066-96d96aecc595" configVersion="52b7b59263f9de49bd79a897d8964c7f00000000"/>
+		<Metadata name="Constant.НачалоРабочегоДня" id="824bd09b-11cd-4c1c-84e3-e366c387f4bb" configVersion="a5e17654be0d844a9013564dd97641f000000000"/>
+		<Metadata name="Constant.ОкончаниеРабочегоДня" id="9d285c80-a332-4449-9b1e-8be63f6ddec3" configVersion="c0ae9c406d57764d94a6692c6a93c31e00000000"/>
 		<Metadata name="DataProcessor.МониторРуководителя" id="0ac28fd2-4106-4db9-a6b3-de3add653e6f" configVersion="8449d3db7ee70b44ab518fd7b8c0cfcf00000000"/>
 		<Metadata name="DataProcessor.МониторРуководителя.Form.Форма" id="de218de2-1105-403b-9cf8-673a6f638e8a" configVersion="74050b822f7ecc4c818685bb42b6764600000000"/>
 		<Metadata name="DataProcessor.МониторРуководителя.Form.Форма.Form" id="de218de2-1105-403b-9cf8-673a6f638e8a.0" configVersion="16d5ad3bf754b543adb7c502707e850600000000"/>
@@ -385,7 +387,7 @@
 		<Metadata name="Subsystem.НСИИАдминистрирование.Subsystem.Персонал.CommandInterface" id="90b51a74-90f6-4bf3-b938-a89f3d30e732.1" configVersion="62a3186afbc89a45b2002d10c39a8a3a00000000"/>
 		<Metadata name="Subsystem.НСИИАдминистрирование.Subsystem.Продажи" id="4b48634b-275f-4067-93e9-5204a8dacb2b" configVersion="f010490db7745546b431ac93554f6a5400000000"/>
 		<Metadata name="Subsystem.НСИИАдминистрирование.Subsystem.Продажи.CommandInterface" id="4b48634b-275f-4067-93e9-5204a8dacb2b.1" configVersion="6b2f0971c78af842a60c2495baac710300000000"/>
-		<Metadata name="Subsystem.Настройки" id="47f518e8-da48-4612-b6da-2242cf9a477f" configVersion="461a13b40836ba419b4f0149e87a5fea00000000"/>
+		<Metadata name="Subsystem.Настройки" id="47f518e8-da48-4612-b6da-2242cf9a477f" configVersion="62dac8289b13884cb57bcabb2355c89f00000000"/>
 		<Metadata name="Subsystem.Персонал" id="a4f0c756-4cce-4269-bebd-7fa2dfd8ca2e" configVersion="b9c5cb31cb2bd34d855bdab911824eac00000000"/>
 		<Metadata name="Subsystem.Персонал.Subsystem.Справочники" id="a2a5564e-110e-45b6-9bce-091b4d193ae4" configVersion="2f212776e8e60448aa6bcc82f454332b00000000"/>
 		<Metadata name="Subsystem.Персонал.Subsystem.Справочники.CommandInterface" id="a2a5564e-110e-45b6-9bce-091b4d193ae4.1" configVersion="10561862235fbd428610c7b2e4d25d2100000000"/>

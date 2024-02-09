@@ -1,2 +1,4 @@
-﻿Modified: DataProcessor.МониторРуководителя.Form.Форма
-Modified: DataProcessor.МониторРуководителя.Form.Форма.Form
+﻿New: Constant.НачалоРабочегоДня
+New: Constant.ОкончаниеРабочегоДня
+Modified: Configuration.Конфигурация
+Modified: Subsystem.Настройки
