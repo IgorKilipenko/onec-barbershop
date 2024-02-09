@@ -1,6 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Form xmlns="http://v8.1c.ru/8.3/xcf/logform" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:dcscor="http://v8.1c.ru/8.1/data-composition-system/core" xmlns:dcssch="http://v8.1c.ru/8.1/data-composition-system/schema" xmlns:dcsset="http://v8.1c.ru/8.1/data-composition-system/settings" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
+	<Events>
+		<Event name="OnOpen">ПриОткрытии</Event>
+		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
+	</Events>
 	<ChildItems>
 		<UsualGroup name="ГруппаМесяц" id="1">
 			<Title>
@@ -15,14 +19,245 @@
 					<v8:content>Группа месяц</v8:content>
 				</v8:item>
 			</ToolTip>
+			<Representation>None</Representation>
+			<ShowTitle>false</ShowTitle>
 			<ExtendedTooltip name="ГруппаМесяцРасширеннаяПодсказка" id="2"/>
 			<ChildItems>
 				<LabelField name="МесяцСтрокой" id="3">
 					<DataPath>МесяцСтрокой</DataPath>
 					<TitleLocation>None</TitleLocation>
+					<Hiperlink>true</Hiperlink>
 					<ContextMenu name="МесяцСтрокойКонтекстноеМеню" id="4"/>
 					<ExtendedTooltip name="МесяцСтрокойРасширеннаяПодсказка" id="5"/>
+					<Events>
+						<Event name="Click">МесяцСтрокойНажатие</Event>
+					</Events>
 				</LabelField>
+				<Button name="Обновить" id="43">
+					<Type>Hyperlink</Type>
+					<CommandName>Form.Command.Обновить</CommandName>
+					<ExtendedTooltip name="ОбновитьРасширеннаяПодсказка" id="44"/>
+				</Button>
+			</ChildItems>
+		</UsualGroup>
+		<UsualGroup name="ГруппаЧисловыеПоказатели" id="6">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа числовые показатели</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа числовые показатели</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Height>5</Height>
+			<VerticalStretch>false</VerticalStretch>
+			<GroupHorizontalAlign>Center</GroupHorizontalAlign>
+			<GroupVerticalAlign>Top</GroupVerticalAlign>
+			<Group>AlwaysHorizontal</Group>
+			<HorizontalAlign>Center</HorizontalAlign>
+			<VerticalAlign>Top</VerticalAlign>
+			<Representation>None</Representation>
+			<ShowTitle>false</ShowTitle>
+			<ExtendedTooltip name="ГруппаЧисловыеПоказателиРасширеннаяПодсказка" id="7"/>
+			<ChildItems>
+				<UsualGroup name="ГруппаЧисловыеПоказателиВыручка" id="8">
+					<Title>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа числовые показатели выручка</v8:content>
+						</v8:item>
+					</Title>
+					<ToolTip>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа числовые показатели выручка</v8:content>
+						</v8:item>
+					</ToolTip>
+					<Width>25</Width>
+					<VerticalStretch>true</VerticalStretch>
+					<Group>Vertical</Group>
+					<VerticalAlign>Top</VerticalAlign>
+					<Representation>None</Representation>
+					<ShowTitle>false</ShowTitle>
+					<BackColor>style:BorderColor</BackColor>
+					<ExtendedTooltip name="ГруппаЧисловыеПоказателиВыручкаРасширеннаяПодсказка" id="9"/>
+					<ChildItems>
+						<LabelDecoration name="ДекорацияВыручка" id="16">
+							<Title formatted="false">
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Выручка</v8:content>
+								</v8:item>
+							</Title>
+							<GroupHorizontalAlign>Center</GroupHorizontalAlign>
+							<HorizontalAlign>Center</HorizontalAlign>
+							<ContextMenu name="ДекорацияВыручкаКонтекстноеМеню" id="17"/>
+							<ExtendedTooltip name="ДекорацияВыручкаРасширеннаяПодсказка" id="18"/>
+						</LabelDecoration>
+						<LabelField name="ВыручкаЧисло" id="19">
+							<DataPath>ВыручкаЧисло</DataPath>
+							<TitleLocation>None</TitleLocation>
+							<HorizontalAlign>Center</HorizontalAlign>
+							<VerticalAlign>Top</VerticalAlign>
+							<HorizontalStretch>true</HorizontalStretch>
+							<VerticalStretch>false</VerticalStretch>
+							<ContextMenu name="ВыручкаЧислоКонтекстноеМеню" id="20"/>
+							<ExtendedTooltip name="ВыручкаЧислоРасширеннаяПодсказка" id="21"/>
+						</LabelField>
+					</ChildItems>
+				</UsualGroup>
+				<UsualGroup name="ГруппаЧисловыеПоказателиСреднийЧек" id="10">
+					<Title>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа числовые показатели средний чек</v8:content>
+						</v8:item>
+					</Title>
+					<ToolTip>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа числовые показатели средний чек</v8:content>
+						</v8:item>
+					</ToolTip>
+					<Width>25</Width>
+					<VerticalStretch>true</VerticalStretch>
+					<Group>Vertical</Group>
+					<VerticalAlign>Top</VerticalAlign>
+					<Representation>None</Representation>
+					<ShowTitle>false</ShowTitle>
+					<BackColor>style:BorderColor</BackColor>
+					<ExtendedTooltip name="ГруппаЧисловыеПоказателиСреднийЧекРасширеннаяПодсказка" id="11"/>
+					<ChildItems>
+						<LabelDecoration name="ДекорацияСреднийЧек" id="22">
+							<Title formatted="false">
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Средний чек</v8:content>
+								</v8:item>
+							</Title>
+							<GroupHorizontalAlign>Center</GroupHorizontalAlign>
+							<HorizontalAlign>Center</HorizontalAlign>
+							<ContextMenu name="ДекорацияСреднийЧекКонтекстноеМеню" id="23"/>
+							<ExtendedTooltip name="ДекорацияСреднийЧекРасширеннаяПодсказка" id="24"/>
+						</LabelDecoration>
+						<LabelField name="СреднийЧек" id="25">
+							<DataPath>СреднийЧек</DataPath>
+							<TitleLocation>None</TitleLocation>
+							<HorizontalAlign>Center</HorizontalAlign>
+							<VerticalAlign>Top</VerticalAlign>
+							<HorizontalStretch>true</HorizontalStretch>
+							<VerticalStretch>false</VerticalStretch>
+							<ContextMenu name="СреднийЧекКонтекстноеМеню" id="26"/>
+							<ExtendedTooltip name="СреднийЧекРасширеннаяПодсказка" id="27"/>
+						</LabelField>
+					</ChildItems>
+				</UsualGroup>
+				<UsualGroup name="ГруппаЧисловыеПоказателиВсегоЗаписей" id="12">
+					<Title>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа числовые показатели всего записей</v8:content>
+						</v8:item>
+					</Title>
+					<ToolTip>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа числовые показатели всего записей</v8:content>
+						</v8:item>
+					</ToolTip>
+					<Width>25</Width>
+					<VerticalStretch>true</VerticalStretch>
+					<Group>Vertical</Group>
+					<VerticalAlign>Top</VerticalAlign>
+					<Representation>None</Representation>
+					<ShowTitle>false</ShowTitle>
+					<BackColor>style:BorderColor</BackColor>
+					<ExtendedTooltip name="ГруппаЧисловыеПоказателиВсегоЗаписейРасширеннаяПодсказка" id="13"/>
+					<ChildItems>
+						<LabelDecoration name="ДекорацияВсегоЗаписей" id="28">
+							<Title formatted="false">
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Всего записей</v8:content>
+								</v8:item>
+							</Title>
+							<GroupHorizontalAlign>Center</GroupHorizontalAlign>
+							<HorizontalAlign>Center</HorizontalAlign>
+							<ContextMenu name="ДекорацияВсегоЗаписейКонтекстноеМеню" id="29"/>
+							<ExtendedTooltip name="ДекорацияВсегоЗаписейРасширеннаяПодсказка" id="30"/>
+						</LabelDecoration>
+						<LabelField name="ВсегоЗаписей" id="31">
+							<DataPath>ВсегоЗаписей</DataPath>
+							<TitleLocation>None</TitleLocation>
+							<HorizontalAlign>Center</HorizontalAlign>
+							<VerticalAlign>Top</VerticalAlign>
+							<HorizontalStretch>true</HorizontalStretch>
+							<VerticalStretch>false</VerticalStretch>
+							<ContextMenu name="ВсегоЗаписейКонтекстноеМеню" id="32"/>
+							<ExtendedTooltip name="ВсегоЗаписейРасширеннаяПодсказка" id="33"/>
+						</LabelField>
+					</ChildItems>
+				</UsualGroup>
+				<UsualGroup name="ГруппаЧисловыеПоказателиЗавершенных" id="14">
+					<Title>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа числовые показатели завершенных</v8:content>
+						</v8:item>
+					</Title>
+					<ToolTip>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Группа числовые показатели завершенных</v8:content>
+						</v8:item>
+					</ToolTip>
+					<Width>25</Width>
+					<VerticalStretch>true</VerticalStretch>
+					<Group>Vertical</Group>
+					<VerticalAlign>Top</VerticalAlign>
+					<Representation>None</Representation>
+					<ShowTitle>false</ShowTitle>
+					<BackColor>style:BorderColor</BackColor>
+					<ExtendedTooltip name="ГруппаЧисловыеПоказателиЗавершенныхРасширеннаяПодсказка" id="15"/>
+					<ChildItems>
+						<LabelDecoration name="ДекорацияВсегоЗавершенных" id="34">
+							<Title formatted="false">
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Завершенных</v8:content>
+								</v8:item>
+							</Title>
+							<GroupHorizontalAlign>Center</GroupHorizontalAlign>
+							<HorizontalAlign>Center</HorizontalAlign>
+							<ContextMenu name="ДекорацияВсегоЗавершенныхКонтекстноеМеню" id="35"/>
+							<ExtendedTooltip name="ДекорацияВсегоЗавершенныхРасширеннаяПодсказка" id="36"/>
+						</LabelDecoration>
+						<LabelField name="Завершенных" id="37">
+							<DataPath>Завершенных</DataPath>
+							<TitleLocation>None</TitleLocation>
+							<HorizontalAlign>Center</HorizontalAlign>
+							<VerticalAlign>Top</VerticalAlign>
+							<HorizontalStretch>true</HorizontalStretch>
+							<VerticalStretch>false</VerticalStretch>
+							<ContextMenu name="ЗавершенныхКонтекстноеМеню" id="38"/>
+							<ExtendedTooltip name="ЗавершенныхРасширеннаяПодсказка" id="39"/>
+						</LabelField>
+						<LabelField name="ЗавершенныхПроцентСтрока" id="40">
+							<DataPath>ЗавершенныхПроцентСтрока</DataPath>
+							<TitleLocation>None</TitleLocation>
+							<HorizontalAlign>Center</HorizontalAlign>
+							<VerticalAlign>Top</VerticalAlign>
+							<HorizontalStretch>true</HorizontalStretch>
+							<VerticalStretch>false</VerticalStretch>
+							<ContextMenu name="ЗавершенныхПроцентСтрокаКонтекстноеМеню" id="41"/>
+							<ExtendedTooltip name="ЗавершенныхПроцентСтрокаРасширеннаяПодсказка" id="42"/>
+						</LabelField>
+					</ChildItems>
+				</UsualGroup>
 			</ChildItems>
 		</UsualGroup>
 	</ChildItems>
@@ -151,6 +386,7 @@
 				<xr:LoadTransparent>true</xr:LoadTransparent>
 			</Picture>
 			<Action>Обновить</Action>
+			<Representation>Picture</Representation>
 		</Command>
 	</Commands>
 </Form>
