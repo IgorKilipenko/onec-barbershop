@@ -1,3 +1,2 @@
-﻿New: CommonModule.ДиагностикаКлиентСервер
-New: CommonModule.ДиагностикаКлиентСервер.Module
-Modified: Configuration.Конфигурация
+﻿Modified: DataProcessor.МониторРуководителя.Form.Форма
+Modified: DataProcessor.МониторРуководителя.Form.Форма.Form
