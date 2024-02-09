@@ -112,6 +112,8 @@
 			<Metadata name="Catalog.ЭквайринговыеТерминалы.Attribute.Касса" id="0321f382-6f2e-414a-9a80-4bb734f55df9"/>
 			<Metadata name="Catalog.ЭквайринговыеТерминалы.Attribute.Банк" id="568d4d92-a50c-4846-8f23-3bd7b6689d79"/>
 		</Metadata>
+		<Metadata name="CommonModule.ДиагностикаКлиентСервер" id="9d0a9a4c-a8e8-48c5-b840-664d59146786" configVersion="ddee7dfc4ee5864092b7316d16864d9000000000"/>
+		<Metadata name="CommonModule.ДиагностикаКлиентСервер.Module" id="9d0a9a4c-a8e8-48c5-b840-664d59146786.0" configVersion="73a4d7c304af41499542a8f45ed983a900000000"/>
 		<Metadata name="CommonModule.РаботаСДокументами" id="83d0ebd2-994c-4b49-8a56-581398e6f02b" configVersion="2115f28c704afa4dba879b9f0fcd992700000000"/>
 		<Metadata name="CommonModule.РаботаСДокументами.Module" id="83d0ebd2-994c-4b49-8a56-581398e6f02b.0" configVersion="d13c265a22c57443b3c852a2acc39a6100000000"/>
 		<Metadata name="CommonModule.РаботаСМетаданными" id="0ce7d195-d6c2-4f7a-8f35-6d6c5a3293a5" configVersion="8a94bd218de82a4aaa5b561f83732f3200000000"/>
@@ -140,7 +142,7 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="51a79af0-8692-4460-b9c8-156fc59c1aba.0" configVersion="bdb6e99500c15947a896c9e352af9a8800000000"/>
 		<Metadata name="CommonPicture.Справочники" id="79b9328d-ed7d-418b-a93e-40f925149ef6" configVersion="d030f1775f0a114094e3776a5457e57f00000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="79b9328d-ed7d-418b-a93e-40f925149ef6.0" configVersion="aecf472f5c86e543998eebf5f100ff5400000000"/>
-		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="1215196576479d4a8264bfe6503a312500000000"/>
+		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="08c8891dc6d3d7418a1cbce857b5999500000000"/>
 		<Metadata name="Configuration.Конфигурация.ClientApplicationInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.b" configVersion="184f50c9d5ac3b45b93a2d189689c80700000000"/>
 		<Metadata name="Configuration.Конфигурация.CommandInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.a" configVersion="ce8c15cbda4c074aa203ffc32401319600000000"/>
 		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.8" configVersion="6dd0b46c1291d34da48f6ba66ce78f1700000000"/>

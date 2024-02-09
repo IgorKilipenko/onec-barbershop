@@ -256,6 +256,7 @@
 			<CommonModule>РаботаСДокументами</CommonModule>
 			<CommonModule>РаботаСМетаданными</CommonModule>
 			<CommonModule>РаботаСоСтрокамиВызовСервера</CommonModule>
+			<CommonModule>ДиагностикаКлиентСервер</CommonModule>
 			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
 			<DefinedType>ФинансовыеДанные</DefinedType>
 			<DefinedType>КоличествоУслуг</DefinedType>
