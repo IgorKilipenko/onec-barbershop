@@ -105,6 +105,13 @@
 							<ContextMenu name="УслугаОказанаКонтекстноеМеню" id="62"/>
 							<ExtendedTooltip name="УслугаОказанаРасширеннаяПодсказка" id="63"/>
 						</CheckBoxField>
+						<InputField name="ДатаОкончанияЗаписи" id="64">
+							<DataPath>Объект.ДатаОкончанияЗаписи</DataPath>
+							<ReadOnly>true</ReadOnly>
+							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+							<ContextMenu name="ДатаОкончанияЗаписиКонтекстноеМеню" id="65"/>
+							<ExtendedTooltip name="ДатаОкончанияЗаписиРасширеннаяПодсказка" id="66"/>
+						</InputField>
 					</ChildItems>
 				</UsualGroup>
 			</ChildItems>
