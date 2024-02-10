@@ -1,5 +1,2 @@
-﻿New: DataProcessor.ПланированиеЗагрузкиСотрудников
-New: DataProcessor.ПланированиеЗагрузкиСотрудников.Form.Форма
-New: DataProcessor.ПланированиеЗагрузкиСотрудников.Form.Форма.Form
-Modified: Configuration.Конфигурация
-Modified: Subsystem.Сервис
+﻿Modified: DataProcessor.ПланированиеЗагрузкиСотрудников.Form.Форма
+Modified: DataProcessor.ПланированиеЗагрузкиСотрудников.Form.Форма.Form
