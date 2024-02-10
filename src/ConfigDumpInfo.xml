@@ -160,8 +160,8 @@
 		<Metadata name="DataProcessor.МониторРуководителя.Form.Форма" id="de218de2-1105-403b-9cf8-673a6f638e8a" configVersion="74050b822f7ecc4c818685bb42b6764600000000"/>
 		<Metadata name="DataProcessor.МониторРуководителя.Form.Форма.Form" id="de218de2-1105-403b-9cf8-673a6f638e8a.0" configVersion="16d5ad3bf754b543adb7c502707e850600000000"/>
 		<Metadata name="DataProcessor.ПланированиеЗагрузкиСотрудников" id="3145c9b4-15cb-4db6-8a00-dd386fac651a" configVersion="88abaebb641db84d865183bf7ad4e89f00000000"/>
-		<Metadata name="DataProcessor.ПланированиеЗагрузкиСотрудников.Form.Форма" id="1109a93a-e2c0-479e-844e-ff5ea837566e" configVersion="26b70f719c67e34d8ce5c9efc753d36c00000000"/>
-		<Metadata name="DataProcessor.ПланированиеЗагрузкиСотрудников.Form.Форма.Form" id="1109a93a-e2c0-479e-844e-ff5ea837566e.0" configVersion="1f390944e70792458d16aa63e422d35d00000000"/>
+		<Metadata name="DataProcessor.ПланированиеЗагрузкиСотрудников.Form.Форма" id="1109a93a-e2c0-479e-844e-ff5ea837566e" configVersion="312968d4fec9054da7f3b4c6fef8244300000000"/>
+		<Metadata name="DataProcessor.ПланированиеЗагрузкиСотрудников.Form.Форма.Form" id="1109a93a-e2c0-479e-844e-ff5ea837566e.0" configVersion="8bef20451dc8aa4c8de04153b63e9ae800000000"/>
 		<Metadata name="DataProcessor.ТестыСпринт2" id="f6a21b04-033f-4a96-bcab-08233b01f80a" configVersion="26963780a30e4541a5aeea0c5ce28de500000000"/>
 		<Metadata name="DataProcessor.ТестыСпринт2.Form.Форма" id="5232f284-ca58-480f-adf5-53b35cf0bf3d" configVersion="2070abf81721ed42bc77c1fba4469ee600000000"/>
 		<Metadata name="DataProcessor.ТестыСпринт2.Form.Форма.Form" id="5232f284-ca58-480f-adf5-53b35cf0bf3d.0" configVersion="d822039a1a5f274e8d56b022954e047e00000000"/>

@@ -48,13 +48,16 @@
 					</Picture>
 					<ExtendedTooltip name="ВпередРасширеннаяПодсказка" id="10"/>
 				</Button>
-				<InputField name="ПредставлениеПериода" id="6">
+				<LabelField name="ПредставлениеПериода" id="6">
 					<DataPath>ПредставлениеПериода</DataPath>
 					<TitleLocation>None</TitleLocation>
-					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<HorizontalAlign>Center</HorizontalAlign>
+					<VerticalAlign>Center</VerticalAlign>
+					<TextColor>style:AccentColor</TextColor>
+					<Font ref="style:LargeTextFont" kind="StyleItem"/>
 					<ContextMenu name="ПредставлениеПериодаКонтекстноеМеню" id="7"/>
 					<ExtendedTooltip name="ПредставлениеПериодаРасширеннаяПодсказка" id="8"/>
-				</InputField>
+				</LabelField>
 				<RadioButtonField name="ВариантПериода" id="1">
 					<DataPath>ВариантПериода</DataPath>
 					<TitleLocation>None</TitleLocation>
