@@ -1,5 +1,5 @@
-﻿Modified: Document.ЗаписьКлиента
-Modified: Document.ЗаписьКлиента.Form.ФормаДокумента
-Modified: Document.ЗаписьКлиента.Form.ФормаДокумента.Form
-Modified: Document.ЗаписьКлиента.ManagerModule
-Modified: Document.ЗаписьКлиента.ObjectModule
+﻿New: DataProcessor.ПланированиеЗагрузкиСотрудников
+New: DataProcessor.ПланированиеЗагрузкиСотрудников.Form.Форма
+New: DataProcessor.ПланированиеЗагрузкиСотрудников.Form.Форма.Form
+Modified: Configuration.Конфигурация
+Modified: Subsystem.Сервис
