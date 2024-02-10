@@ -5,6 +5,7 @@
 	<RepostOnWrite>true</RepostOnWrite>
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
 	<Events>
+		<Event name="AfterWrite">ПослеЗаписи</Event>
 		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
 	</Events>
 	<ChildItems>
@@ -71,6 +72,19 @@
 							<ContextMenu name="ДатаЗаписиКонтекстноеМеню" id="14"/>
 							<ExtendedTooltip name="ДатаЗаписиРасширеннаяПодсказка" id="15"/>
 						</InputField>
+						<InputField name="ДатаОкончанияЗаписи" id="64">
+							<DataPath>Объект.ДатаОкончанияЗаписи</DataPath>
+							<ReadOnly>true</ReadOnly>
+							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+							<EditFormat>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>ДФ='dd.MM.yyyy HH:mm'</v8:content>
+								</v8:item>
+							</EditFormat>
+							<ContextMenu name="ДатаОкончанияЗаписиКонтекстноеМеню" id="65"/>
+							<ExtendedTooltip name="ДатаОкончанияЗаписиРасширеннаяПодсказка" id="66"/>
+						</InputField>
 					</ChildItems>
 				</UsualGroup>
 				<UsualGroup name="ГруппаШапкаПраво" id="54">
@@ -111,13 +125,6 @@
 							<ContextMenu name="УслугаОказанаКонтекстноеМеню" id="62"/>
 							<ExtendedTooltip name="УслугаОказанаРасширеннаяПодсказка" id="63"/>
 						</CheckBoxField>
-						<InputField name="ДатаОкончанияЗаписи" id="64">
-							<DataPath>Объект.ДатаОкончанияЗаписи</DataPath>
-							<ReadOnly>true</ReadOnly>
-							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-							<ContextMenu name="ДатаОкончанияЗаписиКонтекстноеМеню" id="65"/>
-							<ExtendedTooltip name="ДатаОкончанияЗаписиРасширеннаяПодсказка" id="66"/>
-						</InputField>
 					</ChildItems>
 				</UsualGroup>
 			</ChildItems>

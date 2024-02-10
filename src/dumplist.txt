@@ -1,2 +1,4 @@
 ﻿Modified: DataProcessor.ПланированиеЗагрузкиСотрудников.Form.Форма
 Modified: DataProcessor.ПланированиеЗагрузкиСотрудников.Form.Форма.Form
+Modified: Document.ЗаписьКлиента.Form.ФормаДокумента
+Modified: Document.ЗаписьКлиента.Form.ФормаДокумента.Form
