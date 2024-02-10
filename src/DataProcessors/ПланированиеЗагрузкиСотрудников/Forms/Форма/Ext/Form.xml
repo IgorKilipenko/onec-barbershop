@@ -3,6 +3,7 @@
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
 	<Events>
 		<Event name="OnOpen">ПриОткрытии</Event>
+		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
 	</Events>
 	<ChildItems>
 		<UsualGroup name="ПанельНастроек" id="4">
@@ -115,6 +116,11 @@
 			<DataPath>Планировщик</DataPath>
 			<ContextMenu name="ПланировщикКонтекстноеМеню" id="16"/>
 			<ExtendedTooltip name="ПланировщикРасширеннаяПодсказка" id="17"/>
+			<Events>
+				<Event name="BeforeCreate">ПланировщикПередСозданием</Event>
+				<Event name="OnCurrentRepresentationPeriodChange">ПланировщикПриСменеТекущегоПериодаОтображения</Event>
+				<Event name="BeforeStartQuickEdit">ПланировщикПередНачаломБыстрогоРедактирования</Event>
+			</Events>
 		</PlannerField>
 	</ChildItems>
 	<Attributes>
@@ -275,8 +281,8 @@
 					<currentLevel xmlns="http://v8.1c.ru/8.2/data/chart">0</currentLevel>
 				</pl:timeScale>
 				<pl:period>
-					<pl:begin>2024-02-10T00:00:00</pl:begin>
-					<pl:end>2024-02-10T23:59:59</pl:end>
+					<pl:begin>2024-02-11T00:00:00</pl:begin>
+					<pl:end>2024-02-11T23:59:59</pl:end>
 				</pl:period>
 				<pl:displayCurrentDate>true</pl:displayCurrentDate>
 				<pl:itemsTimeRepresentation>BeginTime</pl:itemsTimeRepresentation>
