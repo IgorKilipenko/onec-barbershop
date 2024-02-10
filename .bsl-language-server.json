@@ -16,7 +16,8 @@
                 "checkObjectModule": false,
                 "checkFormModule": false,
                 "checkRecordSetModule": true
-            }
+            },
+            "NestedFunctionInParameters": false
         }
     }
 }
