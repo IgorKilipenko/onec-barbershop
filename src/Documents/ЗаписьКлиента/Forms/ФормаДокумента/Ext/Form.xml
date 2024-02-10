@@ -62,6 +62,12 @@
 							<DataPath>Объект.ДатаЗаписи</DataPath>
 							<EditMode>EnterOnInput</EditMode>
 							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+							<EditFormat>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>ДФ='dd.MM.yyyy HH:mm'</v8:content>
+								</v8:item>
+							</EditFormat>
 							<ContextMenu name="ДатаЗаписиКонтекстноеМеню" id="14"/>
 							<ExtendedTooltip name="ДатаЗаписиРасширеннаяПодсказка" id="15"/>
 						</InputField>
