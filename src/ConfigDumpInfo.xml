@@ -143,10 +143,10 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="51a79af0-8692-4460-b9c8-156fc59c1aba.0" configVersion="bdb6e99500c15947a896c9e352af9a8800000000"/>
 		<Metadata name="CommonPicture.Справочники" id="79b9328d-ed7d-418b-a93e-40f925149ef6" configVersion="d030f1775f0a114094e3776a5457e57f00000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="79b9328d-ed7d-418b-a93e-40f925149ef6.0" configVersion="aecf472f5c86e543998eebf5f100ff5400000000"/>
-		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="fd44ba13b5e102449c6a96c3722dc78400000000"/>
+		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="c7b5b73bee7d7f45885517bb35688bc200000000"/>
 		<Metadata name="Configuration.Конфигурация.ClientApplicationInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.b" configVersion="184f50c9d5ac3b45b93a2d189689c80700000000"/>
 		<Metadata name="Configuration.Конфигурация.CommandInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.a" configVersion="ce8c15cbda4c074aa203ffc32401319600000000"/>
-		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.8" configVersion="6dd0b46c1291d34da48f6ba66ce78f1700000000"/>
+		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.8" configVersion="ae3c9aad87ec6e47923d3ac02b71a07e00000000"/>
 		<Metadata name="Configuration.Конфигурация.Logo" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.1" configVersion="bf9d0ef161a5a54c9c589638bd13657f00000000"/>
 		<Metadata name="Configuration.Конфигурация.MainSectionCommandInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.9" configVersion="6b934005db41364a981c142e1ba75aae00000000"/>
 		<Metadata name="Configuration.Конфигурация.MainSectionPicture" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.c" configVersion="b919cfe0d3e17f4ab45ec4f8a4dea98700000000"/>
@@ -379,10 +379,14 @@
 		<Metadata name="Report.ОтчетПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="f1ca54af-9e80-4fcb-af6d-4827e7598a61.0" configVersion="26f382343645ad4cb46a2a75b0c9ad0d00000000"/>
 		<Metadata name="Role.Администратор" id="cbb4537d-fb62-4107-b8b9-ef29035db7e6" configVersion="d657a4b4762d3849af3b5389752573a200000000"/>
 		<Metadata name="Role.Администратор.Rights" id="cbb4537d-fb62-4107-b8b9-ef29035db7e6.0" configVersion="01e10d36fb96cd4dbb928bb563b41f5f00000000"/>
+		<Metadata name="Role.Закупщик" id="b6d5e9b9-4e21-46c3-bfe5-79d4655dccf6" configVersion="666f6302d38b5b4dbd73a037ecbcb58e00000000"/>
+		<Metadata name="Role.Закупщик.Rights" id="b6d5e9b9-4e21-46c3-bfe5-79d4655dccf6.0" configVersion="ca77861a2e65af43afd84b9515bf3c6800000000"/>
 		<Metadata name="Role.ПолныеПрава" id="72fb1f95-de1f-40e6-b570-73ca5adc4975" configVersion="8931a38fdb9c9945b633918a4924de2c00000000"/>
 		<Metadata name="Role.ПолныеПрава.Rights" id="72fb1f95-de1f-40e6-b570-73ca5adc4975.0" configVersion="b3980aedf199f849a54dbda2af5de9bb00000000"/>
 		<Metadata name="Role.Пользователь" id="43a846e5-2983-4da4-a7ad-3d44458f9175" configVersion="e0ff8b9b28df8a40864d6f354be9cfb000000000"/>
 		<Metadata name="Role.Пользователь.Rights" id="43a846e5-2983-4da4-a7ad-3d44458f9175.0" configVersion="958dc14ffb240e42aba59d8edd993b4500000000"/>
+		<Metadata name="Role.Руководитель" id="22254151-5a06-4786-b851-c43f53eb4daf" configVersion="13ece6cf237c3a41a28ffe4d42fc70b400000000"/>
+		<Metadata name="Role.Руководитель.Rights" id="22254151-5a06-4786-b851-c43f53eb4daf.0" configVersion="12acd11291854743bc0d082da6f046f100000000"/>
 		<Metadata name="SessionParameter.ТекущийПользователь" id="8edf95cd-ce56-4d1a-abaf-38bcc4b8457a" configVersion="0a487438e07a1b4687683997f82346a200000000"/>
 		<Metadata name="Style.Барбершоп" id="b3955cef-3591-4814-9011-be3ee6779f6a" configVersion="dd05ca6cd5717942bd60079f68ef133900000000"/>
 		<Metadata name="Style.Барбершоп.Style" id="b3955cef-3591-4814-9011-be3ee6779f6a.0" configVersion="86a1f1ef37f2eb4d92fe40be7f44f1c000000000"/>

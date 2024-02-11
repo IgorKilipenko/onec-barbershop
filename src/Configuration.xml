@@ -250,6 +250,8 @@
 			<Role>Администратор</Role>
 			<Role>Пользователь</Role>
 			<Role>ПолныеПрава</Role>
+			<Role>Закупщик</Role>
+			<Role>Руководитель</Role>
 			<FilterCriterion>СвязанныеДокументы</FilterCriterion>
 			<CommonModule>РаботаСТабличнымиЧастямиГлобальный</CommonModule>
 			<CommonModule>РаботаСЦенамиВызовСервера</CommonModule>
