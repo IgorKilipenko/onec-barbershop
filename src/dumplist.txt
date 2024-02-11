@@ -1,2 +1,6 @@
-﻿Modified: Catalog.Номенклатура.Form.ФормаСозданияЦены
-Modified: Catalog.Номенклатура.Form.ФормаСозданияЦены.Form
+﻿New: Role.Закупщик
+New: Role.Закупщик.Rights
+New: Role.Руководитель
+New: Role.Руководитель.Rights
+Modified: Configuration.Конфигурация
+Modified: Configuration.Конфигурация.HomePageWorkArea

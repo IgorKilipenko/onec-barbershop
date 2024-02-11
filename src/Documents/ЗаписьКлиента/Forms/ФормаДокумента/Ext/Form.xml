@@ -4,6 +4,10 @@
 	<UsePostingMode>Auto</UsePostingMode>
 	<RepostOnWrite>true</RepostOnWrite>
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
+	<Events>
+		<Event name="AfterWrite">ПослеЗаписи</Event>
+		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
+	</Events>
 	<ChildItems>
 		<UsualGroup name="ГруппаШапка" id="50">
 			<Title>
@@ -59,8 +63,27 @@
 							<DataPath>Объект.ДатаЗаписи</DataPath>
 							<EditMode>EnterOnInput</EditMode>
 							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+							<EditFormat>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>ДФ='dd.MM.yyyy HH:mm'</v8:content>
+								</v8:item>
+							</EditFormat>
 							<ContextMenu name="ДатаЗаписиКонтекстноеМеню" id="14"/>
 							<ExtendedTooltip name="ДатаЗаписиРасширеннаяПодсказка" id="15"/>
+						</InputField>
+						<InputField name="ДатаОкончанияЗаписи" id="64">
+							<DataPath>Объект.ДатаОкончанияЗаписи</DataPath>
+							<ReadOnly>true</ReadOnly>
+							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+							<EditFormat>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>ДФ='dd.MM.yyyy HH:mm'</v8:content>
+								</v8:item>
+							</EditFormat>
+							<ContextMenu name="ДатаОкончанияЗаписиКонтекстноеМеню" id="65"/>
+							<ExtendedTooltip name="ДатаОкончанияЗаписиРасширеннаяПодсказка" id="66"/>
 						</InputField>
 					</ChildItems>
 				</UsualGroup>
@@ -96,6 +119,12 @@
 							<ContextMenu name="КлиентКонтекстноеМеню" id="8"/>
 							<ExtendedTooltip name="КлиентРасширеннаяПодсказка" id="9"/>
 						</InputField>
+						<CheckBoxField name="УслугаОказана" id="61">
+							<DataPath>Объект.УслугаОказана</DataPath>
+							<CheckBoxType>Auto</CheckBoxType>
+							<ContextMenu name="УслугаОказанаКонтекстноеМеню" id="62"/>
+							<ExtendedTooltip name="УслугаОказанаРасширеннаяПодсказка" id="63"/>
+						</CheckBoxField>
 					</ChildItems>
 				</UsualGroup>
 			</ChildItems>
@@ -135,6 +164,9 @@
 				<ContextMenu name="УслугиУправлениеПоискомКонтекстноеМеню" id="33"/>
 				<ExtendedTooltip name="УслугиУправлениеПоискомРасширеннаяПодсказка" id="34"/>
 			</SearchControlAddition>
+			<Events>
+				<Event name="AfterDeleteRow">УслугиПослеУдаления</Event>
+			</Events>
 			<ChildItems>
 				<LabelField name="УслугиНомерСтроки" id="35">
 					<DataPath>Объект.Услуги.LineNumber</DataPath>
@@ -148,9 +180,13 @@
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="УслугиНоменклатураКонтекстноеМеню" id="39"/>
 					<ExtendedTooltip name="УслугиНоменклатураРасширеннаяПодсказка" id="40"/>
+					<Events>
+						<Event name="OnChange">УслугиУслугаПриИзменении</Event>
+					</Events>
 				</InputField>
 				<InputField name="УслугиЦена" id="41">
 					<DataPath>Объект.Услуги.Цена</DataPath>
+					<ReadOnly>true</ReadOnly>
 					<EditMode>EnterOnInput</EditMode>
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="УслугиЦенаКонтекстноеМеню" id="42"/>
@@ -168,6 +204,7 @@
 				</InputField>
 				<InputField name="УслугиСумма" id="47">
 					<DataPath>Объект.Услуги.Сумма</DataPath>
+					<ReadOnly>true</ReadOnly>
 					<EditMode>EnterOnInput</EditMode>
 					<FooterDataPath>Объект.Услуги.TotalСумма</FooterDataPath>
 					<FooterText>

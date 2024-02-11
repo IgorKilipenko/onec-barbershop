@@ -49,7 +49,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Игорь Килипенко</Vendor>
-			<Version>Сприн 4</Version>
+			<Version>Сприн 5</Version>
 			<UpdateCatalogAddress/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
@@ -211,7 +211,7 @@
 			<MobileApplicationURLs/>
 			<MainClientApplicationWindowMode>Normal</MainClientApplicationWindowMode>
 			<DefaultInterface/>
-			<DefaultStyle/>
+			<DefaultStyle>Style.Барбершоп</DefaultStyle>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation/>
@@ -236,18 +236,36 @@
 			<Subsystem>Сервис</Subsystem>
 			<Subsystem>НСИИАдминистрирование</Subsystem>
 			<Subsystem>Деньги</Subsystem>
+			<Style>Барбершоп</Style>
+			<CommonPicture>Справочники</CommonPicture>
+			<CommonPicture>БизнесПроцессы</CommonPicture>
+			<CommonPicture>БухгалтерскийУчет</CommonPicture>
+			<CommonPicture>Главное</CommonPicture>
+			<CommonPicture>Деньги</CommonPicture>
+			<CommonPicture>Настройки</CommonPicture>
+			<CommonPicture>Персонал</CommonPicture>
+			<CommonPicture>Покупки</CommonPicture>
+			<CommonPicture>Продажи</CommonPicture>
 			<SessionParameter>ТекущийПользователь</SessionParameter>
 			<Role>Администратор</Role>
 			<Role>Пользователь</Role>
 			<Role>ПолныеПрава</Role>
+			<Role>Закупщик</Role>
+			<Role>Руководитель</Role>
+			<FilterCriterion>СвязанныеДокументы</FilterCriterion>
 			<CommonModule>РаботаСТабличнымиЧастямиГлобальный</CommonModule>
 			<CommonModule>РаботаСЦенамиВызовСервера</CommonModule>
 			<CommonModule>РаботаСДокументами</CommonModule>
+			<CommonModule>РаботаСМетаданными</CommonModule>
+			<CommonModule>РаботаСоСтрокамиВызовСервера</CommonModule>
+			<CommonModule>ДиагностикаКлиентСервер</CommonModule>
 			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
 			<DefinedType>ФинансовыеДанные</DefinedType>
 			<DefinedType>КоличествоУслуг</DefinedType>
 			<DefinedType>КоличествоТоваров</DefinedType>
 			<Constant>ИспользоватьСклады</Constant>
+			<Constant>НачалоРабочегоДня</Constant>
+			<Constant>ОкончаниеРабочегоДня</Constant>
 			<Catalog>Организации</Catalog>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Должности</Catalog>
@@ -278,10 +296,15 @@
 			<Enum>ВидыОперацийПоступленияДенег</Enum>
 			<Enum>ВидыОперацийРасходаДенег</Enum>
 			<Enum>ТипыДенежныхСредств</Enum>
+			<Enum>ОплатаДокумента</Enum>
 			<Report>ОтчетПоТоварамНаСкладах</Report>
 			<Report>ОтчетПоОказаннымУслугам</Report>
 			<Report>ОтчетПоПрибыли</Report>
+			<Report>ОтчетПоБезналичнойОплате</Report>
+			<Report>ОтчетДвиженияНаличныхДенег</Report>
 			<DataProcessor>ТестыСпринт2</DataProcessor>
+			<DataProcessor>МониторРуководителя</DataProcessor>
+			<DataProcessor>ПланированиеЗагрузкиСотрудников</DataProcessor>
 			<InformationRegister>ЦеныНоменклатурыПоставщиков</InformationRegister>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<InformationRegister>УчетнаяПолитика</InformationRegister>

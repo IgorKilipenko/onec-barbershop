@@ -89,6 +89,13 @@
 				</v8:item>
 			</title>
 		</field>
+		<field xsi:type="DataSetFieldField">
+			<dataPath>СрокГодности</dataPath>
+			<field>СрокГодности</field>
+			<role>
+				<dcscom:dimension>true</dcscom:dimension>
+			</role>
+		</field>
 		<dataSource>ИсточникДанных1</dataSource>
 		<query>ВЫБРАТЬ
 	ТоварыНаСкладахОстаткиИОбороты.КоличествоНачальныйОстаток КАК НачальныйОстаток,
@@ -97,7 +104,8 @@
 	ТоварыНаСкладахОстаткиИОбороты.КоличествоКонечныйОстаток КАК КонечныйОстаток,
 	ТоварыНаСкладахОстаткиИОбороты.Номенклатура КАК Номенклатура,
 	ТоварыНаСкладахОстаткиИОбороты.Период КАК Период,
-	ТоварыНаСкладахОстаткиИОбороты.Склад КАК Склад
+	ТоварыНаСкладахОстаткиИОбороты.Склад КАК Склад,
+	ТоварыНаСкладахОстаткиИОбороты.СрокГодности КАК СрокГодности
 {ВЫБРАТЬ
 	Номенклатура.*,
 	Приход,
@@ -195,6 +203,9 @@
 				</dcsset:item>
 				<dcsset:item xsi:type="dcsset:SelectedItemField">
 					<dcsset:field>Период</dcsset:field>
+				</dcsset:item>
+				<dcsset:item xsi:type="dcsset:SelectedItemField">
+					<dcsset:field>СрокГодности</dcsset:field>
 				</dcsset:item>
 				<dcsset:item xsi:type="dcsset:SelectedItemField">
 					<dcsset:field>НачальныйОстаток</dcsset:field>

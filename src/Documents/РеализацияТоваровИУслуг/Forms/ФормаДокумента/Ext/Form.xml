@@ -4,12 +4,23 @@
 	<UsePostingMode>Auto</UsePostingMode>
 	<RepostOnWrite>true</RepostOnWrite>
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
+	<Events>
+		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
+	</Events>
 	<ChildItems>
 		<LabelField name="ДокументОснование" id="98">
 			<DataPath>Объект.ДокументОснование</DataPath>
 			<Hiperlink>true</Hiperlink>
 			<ContextMenu name="ДокументОснованиеКонтекстноеМеню" id="99"/>
 			<ExtendedTooltip name="ДокументОснованиеРасширеннаяПодсказка" id="100"/>
+		</LabelField>
+		<LabelField name="ПризнакОплаты" id="101">
+			<DataPath>Объект.ПризнакОплаты</DataPath>
+			<ReadOnly>true</ReadOnly>
+			<TitleLocation>None</TitleLocation>
+			<Hiperlink>true</Hiperlink>
+			<ContextMenu name="ПризнакОплатыКонтекстноеМеню" id="102"/>
+			<ExtendedTooltip name="ПризнакОплатыРасширеннаяПодсказка" id="103"/>
 		</LabelField>
 		<UsualGroup name="ГруппаШапка" id="87">
 			<Title>
@@ -65,6 +76,12 @@
 							<DataPath>Объект.ДатаОказанияУслуги</DataPath>
 							<EditMode>EnterOnInput</EditMode>
 							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+							<EditFormat>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>ДФ='dd.MM.yyyy HH:mm'</v8:content>
+								</v8:item>
+							</EditFormat>
 							<ContextMenu name="ДатаОказанияУслугиКонтекстноеМеню" id="14"/>
 							<ExtendedTooltip name="ДатаОказанияУслугиРасширеннаяПодсказка" id="15"/>
 						</InputField>
@@ -379,16 +396,35 @@
 			<Item>
 				<Command>AccumulationRegister.ЗаказыКлиентов.StandardCommand.OpenByRecorder</Command>
 				<Type>Auto</Type>
+				<CommandGroup>FormNavigationPanelGoTo</CommandGroup>
 				<DefaultVisible>false</DefaultVisible>
 			</Item>
 			<Item>
 				<Command>AccumulationRegister.Продажи.StandardCommand.OpenByRecorder</Command>
 				<Type>Auto</Type>
+				<CommandGroup>FormNavigationPanelGoTo</CommandGroup>
+				<Index>1</Index>
 				<DefaultVisible>false</DefaultVisible>
 			</Item>
 			<Item>
 				<Command>AccumulationRegister.ТоварыНаСкладах.StandardCommand.OpenByRecorder</Command>
 				<Type>Auto</Type>
+				<CommandGroup>FormNavigationPanelGoTo</CommandGroup>
+				<Index>2</Index>
+				<DefaultVisible>false</DefaultVisible>
+			</Item>
+			<Item>
+				<Command>AccumulationRegister.УчетЗатрат.StandardCommand.OpenByRecorder</Command>
+				<Type>Auto</Type>
+				<CommandGroup>FormNavigationPanelGoTo</CommandGroup>
+				<Index>3</Index>
+				<DefaultVisible>false</DefaultVisible>
+			</Item>
+			<Item>
+				<Command>FilterCriterion.СвязанныеДокументы.StandardCommand.OpenByValue</Command>
+				<Type>Auto</Type>
+				<CommandGroup>FormNavigationPanelGoTo</CommandGroup>
+				<Index>4</Index>
 				<DefaultVisible>false</DefaultVisible>
 			</Item>
 		</NavigationPanel>

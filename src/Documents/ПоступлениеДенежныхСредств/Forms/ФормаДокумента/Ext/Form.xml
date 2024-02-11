@@ -71,6 +71,7 @@
 		<LabelField name="ДокументОснование" id="13">
 			<DataPath>Объект.ДокументОснование</DataPath>
 			<EditMode>EnterOnInput</EditMode>
+			<Hiperlink>true</Hiperlink>
 			<ContextMenu name="ДокументОснованиеКонтекстноеМеню" id="14"/>
 			<ExtendedTooltip name="ДокументОснованиеРасширеннаяПодсказка" id="15"/>
 		</LabelField>
@@ -118,6 +119,9 @@
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="СуммаДокументаКонтекстноеМеню" id="29"/>
 			<ExtendedTooltip name="СуммаДокументаРасширеннаяПодсказка" id="30"/>
+			<Events>
+				<Event name="OnChange">СуммаДокументаПриИзменении</Event>
+			</Events>
 		</InputField>
 		<InputField name="Комментарий" id="31">
 			<DataPath>Объект.Комментарий</DataPath>
@@ -146,41 +150,6 @@
 				<Field>Объект.RegisterRecords</Field>
 			</UseAlways>
 		</Attribute>
-		<Attribute name="ТипДенежныхСредств" id="2">
-			<Title>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Тип денежных средств</v8:content>
-				</v8:item>
-			</Title>
-			<Type>
-				<v8:Type>cfg:EnumRef.ТипыДенежныхСредств</v8:Type>
-			</Type>
-		</Attribute>
-		<Attribute name="Плательщик" id="3">
-			<Title>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Плательщик</v8:content>
-				</v8:item>
-			</Title>
-			<Type>
-				<v8:Type>cfg:CatalogRef.Сотрудники</v8:Type>
-				<v8:Type>cfg:CatalogRef.Банки</v8:Type>
-				<v8:Type>cfg:CatalogRef.Контрагенты</v8:Type>
-			</Type>
-		</Attribute>
-		<Attribute name="ВидОперации" id="4">
-			<Title>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Вид операции</v8:content>
-				</v8:item>
-			</Title>
-			<Type>
-				<v8:Type>cfg:EnumRef.ВидыОперацийРасходаДенег</v8:Type>
-			</Type>
-		</Attribute>
 	</Attributes>
 	<CommandInterface>
 		<NavigationPanel>
@@ -193,6 +162,14 @@
 				<Command>AccumulationRegister.ДенежныеСредства.StandardCommand.OpenByRecorder</Command>
 				<Type>Auto</Type>
 				<DefaultVisible>false</DefaultVisible>
+			</Item>
+			<Item>
+				<Command>0:edbc2797-8423-4566-9415-6aa46f692394</Command>
+				<Type>Auto</Type>
+				<DefaultVisible>false</DefaultVisible>
+				<Visible>
+					<xr:Common>false</xr:Common>
+				</Visible>
 			</Item>
 		</NavigationPanel>
 	</CommandInterface>
