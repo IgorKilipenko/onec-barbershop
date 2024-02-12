@@ -1,1 +1,2 @@
-﻿Modified: Configuration.Конфигурация
+﻿Modified: Document.РеализацияТоваровИУслуг
+Modified: Document.РеализацияТоваровИУслуг.ManagerModule
