@@ -12,6 +12,8 @@ New: Enum.ВидыОперацийПоступленияНаРасчетныйС
 New: Enum.ВидыОперацийСписанияСРасчетногоСчета
 New: Subsystem.БухгалтерскийУчет
 New: Subsystem.Деньги.Subsystem.Справочники
+Modified: CommonModule.ДиагностикаКлиентСервер
+Modified: CommonModule.ДиагностикаКлиентСервер.Module
 Modified: Configuration.Конфигурация
 Modified: Configuration.Конфигурация.HomePageWorkArea
 Modified: Document.ПоступлениеДенежныхСредств
