@@ -253,6 +253,7 @@
 			<Subsystem>Сервис</Subsystem>
 			<Subsystem>НСИИАдминистрирование</Subsystem>
 			<Subsystem>Деньги</Subsystem>
+			<Subsystem>БухгалтерскийУчет</Subsystem>
 			<Style>Барбершоп</Style>
 			<CommonPicture>Справочники</CommonPicture>
 			<CommonPicture>БизнесПроцессы</CommonPicture>

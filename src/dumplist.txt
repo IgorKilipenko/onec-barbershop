@@ -1,4 +1,5 @@
-﻿Modified: Configuration.Конфигурация
+﻿New: Subsystem.БухгалтерскийУчет
+Modified: Configuration.Конфигурация
 Modified: Configuration.Конфигурация.HomePageWorkArea
 Modified: Document.РеализацияТоваровИУслуг
 Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента
