@@ -1,4 +1,6 @@
-﻿New: Subsystem.БухгалтерскийУчет
+﻿New: AccountingRegister.Хозрасчетный
+New: ChartOfAccounts.Хозрасчетный
+New: Subsystem.БухгалтерскийУчет
 Modified: Configuration.Конфигурация
 Modified: Configuration.Конфигурация.HomePageWorkArea
 Modified: Document.РеализацияТоваровИУслуг
