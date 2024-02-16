@@ -7,6 +7,8 @@ New: ChartOfCharacteristicTypes.ВидыСубконтоХозрасчетные
 New: Document.ПоступлениеНаРасчетныйСчет
 New: Document.ПоступлениеНаРасчетныйСчет.Form.ФормаДокумента
 New: Document.ПоступлениеНаРасчетныйСчет.Form.ФормаДокумента.Form
+New: Document.ПоступлениеНаРасчетныйСчет.Form.ФормаСписка
+New: Document.ПоступлениеНаРасчетныйСчет.Form.ФормаСписка.Form
 New: Document.ПоступлениеНаРасчетныйСчет.ManagerModule
 New: Document.ПоступлениеНаРасчетныйСчет.ObjectModule
 New: Enum.ВидыОперацийПоступленияНаРасчетныйСчет
