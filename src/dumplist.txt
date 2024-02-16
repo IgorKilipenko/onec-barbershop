@@ -18,6 +18,8 @@ Modified: Catalog.Контрагенты.Form.ФормаЭлемента.Form
 Modified: Catalog.Контрагенты.ManagerModule
 Modified: CommonModule.ДиагностикаКлиентСервер
 Modified: CommonModule.ДиагностикаКлиентСервер.Module
+Modified: CommonModule.РаботаСМетаданными
+Modified: CommonModule.РаботаСМетаданными.Module
 Modified: Configuration.Конфигурация
 Modified: Configuration.Конфигурация.HomePageWorkArea
 Modified: Document.ПоступлениеДенежныхСредств
