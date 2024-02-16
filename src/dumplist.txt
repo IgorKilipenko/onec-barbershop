@@ -3,6 +3,8 @@ New: ChartOfAccounts.Хозрасчетный
 New: Subsystem.БухгалтерскийУчет
 Modified: Configuration.Конфигурация
 Modified: Configuration.Конфигурация.HomePageWorkArea
+Modified: Document.ПоступлениеДенежныхСредств
+Modified: Document.РасходДенежныхСредств
 Modified: Document.РеализацияТоваровИУслуг
 Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента
 Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента.Form
