@@ -1,4 +1,6 @@
-﻿Modified: Document.РеализацияТоваровИУслуг
+﻿Modified: Configuration.Конфигурация
+Modified: Configuration.Конфигурация.HomePageWorkArea
+Modified: Document.РеализацияТоваровИУслуг
 Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента
 Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента.Form
 Modified: Document.РеализацияТоваровИУслуг.ManagerModule
