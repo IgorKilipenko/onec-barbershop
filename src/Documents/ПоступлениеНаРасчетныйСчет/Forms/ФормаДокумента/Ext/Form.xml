@@ -94,6 +94,9 @@
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="ВидОперацииКонтекстноеМеню" id="14"/>
 			<ExtendedTooltip name="ВидОперацииРасширеннаяПодсказка" id="15"/>
+			<Events>
+				<Event name="OnChange">ВидОперацииПриИзменении</Event>
+			</Events>
 		</InputField>
 		<LabelField name="ДокументОснование" id="16">
 			<DataPath>Объект.ДокументОснование</DataPath>
@@ -115,11 +118,22 @@
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="ПлательщикКонтекстноеМеню" id="23"/>
 			<ExtendedTooltip name="ПлательщикРасширеннаяПодсказка" id="24"/>
+			<Events>
+				<Event name="OnChange">ПлательщикПриИзменении</Event>
+			</Events>
 		</InputField>
 		<InputField name="ДоговорКонтрагента" id="25">
 			<DataPath>Объект.ДоговорКонтрагента</DataPath>
 			<EditMode>EnterOnInput</EditMode>
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
+			<ChoiceParameterLinks>
+				<xr:Link>
+					<xr:Name>Отбор.Владелец</xr:Name>
+					<xr:DataPath xsi:type="xs:string">Объект.Плательщик</xr:DataPath>
+					<xr:ValueChange>Clear</xr:ValueChange>
+				</xr:Link>
+			</ChoiceParameterLinks>
 			<ContextMenu name="ДоговорКонтрагентаКонтекстноеМеню" id="26"/>
 			<ExtendedTooltip name="ДоговорКонтрагентаРасширеннаяПодсказка" id="27"/>
 		</InputField>
