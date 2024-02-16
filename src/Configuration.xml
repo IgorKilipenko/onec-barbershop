@@ -306,6 +306,7 @@
 			<Document>ПоступлениеУслуг</Document>
 			<Document>ПоступлениеДенежныхСредств</Document>
 			<Document>РасходДенежныхСредств</Document>
+			<Document>ПоступлениеНаРасчетныйСчет</Document>
 			<Enum>ТипыОрганизаций</Enum>
 			<Enum>ТипыНоменклатуры</Enum>
 			<Enum>ПолФизическогоЛица</Enum>
