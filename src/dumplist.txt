@@ -1,6 +1,7 @@
 ﻿New: AccountingRegister.Хозрасчетный
 New: Catalog.БанковскиеСчета
 New: ChartOfAccounts.Хозрасчетный
+New: ChartOfAccounts.Хозрасчетный.Predefined
 New: ChartOfCharacteristicTypes.ВидыСубконтоХозрасчетные
 New: ChartOfCharacteristicTypes.ВидыСубконтоХозрасчетные.Predefined
 New: Subsystem.БухгалтерскийУчет
