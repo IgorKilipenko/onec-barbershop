@@ -298,6 +298,7 @@
 			<Catalog>Кассы</Catalog>
 			<Catalog>Банки</Catalog>
 			<Catalog>ЭквайринговыеТерминалы</Catalog>
+			<Catalog>БанковскиеСчета</Catalog>
 			<Document>ПоступлениеТоваровИМатериалов</Document>
 			<Document>ЗаписьКлиента</Document>
 			<Document>РеализацияТоваровИУслуг</Document>
@@ -332,6 +333,7 @@
 			<AccumulationRegister>УчетЗатрат</AccumulationRegister>
 			<AccumulationRegister>ДенежныеСредства</AccumulationRegister>
 			<AccumulationRegister>БезналичнаяОплата</AccumulationRegister>
+			<ChartOfCharacteristicTypes>ВидыСубконтоХозрасчетные</ChartOfCharacteristicTypes>
 			<ChartOfAccounts>Хозрасчетный</ChartOfAccounts>
 			<AccountingRegister>Хозрасчетный</AccountingRegister>
 		</ChildObjects>

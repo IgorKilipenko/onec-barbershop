@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="PlanOfCharacteristicKindPredefinedItems" version="2.17">
+	<Item id="1c3991c7-5249-40b4-8f6f-68a91326315a">
+		<Name>БанковскиеСчета</Name>
+		<Code>000000007</Code>
+		<Description>Банковские счета</Description>
+		<Type>
+			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.БанковскиеСчета</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="ced78a23-dcf0-4512-ad03-bea8f34e2d99">
+		<Name>Кассы</Name>
+		<Code>000000005</Code>
+		<Description>Кассы</Description>
+		<Type>
+			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.Кассы</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="bd51df9a-a449-41a7-a03c-ca5cb529709d">
+		<Name>Контрагенты</Name>
+		<Code>000000003</Code>
+		<Description>Контрагенты</Description>
+		<Type>
+			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.Контрагенты</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="70e65cd5-2136-49bd-b3ef-8a230dc432e5">
+		<Name>Номенклатура</Name>
+		<Code>000000002</Code>
+		<Description>Номенклатура</Description>
+		<Type>
+			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.Номенклатура</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="7601039a-cf47-441e-ba2d-334e6ff5b1cf">
+		<Name>Сотрудники</Name>
+		<Code>000000001</Code>
+		<Description>Сотрудники</Description>
+		<Type>
+			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.Сотрудники</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="728f5c34-376e-4917-8866-c465578db7e0">
+		<Name>СтатьмЗатрат</Name>
+		<Code>000000004</Code>
+		<Description>Статьм затрат</Description>
+		<Type>
+			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.СтатьиЗатрат</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="01fd120a-1cf6-4575-9af1-1e157f4175e3">
+		<Name>ЭквайринговыеТерминалы</Name>
+		<Code>000000006</Code>
+		<Description>Эквайринговые терминалы</Description>
+		<Type>
+			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.ЭквайринговыеТерминалы</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>
