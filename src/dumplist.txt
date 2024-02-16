@@ -12,6 +12,10 @@ New: Enum.ВидыОперацийПоступленияНаРасчетныйС
 New: Enum.ВидыОперацийСписанияСРасчетногоСчета
 New: Subsystem.БухгалтерскийУчет
 New: Subsystem.Деньги.Subsystem.Справочники
+Modified: Catalog.Контрагенты
+Modified: Catalog.Контрагенты.Form.ФормаЭлемента
+Modified: Catalog.Контрагенты.Form.ФормаЭлемента.Form
+Modified: Catalog.Контрагенты.ManagerModule
 Modified: CommonModule.ДиагностикаКлиентСервер
 Modified: CommonModule.ДиагностикаКлиентСервер.Module
 Modified: Configuration.Конфигурация
