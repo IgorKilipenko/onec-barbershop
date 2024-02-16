@@ -10,6 +10,7 @@ New: Document.ПоступлениеНаРасчетныйСчет.Form.Форм
 New: Enum.ВидыОперацийПоступленияНаРасчетныйСчет
 New: Enum.ВидыОперацийСписанияСРасчетногоСчета
 New: Subsystem.БухгалтерскийУчет
+New: Subsystem.Деньги.Subsystem.Справочники
 Modified: Configuration.Конфигурация
 Modified: Configuration.Конфигурация.HomePageWorkArea
 Modified: Document.ПоступлениеДенежныхСредств
