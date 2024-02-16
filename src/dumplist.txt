@@ -4,6 +4,8 @@ New: ChartOfAccounts.Хозрасчетный
 New: ChartOfAccounts.Хозрасчетный.Predefined
 New: ChartOfCharacteristicTypes.ВидыСубконтоХозрасчетные
 New: ChartOfCharacteristicTypes.ВидыСубконтоХозрасчетные.Predefined
+New: Enum.ВидыОперацийПоступленияНаРасчетныйСчет
+New: Enum.ВидыОперацийСписанияСРасчетногоСчета
 New: Subsystem.БухгалтерскийУчет
 Modified: Configuration.Конфигурация
 Modified: Configuration.Конфигурация.HomePageWorkArea
