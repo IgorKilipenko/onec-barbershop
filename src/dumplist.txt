@@ -32,4 +32,5 @@ Modified: Document.РеализацияТоваровИУслуг
 Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента
 Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента.Form
 Modified: Document.РеализацияТоваровИУслуг.ManagerModule
+Modified: FilterCriterion.СвязанныеДокументы
 Modified: Subsystem.Деньги
