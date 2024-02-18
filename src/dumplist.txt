@@ -15,6 +15,7 @@ New: Enum.ВидыОперацийПоступленияНаРасчетныйС
 New: Enum.ВидыОперацийСписанияСРасчетногоСчета
 New: Subsystem.БухгалтерскийУчет
 New: Subsystem.Деньги.Subsystem.Справочники
+Modified: AccumulationRegister.ДенежныеСредства
 Modified: Catalog.Контрагенты
 Modified: Catalog.Контрагенты.Form.ФормаЭлемента
 Modified: Catalog.Контрагенты.Form.ФормаЭлемента.Form
