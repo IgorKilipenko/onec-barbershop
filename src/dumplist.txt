@@ -33,8 +33,14 @@ Modified: CommonModule.РаботаСМетаданными.Module
 Modified: Configuration.Конфигурация
 Modified: Configuration.Конфигурация.HomePageWorkArea
 Modified: Document.ЗаписьКлиента
+Modified: Document.ЗаписьКлиента.Form.ФормаДокумента
+Modified: Document.ЗаписьКлиента.Form.ФормаДокумента.Form
 Modified: Document.ЗаписьКлиента.ObjectModule
 Modified: Document.ПоступлениеДенежныхСредств
+Modified: Document.ПоступлениеТоваровИМатериалов.Form.ФормаДокумента
+Modified: Document.ПоступлениеТоваровИМатериалов.Form.ФормаДокумента.Form
+Modified: Document.ПоступлениеУслуг.Form.ФормаДокумента
+Modified: Document.ПоступлениеУслуг.Form.ФормаДокумента.Form
 Modified: Document.РасходДенежныхСредств
 Modified: Document.РеализацияТоваровИУслуг
 Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента
