@@ -4,6 +4,9 @@
 	<UsePostingMode>Auto</UsePostingMode>
 	<RepostOnWrite>true</RepostOnWrite>
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
+	<Events>
+		<Event name="OnOpen">ПриОткрытии</Event>
+	</Events>
 	<ChildItems>
 		<InputField name="Номер" id="1">
 			<DataPath>Объект.Number</DataPath>
@@ -25,6 +28,9 @@
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="ВидОперацииКонтекстноеМеню" id="8"/>
 			<ExtendedTooltip name="ВидОперацииРасширеннаяПодсказка" id="9"/>
+			<Events>
+				<Event name="OnChange">ВидОперацииПриИзменении</Event>
+			</Events>
 		</InputField>
 		<InputField name="ДокументОснование" id="10">
 			<DataPath>Объект.ДокументОснование</DataPath>
@@ -46,6 +52,9 @@
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="ПолучательКонтекстноеМеню" id="17"/>
 			<ExtendedTooltip name="ПолучательРасширеннаяПодсказка" id="18"/>
+			<Events>
+				<Event name="OnChange">ПолучательПриИзменении</Event>
+			</Events>
 		</InputField>
 		<InputField name="ДоговорКонтрагента" id="19">
 			<DataPath>Объект.ДоговорКонтрагента</DataPath>
