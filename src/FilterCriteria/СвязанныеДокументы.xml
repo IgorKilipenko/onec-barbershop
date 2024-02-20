@@ -25,6 +25,7 @@
 				<v8:Type>cfg:DocumentRef.ПоступлениеДенежныхСредств</v8:Type>
 				<v8:Type>cfg:DocumentRef.ПоступлениеУслуг</v8:Type>
 				<v8:Type>cfg:DocumentRef.РеализацияТоваровИУслуг</v8:Type>
+				<v8:Type>cfg:DocumentRef.СписаниеСРасчетногоСчета</v8:Type>
 				<v8:Type>cfg:DocumentRef.РасходДенежныхСредств</v8:Type>
 				<v8:Type>cfg:DocumentRef.ПоступлениеНаРасчетныйСчет</v8:Type>
 				<v8:Type>cfg:DocumentRef.ЗаписьКлиента</v8:Type>

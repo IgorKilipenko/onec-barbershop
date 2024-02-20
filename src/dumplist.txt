@@ -13,11 +13,15 @@ New: Document.ПоступлениеНаРасчетныйСчет.Form.Форм
 New: Document.ПоступлениеНаРасчетныйСчет.Form.ФормаСписка.Form
 New: Document.ПоступлениеНаРасчетныйСчет.ManagerModule
 New: Document.ПоступлениеНаРасчетныйСчет.ObjectModule
+New: Document.СписаниеСРасчетногоСчета
+New: Document.СписаниеСРасчетногоСчета.Form.ФормаДокумента
+New: Document.СписаниеСРасчетногоСчета.Form.ФормаДокумента.Form
 New: Enum.ВидыОперацийПоступленияНаРасчетныйСчет
 New: Enum.ВидыОперацийСписанияСРасчетногоСчета
 New: Subsystem.БухгалтерскийУчет
 New: Subsystem.Деньги.Subsystem.Справочники
 Modified: AccumulationRegister.ДенежныеСредства
+Modified: AccumulationRegister.ЗаказыКлиентов
 Modified: Catalog.Контрагенты
 Modified: Catalog.Контрагенты.Form.ФормаЭлемента
 Modified: Catalog.Контрагенты.Form.ФормаЭлемента.Form
@@ -28,6 +32,8 @@ Modified: CommonModule.РаботаСМетаданными
 Modified: CommonModule.РаботаСМетаданными.Module
 Modified: Configuration.Конфигурация
 Modified: Configuration.Конфигурация.HomePageWorkArea
+Modified: Document.ЗаписьКлиента
+Modified: Document.ЗаписьКлиента.ObjectModule
 Modified: Document.ПоступлениеДенежныхСредств
 Modified: Document.РасходДенежныхСредств
 Modified: Document.РеализацияТоваровИУслуг
