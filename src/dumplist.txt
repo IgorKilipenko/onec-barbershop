@@ -32,6 +32,8 @@ Modified: CommonModule.РаботаСМетаданными
 Modified: CommonModule.РаботаСМетаданными.Module
 Modified: Configuration.Конфигурация
 Modified: Configuration.Конфигурация.HomePageWorkArea
+Modified: DataProcessor.МониторРуководителя.Form.Форма
+Modified: DataProcessor.МониторРуководителя.Form.Форма.Form
 Modified: Document.ЗаписьКлиента
 Modified: Document.ЗаписьКлиента.Form.ФормаДокумента
 Modified: Document.ЗаписьКлиента.Form.ФормаДокумента.Form
