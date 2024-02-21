@@ -16,6 +16,7 @@ New: Document.ПоступлениеНаРасчетныйСчет.ObjectModule
 New: Document.СписаниеСРасчетногоСчета
 New: Document.СписаниеСРасчетногоСчета.Form.ФормаДокумента
 New: Document.СписаниеСРасчетногоСчета.Form.ФормаДокумента.Form
+New: Document.СписаниеСРасчетногоСчета.ManagerModule
 New: Document.СписаниеСРасчетногоСчета.ObjectModule
 New: Enum.ВидыОперацийПоступленияНаРасчетныйСчет
 New: Enum.ВидыОперацийСписанияСРасчетногоСчета
