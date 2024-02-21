@@ -32,13 +32,13 @@
 				<Event name="OnChange">ВидОперацииПриИзменении</Event>
 			</Events>
 		</InputField>
-		<InputField name="ДокументОснование" id="10">
+		<LabelField name="ДокументОснование" id="10">
 			<DataPath>Объект.ДокументОснование</DataPath>
 			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<Hiperlink>true</Hiperlink>
 			<ContextMenu name="ДокументОснованиеКонтекстноеМеню" id="11"/>
 			<ExtendedTooltip name="ДокументОснованиеРасширеннаяПодсказка" id="12"/>
-		</InputField>
+		</LabelField>
 		<InputField name="РасчетныйСчет" id="13">
 			<DataPath>Объект.РасчетныйСчет</DataPath>
 			<EditMode>EnterOnInput</EditMode>
@@ -79,25 +79,49 @@
 		</InputField>
 		<InputField name="НазначениеПлатежа" id="28">
 			<DataPath>Объект.НазначениеПлатежа</DataPath>
+			<TitleLocation>Left</TitleLocation>
 			<EditMode>EnterOnInput</EditMode>
+			<Height>3</Height>
+			<AutoMaxHeight>false</AutoMaxHeight>
+			<MaxHeight>3</MaxHeight>
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="НазначениеПлатежаКонтекстноеМеню" id="29"/>
 			<ExtendedTooltip name="НазначениеПлатежаРасширеннаяПодсказка" id="30"/>
 		</InputField>
-		<InputField name="Комментарий" id="31">
-			<DataPath>Объект.Комментарий</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="КомментарийКонтекстноеМеню" id="32"/>
-			<ExtendedTooltip name="КомментарийРасширеннаяПодсказка" id="33"/>
-		</InputField>
-		<InputField name="АвторДокумента" id="34">
-			<DataPath>Объект.АвторДокумента</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="АвторДокументаКонтекстноеМеню" id="35"/>
-			<ExtendedTooltip name="АвторДокументаРасширеннаяПодсказка" id="36"/>
-		</InputField>
+		<UsualGroup name="ГруппаПодвал" id="37">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа подвал</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа подвал</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Group>Vertical</Group>
+			<Representation>None</Representation>
+			<ShowTitle>false</ShowTitle>
+			<ExtendedTooltip name="ГруппаПодвалРасширеннаяПодсказка" id="38"/>
+			<ChildItems>
+				<InputField name="Комментарий" id="31">
+					<DataPath>Объект.Комментарий</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<ContextMenu name="КомментарийКонтекстноеМеню" id="32"/>
+					<ExtendedTooltip name="КомментарийРасширеннаяПодсказка" id="33"/>
+				</InputField>
+				<InputField name="АвторДокумента" id="34">
+					<DataPath>Объект.АвторДокумента</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<ContextMenu name="АвторДокументаКонтекстноеМеню" id="35"/>
+					<ExtendedTooltip name="АвторДокументаРасширеннаяПодсказка" id="36"/>
+				</InputField>
+			</ChildItems>
+		</UsualGroup>
 	</ChildItems>
 	<Attributes>
 		<Attribute name="Объект" id="1">
@@ -114,7 +138,7 @@
 	<CommandInterface>
 		<NavigationPanel>
 			<Item>
-				<Command>FilterCriterion.СвязанныеДокументы.StandardCommand.OpenByValue</Command>
+				<Command>AccumulationRegister.ДенежныеСредства.StandardCommand.OpenByRecorder</Command>
 				<Type>Auto</Type>
 				<DefaultVisible>false</DefaultVisible>
 			</Item>
