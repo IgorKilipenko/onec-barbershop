@@ -58,7 +58,7 @@
 			<AuxiliaryListForm/>
 			<AuxiliaryChoiceForm/>
 			<Posting>Allow</Posting>
-			<RealTimePosting>Allow</RealTimePosting>
+			<RealTimePosting>Deny</RealTimePosting>
 			<RegisterRecordsDeletion>AutoDeleteOnUnpost</RegisterRecordsDeletion>
 			<RegisterRecordsWritingOnPost>WriteSelected</RegisterRecordsWritingOnPost>
 			<SequenceFilling>AutoFill</SequenceFilling>

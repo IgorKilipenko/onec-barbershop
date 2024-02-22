@@ -177,6 +177,11 @@
 					<xr:Common>false</xr:Common>
 				</Visible>
 			</Item>
+			<Item>
+				<Command>AccountingRegister.Хозрасчетный.StandardCommand.OpenByRecorder</Command>
+				<Type>Auto</Type>
+				<DefaultVisible>false</DefaultVisible>
+			</Item>
 		</NavigationPanel>
 	</CommandInterface>
 </Form>

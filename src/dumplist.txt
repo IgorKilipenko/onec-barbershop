@@ -66,6 +66,8 @@ Modified: Document.ЗаписьКлиента.ObjectModule
 Modified: Document.ПоступлениеДенежныхСредств
 Modified: Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента
 Modified: Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента.Form
+Modified: Document.ПоступлениеДенежныхСредств.ManagerModule
+Modified: Document.ПоступлениеДенежныхСредств.ObjectModule
 Modified: Document.ПоступлениеТоваровИМатериалов.Form.ФормаДокумента
 Modified: Document.ПоступлениеТоваровИМатериалов.Form.ФормаДокумента.Form
 Modified: Document.ПоступлениеУслуг.Form.ФормаДокумента
