@@ -21,6 +21,11 @@
 				<xr:Common>true</xr:Common>
 			</Visibility>
 		</Command>
+		<Command name="DocumentJournal.ДокументыПоКассе.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Command>
 		<Command name="Document.ПоступлениеДенежныхСредств.StandardCommand.OpenList">
 			<Visibility>
 				<xr:Common>true</xr:Common>
@@ -59,6 +64,10 @@
 			<CommandGroup>CommandGroup.Справочники</CommandGroup>
 			<Placement>Auto</Placement>
 		</Command>
+		<Command name="DocumentJournal.ДокументыПоКассе.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.ДенежныеСредства</CommandGroup>
+			<Placement>Auto</Placement>
+		</Command>
 		<Command name="Document.ПоступлениеДенежныхСредств.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.Касса</CommandGroup>
 			<Placement>Auto</Placement>
@@ -89,6 +98,9 @@
 		<Command name="Catalog.ЭквайринговыеТерминалы.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.Справочники</CommandGroup>
 		</Command>
+		<Command name="DocumentJournal.ДокументыПоКассе.StandardCommand.OpenList">
+			<CommandGroup>CommandGroup.ДенежныеСредства</CommandGroup>
+		</Command>
 		<Command name="Document.ПоступлениеДенежныхСредств.StandardCommand.OpenList">
 			<CommandGroup>CommandGroup.Касса</CommandGroup>
 		</Command>
@@ -107,6 +119,7 @@
 	</SubsystemsOrder>
 	<GroupsOrder>
 		<Group>CommandGroup.Справочники</Group>
+		<Group>CommandGroup.ДенежныеСредства</Group>
 		<Group>CommandGroup.Касса</Group>
 		<Group>CommandGroup.Банк</Group>
 	</GroupsOrder>

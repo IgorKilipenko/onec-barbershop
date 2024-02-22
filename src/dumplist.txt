@@ -25,6 +25,9 @@ New: Document.СписаниеСРасчетногоСчета.Form.ФормаД
 New: Document.СписаниеСРасчетногоСчета.Form.ФормаДокумента.Form
 New: Document.СписаниеСРасчетногоСчета.ManagerModule
 New: Document.СписаниеСРасчетногоСчета.ObjectModule
+New: DocumentJournal.ДокументыПоКассе
+New: DocumentJournal.ДокументыПоКассе.Form.ФормаСписка
+New: DocumentJournal.ДокументыПоКассе.Form.ФормаСписка.Form
 New: Enum.ВидыОперацийПоступленияНаРасчетныйСчет
 New: Enum.ВидыОперацийСписанияСРасчетногоСчета
 New: Report.ОтчетПоДвижениюИОстаткамДенег
