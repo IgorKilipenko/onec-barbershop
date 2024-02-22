@@ -326,6 +326,7 @@
 			<Report>ОтчетПоПрибыли</Report>
 			<Report>ОтчетПоБезналичнойОплате</Report>
 			<Report>ОтчетДвиженияНаличныхДенег</Report>
+			<Report>ОтчетПоДвижениюИОстаткамДенег</Report>
 			<DataProcessor>ТестыСпринт2</DataProcessor>
 			<DataProcessor>МониторРуководителя</DataProcessor>
 			<DataProcessor>ПланированиеЗагрузкиСотрудников</DataProcessor>

@@ -20,6 +20,9 @@ New: Document.СписаниеСРасчетногоСчета.ManagerModule
 New: Document.СписаниеСРасчетногоСчета.ObjectModule
 New: Enum.ВидыОперацийПоступленияНаРасчетныйСчет
 New: Enum.ВидыОперацийСписанияСРасчетногоСчета
+New: Report.ОтчетПоДвижениюИОстаткамДенег
+New: Report.ОтчетПоДвижениюИОстаткамДенег.Template.ОсновнаяСхемаКомпоновкиДанных
+New: Report.ОтчетПоДвижениюИОстаткамДенег.Template.ОсновнаяСхемаКомпоновкиДанных.Template
 New: Subsystem.БухгалтерскийУчет
 New: Subsystem.Деньги.Subsystem.Справочники
 Modified: AccumulationRegister.ДенежныеСредства
