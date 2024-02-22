@@ -4,6 +4,13 @@ New: ChartOfAccounts.Хозрасчетный
 New: ChartOfAccounts.Хозрасчетный.Predefined
 New: ChartOfCharacteristicTypes.ВидыСубконтоХозрасчетные
 New: ChartOfCharacteristicTypes.ВидыСубконтоХозрасчетные.Predefined
+New: CommandGroup.Банк
+New: CommandGroup.БухгалтерскийУчет
+New: CommandGroup.ДенежныеСредства
+New: CommandGroup.Касса
+New: CommandGroup.Настройки
+New: CommandGroup.Покупки
+New: CommandGroup.Справочники
 New: CommonModule.РаботаСРеквизитами
 New: CommonModule.РаботаСРеквизитами.Module
 New: Document.ПоступлениеНаРасчетныйСчет
@@ -24,7 +31,9 @@ New: Report.ОтчетПоДвижениюИОстаткамДенег
 New: Report.ОтчетПоДвижениюИОстаткамДенег.Template.ОсновнаяСхемаКомпоновкиДанных
 New: Report.ОтчетПоДвижениюИОстаткамДенег.Template.ОсновнаяСхемаКомпоновкиДанных.Template
 New: Subsystem.БухгалтерскийУчет
+New: Subsystem.Деньги.CommandInterface
 New: Subsystem.Деньги.Subsystem.Справочники
+New: Subsystem.Деньги.Subsystem.Справочники.CommandInterface
 Modified: AccumulationRegister.ДенежныеСредства
 Modified: AccumulationRegister.ЗаказыКлиентов
 Modified: Catalog.Контрагенты

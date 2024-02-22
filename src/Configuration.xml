@@ -282,6 +282,13 @@
 			<DefinedType>ФинансовыеДанные</DefinedType>
 			<DefinedType>КоличествоУслуг</DefinedType>
 			<DefinedType>КоличествоТоваров</DefinedType>
+			<CommandGroup>Справочники</CommandGroup>
+			<CommandGroup>БухгалтерскийУчет</CommandGroup>
+			<CommandGroup>ДенежныеСредства</CommandGroup>
+			<CommandGroup>Касса</CommandGroup>
+			<CommandGroup>Банк</CommandGroup>
+			<CommandGroup>Покупки</CommandGroup>
+			<CommandGroup>Настройки</CommandGroup>
 			<Constant>ИспользоватьСклады</Constant>
 			<Constant>НачалоРабочегоДня</Constant>
 			<Constant>ОкончаниеРабочегоДня</Constant>
