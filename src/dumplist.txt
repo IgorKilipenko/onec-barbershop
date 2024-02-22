@@ -25,6 +25,9 @@ New: Document.СписаниеСРасчетногоСчета.Form.ФормаД
 New: Document.СписаниеСРасчетногоСчета.Form.ФормаДокумента.Form
 New: Document.СписаниеСРасчетногоСчета.ManagerModule
 New: Document.СписаниеСРасчетногоСчета.ObjectModule
+New: DocumentJournal.ДокументыПоБанку
+New: DocumentJournal.ДокументыПоБанку.Form.ФормаСписка
+New: DocumentJournal.ДокументыПоБанку.Form.ФормаСписка.Form
 New: DocumentJournal.ДокументыПоКассе
 New: DocumentJournal.ДокументыПоКассе.Form.ФормаСписка
 New: DocumentJournal.ДокументыПоКассе.Form.ФормаСписка.Form

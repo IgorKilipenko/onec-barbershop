@@ -317,6 +317,7 @@
 			<Document>ПоступлениеНаРасчетныйСчет</Document>
 			<Document>СписаниеСРасчетногоСчета</Document>
 			<DocumentJournal>ДокументыПоКассе</DocumentJournal>
+			<DocumentJournal>ДокументыПоБанку</DocumentJournal>
 			<Enum>ТипыОрганизаций</Enum>
 			<Enum>ТипыНоменклатуры</Enum>
 			<Enum>ПолФизическогоЛица</Enum>
