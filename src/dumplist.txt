@@ -11,6 +11,8 @@ New: CommandGroup.Касса
 New: CommandGroup.Настройки
 New: CommandGroup.Покупки
 New: CommandGroup.Справочники
+New: CommonModule.БухгалтерскийУчет
+New: CommonModule.БухгалтерскийУчет.Module
 New: CommonModule.РаботаСРеквизитами
 New: CommonModule.РаботаСРеквизитами.Module
 New: Document.ПоступлениеНаРасчетныйСчет

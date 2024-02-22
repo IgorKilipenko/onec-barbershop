@@ -278,6 +278,7 @@
 			<CommonModule>РаботаСоСтрокамиВызовСервера</CommonModule>
 			<CommonModule>ДиагностикаКлиентСервер</CommonModule>
 			<CommonModule>РаботаСРеквизитами</CommonModule>
+			<CommonModule>БухгалтерскийУчет</CommonModule>
 			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
 			<DefinedType>ФинансовыеДанные</DefinedType>
 			<DefinedType>КоличествоУслуг</DefinedType>
