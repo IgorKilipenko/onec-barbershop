@@ -20,6 +20,7 @@ New: Document.ПоступлениеНаРасчетныйСчет.Form.Форм
 New: Document.ПоступлениеНаРасчетныйСчет.Form.ФормаСписка.Form
 New: Document.ПоступлениеНаРасчетныйСчет.ManagerModule
 New: Document.ПоступлениеНаРасчетныйСчет.ObjectModule
+New: Document.РасходДенежныхСредств.ManagerModule
 New: Document.СписаниеСРасчетногоСчета
 New: Document.СписаниеСРасчетногоСчета.Form.ФормаДокумента
 New: Document.СписаниеСРасчетногоСчета.Form.ФормаДокумента.Form
@@ -68,6 +69,8 @@ Modified: Document.ПоступлениеТоваровИМатериалов.Fo
 Modified: Document.ПоступлениеУслуг.Form.ФормаДокумента
 Modified: Document.ПоступлениеУслуг.Form.ФормаДокумента.Form
 Modified: Document.РасходДенежныхСредств
+Modified: Document.РасходДенежныхСредств.Form.ФормаДокумента
+Modified: Document.РасходДенежныхСредств.Form.ФормаДокумента.Form
 Modified: Document.РеализацияТоваровИУслуг
 Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента
 Modified: Document.РеализацияТоваровИУслуг.Form.ФормаДокумента.Form
