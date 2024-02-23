@@ -1,5 +1,6 @@
 ﻿New: AccountingRegister.Хозрасчетный
 New: Catalog.БанковскиеСчета
+New: Catalog.Склады.ManagerModule
 New: ChartOfAccounts.Хозрасчетный
 New: ChartOfAccounts.Хозрасчетный.Predefined
 New: ChartOfCharacteristicTypes.ВидыСубконтоХозрасчетные
@@ -51,6 +52,7 @@ Modified: Catalog.Контрагенты
 Modified: Catalog.Контрагенты.Form.ФормаЭлемента
 Modified: Catalog.Контрагенты.Form.ФормаЭлемента.Form
 Modified: Catalog.Контрагенты.ManagerModule
+Modified: Catalog.Склады
 Modified: CommonModule.ДиагностикаКлиентСервер
 Modified: CommonModule.ДиагностикаКлиентСервер.Module
 Modified: CommonModule.РаботаСМетаданными
