@@ -1,4 +1,5 @@
 ﻿New: AccountingRegister.Хозрасчетный
+New: AccumulationRegister.ДенежныеСредства.ManagerModule
 New: Catalog.БанковскиеСчета
 New: Catalog.БанковскиеСчета.ManagerModule
 New: Catalog.Склады.ManagerModule
