@@ -50,6 +50,8 @@ New: Subsystem.Деньги.Subsystem.Справочники
 New: Subsystem.Деньги.Subsystem.Справочники.CommandInterface
 Modified: AccumulationRegister.ДенежныеСредства
 Modified: AccumulationRegister.ЗаказыКлиентов
+Modified: Catalog.Кассы
+Modified: Catalog.Кассы.ManagerModule
 Modified: Catalog.Контрагенты
 Modified: Catalog.Контрагенты.Form.ФормаЭлемента
 Modified: Catalog.Контрагенты.Form.ФормаЭлемента.Form
