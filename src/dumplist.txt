@@ -1,5 +1,6 @@
 ﻿New: AccountingRegister.Хозрасчетный
 New: Catalog.БанковскиеСчета
+New: Catalog.БанковскиеСчета.ManagerModule
 New: Catalog.Склады.ManagerModule
 New: ChartOfAccounts.Хозрасчетный
 New: ChartOfAccounts.Хозрасчетный.Predefined
