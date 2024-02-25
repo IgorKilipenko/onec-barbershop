@@ -5,6 +5,7 @@ New: Catalog.БанковскиеСчета.ManagerModule
 New: Catalog.Номенклатура.ManagerModule
 New: Catalog.Склады.ManagerModule
 New: ChartOfAccounts.Хозрасчетный
+New: ChartOfAccounts.Хозрасчетный.ManagerModule
 New: ChartOfAccounts.Хозрасчетный.Predefined
 New: ChartOfCharacteristicTypes.ВидыСубконтоХозрасчетные
 New: ChartOfCharacteristicTypes.ВидыСубконтоХозрасчетные.Predefined
