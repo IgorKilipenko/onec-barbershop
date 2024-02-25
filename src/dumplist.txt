@@ -83,8 +83,10 @@ Modified: Document.ПоступлениеТоваровИМатериалов
 Modified: Document.ПоступлениеТоваровИМатериалов.Form.ФормаДокумента
 Modified: Document.ПоступлениеТоваровИМатериалов.Form.ФормаДокумента.Form
 Modified: Document.ПоступлениеТоваровИМатериалов.ObjectModule
+Modified: Document.ПоступлениеУслуг
 Modified: Document.ПоступлениеУслуг.Form.ФормаДокумента
 Modified: Document.ПоступлениеУслуг.Form.ФормаДокумента.Form
+Modified: Document.ПоступлениеУслуг.ObjectModule
 Modified: Document.РасходДенежныхСредств
 Modified: Document.РасходДенежныхСредств.Form.ФормаДокумента
 Modified: Document.РасходДенежныхСредств.Form.ФормаДокумента.Form
