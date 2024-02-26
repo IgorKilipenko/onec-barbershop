@@ -57,6 +57,7 @@ New: Subsystem.БухгалтерскийУчет
 New: Subsystem.Деньги.CommandInterface
 New: Subsystem.Деньги.Subsystem.Справочники
 New: Subsystem.Деньги.Subsystem.Справочники.CommandInterface
+New: Subsystem.НСИИАдминистрирование.CommandInterface
 Modified: AccumulationRegister.ДенежныеСредства
 Modified: AccumulationRegister.ЗаказыКлиентов
 Modified: Catalog.Кассы
@@ -107,3 +108,5 @@ Modified: Enum.ВидыОперацийПоступленияДенег
 Modified: Enum.ВидыОперацийРасходаДенег
 Modified: FilterCriterion.СвязанныеДокументы
 Modified: Subsystem.Деньги
+Modified: Subsystem.НСИИАдминистрирование
+Modified: Subsystem.Сервис
