@@ -54,6 +54,7 @@ New: Report.ОтчетПоДвижениюИОстаткамДенег
 New: Report.ОтчетПоДвижениюИОстаткамДенег.Template.ОсновнаяСхемаКомпоновкиДанных
 New: Report.ОтчетПоДвижениюИОстаткамДенег.Template.ОсновнаяСхемаКомпоновкиДанных.Template
 New: Subsystem.БухгалтерскийУчет
+New: Subsystem.БухгалтерскийУчет.CommandInterface
 New: Subsystem.Деньги.CommandInterface
 New: Subsystem.Деньги.Subsystem.Справочники
 New: Subsystem.Деньги.Subsystem.Справочники.CommandInterface
