@@ -332,6 +332,7 @@
 			<Enum>ПризнакиОплаты</Enum>
 			<Enum>ВидыОперацийПоступленияНаРасчетныйСчет</Enum>
 			<Enum>ВидыОперацийСписанияСРасчетногоСчета</Enum>
+			<Enum>СтатусЗаписиКлинта</Enum>
 			<Report>ОтчетПоТоварамНаСкладах</Report>
 			<Report>ОтчетПоОказаннымУслугам</Report>
 			<Report>ОтчетПоПрибыли</Report>
@@ -346,12 +347,14 @@
 			<InformationRegister>ЦеныНоменклатурыПоставщиков</InformationRegister>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<InformationRegister>УчетнаяПолитика</InformationRegister>
+			<InformationRegister>ЖурналЗаписейКлиентов</InformationRegister>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
 			<AccumulationRegister>ЗаказыКлиентов</AccumulationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>
 			<AccumulationRegister>УчетЗатрат</AccumulationRegister>
 			<AccumulationRegister>ДенежныеСредства</AccumulationRegister>
 			<AccumulationRegister>БезналичнаяОплата</AccumulationRegister>
+			<AccumulationRegister>УчетДебиторскойЗадолженности</AccumulationRegister>
 			<ChartOfCharacteristicTypes>ВидыСубконтоХозрасчетные</ChartOfCharacteristicTypes>
 			<ChartOfAccounts>Хозрасчетный</ChartOfAccounts>
 			<AccountingRegister>Хозрасчетный</AccountingRegister>
