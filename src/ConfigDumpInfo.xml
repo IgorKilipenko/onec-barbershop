@@ -177,7 +177,7 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="51a79af0-8692-4460-b9c8-156fc59c1aba.0" configVersion="bdb6e99500c15947a896c9e352af9a8800000000"/>
 		<Metadata name="CommonPicture.Справочники" id="79b9328d-ed7d-418b-a93e-40f925149ef6" configVersion="d030f1775f0a114094e3776a5457e57f00000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="79b9328d-ed7d-418b-a93e-40f925149ef6.0" configVersion="aecf472f5c86e543998eebf5f100ff5400000000"/>
-		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="50da27c33ea98b4dbc1f3db0f9be451600000000"/>
+		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="0227185c23c2a646b53c24c50e3b39ba00000000"/>
 		<Metadata name="Configuration.Конфигурация.ClientApplicationInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.b" configVersion="184f50c9d5ac3b45b93a2d189689c80700000000"/>
 		<Metadata name="Configuration.Конфигурация.CommandInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.a" configVersion="ce8c15cbda4c074aa203ffc32401319600000000"/>
 		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.8" configVersion="410dddd91985ff44bb78ea510a1a6b0000000000"/>
@@ -506,6 +506,9 @@
 		<Metadata name="Report.ОтчетПоДвижениюИОстаткамДенег" id="b726940c-7ac3-4749-8925-c9ab92c6af11" configVersion="c54f49c7e21b3d44a9fff7413848100b00000000"/>
 		<Metadata name="Report.ОтчетПоДвижениюИОстаткамДенег.Template.ОсновнаяСхемаКомпоновкиДанных" id="1868f336-4d77-4224-a361-c3b010429e00" configVersion="508491b065e8314b90915628de79c8ec00000000"/>
 		<Metadata name="Report.ОтчетПоДвижениюИОстаткамДенег.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="1868f336-4d77-4224-a361-c3b010429e00.0" configVersion="601d56d85fdb184e83fc25e04fbe095a00000000"/>
+		<Metadata name="Report.ОтчетПоЗадолженностямКонтрагентов" id="38c40e70-51c0-432d-b814-247cda196d6e" configVersion="78558ca3a2c40a408a98dbe1359866a900000000"/>
+		<Metadata name="Report.ОтчетПоЗадолженностямКонтрагентов.Template.ОсновнаяСхемаКомпоновкиДанных" id="3a299d0b-19c1-48be-8b4d-8e04e8b890de" configVersion="c1be1b16cc9fe74183d3f527ecf5bf8b00000000"/>
+		<Metadata name="Report.ОтчетПоЗадолженностямКонтрагентов.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="3a299d0b-19c1-48be-8b4d-8e04e8b890de.0" configVersion="6d50237a06b07f4f839eaaeec4a42a7e00000000"/>
 		<Metadata name="Report.ОтчетПоОказаннымУслугам" id="535b5b83-e6b0-4c88-8d35-a04ff7e1a4e6" configVersion="79602a8b2a04c94286ce92e8ab7927bd00000000"/>
 		<Metadata name="Report.ОтчетПоОказаннымУслугам.Template.ОсновнаяСхемаКомпоновкиДанных" id="f8a7abbe-e362-4330-a3d8-84fd553f3b72" configVersion="5296685bd0ac8a4c8d221ab8a13757fc00000000"/>
 		<Metadata name="Report.ОтчетПоОказаннымУслугам.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="f8a7abbe-e362-4330-a3d8-84fd553f3b72.0" configVersion="7c28da84752b294d94ef082680c211e900000000"/>
