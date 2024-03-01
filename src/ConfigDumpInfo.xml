@@ -254,8 +254,8 @@
 			<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Attribute.СуммаДокумента" id="c4bf704f-e60d-4771-ad55-e0486adadada"/>
 			<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Attribute.ДатаВходящегоДокумента" id="d5408669-8aca-4631-b1ef-f467c1f0324f"/>
 		</Metadata>
-		<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Form.ФормаДокумента" id="436b64ca-9f36-4770-b751-3906dc3f6b05" configVersion="ec6bf05d0e7e744a9c74478813e96fe600000000"/>
-		<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Form.ФормаДокумента.Form" id="436b64ca-9f36-4770-b751-3906dc3f6b05.0" configVersion="94490bb6fd8f074f9575a9b808aa896e00000000"/>
+		<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Form.ФормаДокумента" id="436b64ca-9f36-4770-b751-3906dc3f6b05" configVersion="dce85aed8220e846911fb59e0c3ceb4200000000"/>
+		<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Form.ФормаДокумента.Form" id="436b64ca-9f36-4770-b751-3906dc3f6b05.0" configVersion="5332b02742349c4e87f2aedd8dbe5b0c00000000"/>
 		<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Form.ФормаСписка" id="70df962f-c729-4dc6-8e05-6fdc1f802e1b" configVersion="056ccf018416c54d9728bd93c57bf4d000000000"/>
 		<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Form.ФормаСписка.Form" id="70df962f-c729-4dc6-8e05-6fdc1f802e1b.0" configVersion="cc71b798b6f79446abf91c0ecd0d1e9d00000000"/>
 		<Metadata name="Document.ПоступлениеНаРасчетныйСчет.ManagerModule" id="ebd1c8e5-eabb-4716-9cc3-27a744189c5d.2" configVersion="21cfeba9e9597348ad6571f0fb802bb200000000"/>
