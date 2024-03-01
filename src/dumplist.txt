@@ -1,2 +1,2 @@
-﻿Modified: Document.ПоступлениеДенежныхСредств
-Modified: Document.ПоступлениеДенежныхСредств.ObjectModule
+﻿Modified: Document.ПоступлениеНаРасчетныйСчет
+Modified: Document.ПоступлениеНаРасчетныйСчет.ObjectModule

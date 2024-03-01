@@ -239,7 +239,7 @@
 		<Metadata name="Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента.Form" id="c5852f2b-8b34-4977-95b0-6233feece1b9.0" configVersion="eaf55180178ba84e91052f11d4c03c8c00000000"/>
 		<Metadata name="Document.ПоступлениеДенежныхСредств.ManagerModule" id="d37a204f-1db5-4f26-99d8-882cf376b121.2" configVersion="746c031dfa5325419f67a72f7520291400000000"/>
 		<Metadata name="Document.ПоступлениеДенежныхСредств.ObjectModule" id="d37a204f-1db5-4f26-99d8-882cf376b121.0" configVersion="a17546ef4aaa16459e640735cd01dde400000000"/>
-		<Metadata name="Document.ПоступлениеНаРасчетныйСчет" id="ebd1c8e5-eabb-4716-9cc3-27a744189c5d" configVersion="8dce2a960ac7f340bfaad1881c7514c600000000">
+		<Metadata name="Document.ПоступлениеНаРасчетныйСчет" id="ebd1c8e5-eabb-4716-9cc3-27a744189c5d" configVersion="e7bf64445561544eaa1da7b4f01555d700000000">
 			<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Attribute.НомерВходящегоДокумента" id="1bb31fdd-126b-4c36-83c7-6c1d23a320f6"/>
 			<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Attribute.НазначениеПлатежа" id="31850ddd-0aef-4604-bf9f-0c2112ae54b3"/>
 			<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Attribute.Плательщик" id="46738457-f395-4f31-bdf6-c3e14192c004"/>
@@ -259,7 +259,7 @@
 		<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Form.ФормаСписка" id="70df962f-c729-4dc6-8e05-6fdc1f802e1b" configVersion="056ccf018416c54d9728bd93c57bf4d000000000"/>
 		<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Form.ФормаСписка.Form" id="70df962f-c729-4dc6-8e05-6fdc1f802e1b.0" configVersion="cc71b798b6f79446abf91c0ecd0d1e9d00000000"/>
 		<Metadata name="Document.ПоступлениеНаРасчетныйСчет.ManagerModule" id="ebd1c8e5-eabb-4716-9cc3-27a744189c5d.2" configVersion="21cfeba9e9597348ad6571f0fb802bb200000000"/>
-		<Metadata name="Document.ПоступлениеНаРасчетныйСчет.ObjectModule" id="ebd1c8e5-eabb-4716-9cc3-27a744189c5d.0" configVersion="d51b3473e70f834d9826cbc049c503bf00000000"/>
+		<Metadata name="Document.ПоступлениеНаРасчетныйСчет.ObjectModule" id="ebd1c8e5-eabb-4716-9cc3-27a744189c5d.0" configVersion="1be8ef02a54b1844b06a67655b5ba3f700000000"/>
 		<Metadata name="Document.ПоступлениеТоваровИМатериалов" id="4c691001-4a4a-40c6-b579-f53553b58f5c" configVersion="b8c29e868bcef04eabc04aec7f4327ba00000000">
 			<Metadata name="Document.ПоступлениеТоваровИМатериалов.Attribute.ДоговорПоставщика" id="0df6667f-62f1-479e-a7e6-b1b3de9a3587"/>
 			<Metadata name="Document.ПоступлениеТоваровИМатериалов.TabularSection.Товары" id="0ff6e96f-8c86-49e9-bb48-3254fc68ff40"/>
