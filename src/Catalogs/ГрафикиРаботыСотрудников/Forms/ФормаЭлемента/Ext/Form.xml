@@ -187,6 +187,12 @@
 							<CommandName>Form.Command.ЗаполнитьГрафик</CommandName>
 							<ExtendedTooltip name="ЗаполнитьГрафикРасширеннаяПодсказка" id="50"/>
 						</Button>
+						<Button name="ЗагрузитьВГрафикиПредприятия" id="60">
+							<Type>UsualButton</Type>
+							<Representation>PictureAndText</Representation>
+							<CommandName>Form.Command.ЗагрузитьВГрафикиПредприятия</CommandName>
+							<ExtendedTooltip name="ЗагрузитьВГрафикиПредприятияРасширеннаяПодсказка" id="61"/>
+						</Button>
 					</ChildItems>
 				</UsualGroup>
 			</ChildItems>
@@ -307,6 +313,25 @@
 				</v8:item>
 			</ToolTip>
 			<Action>ЗаполнитьГрафик</Action>
+		</Command>
+		<Command name="ЗагрузитьВГрафикиПредприятия" id="2">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Загрузить в графики предприятия</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Загрузить в графики предприятия</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Picture>
+				<xr:Ref>CommonPicture.Продажи</xr:Ref>
+				<xr:LoadTransparent>true</xr:LoadTransparent>
+			</Picture>
+			<Action>ЗагрузитьВГрафикиПредприятия</Action>
 		</Command>
 	</Commands>
 </Form>

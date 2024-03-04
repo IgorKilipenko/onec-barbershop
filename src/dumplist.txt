@@ -1,2 +1,2 @@
-﻿New: InformationRegister.ГрафикиРаботыПредприятия.ManagerModule
-Modified: InformationRegister.ГрафикиРаботыПредприятия
+﻿Modified: Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента
+Modified: Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента.Form

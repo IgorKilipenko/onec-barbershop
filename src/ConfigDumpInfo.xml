@@ -64,8 +64,8 @@
 			<Metadata name="Catalog.ГрафикиРаботыСотрудников.TabularSection.СписокДней.Attribute.КоличествоЧасов" id="e43f011f-9d47-4ab9-91b2-35730b289582"/>
 			<Metadata name="Catalog.ГрафикиРаботыСотрудников.Attribute.СпособЗаполнения" id="fc2ab7a5-0113-4fba-9e30-3b27640b71c7"/>
 		</Metadata>
-		<Metadata name="Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента" id="f84784b3-07cb-4bfc-965e-b9ca0eabfcb8" configVersion="56e8bf1ad6f1464284cda8ae7a78ec1a00000000"/>
-		<Metadata name="Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента.Form" id="f84784b3-07cb-4bfc-965e-b9ca0eabfcb8.0" configVersion="b2cc72ea87da8546a73328921b7122be00000000"/>
+		<Metadata name="Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента" id="f84784b3-07cb-4bfc-965e-b9ca0eabfcb8" configVersion="8c621a09a1020c429325daa8aafb963f00000000"/>
+		<Metadata name="Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента.Form" id="f84784b3-07cb-4bfc-965e-b9ca0eabfcb8.0" configVersion="a573f80e9fd77d4d9cfffdc168eea2a800000000"/>
 		<Metadata name="Catalog.ДоговорыКонтрагентов" id="8358dbd4-0669-4e70-896e-44c4856bfefe" configVersion="f0f5b6dbf84b72408f54846843f0420d00000000">
 			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.ДатаОкончанияДоговора" id="1f128f7f-34c3-4439-a5f4-fbfe6c37ea6c"/>
 			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.ВнешнийНомерДоговора" id="2258fbca-da4c-4287-b140-43014f9ccd65"/>
