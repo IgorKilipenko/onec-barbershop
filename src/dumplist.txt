@@ -1,2 +1,6 @@
-﻿Modified: Document.ПоступлениеНаРасчетныйСчет
-Modified: Document.ПоступлениеНаРасчетныйСчет.ObjectModule
+﻿New: Catalog.ГрафикиРаботыСотрудников
+New: Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента
+New: Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента.Form
+Modified: Configuration.Конфигурация
+Modified: Subsystem.НСИИАдминистрирование.Subsystem.Персонал
+Modified: Subsystem.Персонал.Subsystem.Справочники
