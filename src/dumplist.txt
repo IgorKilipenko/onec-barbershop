@@ -1,3 +1,2 @@
-﻿New: InformationRegister.ГрафикиРаботыПредприятия
-Modified: Configuration.Конфигурация
-Modified: Subsystem.Персонал.Subsystem.Справочники
+﻿New: InformationRegister.ГрафикиРаботыПредприятия.ManagerModule
+Modified: InformationRegister.ГрафикиРаботыПредприятия
