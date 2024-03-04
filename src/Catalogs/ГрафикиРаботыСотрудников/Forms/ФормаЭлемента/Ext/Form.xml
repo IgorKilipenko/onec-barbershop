@@ -48,15 +48,27 @@
 							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 							<ContextMenu name="НачалоПериодаКонтекстноеМеню" id="38"/>
 							<ExtendedTooltip name="НачалоПериодаРасширеннаяПодсказка" id="39"/>
+							<Events>
+								<Event name="OnChange">НачалоПериодаПриИзменении</Event>
+							</Events>
 						</InputField>
 						<InputField name="КонецПериода" id="40">
 							<DataPath>Объект.КонецПериода</DataPath>
 							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 							<ContextMenu name="КонецПериодаКонтекстноеМеню" id="41"/>
 							<ExtendedTooltip name="КонецПериодаРасширеннаяПодсказка" id="42"/>
+							<Events>
+								<Event name="OnChange">КонецПериодаПриИзменении</Event>
+							</Events>
 						</InputField>
 					</ChildItems>
 				</UsualGroup>
+				<InputField name="КоличествоЧасов" id="57">
+					<DataPath>Объект.КоличествоЧасов</DataPath>
+					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<ContextMenu name="КоличествоЧасовКонтекстноеМеню" id="58"/>
+					<ExtendedTooltip name="КоличествоЧасовРасширеннаяПодсказка" id="59"/>
+				</InputField>
 				<UsualGroup name="ГруппаСпособЗаполнения" id="33">
 					<Title>
 						<v8:item>
@@ -107,6 +119,9 @@
 							</ChoiceList>
 							<ContextMenu name="СпособЗаполненияКонтекстноеМеню" id="52"/>
 							<ExtendedTooltip name="СпособЗаполненияРасширеннаяПодсказка" id="53"/>
+							<Events>
+								<Event name="OnChange">СпособЗаполненияПриИзменении</Event>
+							</Events>
 						</RadioButtonField>
 						<InputField name="ШагДней" id="43">
 							<DataPath>Объект.ШагДней</DataPath>
@@ -291,6 +306,7 @@
 					<v8:content>Заполнить график</v8:content>
 				</v8:item>
 			</ToolTip>
+			<Action>ЗаполнитьГрафик</Action>
 		</Command>
 	</Commands>
 </Form>
