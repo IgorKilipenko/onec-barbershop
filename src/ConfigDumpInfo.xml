@@ -190,7 +190,7 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="51a79af0-8692-4460-b9c8-156fc59c1aba.0" configVersion="bdb6e99500c15947a896c9e352af9a8800000000"/>
 		<Metadata name="CommonPicture.Справочники" id="79b9328d-ed7d-418b-a93e-40f925149ef6" configVersion="d030f1775f0a114094e3776a5457e57f00000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="79b9328d-ed7d-418b-a93e-40f925149ef6.0" configVersion="aecf472f5c86e543998eebf5f100ff5400000000"/>
-		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="3a1fa3dcc29e7f42825d8c30bfd3950d00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="4d1f9395f7a1944389e66a02e4eddee600000000"/>
 		<Metadata name="Configuration.Конфигурация.ClientApplicationInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.b" configVersion="184f50c9d5ac3b45b93a2d189689c80700000000"/>
 		<Metadata name="Configuration.Конфигурация.CommandInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.a" configVersion="ce8c15cbda4c074aa203ffc32401319600000000"/>
 		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.8" configVersion="410dddd91985ff44bb78ea510a1a6b0000000000"/>
@@ -459,6 +459,14 @@
 			<Metadata name="Enum.СтатусЗаписиКлинта.EnumValue.Отменена" id="7163c859-eb85-4b07-b1bf-76412f28e05a"/>
 			<Metadata name="Enum.СтатусЗаписиКлинта.EnumValue.Активна" id="b4f3ded9-d2bf-4bee-8b29-07333b89bda1"/>
 			<Metadata name="Enum.СтатусЗаписиКлинта.EnumValue.Выполнена" id="fd6d6390-9a15-486e-9244-3c79c69a3396"/>
+		</Metadata>
+		<Metadata name="Enum.ТипыГрафиковРаботы" id="e5f169a1-3036-4b71-9941-36c184006b2d" configVersion="9e9bad27a094174db14e791ac46dc37500000000">
+			<Metadata name="Enum.ТипыГрафиковРаботы.EnumValue.ПятидневнаяРабочаяНеделя" id="0a51ca8e-dae3-4106-9fb9-c0e9395aa430"/>
+			<Metadata name="Enum.ТипыГрафиковРаботы.EnumValue.Сменный" id="2ff7663a-46f2-472d-add0-a539359ad917"/>
+			<Metadata name="Enum.ТипыГрафиковРаботы.EnumValue.Циклический" id="855fbb6a-86dc-4a31-972b-9b606958349c"/>
+			<Metadata name="Enum.ТипыГрафиковРаботы.EnumValue.Гибкий" id="ad53261e-2d61-4904-a437-71034f175b7f"/>
+			<Metadata name="Enum.ТипыГрафиковРаботы.EnumValue.ЧастичнаяЗанятость" id="ada1cbfa-637d-4b47-93a8-973b76331527"/>
+			<Metadata name="Enum.ТипыГрафиковРаботы.EnumValue.Вахтовый" id="c9fa4c06-6e97-4f21-97b9-1f400937a118"/>
 		</Metadata>
 		<Metadata name="Enum.ТипыДенежныхСредств" id="faa45303-6139-4b62-a7d4-5d01b5a6d407" configVersion="5c24bc5519f137449fd499e48793b99d00000000">
 			<Metadata name="Enum.ТипыДенежныхСредств.EnumValue.Наличные" id="1515415d-2d16-4afa-b009-4d4e67d63188"/>
