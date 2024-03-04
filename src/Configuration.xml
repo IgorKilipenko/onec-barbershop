@@ -351,6 +351,7 @@
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<InformationRegister>УчетнаяПолитика</InformationRegister>
 			<InformationRegister>ЖурналЗаписейКлиентов</InformationRegister>
+			<InformationRegister>ГрафикиРаботыПредприятия</InformationRegister>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
 			<AccumulationRegister>ЗаказыКлиентов</AccumulationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>
