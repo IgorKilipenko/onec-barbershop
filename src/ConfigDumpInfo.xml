@@ -53,10 +53,16 @@
 			<Metadata name="Catalog.БанковскиеСчета.Attribute.Банк" id="72bea056-9728-4eda-a173-2439695f11c2"/>
 		</Metadata>
 		<Metadata name="Catalog.БанковскиеСчета.ManagerModule" id="a694bcdf-ce08-4a86-859a-9dca357b3feb.3" configVersion="8c4423e75079d045bb2cc9537df50e9000000000"/>
-		<Metadata name="Catalog.ГрафикиРаботыСотрудников" id="8e447494-735c-4d45-9946-75ea7f177de2" configVersion="00bd7fd800a180438098f074dd2b8ae700000000">
+		<Metadata name="Catalog.ГрафикиРаботыСотрудников" id="8e447494-735c-4d45-9946-75ea7f177de2" configVersion="4ad9a736655e654394ecc51cf6ede7be00000000">
 			<Metadata name="Catalog.ГрафикиРаботыСотрудников.TabularSection.СписокДней" id="27b8785f-2b5b-4b9c-97e0-72591043e88f"/>
+			<Metadata name="Catalog.ГрафикиРаботыСотрудников.Attribute.НачалоГрафика" id="33605605-4220-4110-864b-0a4cd4be0b07"/>
+			<Metadata name="Catalog.ГрафикиРаботыСотрудников.Attribute.КонецПериода" id="75706b3e-bf66-4f5a-8c5c-c63fa4b013d0"/>
 			<Metadata name="Catalog.ГрафикиРаботыСотрудников.TabularSection.СписокДней.Attribute.День" id="810c3d1e-d7ae-4b5b-89d4-7e3d81f0dad7"/>
+			<Metadata name="Catalog.ГрафикиРаботыСотрудников.Attribute.НачалоПериода" id="96f2f0e0-8e31-4b11-82cf-ae0b538a92d6"/>
+			<Metadata name="Catalog.ГрафикиРаботыСотрудников.Attribute.КоличествоЧасов" id="ddb70f8e-4be1-42d7-ab6d-0a6b405ead25"/>
+			<Metadata name="Catalog.ГрафикиРаботыСотрудников.Attribute.ШагДней" id="e03b44f4-d506-4006-9cf0-1db4e5011021"/>
 			<Metadata name="Catalog.ГрафикиРаботыСотрудников.TabularSection.СписокДней.Attribute.КоличествоЧасов" id="e43f011f-9d47-4ab9-91b2-35730b289582"/>
+			<Metadata name="Catalog.ГрафикиРаботыСотрудников.Attribute.СпособЗаполнения" id="fc2ab7a5-0113-4fba-9e30-3b27640b71c7"/>
 		</Metadata>
 		<Metadata name="Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента" id="f84784b3-07cb-4bfc-965e-b9ca0eabfcb8" configVersion="c2238f5a69b3024380e2f3aadb887e5200000000"/>
 		<Metadata name="Catalog.ГрафикиРаботыСотрудников.Form.ФормаЭлемента.Form" id="f84784b3-07cb-4bfc-965e-b9ca0eabfcb8.0" configVersion="518785ceee13a944980b2c55e54cc66000000000"/>
