@@ -318,6 +318,7 @@
 			<Document>РасходДенежныхСредств</Document>
 			<Document>ПоступлениеНаРасчетныйСчет</Document>
 			<Document>СписаниеСРасчетногоСчета</Document>
+			<Document>НачислениеЗарплаты</Document>
 			<DocumentJournal>ДокументыПоКассе</DocumentJournal>
 			<DocumentJournal>ДокументыПоБанку</DocumentJournal>
 			<DocumentJournal>ЖурналХозяйственныхОпераций</DocumentJournal>
@@ -364,6 +365,7 @@
 			<ChartOfAccounts>Хозрасчетный</ChartOfAccounts>
 			<AccountingRegister>Хозрасчетный</AccountingRegister>
 			<ChartOfCalculationTypes>Начисления</ChartOfCalculationTypes>
+			<CalculationRegister>Начисления</CalculationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
