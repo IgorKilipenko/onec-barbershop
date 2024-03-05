@@ -363,6 +363,7 @@
 			<ChartOfCharacteristicTypes>ВидыСубконтоХозрасчетные</ChartOfCharacteristicTypes>
 			<ChartOfAccounts>Хозрасчетный</ChartOfAccounts>
 			<AccountingRegister>Хозрасчетный</AccountingRegister>
+			<ChartOfCalculationTypes>Начисления</ChartOfCalculationTypes>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
