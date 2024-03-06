@@ -1,4 +1,1 @@
-﻿New: CalculationRegister.Начисления
-New: Document.НачислениеЗарплаты
-Modified: Configuration.Конфигурация
-Modified: Subsystem.Персонал
+﻿Modified: Document.НачислениеЗарплаты
