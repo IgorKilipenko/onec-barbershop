@@ -1,1 +1,4 @@
-﻿Modified: Document.НачислениеЗарплаты
+﻿New: Document.НачислениеЗарплаты.Form.ФормаДокумента
+New: Document.НачислениеЗарплаты.Form.ФормаДокумента.Form
+New: Document.НачислениеЗарплаты.ObjectModule
+Modified: Document.НачислениеЗарплаты
