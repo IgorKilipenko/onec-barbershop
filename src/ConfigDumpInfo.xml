@@ -262,7 +262,7 @@
 		<Metadata name="Document.НачислениеЗарплаты.Form.ФормаДокумента" id="d327f4ab-e6da-4d50-a010-4cfeaeb1a221" configVersion="062457954098fb41a8bad00cf3abf64c00000000"/>
 		<Metadata name="Document.НачислениеЗарплаты.Form.ФормаДокумента.Form" id="d327f4ab-e6da-4d50-a010-4cfeaeb1a221.0" configVersion="222e584c9a450b4b85d5fb359d564c6c00000000"/>
 		<Metadata name="Document.НачислениеЗарплаты.ObjectModule" id="ab0bfdd2-6f7f-4b4c-8379-1410a54dba7d.0" configVersion="1ebdeff9f8a80642a1e5537a1169544900000000"/>
-		<Metadata name="Document.ПоступлениеДенежныхСредств" id="d37a204f-1db5-4f26-99d8-882cf376b121" configVersion="8e1f27b8c4b89445bc0ec6d07e53566300000000">
+		<Metadata name="Document.ПоступлениеДенежныхСредств" id="d37a204f-1db5-4f26-99d8-882cf376b121" configVersion="8d621e6d134415449552fcb00cc7268400000000">
 			<Metadata name="Document.ПоступлениеДенежныхСредств.Attribute.Касса" id="00713ac3-69a8-45e9-bbbe-7b4fd778df25"/>
 			<Metadata name="Document.ПоступлениеДенежныхСредств.Attribute.ДоговорКонтрагента" id="096f9b1d-220b-4950-bc71-4feb45433188"/>
 			<Metadata name="Document.ПоступлениеДенежныхСредств.Attribute.ДокументОснование" id="21b25e86-c544-4a97-ab22-b432f83a23df"/>
@@ -278,7 +278,7 @@
 		<Metadata name="Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента" id="c5852f2b-8b34-4977-95b0-6233feece1b9" configVersion="2a9c63b86b1ad84abc016d1ab0d9e91f00000000"/>
 		<Metadata name="Document.ПоступлениеДенежныхСредств.Form.ФормаДокумента.Form" id="c5852f2b-8b34-4977-95b0-6233feece1b9.0" configVersion="eaf55180178ba84e91052f11d4c03c8c00000000"/>
 		<Metadata name="Document.ПоступлениеДенежныхСредств.ManagerModule" id="d37a204f-1db5-4f26-99d8-882cf376b121.2" configVersion="746c031dfa5325419f67a72f7520291400000000"/>
-		<Metadata name="Document.ПоступлениеДенежныхСредств.ObjectModule" id="d37a204f-1db5-4f26-99d8-882cf376b121.0" configVersion="a17546ef4aaa16459e640735cd01dde400000000"/>
+		<Metadata name="Document.ПоступлениеДенежныхСредств.ObjectModule" id="d37a204f-1db5-4f26-99d8-882cf376b121.0" configVersion="64cf1ae7a2497c4ea8bcf80cd754478900000000"/>
 		<Metadata name="Document.ПоступлениеНаРасчетныйСчет" id="ebd1c8e5-eabb-4716-9cc3-27a744189c5d" configVersion="e7bf64445561544eaa1da7b4f01555d700000000">
 			<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Attribute.НомерВходящегоДокумента" id="1bb31fdd-126b-4c36-83c7-6c1d23a320f6"/>
 			<Metadata name="Document.ПоступлениеНаРасчетныйСчет.Attribute.НазначениеПлатежа" id="31850ddd-0aef-4604-bf9f-0c2112ae54b3"/>
