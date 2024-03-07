@@ -1,2 +1,2 @@
-﻿New: CalculationRegister.Начисления.RecordSetModule
-Modified: CalculationRegister.Начисления
+﻿Modified: CalculationRegister.Начисления
+Modified: CalculationRegister.Начисления.RecordSetModule
