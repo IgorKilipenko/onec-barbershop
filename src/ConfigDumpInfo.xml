@@ -88,7 +88,7 @@
 			<Metadata name="Catalog.Кассы.Attribute.Ответственный" id="3fe0fda7-857d-4e67-a88d-0397dd71460b"/>
 		</Metadata>
 		<Metadata name="Catalog.Кассы.ManagerModule" id="1ffab3f1-44b7-4cf7-8049-a6ed7f03b201.3" configVersion="6fd32c0d2235ca4396f80929db4cc11d00000000"/>
-		<Metadata name="Catalog.Контрагенты" id="a6a183e3-fac7-4ef4-bbdd-984b32d5c145" configVersion="91abe77933d23646bd87ba2a58924da500000000">
+		<Metadata name="Catalog.Контрагенты" id="a6a183e3-fac7-4ef4-bbdd-984b32d5c145" configVersion="13e435b8d334a34a8c8e2cee633bd73400000000">
 			<Metadata name="Catalog.Контрагенты.Attribute.Источник" id="004151c2-7c6d-43d1-8342-66c4737eeb55"/>
 			<Metadata name="Catalog.Контрагенты.Attribute.КонтактныйТелефон" id="0c656b87-a9f5-4fe2-884d-99a609ccbe6e"/>
 			<Metadata name="Catalog.Контрагенты.Attribute.ФизическоеЛицо" id="2b197a0e-be54-4748-8d9d-ab15088a0517"/>
