@@ -135,7 +135,7 @@
 		<Metadata name="Catalog.Сотрудники.ObjectModule" id="12df6926-984b-4267-b209-3301a95724b5.0" configVersion="49a8faece66a124a80ba63c60308f27600000000"/>
 		<Metadata name="Catalog.СтатьиЗатрат" id="96fea163-343d-4e9f-8bb6-95dd0c117302" configVersion="9bea604409d63549968ad833b7ea844800000000"/>
 		<Metadata name="Catalog.СтатьиЗатрат.Predefined" id="96fea163-343d-4e9f-8bb6-95dd0c117302.1c" configVersion="c4da7c9f77947243b38acc2af85696b200000000"/>
-		<Metadata name="Catalog.ФизическиеЛица" id="b53f5623-983b-43b0-a3ee-9aaefa1bcb11" configVersion="b7a81cde6fd786498f1972c594ab89d900000000">
+		<Metadata name="Catalog.ФизическиеЛица" id="b53f5623-983b-43b0-a3ee-9aaefa1bcb11" configVersion="7e65fbb0f2dde147869bc4df0a8f03cb00000000">
 			<Metadata name="Catalog.ФизическиеЛица.Attribute.Имя" id="226f1833-8826-4582-bef2-853e1e417240"/>
 			<Metadata name="Catalog.ФизическиеЛица.Attribute.Отчество" id="6a9e14de-6202-4a83-9953-675ea727c2b0"/>
 			<Metadata name="Catalog.ФизическиеЛица.Attribute.КонтактныйТелефон" id="700aedf3-648d-41a5-87ff-1835df5ddbe2"/>

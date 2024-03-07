@@ -1,2 +1,1 @@
-﻿Modified: CalculationRegister.Начисления
-Modified: CalculationRegister.Начисления.RecordSetModule
+﻿Modified: Catalog.ФизическиеЛица
