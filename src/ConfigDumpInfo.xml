@@ -178,8 +178,8 @@
 		<Metadata name="CommonModule.ДиагностикаКлиентСервер.Module" id="9d0a9a4c-a8e8-48c5-b840-664d59146786.0" configVersion="7298ba2f8ee77545b73dfccc9ece9dd000000000"/>
 		<Metadata name="CommonModule.РаботаСДокументами" id="83d0ebd2-994c-4b49-8a56-581398e6f02b" configVersion="f942922d27aab64fbf9a7be43e823d0f00000000"/>
 		<Metadata name="CommonModule.РаботаСДокументами.Module" id="83d0ebd2-994c-4b49-8a56-581398e6f02b.0" configVersion="9c4b4b12d4801e4cbee1386dc4c456b100000000"/>
-		<Metadata name="CommonModule.РаботаСКоллекциямиКлиентСервер" id="d3b0e2e6-8b64-4734-9fd6-c430fe20d4db" configVersion="a1d608cb84bae74ca2fe6186073449d500000000"/>
-		<Metadata name="CommonModule.РаботаСКоллекциямиКлиентСервер.Module" id="d3b0e2e6-8b64-4734-9fd6-c430fe20d4db.0" configVersion="7af68d0f9581624eaf94d7c0322905f600000000"/>
+		<Metadata name="CommonModule.РаботаСКоллекциямиКлиентСервер" id="d3b0e2e6-8b64-4734-9fd6-c430fe20d4db" configVersion="c18f13ca1bff4146aab77117a735d14800000000"/>
+		<Metadata name="CommonModule.РаботаСКоллекциямиКлиентСервер.Module" id="d3b0e2e6-8b64-4734-9fd6-c430fe20d4db.0" configVersion="bc8a30fa6d57b64cb603b421b24d013700000000"/>
 		<Metadata name="CommonModule.РаботаСМетаданными" id="0ce7d195-d6c2-4f7a-8f35-6d6c5a3293a5" configVersion="75ec90b2d478f945ab680e3503b9557b00000000"/>
 		<Metadata name="CommonModule.РаботаСМетаданными.Module" id="0ce7d195-d6c2-4f7a-8f35-6d6c5a3293a5.0" configVersion="3e64add41e957c4ca1c16be3906fc80d00000000"/>
 		<Metadata name="CommonModule.РаботаСРеквизитами" id="1da26d9d-2d1f-4d91-8ad8-4da853a2bd88" configVersion="1e768e40890b484bb02e9be6c988ecfa00000000"/>
