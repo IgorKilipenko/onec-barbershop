@@ -1,4 +1,2 @@
-﻿New: Document.БольничныйЛист.Form.ФормаДокумента
-New: Document.БольничныйЛист.Form.ФормаДокумента.Form
-New: Document.БольничныйЛист.ObjectModule
-Modified: Document.БольничныйЛист
+﻿New: CalculationRegister.Начисления.ManagerModule
+Modified: CalculationRegister.Начисления
