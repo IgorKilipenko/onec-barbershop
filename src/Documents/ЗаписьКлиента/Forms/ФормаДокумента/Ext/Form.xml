@@ -107,7 +107,6 @@
 					<ChildItems>
 						<InputField name="Дата" id="56">
 							<DataPath>Объект.Date</DataPath>
-							<ReadOnly>true</ReadOnly>
 							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 							<ContextMenu name="ДатаКонтекстноеМеню" id="57"/>
 							<ExtendedTooltip name="ДатаРасширеннаяПодсказка" id="58"/>

@@ -1,4 +1,5 @@
-﻿Modified: Document.НачислениеЗарплаты
-Modified: Document.НачислениеЗарплаты.Form.ФормаДокумента
-Modified: Document.НачислениеЗарплаты.Form.ФормаДокумента.Form
-Modified: Document.НачислениеЗарплаты.ObjectModule
+﻿New: Document.БольничныйЛист
+Modified: Configuration.Конфигурация
+Modified: Document.ЗаписьКлиента.Form.ФормаДокумента
+Modified: Document.ЗаписьКлиента.Form.ФормаДокумента.Form
+Modified: Subsystem.Персонал
