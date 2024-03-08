@@ -231,7 +231,7 @@
 		<Metadata name="DefinedType.КоличествоТоваров" id="7a5d0f3c-5970-4bb2-a767-a036168ef24c" configVersion="6393aeed063dac489275f5abe53c661500000000"/>
 		<Metadata name="DefinedType.КоличествоУслуг" id="2a9446f8-3e74-4503-b109-5024a9e1e49c" configVersion="f0cd902ac9847f4fb3906428abac8f6300000000"/>
 		<Metadata name="DefinedType.ФинансовыеДанные" id="4112a946-7d88-44c3-b5de-01be94c77fce" configVersion="c5abee09ecb636408e0e15137e022e0b00000000"/>
-		<Metadata name="Document.БольничныйЛист" id="8178f934-7bf2-49f8-a9e1-5bc510b78469" configVersion="ed157667cbb5c74d8992f68cc9dd98f600000000">
+		<Metadata name="Document.БольничныйЛист" id="8178f934-7bf2-49f8-a9e1-5bc510b78469" configVersion="1e339cf0ae4162489bff1fd04f2de62e00000000">
 			<Metadata name="Document.БольничныйЛист.TabularSection.Начисления.Attribute.ГрафикРаботы" id="06878ba1-10dd-4058-903f-4fbd70141c43"/>
 			<Metadata name="Document.БольничныйЛист.TabularSection.Начисления.Attribute.Сотрудник" id="2cf531cd-b5a7-4c30-89cb-38841e526acd"/>
 			<Metadata name="Document.БольничныйЛист.TabularSection.Начисления.Attribute.ДатаОкончания" id="503b8b8c-dc44-40b8-90f5-86619d90e214"/>
@@ -241,9 +241,9 @@
 			<Metadata name="Document.БольничныйЛист.TabularSection.Начисления" id="e292be9f-81c4-4420-ae5a-b06b4e3b0e9c"/>
 			<Metadata name="Document.БольничныйЛист.Attribute.ПериодНачисления" id="eb719edd-4a9b-4942-b14f-1e2bef6a1e6e"/>
 		</Metadata>
-		<Metadata name="Document.БольничныйЛист.Form.ФормаДокумента" id="ffdb79e7-3901-4cc7-855e-305eec011538" configVersion="9186b07b2fe920429a5bb268660d7c3f00000000"/>
-		<Metadata name="Document.БольничныйЛист.Form.ФормаДокумента.Form" id="ffdb79e7-3901-4cc7-855e-305eec011538.0" configVersion="b780c372c286c74992769598391871df00000000"/>
-		<Metadata name="Document.БольничныйЛист.ObjectModule" id="8178f934-7bf2-49f8-a9e1-5bc510b78469.0" configVersion="187d3eab3d6f984ba65a5a61cea5dcad00000000"/>
+		<Metadata name="Document.БольничныйЛист.Form.ФормаДокумента" id="ffdb79e7-3901-4cc7-855e-305eec011538" configVersion="bb7a12828ed1b04787c73bbbd189a97e00000000"/>
+		<Metadata name="Document.БольничныйЛист.Form.ФормаДокумента.Form" id="ffdb79e7-3901-4cc7-855e-305eec011538.0" configVersion="c17b5790070ff74cae04c5fcbb374fb100000000"/>
+		<Metadata name="Document.БольничныйЛист.ObjectModule" id="8178f934-7bf2-49f8-a9e1-5bc510b78469.0" configVersion="75bb6241084f2e4c8733bf2cca30af1e00000000"/>
 		<Metadata name="Document.ЗаписьКлиента" id="e90aa070-3e4c-4e5a-a825-9fde73ed1ece" configVersion="cf600d781f8c754cb39de05394f9bfe300000000">
 			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги.Attribute.Сумма" id="0d5a12ae-0a23-4fda-bd6f-d90202271b45"/>
 			<Metadata name="Document.ЗаписьКлиента.Attribute.ДатаОкончанияЗаписи" id="22e07302-100f-4b61-b2ad-55667e3e62fc"/>
