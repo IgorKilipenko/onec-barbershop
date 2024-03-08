@@ -1,2 +1,0 @@
-﻿Modified: CommonModule.РаботаСРеквизитами
-Modified: CommonModule.РаботаСРеквизитами.Module

@@ -186,11 +186,11 @@
 			</Dimension>
 			<Dimension uuid="b30e1e20-7a39-4207-8c31-3506d30e54bb">
 				<Properties>
-					<Name>ГрафикРработы</Name>
+					<Name>ГрафикРаботы</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>График рработы</v8:content>
+							<v8:content>График работы</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
