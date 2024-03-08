@@ -1,2 +1,2 @@
-﻿New: InformationRegister.КадроваяИсторияСотрудников.ManagerModule
-Modified: InformationRegister.КадроваяИсторияСотрудников
+﻿Modified: Document.НачислениеЗарплаты
+Modified: Document.НачислениеЗарплаты.ObjectModule
