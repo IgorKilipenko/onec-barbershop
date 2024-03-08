@@ -1,0 +1,2 @@
+﻿New: InformationRegister.КадроваяИсторияСотрудников.ManagerModule
+Modified: InformationRegister.КадроваяИсторияСотрудников
