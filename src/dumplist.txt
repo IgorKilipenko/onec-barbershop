@@ -1,5 +1,4 @@
-﻿New: Document.БольничныйЛист
-Modified: Configuration.Конфигурация
-Modified: Document.ЗаписьКлиента.Form.ФормаДокумента
-Modified: Document.ЗаписьКлиента.Form.ФормаДокумента.Form
-Modified: Subsystem.Персонал
+﻿New: Document.БольничныйЛист.Form.ФормаДокумента
+New: Document.БольничныйЛист.Form.ФормаДокумента.Form
+New: Document.БольничныйЛист.ObjectModule
+Modified: Document.БольничныйЛист
