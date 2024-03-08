@@ -542,13 +542,13 @@
 			<Metadata name="InformationRegister.ЖурналЗаписейКлиентов.Resource.Статус" id="dad7937e-d2e4-4b84-be5e-dd24c5674c25"/>
 			<Metadata name="InformationRegister.ЖурналЗаписейКлиентов.Dimension.ЗаписьКлиента" id="ec6144f8-e4e7-430b-b704-a590b9a75790"/>
 		</Metadata>
-		<Metadata name="InformationRegister.КадроваяИсторияСотрудников" id="28a6d3f8-5841-41dd-a86e-8f3841d9a9fb" configVersion="177b76e577215e44a2adb96b5582859100000000">
+		<Metadata name="InformationRegister.КадроваяИсторияСотрудников" id="28a6d3f8-5841-41dd-a86e-8f3841d9a9fb" configVersion="4716d04f8a8b264a835be73cf231461e00000000">
 			<Metadata name="InformationRegister.КадроваяИсторияСотрудников.Resource.Оклад" id="07f69f2c-ecf2-42ee-afa6-7db42c01883e"/>
 			<Metadata name="InformationRegister.КадроваяИсторияСотрудников.Dimension.Сотрудник" id="6c6fd6de-7b7c-4921-8cb5-cff711668972"/>
 			<Metadata name="InformationRegister.КадроваяИсторияСотрудников.Dimension.ГрафикРаботы" id="b30e1e20-7a39-4207-8c31-3506d30e54bb"/>
 			<Metadata name="InformationRegister.КадроваяИсторияСотрудников.Attribute.Работает" id="f94da4ae-1d0b-4f54-8243-b785cd522750"/>
 		</Metadata>
-		<Metadata name="InformationRegister.КадроваяИсторияСотрудников.ManagerModule" id="28a6d3f8-5841-41dd-a86e-8f3841d9a9fb.2" configVersion="c96e054f9f05644695cb28e2a7de345600000000"/>
+		<Metadata name="InformationRegister.КадроваяИсторияСотрудников.ManagerModule" id="28a6d3f8-5841-41dd-a86e-8f3841d9a9fb.2" configVersion="06df9ef653cb044ba8583f4d69cfb4dd00000000"/>
 		<Metadata name="InformationRegister.УчетнаяПолитика" id="ba7fd621-7311-4390-9da2-7cb2b94cd320" configVersion="0609f6a8caf10745b29607b4af3c704f00000000">
 			<Metadata name="InformationRegister.УчетнаяПолитика.Resource.УчетнаяПолитика" id="badbbd8a-6ece-4d7a-8e29-0e15380a6812"/>
 		</Metadata>
