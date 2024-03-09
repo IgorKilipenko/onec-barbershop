@@ -15,9 +15,10 @@
             "RedundantAccessToObject": {
                 "checkObjectModule": false,
                 "checkFormModule": false,
-                "checkRecordSetModule": true
+                "checkRecordSetModule": false
             },
-            "NestedFunctionInParameters": false
+            "NestedFunctionInParameters": false,
+            "CommonModuleInvalidType": false
         }
     }
 }
