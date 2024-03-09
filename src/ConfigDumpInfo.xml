@@ -282,8 +282,8 @@
 			<Metadata name="Document.НачислениеПремии.TabularSection.Начисления.Attribute.Сотрудник" id="a745ca92-e46e-467f-87c8-dc2a94d6eb5d"/>
 			<Metadata name="Document.НачислениеПремии.TabularSection.Начисления" id="d0020d2c-bc5e-417f-8d4e-51756f8e5ff5"/>
 		</Metadata>
-		<Metadata name="Document.НачислениеПремии.Form.ФормаДокумента" id="9b2f544b-ec4c-4b3a-b8bd-cda3bcd673f0" configVersion="0f4d784d4ff18b449195458b52e70c3e00000000"/>
-		<Metadata name="Document.НачислениеПремии.Form.ФормаДокумента.Form" id="9b2f544b-ec4c-4b3a-b8bd-cda3bcd673f0.0" configVersion="7bf43b7a8b347843ab8f45fa8476fe6400000000"/>
+		<Metadata name="Document.НачислениеПремии.Form.ФормаДокумента" id="9b2f544b-ec4c-4b3a-b8bd-cda3bcd673f0" configVersion="e2fb07957c04714bb0625aef3c827d4600000000"/>
+		<Metadata name="Document.НачислениеПремии.Form.ФормаДокумента.Form" id="9b2f544b-ec4c-4b3a-b8bd-cda3bcd673f0.0" configVersion="8e767c042b899641aa6c62da1a2b46cb00000000"/>
 		<Metadata name="Document.НачислениеПремии.ObjectModule" id="f20f7d52-cf4b-445c-a97e-a0e0c5b175fd.0" configVersion="c11fca1168767a458f185d246c91f5c500000000"/>
 		<Metadata name="Document.ПоступлениеДенежныхСредств" id="d37a204f-1db5-4f26-99d8-882cf376b121" configVersion="8d621e6d134415449552fcb00cc7268400000000">
 			<Metadata name="Document.ПоступлениеДенежныхСредств.Attribute.Касса" id="00713ac3-69a8-45e9-bbbe-7b4fd778df25"/>

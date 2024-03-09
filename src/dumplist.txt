@@ -1,2 +1,2 @@
-﻿Modified: CalculationRegister.Начисления
-Modified: CalculationRegister.Начисления.RecordSetModule
+﻿Modified: Document.НачислениеПремии.Form.ФормаДокумента
+Modified: Document.НачислениеПремии.Form.ФормаДокумента.Form
