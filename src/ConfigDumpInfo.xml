@@ -275,7 +275,7 @@
 		<Metadata name="Document.НачислениеЗарплаты.Form.ФормаДокумента" id="d327f4ab-e6da-4d50-a010-4cfeaeb1a221" configVersion="64a21688caec9a49a952de520cb8fabb00000000"/>
 		<Metadata name="Document.НачислениеЗарплаты.Form.ФормаДокумента.Form" id="d327f4ab-e6da-4d50-a010-4cfeaeb1a221.0" configVersion="21b2921b488c0249a86dadb6c8f4948200000000"/>
 		<Metadata name="Document.НачислениеЗарплаты.ObjectModule" id="ab0bfdd2-6f7f-4b4c-8379-1410a54dba7d.0" configVersion="947158766e872749bc5c88bb732de46f00000000"/>
-		<Metadata name="Document.НачислениеПремии" id="f20f7d52-cf4b-445c-a97e-a0e0c5b175fd" configVersion="d1670c4821089a4f9323637bb2e0f5f500000000">
+		<Metadata name="Document.НачислениеПремии" id="f20f7d52-cf4b-445c-a97e-a0e0c5b175fd" configVersion="9f5a731ca0066641a17ab610343f1eb100000000">
 			<Metadata name="Document.НачислениеПремии.Attribute.ПериодНачисления" id="13b56239-80ba-493e-84ab-bf1e7a431f9f"/>
 			<Metadata name="Document.НачислениеПремии.TabularSection.Начисления.Attribute.ПоказательРасчета" id="5b33fb80-a7de-4ec1-9041-78d0ed4e8b29"/>
 			<Metadata name="Document.НачислениеПремии.TabularSection.Начисления.Attribute.ВидРасчета" id="5cbb4196-8c8c-4333-83ea-a2866c5b5283"/>
@@ -284,7 +284,7 @@
 		</Metadata>
 		<Metadata name="Document.НачислениеПремии.Form.ФормаДокумента" id="9b2f544b-ec4c-4b3a-b8bd-cda3bcd673f0" configVersion="e2fb07957c04714bb0625aef3c827d4600000000"/>
 		<Metadata name="Document.НачислениеПремии.Form.ФормаДокумента.Form" id="9b2f544b-ec4c-4b3a-b8bd-cda3bcd673f0.0" configVersion="8e767c042b899641aa6c62da1a2b46cb00000000"/>
-		<Metadata name="Document.НачислениеПремии.ObjectModule" id="f20f7d52-cf4b-445c-a97e-a0e0c5b175fd.0" configVersion="c11fca1168767a458f185d246c91f5c500000000"/>
+		<Metadata name="Document.НачислениеПремии.ObjectModule" id="f20f7d52-cf4b-445c-a97e-a0e0c5b175fd.0" configVersion="72e341c99e579146938551c1e19be86600000000"/>
 		<Metadata name="Document.ПоступлениеДенежныхСредств" id="d37a204f-1db5-4f26-99d8-882cf376b121" configVersion="8d621e6d134415449552fcb00cc7268400000000">
 			<Metadata name="Document.ПоступлениеДенежныхСредств.Attribute.Касса" id="00713ac3-69a8-45e9-bbbe-7b4fd778df25"/>
 			<Metadata name="Document.ПоступлениеДенежныхСредств.Attribute.ДоговорКонтрагента" id="096f9b1d-220b-4950-bc71-4feb45433188"/>
