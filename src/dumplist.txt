@@ -1,2 +1,6 @@
-﻿Modified: CalculationRegister.Начисления
-Modified: CalculationRegister.Начисления.RecordSetModule
+﻿New: Document.НачислениеПремии
+New: Document.НачислениеПремии.Form.ФормаДокумента
+New: Document.НачислениеПремии.Form.ФормаДокумента.Form
+New: Document.НачислениеПремии.ObjectModule
+Modified: Configuration.Конфигурация
+Modified: Subsystem.Персонал
