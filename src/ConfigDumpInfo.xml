@@ -45,14 +45,14 @@
 			<Metadata name="AccumulationRegister.УчетЗатрат.Resource.Сумма" id="74713e59-681a-4e27-aaf7-59a080d92060"/>
 			<Metadata name="AccumulationRegister.УчетЗатрат.Dimension.СтатьяЗатрат" id="ad9303c1-4bf5-439c-912c-c8f83b5213c3"/>
 		</Metadata>
-		<Metadata name="CalculationRegister.Начисления" id="92bd6d62-49e9-4ecb-b3ba-1ec99a36fed7" configVersion="91a7c99a91f3144ebd93b90b44fe791500000000">
+		<Metadata name="CalculationRegister.Начисления" id="92bd6d62-49e9-4ecb-b3ba-1ec99a36fed7" configVersion="f4888dde044028489be78d23f8d2e78000000000">
 			<Metadata name="CalculationRegister.Начисления.Attribute.График" id="3d992f83-8fa0-4a72-bd63-e8e723dee3fd"/>
 			<Metadata name="CalculationRegister.Начисления.Attribute.ПоказательРасчета" id="4dbeef54-8fb7-4215-8e72-f1d2893239a9"/>
 			<Metadata name="CalculationRegister.Начисления.Resource.Сумма" id="55e38a0f-4cc2-43a0-8631-0c6a110fdca5"/>
 			<Metadata name="CalculationRegister.Начисления.Dimension.Сотрудник" id="9c9ba67d-d427-4438-9006-7c504ff1e08d"/>
 		</Metadata>
 		<Metadata name="CalculationRegister.Начисления.ManagerModule" id="92bd6d62-49e9-4ecb-b3ba-1ec99a36fed7.2" configVersion="20ed457c4b6c814eb075184de263638000000000"/>
-		<Metadata name="CalculationRegister.Начисления.RecordSetModule" id="92bd6d62-49e9-4ecb-b3ba-1ec99a36fed7.1" configVersion="fdcc934577bcf54ba3deb37f06c8d89b00000000"/>
+		<Metadata name="CalculationRegister.Начисления.RecordSetModule" id="92bd6d62-49e9-4ecb-b3ba-1ec99a36fed7.1" configVersion="bde2a93c46e0ba438f295ce6125d820a00000000"/>
 		<Metadata name="Catalog.Банки" id="7cdb4ec1-143c-41c0-b3ec-71ad82c93638" configVersion="e61c1d547c8657439ba6adddff43f1f900000000">
 			<Metadata name="Catalog.Банки.Attribute.БИК" id="d0eacc27-0ba3-4455-96c0-9ea39c298c28"/>
 		</Metadata>
