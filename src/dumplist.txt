@@ -1,2 +1,2 @@
-﻿Modified: CalculationRegister.Начисления
-Modified: CalculationRegister.Начисления.ManagerModule
+﻿Modified: Document.НачислениеЗарплаты
+Modified: Document.НачислениеЗарплаты.ObjectModule
