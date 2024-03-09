@@ -1,2 +1,2 @@
-﻿Modified: CommonModule.РаботаСКоллекциямиКлиентСервер
-Modified: CommonModule.РаботаСКоллекциямиКлиентСервер.Module
+﻿Modified: CalculationRegister.Начисления
+Modified: CalculationRegister.Начисления.ManagerModule
