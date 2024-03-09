@@ -1,2 +1,2 @@
-﻿Modified: Document.БольничныйЛист
-Modified: Document.БольничныйЛист.ObjectModule
+﻿Modified: CalculationRegister.Начисления
+Modified: CalculationRegister.Начисления.RecordSetModule
