@@ -233,7 +233,7 @@
 		<Metadata name="DefinedType.КоличествоТоваров" id="7a5d0f3c-5970-4bb2-a767-a036168ef24c" configVersion="6393aeed063dac489275f5abe53c661500000000"/>
 		<Metadata name="DefinedType.КоличествоУслуг" id="2a9446f8-3e74-4503-b109-5024a9e1e49c" configVersion="f0cd902ac9847f4fb3906428abac8f6300000000"/>
 		<Metadata name="DefinedType.ФинансовыеДанные" id="4112a946-7d88-44c3-b5de-01be94c77fce" configVersion="c5abee09ecb636408e0e15137e022e0b00000000"/>
-		<Metadata name="Document.БольничныйЛист" id="8178f934-7bf2-49f8-a9e1-5bc510b78469" configVersion="b40d8155419a0f4bb9426450640cdab000000000">
+		<Metadata name="Document.БольничныйЛист" id="8178f934-7bf2-49f8-a9e1-5bc510b78469" configVersion="da0ea29c99723641b764f2d6dc655ee300000000">
 			<Metadata name="Document.БольничныйЛист.Attribute.Сотрудник" id="11fd85c9-c460-4ac4-8997-ab998901cc16"/>
 			<Metadata name="Document.БольничныйЛист.Attribute.ДатаОкончания" id="38d72f47-a674-4872-a3b2-cabc0d0c19c8"/>
 			<Metadata name="Document.БольничныйЛист.Attribute.ДатаНачала" id="82451645-4f77-4b4b-a9ff-37458d525a3c"/>
@@ -241,7 +241,7 @@
 		</Metadata>
 		<Metadata name="Document.БольничныйЛист.Form.ФормаДокумента" id="ffdb79e7-3901-4cc7-855e-305eec011538" configVersion="36c3319727e1a844878bbf3c595a3c2e00000000"/>
 		<Metadata name="Document.БольничныйЛист.Form.ФормаДокумента.Form" id="ffdb79e7-3901-4cc7-855e-305eec011538.0" configVersion="5cc7645ee67d6a49a6fb9287f320e4c400000000"/>
-		<Metadata name="Document.БольничныйЛист.ObjectModule" id="8178f934-7bf2-49f8-a9e1-5bc510b78469.0" configVersion="b16151e38e36d349ba7d34a3ce2201b500000000"/>
+		<Metadata name="Document.БольничныйЛист.ObjectModule" id="8178f934-7bf2-49f8-a9e1-5bc510b78469.0" configVersion="b2e192998b7b88428a36f9e3e92d66c000000000"/>
 		<Metadata name="Document.ЗаписьКлиента" id="e90aa070-3e4c-4e5a-a825-9fde73ed1ece" configVersion="cf600d781f8c754cb39de05394f9bfe300000000">
 			<Metadata name="Document.ЗаписьКлиента.TabularSection.Услуги.Attribute.Сумма" id="0d5a12ae-0a23-4fda-bd6f-d90202271b45"/>
 			<Metadata name="Document.ЗаписьКлиента.Attribute.ДатаОкончанияЗаписи" id="22e07302-100f-4b61-b2ad-55667e3e62fc"/>
