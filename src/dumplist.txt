@@ -1,5 +1,4 @@
-﻿New: Report.ОтчетПоНачислениюЗарплаты
-New: Report.ОтчетПоНачислениюЗарплаты.Template.ОсновнаяСхемаКомпоновкиДанных
-New: Report.ОтчетПоНачислениюЗарплаты.Template.ОсновнаяСхемаКомпоновкиДанных.Template
+﻿New: CommandGroup.Зарплата
+New: Subsystem.Персонал.CommandInterface
 Modified: Configuration.Конфигурация
 Modified: Subsystem.Персонал

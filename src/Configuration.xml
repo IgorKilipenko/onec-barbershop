@@ -291,6 +291,7 @@
 			<CommandGroup>Банк</CommandGroup>
 			<CommandGroup>Покупки</CommandGroup>
 			<CommandGroup>Настройки</CommandGroup>
+			<CommandGroup>Зарплата</CommandGroup>
 			<Constant>ИспользоватьСклады</Constant>
 			<Constant>НачалоРабочегоДня</Constant>
 			<Constant>ОкончаниеРабочегоДня</Constant>
