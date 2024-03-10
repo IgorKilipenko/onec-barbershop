@@ -1,2 +1,5 @@
-﻿Modified: Document.НачислениеПремии
-Modified: Document.НачислениеПремии.ObjectModule
+﻿New: Report.ОтчетПоНачислениюЗарплаты
+New: Report.ОтчетПоНачислениюЗарплаты.Template.ОсновнаяСхемаКомпоновкиДанных
+New: Report.ОтчетПоНачислениюЗарплаты.Template.ОсновнаяСхемаКомпоновкиДанных.Template
+Modified: Configuration.Конфигурация
+Modified: Subsystem.Персонал
