@@ -1,4 +1,2 @@
-﻿New: CommandGroup.Зарплата
-New: Subsystem.Персонал.CommandInterface
-Modified: Configuration.Конфигурация
-Modified: Subsystem.Персонал
+﻿Modified: Document.ПоступлениеНаРасчетныйСчет.Form.ФормаДокумента
+Modified: Document.ПоступлениеНаРасчетныйСчет.Form.ФормаДокумента.Form
