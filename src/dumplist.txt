@@ -1,2 +1,4 @@
-﻿New: AccountingRegister.Хозрасчетный.ManagerModule
-Modified: AccountingRegister.Хозрасчетный
+﻿Modified: Document.НачислениеПремии
+Modified: Document.НачислениеПремии.Form.ФормаДокумента
+Modified: Document.НачислениеПремии.Form.ФормаДокумента.Form
+Modified: Document.НачислениеПремии.ObjectModule
