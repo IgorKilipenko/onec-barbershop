@@ -17,6 +17,12 @@
 			<ContextMenu name="НаименованиеКонтекстноеМеню" id="5"/>
 			<ExtendedTooltip name="НаименованиеРасширеннаяПодсказка" id="6"/>
 		</InputField>
+		<InputField name="СтатьяЗатрат" id="71">
+			<DataPath>Объект.СтатьяЗатрат</DataPath>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="СтатьяЗатратКонтекстноеМеню" id="72"/>
+			<ExtendedTooltip name="СтатьяЗатратРасширеннаяПодсказка" id="73"/>
+		</InputField>
 		<CheckBoxField name="ПериодДействияБазовый" id="7">
 			<DataPath>Объект.ActionPeriodIsBasic</DataPath>
 			<EditMode>EnterOnInput</EditMode>

@@ -155,11 +155,12 @@
 		<Metadata name="ChartOfAccounts.Хозрасчетный" id="2efb6408-f963-425f-a6d9-6cffc1743b4d" configVersion="b07c60e57a35764cbef730c5cd9d841200000000"/>
 		<Metadata name="ChartOfAccounts.Хозрасчетный.ManagerModule" id="2efb6408-f963-425f-a6d9-6cffc1743b4d.15" configVersion="0e5f55e39b1bb6459ef018a3f1a9d7a200000000"/>
 		<Metadata name="ChartOfAccounts.Хозрасчетный.Predefined" id="2efb6408-f963-425f-a6d9-6cffc1743b4d.9" configVersion="2713f2bb0c311444aa16cabe9d1e12d200000000"/>
-		<Metadata name="ChartOfCalculationTypes.Начисления" id="e63a4a1a-9aa4-4ce1-9eec-c83a7f5754e8" configVersion="a4488490fab01d4180e4a25a23933daa00000000">
+		<Metadata name="ChartOfCalculationTypes.Начисления" id="e63a4a1a-9aa4-4ce1-9eec-c83a7f5754e8" configVersion="af3370498cfe854eab94244a3b4dc9c800000000">
 			<Metadata name="ChartOfCalculationTypes.Начисления.Attribute.ФормулаРасчета" id="1bc49ee1-d60d-42d0-ac20-3f91de511a4f"/>
+			<Metadata name="ChartOfCalculationTypes.Начисления.Attribute.СтатьяЗатрат" id="6e0a48aa-b6a2-4bbe-8834-b15637e81066"/>
 		</Metadata>
-		<Metadata name="ChartOfCalculationTypes.Начисления.Form.ФормаВидаРасчета" id="0b5526ab-ab17-4261-a995-64e2e676578d" configVersion="7fbb47fb4f215e4fbc2423b168fd2e9700000000"/>
-		<Metadata name="ChartOfCalculationTypes.Начисления.Form.ФормаВидаРасчета.Form" id="0b5526ab-ab17-4261-a995-64e2e676578d.0" configVersion="f367d89fab675d4bb0aff34382cf239200000000"/>
+		<Metadata name="ChartOfCalculationTypes.Начисления.Form.ФормаВидаРасчета" id="0b5526ab-ab17-4261-a995-64e2e676578d" configVersion="7efd56c9e5daad43bcc02bf070d799e200000000"/>
+		<Metadata name="ChartOfCalculationTypes.Начисления.Form.ФормаВидаРасчета.Form" id="0b5526ab-ab17-4261-a995-64e2e676578d.0" configVersion="bda1164841133444a54c8c7d966edd6000000000"/>
 		<Metadata name="ChartOfCalculationTypes.Начисления.Form.ФормаСписка" id="4fae4be9-3675-4126-84d6-350a6b20984c" configVersion="b2d06bcdc6c8d645bf18aed1de828ea900000000"/>
 		<Metadata name="ChartOfCalculationTypes.Начисления.Form.ФормаСписка.Form" id="4fae4be9-3675-4126-84d6-350a6b20984c.0" configVersion="38758f7f1595484a85d7986d01f98d7000000000"/>
 		<Metadata name="ChartOfCalculationTypes.Начисления.Predefined" id="e63a4a1a-9aa4-4ce1-9eec-c83a7f5754e8.2" configVersion="5eb754549b47794aa420640c773af6ed00000000"/>
