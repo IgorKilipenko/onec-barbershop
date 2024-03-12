@@ -265,7 +265,7 @@
 		<Metadata name="Document.ЗаписьКлиента.Form.ФормаСписка.Form" id="ebca6e25-5166-4879-ab9a-9dcf4d92c623.0" configVersion="a2490a823b03a24a80edb644c408fe7300000000"/>
 		<Metadata name="Document.ЗаписьКлиента.ManagerModule" id="e90aa070-3e4c-4e5a-a825-9fde73ed1ece.2" configVersion="f99454b1276bd24899afa5c57fba883600000000"/>
 		<Metadata name="Document.ЗаписьКлиента.ObjectModule" id="e90aa070-3e4c-4e5a-a825-9fde73ed1ece.0" configVersion="474874fff8a28e4d819660ec6ce468f900000000"/>
-		<Metadata name="Document.НачислениеЗарплаты" id="ab0bfdd2-6f7f-4b4c-8379-1410a54dba7d" configVersion="913e750963d019449f9d26eaac794c5400000000">
+		<Metadata name="Document.НачислениеЗарплаты" id="ab0bfdd2-6f7f-4b4c-8379-1410a54dba7d" configVersion="5fc355041fd2134da12df5ce4097e03500000000">
 			<Metadata name="Document.НачислениеЗарплаты.TabularSection.Начисления" id="11f0aeb3-1fdc-4204-ba73-c87d695af68d"/>
 			<Metadata name="Document.НачислениеЗарплаты.TabularSection.Начисления.Attribute.ВидРасчета" id="1ff254d6-d6ad-446b-b009-512dbed1f4ef"/>
 			<Metadata name="Document.НачислениеЗарплаты.TabularSection.Начисления.Attribute.ГрафикРаботы" id="306d6b6f-6cd4-4854-91e3-0aaa436dbb1d"/>
@@ -277,7 +277,7 @@
 		</Metadata>
 		<Metadata name="Document.НачислениеЗарплаты.Form.ФормаДокумента" id="d327f4ab-e6da-4d50-a010-4cfeaeb1a221" configVersion="ffaf082af04cc644a62eedb99e8f859d00000000"/>
 		<Metadata name="Document.НачислениеЗарплаты.Form.ФормаДокумента.Form" id="d327f4ab-e6da-4d50-a010-4cfeaeb1a221.0" configVersion="e79da3b6f09c4b4894ae7b3bcf6f779c00000000"/>
-		<Metadata name="Document.НачислениеЗарплаты.ObjectModule" id="ab0bfdd2-6f7f-4b4c-8379-1410a54dba7d.0" configVersion="610d832717625f4f92ffab425a3ded0700000000"/>
+		<Metadata name="Document.НачислениеЗарплаты.ObjectModule" id="ab0bfdd2-6f7f-4b4c-8379-1410a54dba7d.0" configVersion="385d3f4f3616b6409110afbdeffd73d400000000"/>
 		<Metadata name="Document.НачислениеПремии" id="f20f7d52-cf4b-445c-a97e-a0e0c5b175fd" configVersion="3ae7f5fc145aeb48b47f57ff27ea143600000000">
 			<Metadata name="Document.НачислениеПремии.Attribute.ПериодНачисления" id="13b56239-80ba-493e-84ab-bf1e7a431f9f"/>
 			<Metadata name="Document.НачислениеПремии.TabularSection.Начисления.Attribute.ПоказательРасчета" id="5b33fb80-a7de-4ec1-9041-78d0ed4e8b29"/>
