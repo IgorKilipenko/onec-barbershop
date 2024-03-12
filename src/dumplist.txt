@@ -1,4 +1,4 @@
-﻿Modified: Document.НачислениеЗарплаты
-Modified: Document.НачислениеЗарплаты.Form.ФормаДокумента
-Modified: Document.НачислениеЗарплаты.Form.ФормаДокумента.Form
+﻿Modified: CalculationRegister.Начисления
+Modified: CalculationRegister.Начисления.ManagerModule
+Modified: Document.НачислениеЗарплаты
 Modified: Document.НачислениеЗарплаты.ObjectModule

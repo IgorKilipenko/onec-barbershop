@@ -45,13 +45,13 @@
 			<Metadata name="AccumulationRegister.УчетЗатрат.Resource.Сумма" id="74713e59-681a-4e27-aaf7-59a080d92060"/>
 			<Metadata name="AccumulationRegister.УчетЗатрат.Dimension.СтатьяЗатрат" id="ad9303c1-4bf5-439c-912c-c8f83b5213c3"/>
 		</Metadata>
-		<Metadata name="CalculationRegister.Начисления" id="92bd6d62-49e9-4ecb-b3ba-1ec99a36fed7" configVersion="e0ec9c776f8ef147aee1c9c81dce88eb00000000">
+		<Metadata name="CalculationRegister.Начисления" id="92bd6d62-49e9-4ecb-b3ba-1ec99a36fed7" configVersion="f99286b2f88f0c42bf3f30f0c8a9625200000000">
 			<Metadata name="CalculationRegister.Начисления.Attribute.График" id="3d992f83-8fa0-4a72-bd63-e8e723dee3fd"/>
 			<Metadata name="CalculationRegister.Начисления.Attribute.ПоказательРасчета" id="4dbeef54-8fb7-4215-8e72-f1d2893239a9"/>
 			<Metadata name="CalculationRegister.Начисления.Resource.Сумма" id="55e38a0f-4cc2-43a0-8631-0c6a110fdca5"/>
 			<Metadata name="CalculationRegister.Начисления.Dimension.Сотрудник" id="9c9ba67d-d427-4438-9006-7c504ff1e08d"/>
 		</Metadata>
-		<Metadata name="CalculationRegister.Начисления.ManagerModule" id="92bd6d62-49e9-4ecb-b3ba-1ec99a36fed7.2" configVersion="20ed457c4b6c814eb075184de263638000000000"/>
+		<Metadata name="CalculationRegister.Начисления.ManagerModule" id="92bd6d62-49e9-4ecb-b3ba-1ec99a36fed7.2" configVersion="09d34fc855dc2445870285b97a73370700000000"/>
 		<Metadata name="CalculationRegister.Начисления.RecordSetModule" id="92bd6d62-49e9-4ecb-b3ba-1ec99a36fed7.1" configVersion="f21df069498c4840ac2a6f7c178d6f2600000000"/>
 		<Metadata name="Catalog.Банки" id="7cdb4ec1-143c-41c0-b3ec-71ad82c93638" configVersion="e61c1d547c8657439ba6adddff43f1f900000000">
 			<Metadata name="Catalog.Банки.Attribute.БИК" id="d0eacc27-0ba3-4455-96c0-9ea39c298c28"/>
@@ -264,7 +264,7 @@
 		<Metadata name="Document.ЗаписьКлиента.Form.ФормаСписка.Form" id="ebca6e25-5166-4879-ab9a-9dcf4d92c623.0" configVersion="a2490a823b03a24a80edb644c408fe7300000000"/>
 		<Metadata name="Document.ЗаписьКлиента.ManagerModule" id="e90aa070-3e4c-4e5a-a825-9fde73ed1ece.2" configVersion="f99454b1276bd24899afa5c57fba883600000000"/>
 		<Metadata name="Document.ЗаписьКлиента.ObjectModule" id="e90aa070-3e4c-4e5a-a825-9fde73ed1ece.0" configVersion="474874fff8a28e4d819660ec6ce468f900000000"/>
-		<Metadata name="Document.НачислениеЗарплаты" id="ab0bfdd2-6f7f-4b4c-8379-1410a54dba7d" configVersion="6cf8d2518da10f4cbac760d95f43a7f700000000">
+		<Metadata name="Document.НачислениеЗарплаты" id="ab0bfdd2-6f7f-4b4c-8379-1410a54dba7d" configVersion="913e750963d019449f9d26eaac794c5400000000">
 			<Metadata name="Document.НачислениеЗарплаты.TabularSection.Начисления" id="11f0aeb3-1fdc-4204-ba73-c87d695af68d"/>
 			<Metadata name="Document.НачислениеЗарплаты.TabularSection.Начисления.Attribute.ВидРасчета" id="1ff254d6-d6ad-446b-b009-512dbed1f4ef"/>
 			<Metadata name="Document.НачислениеЗарплаты.TabularSection.Начисления.Attribute.ГрафикРаботы" id="306d6b6f-6cd4-4854-91e3-0aaa436dbb1d"/>
@@ -276,7 +276,7 @@
 		</Metadata>
 		<Metadata name="Document.НачислениеЗарплаты.Form.ФормаДокумента" id="d327f4ab-e6da-4d50-a010-4cfeaeb1a221" configVersion="ffaf082af04cc644a62eedb99e8f859d00000000"/>
 		<Metadata name="Document.НачислениеЗарплаты.Form.ФормаДокумента.Form" id="d327f4ab-e6da-4d50-a010-4cfeaeb1a221.0" configVersion="e79da3b6f09c4b4894ae7b3bcf6f779c00000000"/>
-		<Metadata name="Document.НачислениеЗарплаты.ObjectModule" id="ab0bfdd2-6f7f-4b4c-8379-1410a54dba7d.0" configVersion="46d2626612395443b8890ea49d98333200000000"/>
+		<Metadata name="Document.НачислениеЗарплаты.ObjectModule" id="ab0bfdd2-6f7f-4b4c-8379-1410a54dba7d.0" configVersion="610d832717625f4f92ffab425a3ded0700000000"/>
 		<Metadata name="Document.НачислениеПремии" id="f20f7d52-cf4b-445c-a97e-a0e0c5b175fd" configVersion="9f5a731ca0066641a17ab610343f1eb100000000">
 			<Metadata name="Document.НачислениеПремии.Attribute.ПериодНачисления" id="13b56239-80ba-493e-84ab-bf1e7a431f9f"/>
 			<Metadata name="Document.НачислениеПремии.TabularSection.Начисления.Attribute.ПоказательРасчета" id="5b33fb80-a7de-4ec1-9041-78d0ed4e8b29"/>
