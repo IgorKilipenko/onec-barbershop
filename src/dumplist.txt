@@ -1,2 +1,1 @@
-﻿Modified: Document.НачислениеЗарплаты
-Modified: Document.НачислениеЗарплаты.ObjectModule
+﻿Modified: Configuration.Конфигурация
