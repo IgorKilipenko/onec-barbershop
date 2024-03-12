@@ -49,7 +49,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Игорь Килипенко</Vendor>
-			<Version>Сприн 6</Version>
+			<Version>Сприн 7</Version>
 			<UpdateCatalogAddress/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
@@ -279,6 +279,7 @@
 			<CommonModule>ДиагностикаКлиентСервер</CommonModule>
 			<CommonModule>РаботаСРеквизитами</CommonModule>
 			<CommonModule>БухгалтерскийУчет</CommonModule>
+			<CommonModule>РаботаСКоллекциямиКлиентСервер</CommonModule>
 			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
 			<DefinedType>ФинансовыеДанные</DefinedType>
 			<DefinedType>КоличествоУслуг</DefinedType>
@@ -290,6 +291,7 @@
 			<CommandGroup>Банк</CommandGroup>
 			<CommandGroup>Покупки</CommandGroup>
 			<CommandGroup>Настройки</CommandGroup>
+			<CommandGroup>Зарплата</CommandGroup>
 			<Constant>ИспользоватьСклады</Constant>
 			<Constant>НачалоРабочегоДня</Constant>
 			<Constant>ОкончаниеРабочегоДня</Constant>
@@ -308,6 +310,7 @@
 			<Catalog>Банки</Catalog>
 			<Catalog>ЭквайринговыеТерминалы</Catalog>
 			<Catalog>БанковскиеСчета</Catalog>
+			<Catalog>ГрафикиРаботыСотрудников</Catalog>
 			<Document>ПоступлениеТоваровИМатериалов</Document>
 			<Document>ЗаписьКлиента</Document>
 			<Document>РеализацияТоваровИУслуг</Document>
@@ -317,6 +320,9 @@
 			<Document>РасходДенежныхСредств</Document>
 			<Document>ПоступлениеНаРасчетныйСчет</Document>
 			<Document>СписаниеСРасчетногоСчета</Document>
+			<Document>НачислениеЗарплаты</Document>
+			<Document>БольничныйЛист</Document>
+			<Document>НачислениеПремии</Document>
 			<DocumentJournal>ДокументыПоКассе</DocumentJournal>
 			<DocumentJournal>ДокументыПоБанку</DocumentJournal>
 			<DocumentJournal>ЖурналХозяйственныхОпераций</DocumentJournal>
@@ -329,9 +335,11 @@
 			<Enum>ВидыОперацийПоступленияДенег</Enum>
 			<Enum>ВидыОперацийРасходаДенег</Enum>
 			<Enum>ТипыДенежныхСредств</Enum>
-			<Enum>ОплатаДокумента</Enum>
+			<Enum>ПризнакиОплаты</Enum>
 			<Enum>ВидыОперацийПоступленияНаРасчетныйСчет</Enum>
 			<Enum>ВидыОперацийСписанияСРасчетногоСчета</Enum>
+			<Enum>СтатусЗаписиКлинта</Enum>
+			<Enum>ТипыГрафиковРаботы</Enum>
 			<Report>ОтчетПоТоварамНаСкладах</Report>
 			<Report>ОтчетПоОказаннымУслугам</Report>
 			<Report>ОтчетПоПрибыли</Report>
@@ -340,21 +348,29 @@
 			<Report>ОтчетПоДвижениюИОстаткамДенег</Report>
 			<Report>ОборотноСальдоваяВедомость</Report>
 			<Report>ОборотноСальдоваяВедомостьПоСчету</Report>
+			<Report>ОтчетПоЗадолженностямКонтрагентов</Report>
+			<Report>ОтчетПоНачислениюЗарплаты</Report>
 			<DataProcessor>ТестыСпринт2</DataProcessor>
 			<DataProcessor>МониторРуководителя</DataProcessor>
 			<DataProcessor>ПланированиеЗагрузкиСотрудников</DataProcessor>
 			<InformationRegister>ЦеныНоменклатурыПоставщиков</InformationRegister>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<InformationRegister>УчетнаяПолитика</InformationRegister>
+			<InformationRegister>ЖурналЗаписейКлиентов</InformationRegister>
+			<InformationRegister>ГрафикиРаботыПредприятия</InformationRegister>
+			<InformationRegister>КадроваяИсторияСотрудников</InformationRegister>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
 			<AccumulationRegister>ЗаказыКлиентов</AccumulationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>
 			<AccumulationRegister>УчетЗатрат</AccumulationRegister>
 			<AccumulationRegister>ДенежныеСредства</AccumulationRegister>
 			<AccumulationRegister>БезналичнаяОплата</AccumulationRegister>
+			<AccumulationRegister>УчетДебиторскойЗадолженности</AccumulationRegister>
 			<ChartOfCharacteristicTypes>ВидыСубконтоХозрасчетные</ChartOfCharacteristicTypes>
 			<ChartOfAccounts>Хозрасчетный</ChartOfAccounts>
 			<AccountingRegister>Хозрасчетный</AccountingRegister>
+			<ChartOfCalculationTypes>Начисления</ChartOfCalculationTypes>
+			<CalculationRegister>Начисления</CalculationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

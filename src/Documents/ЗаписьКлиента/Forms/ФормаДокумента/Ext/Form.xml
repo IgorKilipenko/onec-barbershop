@@ -107,7 +107,6 @@
 					<ChildItems>
 						<InputField name="Дата" id="56">
 							<DataPath>Объект.Date</DataPath>
-							<ReadOnly>true</ReadOnly>
 							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 							<ContextMenu name="ДатаКонтекстноеМеню" id="57"/>
 							<ExtendedTooltip name="ДатаРасширеннаяПодсказка" id="58"/>
@@ -274,6 +273,11 @@
 			</Item>
 			<Item>
 				<Command>FilterCriterion.СвязанныеДокументы.StandardCommand.OpenByValue</Command>
+				<Type>Auto</Type>
+				<DefaultVisible>false</DefaultVisible>
+			</Item>
+			<Item>
+				<Command>InformationRegister.ЖурналЗаписейКлиентов.StandardCommand.OpenByRecorder</Command>
 				<Type>Auto</Type>
 				<DefaultVisible>false</DefaultVisible>
 			</Item>

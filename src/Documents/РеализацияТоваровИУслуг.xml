@@ -64,6 +64,8 @@
 			<SequenceFilling>AutoFill</SequenceFilling>
 			<RegisterRecords>
 				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.УчетЗатрат</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.УчетДебиторскойЗадолженности</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ЖурналЗаписейКлиентов</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.ТоварыНаСкладах</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">AccountingRegister.Хозрасчетный</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.Продажи</xr:Item>
@@ -381,7 +383,7 @@
 					</Synonym>
 					<Comment/>
 					<Type>
-						<v8:Type>cfg:EnumRef.ОплатаДокумента</v8:Type>
+						<v8:Type>cfg:EnumRef.ПризнакиОплаты</v8:Type>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>
