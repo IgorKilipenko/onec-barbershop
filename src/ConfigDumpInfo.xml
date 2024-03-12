@@ -1,10 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
 	<ConfigVersions>
-		<Metadata name="AccountingRegister.Хозрасчетный" id="6d3c9249-f6bd-4036-a21d-49c9b671ea0f" configVersion="cada5002df73da47ae51ed776a1cf6a000000000">
+		<Metadata name="AccountingRegister.Хозрасчетный" id="6d3c9249-f6bd-4036-a21d-49c9b671ea0f" configVersion="b1c0e81e83b87943b7e772571aa1c88200000000">
 			<Metadata name="AccountingRegister.Хозрасчетный.Attribute.Содержание" id="2bc066e1-4170-46f2-8f7e-09de1db1baa0"/>
 			<Metadata name="AccountingRegister.Хозрасчетный.Resource.Сумма" id="4208cd4c-617a-4c1b-bb6d-540c13d1a81f"/>
 		</Metadata>
+		<Metadata name="AccountingRegister.Хозрасчетный.ManagerModule" id="6d3c9249-f6bd-4036-a21d-49c9b671ea0f.7" configVersion="efa820fcb465284993de547dc97eb93700000000"/>
 		<Metadata name="AccumulationRegister.БезналичнаяОплата" id="552fd045-0eca-4ad4-a592-a41b6ceb80d6" configVersion="24091190acb1194a8bd46ec12a6a9bff00000000">
 			<Metadata name="AccumulationRegister.БезналичнаяОплата.Dimension.ЭквайринговыйТерминал" id="1d28e2f5-13a9-44fe-9d22-d3a444c3b4e6"/>
 			<Metadata name="AccumulationRegister.БезналичнаяОплата.Resource.Сумма" id="e5dc173b-605f-4ac3-91b8-fbc8d60bc9af"/>
