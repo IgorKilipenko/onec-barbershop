@@ -264,7 +264,7 @@
 		<Metadata name="Document.ЗаписьКлиента.Form.ФормаСписка.Form" id="ebca6e25-5166-4879-ab9a-9dcf4d92c623.0" configVersion="a2490a823b03a24a80edb644c408fe7300000000"/>
 		<Metadata name="Document.ЗаписьКлиента.ManagerModule" id="e90aa070-3e4c-4e5a-a825-9fde73ed1ece.2" configVersion="f99454b1276bd24899afa5c57fba883600000000"/>
 		<Metadata name="Document.ЗаписьКлиента.ObjectModule" id="e90aa070-3e4c-4e5a-a825-9fde73ed1ece.0" configVersion="474874fff8a28e4d819660ec6ce468f900000000"/>
-		<Metadata name="Document.НачислениеЗарплаты" id="ab0bfdd2-6f7f-4b4c-8379-1410a54dba7d" configVersion="1da97b446797ce4895cda00d1923d79f00000000">
+		<Metadata name="Document.НачислениеЗарплаты" id="ab0bfdd2-6f7f-4b4c-8379-1410a54dba7d" configVersion="6cf8d2518da10f4cbac760d95f43a7f700000000">
 			<Metadata name="Document.НачислениеЗарплаты.TabularSection.Начисления" id="11f0aeb3-1fdc-4204-ba73-c87d695af68d"/>
 			<Metadata name="Document.НачислениеЗарплаты.TabularSection.Начисления.Attribute.ВидРасчета" id="1ff254d6-d6ad-446b-b009-512dbed1f4ef"/>
 			<Metadata name="Document.НачислениеЗарплаты.TabularSection.Начисления.Attribute.ГрафикРаботы" id="306d6b6f-6cd4-4854-91e3-0aaa436dbb1d"/>
@@ -274,9 +274,9 @@
 			<Metadata name="Document.НачислениеЗарплаты.TabularSection.Начисления.Attribute.ДатаОкончания" id="b6d0cc78-507b-4257-896d-19ef3bd4dd51"/>
 			<Metadata name="Document.НачислениеЗарплаты.TabularSection.Начисления.Attribute.ПоказательРасчета" id="be97d3f9-9aea-43e1-8e4b-f6c5042dacf0"/>
 		</Metadata>
-		<Metadata name="Document.НачислениеЗарплаты.Form.ФормаДокумента" id="d327f4ab-e6da-4d50-a010-4cfeaeb1a221" configVersion="64a21688caec9a49a952de520cb8fabb00000000"/>
-		<Metadata name="Document.НачислениеЗарплаты.Form.ФормаДокумента.Form" id="d327f4ab-e6da-4d50-a010-4cfeaeb1a221.0" configVersion="21b2921b488c0249a86dadb6c8f4948200000000"/>
-		<Metadata name="Document.НачислениеЗарплаты.ObjectModule" id="ab0bfdd2-6f7f-4b4c-8379-1410a54dba7d.0" configVersion="947158766e872749bc5c88bb732de46f00000000"/>
+		<Metadata name="Document.НачислениеЗарплаты.Form.ФормаДокумента" id="d327f4ab-e6da-4d50-a010-4cfeaeb1a221" configVersion="ffaf082af04cc644a62eedb99e8f859d00000000"/>
+		<Metadata name="Document.НачислениеЗарплаты.Form.ФормаДокумента.Form" id="d327f4ab-e6da-4d50-a010-4cfeaeb1a221.0" configVersion="e79da3b6f09c4b4894ae7b3bcf6f779c00000000"/>
+		<Metadata name="Document.НачислениеЗарплаты.ObjectModule" id="ab0bfdd2-6f7f-4b4c-8379-1410a54dba7d.0" configVersion="46d2626612395443b8890ea49d98333200000000"/>
 		<Metadata name="Document.НачислениеПремии" id="f20f7d52-cf4b-445c-a97e-a0e0c5b175fd" configVersion="9f5a731ca0066641a17ab610343f1eb100000000">
 			<Metadata name="Document.НачислениеПремии.Attribute.ПериодНачисления" id="13b56239-80ba-493e-84ab-bf1e7a431f9f"/>
 			<Metadata name="Document.НачислениеПремии.TabularSection.Начисления.Attribute.ПоказательРасчета" id="5b33fb80-a7de-4ec1-9041-78d0ed4e8b29"/>
