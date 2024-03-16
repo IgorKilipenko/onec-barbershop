@@ -280,6 +280,7 @@
 			<CommonModule>РаботаСРеквизитами</CommonModule>
 			<CommonModule>БухгалтерскийУчет</CommonModule>
 			<CommonModule>РаботаСКоллекциямиКлиентСервер</CommonModule>
+			<CommonModule>РаботаСЗапросами</CommonModule>
 			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
 			<DefinedType>ФинансовыеДанные</DefinedType>
 			<DefinedType>КоличествоУслуг</DefinedType>
