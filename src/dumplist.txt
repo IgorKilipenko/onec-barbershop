@@ -1,3 +1,8 @@
-﻿New: CommonModule.РаботаСЗапросами
-New: CommonModule.РаботаСЗапросами.Module
+﻿New: DataProcessor.ВыборкаИзБД
+New: DataProcessor.ВыборкаИзБД.Form.Тесты_Форма
+New: DataProcessor.ВыборкаИзБД.Form.Тесты_Форма.Form
+New: DataProcessor.ВыборкаИзБД.ManagerModule
+New: DataProcessor.ВыборкаИзБД.ObjectModule
+Modified: CommonModule.РаботаСЗапросами
+Modified: CommonModule.РаботаСЗапросами.Module
 Modified: Configuration.Конфигурация

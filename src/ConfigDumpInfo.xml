@@ -181,8 +181,8 @@
 		<Metadata name="CommonModule.ДиагностикаКлиентСервер.Module" id="9d0a9a4c-a8e8-48c5-b840-664d59146786.0" configVersion="7298ba2f8ee77545b73dfccc9ece9dd000000000"/>
 		<Metadata name="CommonModule.РаботаСДокументами" id="83d0ebd2-994c-4b49-8a56-581398e6f02b" configVersion="f942922d27aab64fbf9a7be43e823d0f00000000"/>
 		<Metadata name="CommonModule.РаботаСДокументами.Module" id="83d0ebd2-994c-4b49-8a56-581398e6f02b.0" configVersion="9c4b4b12d4801e4cbee1386dc4c456b100000000"/>
-		<Metadata name="CommonModule.РаботаСЗапросами" id="f6a158e2-47b8-471e-a2ac-0659155cec02" configVersion="8e277008aef86b4386b0904da57e9f8000000000"/>
-		<Metadata name="CommonModule.РаботаСЗапросами.Module" id="f6a158e2-47b8-471e-a2ac-0659155cec02.0" configVersion="c7d08ad2432f074aa6aee7fa99aaaead00000000"/>
+		<Metadata name="CommonModule.РаботаСЗапросами" id="f6a158e2-47b8-471e-a2ac-0659155cec02" configVersion="c5d6b5df55e9d349868fa3e585999e6b00000000"/>
+		<Metadata name="CommonModule.РаботаСЗапросами.Module" id="f6a158e2-47b8-471e-a2ac-0659155cec02.0" configVersion="6b33ffbc0413a746a1ac7b249c42a73800000000"/>
 		<Metadata name="CommonModule.РаботаСКоллекциямиКлиентСервер" id="d3b0e2e6-8b64-4734-9fd6-c430fe20d4db" configVersion="c18f13ca1bff4146aab77117a735d14800000000"/>
 		<Metadata name="CommonModule.РаботаСКоллекциямиКлиентСервер.Module" id="d3b0e2e6-8b64-4734-9fd6-c430fe20d4db.0" configVersion="bc8a30fa6d57b64cb603b421b24d013700000000"/>
 		<Metadata name="CommonModule.РаботаСМетаданными" id="0ce7d195-d6c2-4f7a-8f35-6d6c5a3293a5" configVersion="75ec90b2d478f945ab680e3503b9557b00000000"/>
@@ -213,7 +213,7 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="51a79af0-8692-4460-b9c8-156fc59c1aba.0" configVersion="bdb6e99500c15947a896c9e352af9a8800000000"/>
 		<Metadata name="CommonPicture.Справочники" id="79b9328d-ed7d-418b-a93e-40f925149ef6" configVersion="d030f1775f0a114094e3776a5457e57f00000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="79b9328d-ed7d-418b-a93e-40f925149ef6.0" configVersion="aecf472f5c86e543998eebf5f100ff5400000000"/>
-		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="aa0f8be2c3724c49be41021a96ebda8200000000"/>
+		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="6e112998d9c47c468dd26827ccc2bade00000000"/>
 		<Metadata name="Configuration.Конфигурация.ClientApplicationInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.b" configVersion="184f50c9d5ac3b45b93a2d189689c80700000000"/>
 		<Metadata name="Configuration.Конфигурация.CommandInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.a" configVersion="ce8c15cbda4c074aa203ffc32401319600000000"/>
 		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.8" configVersion="410dddd91985ff44bb78ea510a1a6b0000000000"/>
@@ -226,6 +226,16 @@
 		<Metadata name="Constant.ИспользоватьСклады" id="fab850d7-c284-44c9-b066-96d96aecc595" configVersion="52b7b59263f9de49bd79a897d8964c7f00000000"/>
 		<Metadata name="Constant.НачалоРабочегоДня" id="824bd09b-11cd-4c1c-84e3-e366c387f4bb" configVersion="a5e17654be0d844a9013564dd97641f000000000"/>
 		<Metadata name="Constant.ОкончаниеРабочегоДня" id="9d285c80-a332-4449-9b1e-8be63f6ddec3" configVersion="c0ae9c406d57764d94a6692c6a93c31e00000000"/>
+		<Metadata name="DataProcessor.ВыборкаИзБД" id="2238673e-0578-4a98-b45a-ee226a887b97" configVersion="ebe658d92505df419ebe132d12ae1ec300000000">
+			<Metadata name="DataProcessor.ВыборкаИзБД.Attribute.Количество" id="019b2f1a-7492-40dc-8cf8-4767064ca29a"/>
+			<Metadata name="DataProcessor.ВыборкаИзБД.Attribute.ТекстЗапроса" id="02ad801c-f7b6-4e5c-bf8b-f437d997b1eb"/>
+			<Metadata name="DataProcessor.ВыборкаИзБД.Attribute.Курсор" id="85e36b3e-8840-42cf-95f4-b172da39a984"/>
+			<Metadata name="DataProcessor.ВыборкаИзБД.Attribute.Результат" id="b18dc844-a67b-4284-9b35-1702d05f4b8d"/>
+		</Metadata>
+		<Metadata name="DataProcessor.ВыборкаИзБД.Form.Тесты_Форма" id="deac068e-3965-4309-9c58-48136e58a9a4" configVersion="c69f997a3307404593926870761b702000000000"/>
+		<Metadata name="DataProcessor.ВыборкаИзБД.Form.Тесты_Форма.Form" id="deac068e-3965-4309-9c58-48136e58a9a4.0" configVersion="ff24e77174a4f749ba7e2cdc6fa4244800000000"/>
+		<Metadata name="DataProcessor.ВыборкаИзБД.ManagerModule" id="2238673e-0578-4a98-b45a-ee226a887b97.2" configVersion="867698b9fa8c9d4fbf77b67d6f9bb0a600000000"/>
+		<Metadata name="DataProcessor.ВыборкаИзБД.ObjectModule" id="2238673e-0578-4a98-b45a-ee226a887b97.0" configVersion="6ba93cd42b91904198e66f0b40759d4900000000"/>
 		<Metadata name="DataProcessor.МониторРуководителя" id="0ac28fd2-4106-4db9-a6b3-de3add653e6f" configVersion="8449d3db7ee70b44ab518fd7b8c0cfcf00000000"/>
 		<Metadata name="DataProcessor.МониторРуководителя.Form.Форма" id="de218de2-1105-403b-9cf8-673a6f638e8a" configVersion="ada7bb485036d248b99969ab5f2f2c0f00000000"/>
 		<Metadata name="DataProcessor.МониторРуководителя.Form.Форма.Form" id="de218de2-1105-403b-9cf8-673a6f638e8a.0" configVersion="bf4834318920794a80e32d48347a406600000000"/>
