@@ -1,2 +1,2 @@
-﻿Modified: CommonModule.РаботаСТаблицами
-Modified: CommonModule.РаботаСТаблицами.Module
+﻿Modified: DataProcessor.ВыборкаИзБД.Form.Тесты_Форма
+Modified: DataProcessor.ВыборкаИзБД.Form.Тесты_Форма.Form
