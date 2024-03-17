@@ -34,7 +34,15 @@
 			<DataPath>Объект.Начисления</DataPath>
 			<RowFilter xsi:nil="true"/>
 			<ContextMenu name="НачисленияКонтекстноеМеню" id="11"/>
-			<AutoCommandBar name="НачисленияКоманднаяПанель" id="12"/>
+			<AutoCommandBar name="НачисленияКоманднаяПанель" id="12">
+				<ChildItems>
+					<Button name="НачисленияЗаполнить" id="46">
+						<Type>CommandBarButton</Type>
+						<CommandName>Form.Command.Заполнить</CommandName>
+						<ExtendedTooltip name="НачисленияЗаполнитьРасширеннаяПодсказка" id="47"/>
+					</Button>
+				</ChildItems>
+			</AutoCommandBar>
 			<ExtendedTooltip name="НачисленияРасширеннаяПодсказка" id="13"/>
 			<SearchStringAddition name="НачисленияСтрокаПоиска" id="14">
 				<AdditionSource>
@@ -141,6 +149,23 @@
 			</UseAlways>
 		</Attribute>
 	</Attributes>
+	<Commands>
+		<Command name="Заполнить" id="1">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Заполнить</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Заполнить</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>Заполнить</Action>
+		</Command>
+	</Commands>
 	<CommandInterface>
 		<NavigationPanel>
 			<Item>

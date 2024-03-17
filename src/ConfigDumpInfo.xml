@@ -291,8 +291,8 @@
 			<Metadata name="Document.НачислениеЗарплаты.TabularSection.Начисления.Attribute.ДатаОкончания" id="b6d0cc78-507b-4257-896d-19ef3bd4dd51"/>
 			<Metadata name="Document.НачислениеЗарплаты.TabularSection.Начисления.Attribute.ПоказательРасчета" id="be97d3f9-9aea-43e1-8e4b-f6c5042dacf0"/>
 		</Metadata>
-		<Metadata name="Document.НачислениеЗарплаты.Form.ФормаДокумента" id="d327f4ab-e6da-4d50-a010-4cfeaeb1a221" configVersion="ffaf082af04cc644a62eedb99e8f859d00000000"/>
-		<Metadata name="Document.НачислениеЗарплаты.Form.ФормаДокумента.Form" id="d327f4ab-e6da-4d50-a010-4cfeaeb1a221.0" configVersion="e79da3b6f09c4b4894ae7b3bcf6f779c00000000"/>
+		<Metadata name="Document.НачислениеЗарплаты.Form.ФормаДокумента" id="d327f4ab-e6da-4d50-a010-4cfeaeb1a221" configVersion="b6839f0152ae7a49b99b35c7e4a2db3b00000000"/>
+		<Metadata name="Document.НачислениеЗарплаты.Form.ФормаДокумента.Form" id="d327f4ab-e6da-4d50-a010-4cfeaeb1a221.0" configVersion="a881424b17bb614a92191becda87b6b700000000"/>
 		<Metadata name="Document.НачислениеЗарплаты.ObjectModule" id="ab0bfdd2-6f7f-4b4c-8379-1410a54dba7d.0" configVersion="e131e4197ac6a04e91157532f56d05fa00000000"/>
 		<Metadata name="Document.НачислениеПремии" id="f20f7d52-cf4b-445c-a97e-a0e0c5b175fd" configVersion="0e8bc0f309184d44a88ab37d967b4cb500000000">
 			<Metadata name="Document.НачислениеПремии.Attribute.ПериодНачисления" id="13b56239-80ba-493e-84ab-bf1e7a431f9f"/>
