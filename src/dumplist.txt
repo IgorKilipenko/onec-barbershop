@@ -1,5 +1,2 @@
-﻿New: CommonModule.РаботаСТаблицами
-New: CommonModule.РаботаСТаблицами.Module
-New: CommonModule.РаботаСФормами
-New: CommonModule.РаботаСФормами.Module
-Modified: Configuration.Конфигурация
+﻿Modified: DataProcessor.ВыборкаИзБД.Form.Тесты_Форма
+Modified: DataProcessor.ВыборкаИзБД.Form.Тесты_Форма.Form

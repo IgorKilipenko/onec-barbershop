@@ -236,8 +236,8 @@
 			<Metadata name="DataProcessor.ВыборкаИзБД.Attribute.Курсор" id="85e36b3e-8840-42cf-95f4-b172da39a984"/>
 			<Metadata name="DataProcessor.ВыборкаИзБД.Attribute.Результат" id="b18dc844-a67b-4284-9b35-1702d05f4b8d"/>
 		</Metadata>
-		<Metadata name="DataProcessor.ВыборкаИзБД.Form.Тесты_Форма" id="deac068e-3965-4309-9c58-48136e58a9a4" configVersion="c69f997a3307404593926870761b702000000000"/>
-		<Metadata name="DataProcessor.ВыборкаИзБД.Form.Тесты_Форма.Form" id="deac068e-3965-4309-9c58-48136e58a9a4.0" configVersion="ff24e77174a4f749ba7e2cdc6fa4244800000000"/>
+		<Metadata name="DataProcessor.ВыборкаИзБД.Form.Тесты_Форма" id="deac068e-3965-4309-9c58-48136e58a9a4" configVersion="350a2556b6444642ae8d36d7175ba87400000000"/>
+		<Metadata name="DataProcessor.ВыборкаИзБД.Form.Тесты_Форма.Form" id="deac068e-3965-4309-9c58-48136e58a9a4.0" configVersion="a61b0ac3e73246478d1af8b90d3370b300000000"/>
 		<Metadata name="DataProcessor.ВыборкаИзБД.ManagerModule" id="2238673e-0578-4a98-b45a-ee226a887b97.2" configVersion="867698b9fa8c9d4fbf77b67d6f9bb0a600000000"/>
 		<Metadata name="DataProcessor.ВыборкаИзБД.ObjectModule" id="2238673e-0578-4a98-b45a-ee226a887b97.0" configVersion="6ba93cd42b91904198e66f0b40759d4900000000"/>
 		<Metadata name="DataProcessor.МониторРуководителя" id="0ac28fd2-4106-4db9-a6b3-de3add653e6f" configVersion="8449d3db7ee70b44ab518fd7b8c0cfcf00000000"/>
