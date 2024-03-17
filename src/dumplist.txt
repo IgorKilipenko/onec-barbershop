@@ -1,2 +1,2 @@
-﻿Modified: DataProcessor.ВыборкаИзБД.Form.Тесты_Форма
-Modified: DataProcessor.ВыборкаИзБД.Form.Тесты_Форма.Form
+﻿Modified: InformationRegister.КадроваяИсторияСотрудников
+Modified: InformationRegister.КадроваяИсторияСотрудников.ManagerModule
