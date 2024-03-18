@@ -1,5 +1,3 @@
-﻿New: DataProcessor.ЗагрузкаПрайсЛиста
-New: DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма
-New: DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма.Form
-New: Subsystem.Интеграции
-Modified: Configuration.Конфигурация
+﻿Modified: DataProcessor.ЗагрузкаПрайсЛиста
+Modified: DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма
+Modified: DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма.Form
