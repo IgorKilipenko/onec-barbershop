@@ -1,3 +1,2 @@
-﻿New: CommonModule.КоннекторHTTP
-New: CommonModule.КоннекторHTTP.Module
-Modified: Configuration.Конфигурация
+﻿Modified: Report.ОтчетПоНачислениюЗарплаты.Template.ОсновнаяСхемаКомпоновкиДанных
+Modified: Report.ОтчетПоНачислениюЗарплаты.Template.ОсновнаяСхемаКомпоновкиДанных.Template
