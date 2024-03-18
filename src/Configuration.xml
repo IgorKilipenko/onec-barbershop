@@ -299,6 +299,7 @@
 			<Constant>ИспользоватьСклады</Constant>
 			<Constant>НачалоРабочегоДня</Constant>
 			<Constant>ОкончаниеРабочегоДня</Constant>
+			<Constant>API_KEY_newsapi</Constant>
 			<Catalog>Организации</Catalog>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Должности</Catalog>

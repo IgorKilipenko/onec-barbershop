@@ -219,7 +219,7 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="51a79af0-8692-4460-b9c8-156fc59c1aba.0" configVersion="bdb6e99500c15947a896c9e352af9a8800000000"/>
 		<Metadata name="CommonPicture.Справочники" id="79b9328d-ed7d-418b-a93e-40f925149ef6" configVersion="d030f1775f0a114094e3776a5457e57f00000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="79b9328d-ed7d-418b-a93e-40f925149ef6.0" configVersion="aecf472f5c86e543998eebf5f100ff5400000000"/>
-		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="59273eef689ab24d924c648b419019fb00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="259898f57ffce144a26deb52578b9f4b00000000"/>
 		<Metadata name="Configuration.Конфигурация.ClientApplicationInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.b" configVersion="184f50c9d5ac3b45b93a2d189689c80700000000"/>
 		<Metadata name="Configuration.Конфигурация.CommandInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.a" configVersion="ce8c15cbda4c074aa203ffc32401319600000000"/>
 		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.8" configVersion="410dddd91985ff44bb78ea510a1a6b0000000000"/>
@@ -229,6 +229,7 @@
 		<Metadata name="Configuration.Конфигурация.ManagedApplicationModule" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.6" configVersion="dc04043dba4f954f9a9641c933e0611b00000000"/>
 		<Metadata name="Configuration.Конфигурация.SessionModule" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.7" configVersion="78e237bd23d02b47aea1c0fe012947e400000000"/>
 		<Metadata name="Configuration.Конфигурация.Splash" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.2" configVersion="acc01d56198196479f29c790ca61888d00000000"/>
+		<Metadata name="Constant.API_KEY_newsapi" id="04883451-1d09-454e-840a-0301c04ab732" configVersion="d4f651226e154a4b84a0fab69201f41700000000"/>
 		<Metadata name="Constant.ИспользоватьСклады" id="fab850d7-c284-44c9-b066-96d96aecc595" configVersion="52b7b59263f9de49bd79a897d8964c7f00000000"/>
 		<Metadata name="Constant.НачалоРабочегоДня" id="824bd09b-11cd-4c1c-84e3-e366c387f4bb" configVersion="a5e17654be0d844a9013564dd97641f000000000"/>
 		<Metadata name="Constant.ОкончаниеРабочегоДня" id="9d285c80-a332-4449-9b1e-8be63f6ddec3" configVersion="c0ae9c406d57764d94a6692c6a93c31e00000000"/>
@@ -651,7 +652,10 @@
 		<Metadata name="Subsystem.НСИИАдминистрирование.Subsystem.Персонал.CommandInterface" id="90b51a74-90f6-4bf3-b938-a89f3d30e732.1" configVersion="62a3186afbc89a45b2002d10c39a8a3a00000000"/>
 		<Metadata name="Subsystem.НСИИАдминистрирование.Subsystem.Продажи" id="4b48634b-275f-4067-93e9-5204a8dacb2b" configVersion="f010490db7745546b431ac93554f6a5400000000"/>
 		<Metadata name="Subsystem.НСИИАдминистрирование.Subsystem.Продажи.CommandInterface" id="4b48634b-275f-4067-93e9-5204a8dacb2b.1" configVersion="6b2f0971c78af842a60c2495baac710300000000"/>
-		<Metadata name="Subsystem.Настройки" id="47f518e8-da48-4612-b6da-2242cf9a477f" configVersion="62dac8289b13884cb57bcabb2355c89f00000000"/>
+		<Metadata name="Subsystem.Настройки" id="47f518e8-da48-4612-b6da-2242cf9a477f" configVersion="5f44fe0ce1db4d44935e9fb3316a038000000000"/>
+		<Metadata name="Subsystem.Настройки.CommandInterface" id="47f518e8-da48-4612-b6da-2242cf9a477f.1" configVersion="fb18ae995e45ed4e867c042aba83ec4e00000000"/>
+		<Metadata name="Subsystem.Настройки.Subsystem.Интеграции" id="40b84da6-587b-4264-874d-643706f9669d" configVersion="4c1d79e8d0b45f4da831d9ca54023d7e00000000"/>
+		<Metadata name="Subsystem.Настройки.Subsystem.Интеграции.CommandInterface" id="40b84da6-587b-4264-874d-643706f9669d.1" configVersion="aa2015a2bd806f488781c1a75a495c2900000000"/>
 		<Metadata name="Subsystem.Персонал" id="a4f0c756-4cce-4269-bebd-7fa2dfd8ca2e" configVersion="7793708b3d3dc048b760c96d257bf0fd00000000"/>
 		<Metadata name="Subsystem.Персонал.CommandInterface" id="a4f0c756-4cce-4269-bebd-7fa2dfd8ca2e.1" configVersion="c2de916a0562e24ba15848a6330f53f900000000"/>
 		<Metadata name="Subsystem.Персонал.Subsystem.Справочники" id="a2a5564e-110e-45b6-9bce-091b4d193ae4" configVersion="397477336d89c744ab9f67ff3a1553c600000000"/>

@@ -1,2 +1,6 @@
-﻿Modified: Report.ОтчетПоНачислениюЗарплаты.Template.ОсновнаяСхемаКомпоновкиДанных
-Modified: Report.ОтчетПоНачислениюЗарплаты.Template.ОсновнаяСхемаКомпоновкиДанных.Template
+﻿New: Constant.API_KEY_newsapi
+New: Subsystem.Настройки.CommandInterface
+New: Subsystem.Настройки.Subsystem.Интеграции
+New: Subsystem.Настройки.Subsystem.Интеграции.CommandInterface
+Modified: Configuration.Конфигурация
+Modified: Subsystem.Настройки
