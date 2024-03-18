@@ -219,7 +219,7 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="51a79af0-8692-4460-b9c8-156fc59c1aba.0" configVersion="bdb6e99500c15947a896c9e352af9a8800000000"/>
 		<Metadata name="CommonPicture.Справочники" id="79b9328d-ed7d-418b-a93e-40f925149ef6" configVersion="d030f1775f0a114094e3776a5457e57f00000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="79b9328d-ed7d-418b-a93e-40f925149ef6.0" configVersion="aecf472f5c86e543998eebf5f100ff5400000000"/>
-		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="259898f57ffce144a26deb52578b9f4b00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="a588429dd4cea64f9125fe758f4bbdda00000000"/>
 		<Metadata name="Configuration.Конфигурация.ClientApplicationInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.b" configVersion="184f50c9d5ac3b45b93a2d189689c80700000000"/>
 		<Metadata name="Configuration.Конфигурация.CommandInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.a" configVersion="ce8c15cbda4c074aa203ffc32401319600000000"/>
 		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.8" configVersion="410dddd91985ff44bb78ea510a1a6b0000000000"/>
@@ -454,6 +454,13 @@
 		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.Form.ФормаДокумента" id="42e1f445-ce6d-4d65-a717-8e80d7c871f3" configVersion="630cafb055ea6d4fa4a7181ed3a0a31400000000"/>
 		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.Form.ФормаДокумента.Form" id="42e1f445-ce6d-4d65-a717-8e80d7c871f3.0" configVersion="f84299a3f8621a4785182027b7ca97a200000000"/>
 		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.ObjectModule" id="ce53db2e-95ef-42f5-adeb-a6b0222c9784.0" configVersion="3ae1d19b6025634c967f18f20bcb570a00000000"/>
+		<Metadata name="Document.УстановкаЦенПоставщика" id="c006aeeb-e094-47f1-b312-335e64d9f929" configVersion="ade4878e73e6174cbfd36a84ad7a8a7d00000000">
+			<Metadata name="Document.УстановкаЦенПоставщика.Attribute.Контрагент" id="24d378cb-7628-429c-9ac5-a535c688db9b"/>
+			<Metadata name="Document.УстановкаЦенПоставщика.TabularSection.Товары.Attribute.Номенклатура" id="2e28a5eb-be81-44ec-9a16-7f36a47d6d88"/>
+			<Metadata name="Document.УстановкаЦенПоставщика.TabularSection.Товары.Attribute.Цена" id="5e38379a-9859-4604-a6c2-6c6526ade670"/>
+			<Metadata name="Document.УстановкаЦенПоставщика.TabularSection.Товары" id="9dac9836-ddd3-451c-8b2f-84d301597544"/>
+		</Metadata>
+		<Metadata name="Document.УстановкаЦенПоставщика.ObjectModule" id="c006aeeb-e094-47f1-b312-335e64d9f929.0" configVersion="f3858f3aea967d49b8622c4d1893393100000000"/>
 		<Metadata name="DocumentJournal.ДокументыПоБанку" id="111b61b3-1ba3-491e-aa8d-d4328cfac3e5" configVersion="107623cbcced3844821d1f6981f5fedd00000000">
 			<Metadata name="DocumentJournal.ДокументыПоБанку.Column.Комментарий" id="1ba1105d-eb84-4426-bce6-c8a33e5506f4"/>
 			<Metadata name="DocumentJournal.ДокументыПоБанку.Column.Приход" id="4263fb9c-4723-4f2b-be7b-05e0a2622657"/>
@@ -661,7 +668,7 @@
 		<Metadata name="Subsystem.Персонал.Subsystem.Справочники" id="a2a5564e-110e-45b6-9bce-091b4d193ae4" configVersion="397477336d89c744ab9f67ff3a1553c600000000"/>
 		<Metadata name="Subsystem.Персонал.Subsystem.Справочники.CommandInterface" id="a2a5564e-110e-45b6-9bce-091b4d193ae4.1" configVersion="10561862235fbd428610c7b2e4d25d2100000000"/>
 		<Metadata name="Subsystem.Покупки" id="d9ae1291-f729-467a-8279-ac917ce77326" configVersion="358f0ff049537f4d846bba88cd38ea1f00000000"/>
-		<Metadata name="Subsystem.Покупки.Subsystem.Покупки" id="d2960b12-1b28-46a2-b224-09303fb4ea8b" configVersion="222e3119c71a1c4ba7b05b9c8d01a24d00000000"/>
+		<Metadata name="Subsystem.Покупки.Subsystem.Покупки" id="d2960b12-1b28-46a2-b224-09303fb4ea8b" configVersion="f542bd2a0dd85f4e8c609225d7d0c07800000000"/>
 		<Metadata name="Subsystem.Покупки.Subsystem.Покупки.CommandInterface" id="d2960b12-1b28-46a2-b224-09303fb4ea8b.1" configVersion="98e67ba8947d27449449807c8b38b86d00000000"/>
 		<Metadata name="Subsystem.Покупки.Subsystem.Справочники" id="f53f81d1-7c9f-44fc-9987-f8cbca7d241e" configVersion="e9b74868cb834446a6a4f45d5d7942fb00000000"/>
 		<Metadata name="Subsystem.Продажи" id="044720da-cc1f-48c4-b1a5-d7bb1ead9b84" configVersion="c94498b7632c514b9bb537639c99bf8100000000"/>

@@ -1,2 +1,4 @@
-﻿Modified: Role.Закупщик
-Modified: Role.Закупщик.Rights
+﻿New: Document.УстановкаЦенПоставщика
+New: Document.УстановкаЦенПоставщика.ObjectModule
+Modified: Configuration.Конфигурация
+Modified: Subsystem.Покупки.Subsystem.Покупки
