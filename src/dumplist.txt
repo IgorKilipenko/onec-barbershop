@@ -1,2 +1,3 @@
-﻿Modified: Document.НачислениеЗарплаты.Form.ФормаДокумента
-Modified: Document.НачислениеЗарплаты.Form.ФормаДокумента.Form
+﻿New: CommonModule.КоннекторHTTP
+New: CommonModule.КоннекторHTTP.Module
+Modified: Configuration.Конфигурация

@@ -179,6 +179,8 @@
 		<Metadata name="CommonModule.БухгалтерскийУчет.Module" id="e1ad56bd-a9e0-4a37-9151-250f80f82a87.0" configVersion="ad9b2ec2d87cc0459fd36d2c9d30528a00000000"/>
 		<Metadata name="CommonModule.ДиагностикаКлиентСервер" id="9d0a9a4c-a8e8-48c5-b840-664d59146786" configVersion="423b3a91e9a94546992df9c74f0807ef00000000"/>
 		<Metadata name="CommonModule.ДиагностикаКлиентСервер.Module" id="9d0a9a4c-a8e8-48c5-b840-664d59146786.0" configVersion="7298ba2f8ee77545b73dfccc9ece9dd000000000"/>
+		<Metadata name="CommonModule.КоннекторHTTP" id="0dba69ff-8af7-4a02-9c1c-1880d010ed46" configVersion="6e284dff8f9bfa46b50614e79dc0ecf700000000"/>
+		<Metadata name="CommonModule.КоннекторHTTP.Module" id="0dba69ff-8af7-4a02-9c1c-1880d010ed46.0" configVersion="4bbd07abca69cd4697b883ede214a95d00000000"/>
 		<Metadata name="CommonModule.РаботаСДокументами" id="83d0ebd2-994c-4b49-8a56-581398e6f02b" configVersion="f942922d27aab64fbf9a7be43e823d0f00000000"/>
 		<Metadata name="CommonModule.РаботаСДокументами.Module" id="83d0ebd2-994c-4b49-8a56-581398e6f02b.0" configVersion="9c4b4b12d4801e4cbee1386dc4c456b100000000"/>
 		<Metadata name="CommonModule.РаботаСЗапросами" id="f6a158e2-47b8-471e-a2ac-0659155cec02" configVersion="c5d6b5df55e9d349868fa3e585999e6b00000000"/>
@@ -217,7 +219,7 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="51a79af0-8692-4460-b9c8-156fc59c1aba.0" configVersion="bdb6e99500c15947a896c9e352af9a8800000000"/>
 		<Metadata name="CommonPicture.Справочники" id="79b9328d-ed7d-418b-a93e-40f925149ef6" configVersion="d030f1775f0a114094e3776a5457e57f00000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="79b9328d-ed7d-418b-a93e-40f925149ef6.0" configVersion="aecf472f5c86e543998eebf5f100ff5400000000"/>
-		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="c97b6bc6d75b4a40803cfe2ea21364a800000000"/>
+		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="59273eef689ab24d924c648b419019fb00000000"/>
 		<Metadata name="Configuration.Конфигурация.ClientApplicationInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.b" configVersion="184f50c9d5ac3b45b93a2d189689c80700000000"/>
 		<Metadata name="Configuration.Конфигурация.CommandInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.a" configVersion="ce8c15cbda4c074aa203ffc32401319600000000"/>
 		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.8" configVersion="410dddd91985ff44bb78ea510a1a6b0000000000"/>

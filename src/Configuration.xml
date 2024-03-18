@@ -283,6 +283,7 @@
 			<CommonModule>РаботаСЗапросами</CommonModule>
 			<CommonModule>РаботаСФормами</CommonModule>
 			<CommonModule>РаботаСТаблицами</CommonModule>
+			<CommonModule>КоннекторHTTP</CommonModule>
 			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
 			<DefinedType>ФинансовыеДанные</DefinedType>
 			<DefinedType>КоличествоУслуг</DefinedType>
