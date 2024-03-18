@@ -1,4 +1,4 @@
-﻿New: Document.УстановкаЦенПоставщика
-New: Document.УстановкаЦенПоставщика.ObjectModule
-Modified: Configuration.Конфигурация
-Modified: Subsystem.Покупки.Subsystem.Покупки
+﻿New: Document.УстановкаЦенПоставщика.Form.ФормаДокумента
+New: Document.УстановкаЦенПоставщика.Form.ФормаДокумента.Form
+Modified: Document.УстановкаЦенПоставщика
+Modified: Document.УстановкаЦенПоставщика.ObjectModule
