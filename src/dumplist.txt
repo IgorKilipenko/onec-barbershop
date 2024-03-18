@@ -1,4 +1,5 @@
-﻿New: Document.УстановкаЦенПоставщика.Form.ФормаДокумента
-New: Document.УстановкаЦенПоставщика.Form.ФормаДокумента.Form
-Modified: Document.УстановкаЦенПоставщика
-Modified: Document.УстановкаЦенПоставщика.ObjectModule
+﻿New: DataProcessor.ЗагрузкаПрайсЛиста
+New: DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма
+New: DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма.Form
+New: Subsystem.Интеграции
+Modified: Configuration.Конфигурация

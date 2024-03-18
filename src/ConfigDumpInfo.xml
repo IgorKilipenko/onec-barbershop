@@ -219,7 +219,7 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="51a79af0-8692-4460-b9c8-156fc59c1aba.0" configVersion="bdb6e99500c15947a896c9e352af9a8800000000"/>
 		<Metadata name="CommonPicture.Справочники" id="79b9328d-ed7d-418b-a93e-40f925149ef6" configVersion="d030f1775f0a114094e3776a5457e57f00000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="79b9328d-ed7d-418b-a93e-40f925149ef6.0" configVersion="aecf472f5c86e543998eebf5f100ff5400000000"/>
-		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="a588429dd4cea64f9125fe758f4bbdda00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="554d745d9af86a4290638a244f1a869f00000000"/>
 		<Metadata name="Configuration.Конфигурация.ClientApplicationInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.b" configVersion="184f50c9d5ac3b45b93a2d189689c80700000000"/>
 		<Metadata name="Configuration.Конфигурация.CommandInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.a" configVersion="ce8c15cbda4c074aa203ffc32401319600000000"/>
 		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.8" configVersion="410dddd91985ff44bb78ea510a1a6b0000000000"/>
@@ -243,6 +243,12 @@
 		<Metadata name="DataProcessor.ВыборкаИзБД.Form.Тесты_Форма.Form" id="deac068e-3965-4309-9c58-48136e58a9a4.0" configVersion="159dbd96c90eef4a8463c2b2cb0864f800000000"/>
 		<Metadata name="DataProcessor.ВыборкаИзБД.ManagerModule" id="2238673e-0578-4a98-b45a-ee226a887b97.2" configVersion="867698b9fa8c9d4fbf77b67d6f9bb0a600000000"/>
 		<Metadata name="DataProcessor.ВыборкаИзБД.ObjectModule" id="2238673e-0578-4a98-b45a-ee226a887b97.0" configVersion="6ba93cd42b91904198e66f0b40759d4900000000"/>
+		<Metadata name="DataProcessor.ЗагрузкаПрайсЛиста" id="142bf199-647b-4234-a7df-429ff2355479" configVersion="96b910358a135648b43d5bd19b60d63100000000">
+			<Metadata name="DataProcessor.ЗагрузкаПрайсЛиста.Attribute.Поставщик" id="4b4b8178-e09c-4ee8-97fc-251b4e4c9a87"/>
+			<Metadata name="DataProcessor.ЗагрузкаПрайсЛиста.Attribute.ДатаПрайсЛиста" id="fab187fc-8652-4d17-b0e6-036efa0133be"/>
+		</Metadata>
+		<Metadata name="DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма" id="e1e7cf84-e32a-4bcd-a373-fd8188ef49b0" configVersion="31ed7f0d38c1b546b7e6503a0f14938900000000"/>
+		<Metadata name="DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма.Form" id="e1e7cf84-e32a-4bcd-a373-fd8188ef49b0.0" configVersion="e201bec6dc3807418d4e6f1d0b664ce900000000"/>
 		<Metadata name="DataProcessor.МониторРуководителя" id="0ac28fd2-4106-4db9-a6b3-de3add653e6f" configVersion="8449d3db7ee70b44ab518fd7b8c0cfcf00000000"/>
 		<Metadata name="DataProcessor.МониторРуководителя.Form.Форма" id="de218de2-1105-403b-9cf8-673a6f638e8a" configVersion="ada7bb485036d248b99969ab5f2f2c0f00000000"/>
 		<Metadata name="DataProcessor.МониторРуководителя.Form.Форма.Form" id="de218de2-1105-403b-9cf8-673a6f638e8a.0" configVersion="bf4834318920794a80e32d48347a406600000000"/>
@@ -655,6 +661,7 @@
 		<Metadata name="Subsystem.Деньги.CommandInterface" id="1760296f-51b9-49f0-b0b5-867ab5b17110.1" configVersion="5f794b8ef002ee4496a3d8992ebf870300000000"/>
 		<Metadata name="Subsystem.Деньги.Subsystem.Справочники" id="0132b9af-f58d-4df0-a1c7-9fe425cdecd0" configVersion="03f2b78ada13924f933dd5cd330364d200000000"/>
 		<Metadata name="Subsystem.Деньги.Subsystem.Справочники.CommandInterface" id="0132b9af-f58d-4df0-a1c7-9fe425cdecd0.1" configVersion="129bb944f8b61d499f118b219cfb54e400000000"/>
+		<Metadata name="Subsystem.Интеграции" id="23ff2bcf-d72d-48d7-9c63-e4928b151ebe" configVersion="055e31111673d7458379fc8a1f5a0cec00000000"/>
 		<Metadata name="Subsystem.НСИИАдминистрирование" id="522971d4-6c66-4bb4-94f6-b0475ae5efd4" configVersion="8915e9955079734782885f4944dc472e00000000"/>
 		<Metadata name="Subsystem.НСИИАдминистрирование.CommandInterface" id="522971d4-6c66-4bb4-94f6-b0475ae5efd4.1" configVersion="cc9e8480ac1b144d80ae3e667288ad2000000000"/>
 		<Metadata name="Subsystem.НСИИАдминистрирование.Subsystem.Персонал" id="90b51a74-90f6-4bf3-b938-a89f3d30e732" configVersion="9a78cba763f57840929df1bd3bc97fa100000000"/>

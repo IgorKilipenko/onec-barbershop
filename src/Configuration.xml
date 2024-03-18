@@ -254,6 +254,7 @@
 			<Subsystem>НСИИАдминистрирование</Subsystem>
 			<Subsystem>Деньги</Subsystem>
 			<Subsystem>БухгалтерскийУчет</Subsystem>
+			<Subsystem>Интеграции</Subsystem>
 			<Style>Барбершоп</Style>
 			<CommonPicture>Справочники</CommonPicture>
 			<CommonPicture>БизнесПроцессы</CommonPicture>
@@ -360,6 +361,7 @@
 			<DataProcessor>МониторРуководителя</DataProcessor>
 			<DataProcessor>ПланированиеЗагрузкиСотрудников</DataProcessor>
 			<DataProcessor>ВыборкаИзБД</DataProcessor>
+			<DataProcessor>ЗагрузкаПрайсЛиста</DataProcessor>
 			<InformationRegister>ЦеныНоменклатурыПоставщиков</InformationRegister>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<InformationRegister>УчетнаяПолитика</InformationRegister>
