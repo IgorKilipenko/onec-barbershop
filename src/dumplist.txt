@@ -1,2 +1,4 @@
-﻿Modified: CommonModule.ПреобразованиеТиповКлиентСервер
-Modified: CommonModule.ПреобразованиеТиповКлиентСервер.Module
+﻿Modified: DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма
+Modified: DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма.Form
+Modified: Document.УстановкаЦенПоставщика.Form.ФормаДокумента
+Modified: Document.УстановкаЦенПоставщика.Form.ФормаДокумента.Form

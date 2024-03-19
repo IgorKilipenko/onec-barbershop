@@ -105,8 +105,6 @@
 					<DataPath>Объект.ПрайсЛист</DataPath>
 					<TitleLocation>None</TitleLocation>
 					<Edit>true</Edit>
-					<ShowCellNames>true</ShowCellNames>
-					<ShowRowAndColumnNames>true</ShowRowAndColumnNames>
 					<ContextMenu name="ПрайсЛистКонтекстноеМеню" id="14"/>
 					<ExtendedTooltip name="ПрайсЛистРасширеннаяПодсказка" id="15"/>
 				</SpreadSheetDocumentField>
