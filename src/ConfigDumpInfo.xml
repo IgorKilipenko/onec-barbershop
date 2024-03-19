@@ -181,8 +181,8 @@
 		<Metadata name="CommonModule.ДиагностикаКлиентСервер.Module" id="9d0a9a4c-a8e8-48c5-b840-664d59146786.0" configVersion="7298ba2f8ee77545b73dfccc9ece9dd000000000"/>
 		<Metadata name="CommonModule.КоннекторHTTP" id="0dba69ff-8af7-4a02-9c1c-1880d010ed46" configVersion="6e284dff8f9bfa46b50614e79dc0ecf700000000"/>
 		<Metadata name="CommonModule.КоннекторHTTP.Module" id="0dba69ff-8af7-4a02-9c1c-1880d010ed46.0" configVersion="4bbd07abca69cd4697b883ede214a95d00000000"/>
-		<Metadata name="CommonModule.ПреобразованиеТиповКлиентСервер" id="bba2e805-802d-47b0-99b5-c8d0abf817fc" configVersion="bcbb792c9979e040996e6173abb9867c00000000"/>
-		<Metadata name="CommonModule.ПреобразованиеТиповКлиентСервер.Module" id="bba2e805-802d-47b0-99b5-c8d0abf817fc.0" configVersion="b3bd35cbdc1b1e47a3ccde8f3627ad7c00000000"/>
+		<Metadata name="CommonModule.ПреобразованиеТиповКлиентСервер" id="bba2e805-802d-47b0-99b5-c8d0abf817fc" configVersion="ce581e11bed928438b0d2b7fb2decfb100000000"/>
+		<Metadata name="CommonModule.ПреобразованиеТиповКлиентСервер.Module" id="bba2e805-802d-47b0-99b5-c8d0abf817fc.0" configVersion="65076c5a222f3447ac2f19edf05e213900000000"/>
 		<Metadata name="CommonModule.РаботаСДокументами" id="83d0ebd2-994c-4b49-8a56-581398e6f02b" configVersion="f942922d27aab64fbf9a7be43e823d0f00000000"/>
 		<Metadata name="CommonModule.РаботаСДокументами.Module" id="83d0ebd2-994c-4b49-8a56-581398e6f02b.0" configVersion="9c4b4b12d4801e4cbee1386dc4c456b100000000"/>
 		<Metadata name="CommonModule.РаботаСЗапросами" id="f6a158e2-47b8-471e-a2ac-0659155cec02" configVersion="c5d6b5df55e9d349868fa3e585999e6b00000000"/>
