@@ -1,2 +1,2 @@
-﻿Modified: DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма
-Modified: DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма.Form
+﻿Modified: Report.ОтчетПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных
+Modified: Report.ОтчетПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных.Template
