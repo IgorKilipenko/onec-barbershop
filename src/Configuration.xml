@@ -285,6 +285,7 @@
 			<CommonModule>РаботаСФормами</CommonModule>
 			<CommonModule>РаботаСТаблицами</CommonModule>
 			<CommonModule>КоннекторHTTP</CommonModule>
+			<CommonModule>ПреобразованиеТиповКлиентСервер</CommonModule>
 			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
 			<DefinedType>ФинансовыеДанные</DefinedType>
 			<DefinedType>КоличествоУслуг</DefinedType>

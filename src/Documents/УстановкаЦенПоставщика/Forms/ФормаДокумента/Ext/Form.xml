@@ -4,6 +4,9 @@
 	<UsePostingMode>Auto</UsePostingMode>
 	<RepostOnWrite>true</RepostOnWrite>
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
+	<Events>
+		<Event name="NotificationProcessing">ОбработкаОповещения</Event>
+	</Events>
 	<ChildItems>
 		<InputField name="Номер" id="1">
 			<DataPath>Объект.Number</DataPath>
@@ -34,7 +37,15 @@
 			<DataPath>Объект.Товары</DataPath>
 			<RowFilter xsi:nil="true"/>
 			<ContextMenu name="ТоварыКонтекстноеМеню" id="11"/>
-			<AutoCommandBar name="ТоварыКоманднаяПанель" id="12"/>
+			<AutoCommandBar name="ТоварыКоманднаяПанель" id="12">
+				<ChildItems>
+					<Button name="ТоварыЗагрузитьПрайсЛист" id="32">
+						<Type>CommandBarButton</Type>
+						<CommandName>Form.Command.ЗагрузитьПрайсЛист</CommandName>
+						<ExtendedTooltip name="ТоварыЗагрузитьПрайсЛистРасширеннаяПодсказка" id="33"/>
+					</Button>
+				</ChildItems>
+			</AutoCommandBar>
 			<ExtendedTooltip name="ТоварыРасширеннаяПодсказка" id="13"/>
 			<SearchStringAddition name="ТоварыСтрокаПоиска" id="14">
 				<AdditionSource>
@@ -97,20 +108,20 @@
 		</Attribute>
 	</Attributes>
 	<Commands>
-		<Command name="ЗагрузкаПрайсЛиста" id="1">
+		<Command name="ЗагрузитьПрайсЛист" id="1">
 			<Title>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Загрузка прайс листа</v8:content>
+					<v8:content>Загрузить прайс лист</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Загрузка прайс листа</v8:content>
+					<v8:content>Загрузить прайс лист</v8:content>
 				</v8:item>
 			</ToolTip>
-			<Action>ЗагрузкаПрайсЛиста</Action>
+			<Action>ЗагрузитьПрайсЛист</Action>
 		</Command>
 	</Commands>
 	<CommandInterface>

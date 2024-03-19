@@ -1,2 +1,11 @@
-﻿Modified: Report.ОтчетПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных
-Modified: Report.ОтчетПоТоварамНаСкладах.Template.ОсновнаяСхемаКомпоновкиДанных.Template
+﻿New: CommonModule.ПреобразованиеТиповКлиентСервер
+New: CommonModule.ПреобразованиеТиповКлиентСервер.Module
+Modified: Configuration.Конфигурация
+Modified: DataProcessor.ЗагрузкаПрайсЛиста
+Modified: DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма
+Modified: DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма.Form
+Modified: Document.УстановкаЦенПоставщика
+Modified: Document.УстановкаЦенПоставщика.Form.ФормаДокумента
+Modified: Document.УстановкаЦенПоставщика.Form.ФормаДокумента.Form
+Modified: Role.Администратор
+Modified: Role.Администратор.Rights
