@@ -248,8 +248,8 @@
 			<Metadata name="DataProcessor.ЗагрузкаПрайсЛиста.Attribute.ПрайсЛист" id="5f27b467-92bd-4446-b9a2-dc758e2be06e"/>
 			<Metadata name="DataProcessor.ЗагрузкаПрайсЛиста.Attribute.ДатаПрайсЛиста" id="fab187fc-8652-4d17-b0e6-036efa0133be"/>
 		</Metadata>
-		<Metadata name="DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма" id="e1e7cf84-e32a-4bcd-a373-fd8188ef49b0" configVersion="2769a56b3da8eb47b80b2c2583dc2be300000000"/>
-		<Metadata name="DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма.Form" id="e1e7cf84-e32a-4bcd-a373-fd8188ef49b0.0" configVersion="72e88e23032bd14687b588b247ec44d300000000"/>
+		<Metadata name="DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма" id="e1e7cf84-e32a-4bcd-a373-fd8188ef49b0" configVersion="23ed123b0089054f91c053ccea3ce27000000000"/>
+		<Metadata name="DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма.Form" id="e1e7cf84-e32a-4bcd-a373-fd8188ef49b0.0" configVersion="481913f755244140907f7a26830b469d00000000"/>
 		<Metadata name="DataProcessor.МониторРуководителя" id="0ac28fd2-4106-4db9-a6b3-de3add653e6f" configVersion="8449d3db7ee70b44ab518fd7b8c0cfcf00000000"/>
 		<Metadata name="DataProcessor.МониторРуководителя.Form.Форма" id="de218de2-1105-403b-9cf8-673a6f638e8a" configVersion="ada7bb485036d248b99969ab5f2f2c0f00000000"/>
 		<Metadata name="DataProcessor.МониторРуководителя.Form.Форма.Form" id="de218de2-1105-403b-9cf8-673a6f638e8a.0" configVersion="bf4834318920794a80e32d48347a406600000000"/>

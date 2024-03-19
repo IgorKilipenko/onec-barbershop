@@ -1,3 +1,2 @@
-﻿Modified: DataProcessor.ЗагрузкаПрайсЛиста
-Modified: DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма
+﻿Modified: DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма
 Modified: DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма.Form
