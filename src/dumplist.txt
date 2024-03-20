@@ -1,2 +1,2 @@
-﻿Modified: Document.УстановкаЦенПоставщика.Form.ФормаСписка
-Modified: Document.УстановкаЦенПоставщика.Form.ФормаСписка.Form
+﻿New: InformationRegister.ЦеныНоменклатурыПоставщиков.ManagerModule
+Modified: InformationRegister.ЦеныНоменклатурыПоставщиков
