@@ -1,5 +1,3 @@
-﻿New: CommonModule.ФормыКонфигурации
-New: CommonModule.ФормыКонфигурации.Module
-New: CommonModule.ФормыКонфигурацииКлиент
-New: CommonModule.ФормыКонфигурацииКлиент.Module
-Modified: Configuration.Конфигурация
+﻿New: DataProcessor.ЗагрузкаПрайсЛиста.ManagerModule
+New: DataProcessor.ЗагрузкаПрайсЛиста.ObjectModule
+Modified: DataProcessor.ЗагрузкаПрайсЛиста
