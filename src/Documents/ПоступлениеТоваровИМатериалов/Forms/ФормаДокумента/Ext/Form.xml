@@ -171,6 +171,9 @@
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="ТоварыНоменклатураКонтекстноеМеню" id="48"/>
 					<ExtendedTooltip name="ТоварыНоменклатураРасширеннаяПодсказка" id="49"/>
+					<Events>
+						<Event name="OnChange">ТоварыНоменклатураПриИзменении</Event>
+					</Events>
 				</InputField>
 				<InputField name="ТоварыСрокГодности" id="67">
 					<DataPath>Объект.Товары.СрокГодности</DataPath>
@@ -181,6 +184,7 @@
 				</InputField>
 				<InputField name="ТоварыЦена" id="50">
 					<DataPath>Объект.Товары.Цена</DataPath>
+					<ReadOnly>true</ReadOnly>
 					<EditMode>EnterOnInput</EditMode>
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="ТоварыЦенаКонтекстноеМеню" id="51"/>
