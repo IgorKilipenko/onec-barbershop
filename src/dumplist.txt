@@ -1,2 +1,2 @@
-﻿Modified: InformationRegister.КадроваяИсторияСотрудников
-Modified: InformationRegister.КадроваяИсторияСотрудников.ManagerModule
+﻿Modified: InformationRegister.ЦеныНоменклатурыПоставщиков
+Modified: InformationRegister.ЦеныНоменклатурыПоставщиков.ManagerModule
