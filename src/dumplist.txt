@@ -1,3 +1,2 @@
-﻿New: DataProcessor.ЗагрузкаПрайсЛиста.ManagerModule
-New: DataProcessor.ЗагрузкаПрайсЛиста.ObjectModule
-Modified: DataProcessor.ЗагрузкаПрайсЛиста
+﻿New: Document.УстановкаЦенПоставщика.ManagerModule
+Modified: Document.УстановкаЦенПоставщика
