@@ -1,5 +1,2 @@
-﻿New: Document.УстановкаЦенПоставщика.Form.ФормаСписка
-New: Document.УстановкаЦенПоставщика.Form.ФормаСписка.Form
-Modified: Document.УстановкаЦенПоставщика
-Modified: Document.УстановкаЦенПоставщика.Form.ФормаДокумента
-Modified: Document.УстановкаЦенПоставщика.Form.ФормаДокумента.Form
+﻿Modified: Document.УстановкаЦенПоставщика.Form.ФормаСписка
+Modified: Document.УстановкаЦенПоставщика.Form.ФормаСписка.Form
