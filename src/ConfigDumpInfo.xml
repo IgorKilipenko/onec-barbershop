@@ -203,6 +203,10 @@
 		<Metadata name="CommonModule.РаботаСЦенамиВызовСервера.Module" id="1008940a-4842-4371-b431-8445a9281585.0" configVersion="155b7c06d3a4ce499e32d3a7a634d3f000000000"/>
 		<Metadata name="CommonModule.РаботаСоСтрокамиВызовСервера" id="eba71498-a727-4b5c-9751-fd039754c951" configVersion="8132a4ddeb75484a9e79fc55e44480ee00000000"/>
 		<Metadata name="CommonModule.РаботаСоСтрокамиВызовСервера.Module" id="eba71498-a727-4b5c-9751-fd039754c951.0" configVersion="69acaf1f7206564591646b988ce82bfb00000000"/>
+		<Metadata name="CommonModule.ФормыКонфигурации" id="11d3db0b-a393-4cf3-92ce-e0becd5988e5" configVersion="6b687a1787b6484b9657cb59a5bbb38d00000000"/>
+		<Metadata name="CommonModule.ФормыКонфигурации.Module" id="11d3db0b-a393-4cf3-92ce-e0becd5988e5.0" configVersion="b5f92db1d2161e48a48b174622f6ad1800000000"/>
+		<Metadata name="CommonModule.ФормыКонфигурацииКлиент" id="cea4d794-802b-4b6a-bb8e-f7652e3d1795" configVersion="7d9029f735eb2244b3abcf619b7c4f1000000000"/>
+		<Metadata name="CommonModule.ФормыКонфигурацииКлиент.Module" id="cea4d794-802b-4b6a-bb8e-f7652e3d1795.0" configVersion="d2bd7b22086bcb4985a56096af8c740a00000000"/>
 		<Metadata name="CommonPicture.БизнесПроцессы" id="adaaa746-f749-4206-9175-7fb3a0496544" configVersion="1d3b2d4d88b1524aac77f0bd3c9ad68b00000000"/>
 		<Metadata name="CommonPicture.БизнесПроцессы.Picture" id="adaaa746-f749-4206-9175-7fb3a0496544.0" configVersion="345d77427a1aa645b971f2597d74361200000000"/>
 		<Metadata name="CommonPicture.БухгалтерскийУчет" id="e8a5d61d-7aba-4a4e-ac55-7065fc7c3ff9" configVersion="1fd13d170e589c459ce4ab78f93bcec600000000"/>
@@ -221,7 +225,7 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="51a79af0-8692-4460-b9c8-156fc59c1aba.0" configVersion="bdb6e99500c15947a896c9e352af9a8800000000"/>
 		<Metadata name="CommonPicture.Справочники" id="79b9328d-ed7d-418b-a93e-40f925149ef6" configVersion="d030f1775f0a114094e3776a5457e57f00000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="79b9328d-ed7d-418b-a93e-40f925149ef6.0" configVersion="aecf472f5c86e543998eebf5f100ff5400000000"/>
-		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="37433c998502ed4cb98eeb04021c8b2800000000"/>
+		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="ee875c8cf68a4a43ac44020e06aa436a00000000"/>
 		<Metadata name="Configuration.Конфигурация.ClientApplicationInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.b" configVersion="184f50c9d5ac3b45b93a2d189689c80700000000"/>
 		<Metadata name="Configuration.Конфигурация.CommandInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.a" configVersion="ce8c15cbda4c074aa203ffc32401319600000000"/>
 		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.8" configVersion="410dddd91985ff44bb78ea510a1a6b0000000000"/>

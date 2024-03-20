@@ -1,2 +1,5 @@
-﻿Modified: Document.УстановкаЦенПоставщика.Form.ФормаСписка
-Modified: Document.УстановкаЦенПоставщика.Form.ФормаСписка.Form
+﻿New: CommonModule.ФормыКонфигурации
+New: CommonModule.ФормыКонфигурации.Module
+New: CommonModule.ФормыКонфигурацииКлиент
+New: CommonModule.ФормыКонфигурацииКлиент.Module
+Modified: Configuration.Конфигурация
