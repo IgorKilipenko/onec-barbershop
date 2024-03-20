@@ -1,2 +1,2 @@
-﻿New: InformationRegister.ЦеныНоменклатурыПоставщиков.ManagerModule
-Modified: InformationRegister.ЦеныНоменклатурыПоставщиков
+﻿Modified: InformationRegister.ЦеныНоменклатурыПоставщиков
+Modified: InformationRegister.ЦеныНоменклатурыПоставщиков.ManagerModule
