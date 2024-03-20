@@ -479,8 +479,8 @@
 		</Metadata>
 		<Metadata name="Document.УстановкаЦенПоставщика.Form.ФормаДокумента" id="4f3162c7-9d57-4963-bd35-74ef1cd51dbe" configVersion="ea8b3c6875cc4a4b8ae6da6fc0b551f900000000"/>
 		<Metadata name="Document.УстановкаЦенПоставщика.Form.ФормаДокумента.Form" id="4f3162c7-9d57-4963-bd35-74ef1cd51dbe.0" configVersion="a68ba711031bd14a8f3d96743e12651d00000000"/>
-		<Metadata name="Document.УстановкаЦенПоставщика.Form.ФормаСписка" id="a22653f9-be51-40f6-a70d-722fa34c6f9a" configVersion="3a3e1b4f8fb186499150d4a7e18cc84c00000000"/>
-		<Metadata name="Document.УстановкаЦенПоставщика.Form.ФормаСписка.Form" id="a22653f9-be51-40f6-a70d-722fa34c6f9a.0" configVersion="8f90cf0c7c364545a306637856969f7300000000"/>
+		<Metadata name="Document.УстановкаЦенПоставщика.Form.ФормаСписка" id="a22653f9-be51-40f6-a70d-722fa34c6f9a" configVersion="7be77a9460047b4496db6019ee11f64a00000000"/>
+		<Metadata name="Document.УстановкаЦенПоставщика.Form.ФормаСписка.Form" id="a22653f9-be51-40f6-a70d-722fa34c6f9a.0" configVersion="74b3ef55c323a2449a723311139ea09500000000"/>
 		<Metadata name="Document.УстановкаЦенПоставщика.ManagerModule" id="c006aeeb-e094-47f1-b312-335e64d9f929.2" configVersion="6b1f4aa0d2a3aa499f66032841f3f97f00000000"/>
 		<Metadata name="Document.УстановкаЦенПоставщика.ObjectModule" id="c006aeeb-e094-47f1-b312-335e64d9f929.0" configVersion="a06491d35938a74998e884ed3c73b0b900000000"/>
 		<Metadata name="DocumentJournal.ДокументыПоБанку" id="111b61b3-1ba3-491e-aa8d-d4328cfac3e5" configVersion="107623cbcced3844821d1f6981f5fedd00000000">

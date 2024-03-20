@@ -1,1 +1,2 @@
-﻿Modified: Document.УстановкаЦенПоставщика
+﻿Modified: Document.УстановкаЦенПоставщика.Form.ФормаСписка
+Modified: Document.УстановкаЦенПоставщика.Form.ФормаСписка.Form
