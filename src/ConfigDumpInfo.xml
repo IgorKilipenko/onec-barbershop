@@ -463,14 +463,18 @@
 		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.Form.ФормаДокумента" id="42e1f445-ce6d-4d65-a717-8e80d7c871f3" configVersion="630cafb055ea6d4fa4a7181ed3a0a31400000000"/>
 		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.Form.ФормаДокумента.Form" id="42e1f445-ce6d-4d65-a717-8e80d7c871f3.0" configVersion="f84299a3f8621a4785182027b7ca97a200000000"/>
 		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.ObjectModule" id="ce53db2e-95ef-42f5-adeb-a6b0222c9784.0" configVersion="3ae1d19b6025634c967f18f20bcb570a00000000"/>
-		<Metadata name="Document.УстановкаЦенПоставщика" id="c006aeeb-e094-47f1-b312-335e64d9f929" configVersion="ef5bda7985375d45be795f669cdb15ad00000000">
+		<Metadata name="Document.УстановкаЦенПоставщика" id="c006aeeb-e094-47f1-b312-335e64d9f929" configVersion="4a09dc454a4e394d8a4f924e5ae5720c00000000">
 			<Metadata name="Document.УстановкаЦенПоставщика.Attribute.Контрагент" id="24d378cb-7628-429c-9ac5-a535c688db9b"/>
 			<Metadata name="Document.УстановкаЦенПоставщика.TabularSection.Товары.Attribute.Номенклатура" id="2e28a5eb-be81-44ec-9a16-7f36a47d6d88"/>
 			<Metadata name="Document.УстановкаЦенПоставщика.TabularSection.Товары.Attribute.Цена" id="5e38379a-9859-4604-a6c2-6c6526ade670"/>
+			<Metadata name="Document.УстановкаЦенПоставщика.Attribute.Комментарий" id="752a293d-a9d4-493f-9b3a-5ebf681668ee"/>
+			<Metadata name="Document.УстановкаЦенПоставщика.Attribute.АвторДокумента" id="89e3c154-2ed0-4e23-aeeb-d2356592bf73"/>
 			<Metadata name="Document.УстановкаЦенПоставщика.TabularSection.Товары" id="9dac9836-ddd3-451c-8b2f-84d301597544"/>
 		</Metadata>
-		<Metadata name="Document.УстановкаЦенПоставщика.Form.ФормаДокумента" id="4f3162c7-9d57-4963-bd35-74ef1cd51dbe" configVersion="61734e628cc9ca4397ef71bccbbc74c900000000"/>
-		<Metadata name="Document.УстановкаЦенПоставщика.Form.ФормаДокумента.Form" id="4f3162c7-9d57-4963-bd35-74ef1cd51dbe.0" configVersion="657071635b89fe4bb7f650adc0c47f8300000000"/>
+		<Metadata name="Document.УстановкаЦенПоставщика.Form.ФормаДокумента" id="4f3162c7-9d57-4963-bd35-74ef1cd51dbe" configVersion="9df6703259410d49b6035a403368055a00000000"/>
+		<Metadata name="Document.УстановкаЦенПоставщика.Form.ФормаДокумента.Form" id="4f3162c7-9d57-4963-bd35-74ef1cd51dbe.0" configVersion="a1b7b30240d1e742b9e6935cc4ce1b3c00000000"/>
+		<Metadata name="Document.УстановкаЦенПоставщика.Form.ФормаСписка" id="a22653f9-be51-40f6-a70d-722fa34c6f9a" configVersion="f94eb861b6e4be43983dc605c9fac9a100000000"/>
+		<Metadata name="Document.УстановкаЦенПоставщика.Form.ФормаСписка.Form" id="a22653f9-be51-40f6-a70d-722fa34c6f9a.0" configVersion="dd2dfbfab319eb41a2f6e8f34c389b3c00000000"/>
 		<Metadata name="Document.УстановкаЦенПоставщика.ObjectModule" id="c006aeeb-e094-47f1-b312-335e64d9f929.0" configVersion="a06491d35938a74998e884ed3c73b0b900000000"/>
 		<Metadata name="DocumentJournal.ДокументыПоБанку" id="111b61b3-1ba3-491e-aa8d-d4328cfac3e5" configVersion="107623cbcced3844821d1f6981f5fedd00000000">
 			<Metadata name="DocumentJournal.ДокументыПоБанку.Column.Комментарий" id="1ba1105d-eb84-4426-bce6-c8a33e5506f4"/>

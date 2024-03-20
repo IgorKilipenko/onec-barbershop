@@ -1,4 +1,5 @@
-﻿Modified: DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма
-Modified: DataProcessor.ЗагрузкаПрайсЛиста.Form.Форма.Form
+﻿New: Document.УстановкаЦенПоставщика.Form.ФормаСписка
+New: Document.УстановкаЦенПоставщика.Form.ФормаСписка.Form
+Modified: Document.УстановкаЦенПоставщика
 Modified: Document.УстановкаЦенПоставщика.Form.ФормаДокумента
 Modified: Document.УстановкаЦенПоставщика.Form.ФормаДокумента.Form
