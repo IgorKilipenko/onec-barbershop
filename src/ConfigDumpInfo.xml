@@ -199,6 +199,8 @@
 		<Metadata name="CommonModule.РаботаСТабличнымиЧастямиГлобальный.Module" id="ea688770-9c63-49e9-bae0-ba2c71a29cbd.0" configVersion="a1d64af7953a6940bb5274f6754a7cad00000000"/>
 		<Metadata name="CommonModule.РаботаСФормами" id="f9c3f3b6-ea9c-48a1-b892-2b58c3f73f77" configVersion="96ec6555bdc5be4b89695ccc09a2ac0b00000000"/>
 		<Metadata name="CommonModule.РаботаСФормами.Module" id="f9c3f3b6-ea9c-48a1-b892-2b58c3f73f77.0" configVersion="abb4427cf115f04f8f2d37033c9a1cec00000000"/>
+		<Metadata name="CommonModule.РаботаСФормамиКлиент" id="f7956988-67d9-4994-b4d1-2471adcf99b2" configVersion="adac6afa737c054981a3e259a40f587600000000"/>
+		<Metadata name="CommonModule.РаботаСФормамиКлиент.Module" id="f7956988-67d9-4994-b4d1-2471adcf99b2.0" configVersion="3929cdecf9242d4db323a83b53b01d7200000000"/>
 		<Metadata name="CommonModule.РаботаСЦенамиВызовСервера" id="1008940a-4842-4371-b431-8445a9281585" configVersion="066f029693d0ed438ca70ce1889d02a800000000"/>
 		<Metadata name="CommonModule.РаботаСЦенамиВызовСервера.Module" id="1008940a-4842-4371-b431-8445a9281585.0" configVersion="155b7c06d3a4ce499e32d3a7a634d3f000000000"/>
 		<Metadata name="CommonModule.РаботаСоСтрокамиВызовСервера" id="eba71498-a727-4b5c-9751-fd039754c951" configVersion="8132a4ddeb75484a9e79fc55e44480ee00000000"/>
@@ -225,7 +227,7 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="51a79af0-8692-4460-b9c8-156fc59c1aba.0" configVersion="bdb6e99500c15947a896c9e352af9a8800000000"/>
 		<Metadata name="CommonPicture.Справочники" id="79b9328d-ed7d-418b-a93e-40f925149ef6" configVersion="d030f1775f0a114094e3776a5457e57f00000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="79b9328d-ed7d-418b-a93e-40f925149ef6.0" configVersion="aecf472f5c86e543998eebf5f100ff5400000000"/>
-		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="ee875c8cf68a4a43ac44020e06aa436a00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="d761d5196fcf5c44bf246603467aa8cd00000000"/>
 		<Metadata name="Configuration.Конфигурация.ClientApplicationInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.b" configVersion="184f50c9d5ac3b45b93a2d189689c80700000000"/>
 		<Metadata name="Configuration.Конфигурация.CommandInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.a" configVersion="ce8c15cbda4c074aa203ffc32401319600000000"/>
 		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.8" configVersion="410dddd91985ff44bb78ea510a1a6b0000000000"/>
@@ -477,8 +479,8 @@
 			<Metadata name="Document.УстановкаЦенПоставщика.Attribute.АвторДокумента" id="89e3c154-2ed0-4e23-aeeb-d2356592bf73"/>
 			<Metadata name="Document.УстановкаЦенПоставщика.TabularSection.Товары" id="9dac9836-ddd3-451c-8b2f-84d301597544"/>
 		</Metadata>
-		<Metadata name="Document.УстановкаЦенПоставщика.Form.ФормаДокумента" id="4f3162c7-9d57-4963-bd35-74ef1cd51dbe" configVersion="4c6ac4f0c9036c4ea423e30afa3ceb3b00000000"/>
-		<Metadata name="Document.УстановкаЦенПоставщика.Form.ФормаДокумента.Form" id="4f3162c7-9d57-4963-bd35-74ef1cd51dbe.0" configVersion="ae7b07affb821f41bf19a5094956921b00000000"/>
+		<Metadata name="Document.УстановкаЦенПоставщика.Form.ФормаДокумента" id="4f3162c7-9d57-4963-bd35-74ef1cd51dbe" configVersion="e6805540cd5a81499683c12ca44be3a800000000"/>
+		<Metadata name="Document.УстановкаЦенПоставщика.Form.ФормаДокумента.Form" id="4f3162c7-9d57-4963-bd35-74ef1cd51dbe.0" configVersion="8b3c8bda4961474084d19ec6961fb46c00000000"/>
 		<Metadata name="Document.УстановкаЦенПоставщика.Form.ФормаСписка" id="a22653f9-be51-40f6-a70d-722fa34c6f9a" configVersion="7be77a9460047b4496db6019ee11f64a00000000"/>
 		<Metadata name="Document.УстановкаЦенПоставщика.Form.ФормаСписка.Form" id="a22653f9-be51-40f6-a70d-722fa34c6f9a.0" configVersion="74b3ef55c323a2449a723311139ea09500000000"/>
 		<Metadata name="Document.УстановкаЦенПоставщика.ManagerModule" id="c006aeeb-e094-47f1-b312-335e64d9f929.2" configVersion="01fc66c11586794f99f7d1fd1330b6d400000000"/>

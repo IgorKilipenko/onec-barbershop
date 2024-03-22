@@ -1,2 +1,5 @@
-﻿Modified: Document.УстановкаЦенПоставщика.Form.ФормаДокумента
+﻿New: CommonModule.РаботаСФормамиКлиент
+New: CommonModule.РаботаСФормамиКлиент.Module
+Modified: Configuration.Конфигурация
+Modified: Document.УстановкаЦенПоставщика.Form.ФормаДокумента
 Modified: Document.УстановкаЦенПоставщика.Form.ФормаДокумента.Form

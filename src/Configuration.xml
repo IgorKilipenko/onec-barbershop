@@ -288,6 +288,7 @@
 			<CommonModule>ПреобразованиеТиповКлиентСервер</CommonModule>
 			<CommonModule>ФормыКонфигурацииКлиент</CommonModule>
 			<CommonModule>ФормыКонфигурации</CommonModule>
+			<CommonModule>РаботаСФормамиКлиент</CommonModule>
 			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
 			<DefinedType>ФинансовыеДанные</DefinedType>
 			<DefinedType>КоличествоУслуг</DefinedType>
