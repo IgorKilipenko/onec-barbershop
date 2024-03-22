@@ -1,2 +1,2 @@
-﻿Modified: Document.ПоступлениеТоваровИМатериалов.Form.ФормаДокумента
-Modified: Document.ПоступлениеТоваровИМатериалов.Form.ФормаДокумента.Form
+﻿Modified: DataProcessor.ЗагрузкаПрайсЛиста
+Modified: DataProcessor.ЗагрузкаПрайсЛиста.ManagerModule
