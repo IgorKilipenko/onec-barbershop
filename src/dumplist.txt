@@ -1,2 +1,2 @@
 ﻿Modified: DataProcessor.ЗагрузкаПрайсЛиста
-Modified: DataProcessor.ЗагрузкаПрайсЛиста.ManagerModule
+Modified: DataProcessor.ЗагрузкаПрайсЛиста.ObjectModule
