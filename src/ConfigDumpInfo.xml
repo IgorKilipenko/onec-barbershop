@@ -469,7 +469,7 @@
 		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.Form.ФормаДокумента" id="42e1f445-ce6d-4d65-a717-8e80d7c871f3" configVersion="630cafb055ea6d4fa4a7181ed3a0a31400000000"/>
 		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.Form.ФормаДокумента.Form" id="42e1f445-ce6d-4d65-a717-8e80d7c871f3.0" configVersion="f84299a3f8621a4785182027b7ca97a200000000"/>
 		<Metadata name="Document.УстановкаУчетнойПолитикиОрганизации.ObjectModule" id="ce53db2e-95ef-42f5-adeb-a6b0222c9784.0" configVersion="3ae1d19b6025634c967f18f20bcb570a00000000"/>
-		<Metadata name="Document.УстановкаЦенПоставщика" id="c006aeeb-e094-47f1-b312-335e64d9f929" configVersion="6bd28513d22216458111d928d7d64faa00000000">
+		<Metadata name="Document.УстановкаЦенПоставщика" id="c006aeeb-e094-47f1-b312-335e64d9f929" configVersion="050209935a7d2447940df45305665b1000000000">
 			<Metadata name="Document.УстановкаЦенПоставщика.Attribute.Контрагент" id="24d378cb-7628-429c-9ac5-a535c688db9b"/>
 			<Metadata name="Document.УстановкаЦенПоставщика.TabularSection.Товары.Attribute.Номенклатура" id="2e28a5eb-be81-44ec-9a16-7f36a47d6d88"/>
 			<Metadata name="Document.УстановкаЦенПоставщика.TabularSection.Товары.Attribute.Цена" id="5e38379a-9859-4604-a6c2-6c6526ade670"/>
@@ -481,7 +481,7 @@
 		<Metadata name="Document.УстановкаЦенПоставщика.Form.ФормаДокумента.Form" id="4f3162c7-9d57-4963-bd35-74ef1cd51dbe.0" configVersion="a68ba711031bd14a8f3d96743e12651d00000000"/>
 		<Metadata name="Document.УстановкаЦенПоставщика.Form.ФормаСписка" id="a22653f9-be51-40f6-a70d-722fa34c6f9a" configVersion="7be77a9460047b4496db6019ee11f64a00000000"/>
 		<Metadata name="Document.УстановкаЦенПоставщика.Form.ФормаСписка.Form" id="a22653f9-be51-40f6-a70d-722fa34c6f9a.0" configVersion="74b3ef55c323a2449a723311139ea09500000000"/>
-		<Metadata name="Document.УстановкаЦенПоставщика.ManagerModule" id="c006aeeb-e094-47f1-b312-335e64d9f929.2" configVersion="6b1f4aa0d2a3aa499f66032841f3f97f00000000"/>
+		<Metadata name="Document.УстановкаЦенПоставщика.ManagerModule" id="c006aeeb-e094-47f1-b312-335e64d9f929.2" configVersion="01fc66c11586794f99f7d1fd1330b6d400000000"/>
 		<Metadata name="Document.УстановкаЦенПоставщика.ObjectModule" id="c006aeeb-e094-47f1-b312-335e64d9f929.0" configVersion="a06491d35938a74998e884ed3c73b0b900000000"/>
 		<Metadata name="DocumentJournal.ДокументыПоБанку" id="111b61b3-1ba3-491e-aa8d-d4328cfac3e5" configVersion="107623cbcced3844821d1f6981f5fedd00000000">
 			<Metadata name="DocumentJournal.ДокументыПоБанку.Column.Комментарий" id="1ba1105d-eb84-4426-bce6-c8a33e5506f4"/>
