@@ -1,2 +1,2 @@
-﻿Modified: Document.ПоступлениеТоваровИМатериалов.Form.ФормаДокумента
-Modified: Document.ПоступлениеТоваровИМатериалов.Form.ФормаДокумента.Form
+﻿Modified: Document.УстановкаЦенПоставщика.Form.ФормаСписка
+Modified: Document.УстановкаЦенПоставщика.Form.ФормаСписка.Form
