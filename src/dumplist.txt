@@ -1,2 +1,2 @@
-﻿Modified: Document.ПоступлениеТоваровИМатериалов.Form.ФормаДокумента
-Modified: Document.ПоступлениеТоваровИМатериалов.Form.ФормаДокумента.Form
+﻿Modified: Document.ПоступлениеУслуг.Form.ФормаДокумента
+Modified: Document.ПоступлениеУслуг.Form.ФормаДокумента.Form
