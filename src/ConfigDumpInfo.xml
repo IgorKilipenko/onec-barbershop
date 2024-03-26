@@ -199,8 +199,8 @@
 		<Metadata name="CommonModule.РаботаСТабличнымиЧастямиГлобальный.Module" id="ea688770-9c63-49e9-bae0-ba2c71a29cbd.0" configVersion="a1d64af7953a6940bb5274f6754a7cad00000000"/>
 		<Metadata name="CommonModule.РаботаСФормами" id="f9c3f3b6-ea9c-48a1-b892-2b58c3f73f77" configVersion="96ec6555bdc5be4b89695ccc09a2ac0b00000000"/>
 		<Metadata name="CommonModule.РаботаСФормами.Module" id="f9c3f3b6-ea9c-48a1-b892-2b58c3f73f77.0" configVersion="abb4427cf115f04f8f2d37033c9a1cec00000000"/>
-		<Metadata name="CommonModule.РаботаСФормамиКлиент" id="f7956988-67d9-4994-b4d1-2471adcf99b2" configVersion="adac6afa737c054981a3e259a40f587600000000"/>
-		<Metadata name="CommonModule.РаботаСФормамиКлиент.Module" id="f7956988-67d9-4994-b4d1-2471adcf99b2.0" configVersion="3929cdecf9242d4db323a83b53b01d7200000000"/>
+		<Metadata name="CommonModule.РаботаСФормамиКлиент" id="f7956988-67d9-4994-b4d1-2471adcf99b2" configVersion="084e71db4254704c968283a40e52252f00000000"/>
+		<Metadata name="CommonModule.РаботаСФормамиКлиент.Module" id="f7956988-67d9-4994-b4d1-2471adcf99b2.0" configVersion="5bd2bd8d8a7c204e92b9e166a7ce0f1500000000"/>
 		<Metadata name="CommonModule.РаботаСЦенамиВызовСервера" id="1008940a-4842-4371-b431-8445a9281585" configVersion="066f029693d0ed438ca70ce1889d02a800000000"/>
 		<Metadata name="CommonModule.РаботаСЦенамиВызовСервера.Module" id="1008940a-4842-4371-b431-8445a9281585.0" configVersion="155b7c06d3a4ce499e32d3a7a634d3f000000000"/>
 		<Metadata name="CommonModule.РаботаСоСтрокамиВызовСервера" id="eba71498-a727-4b5c-9751-fd039754c951" configVersion="8132a4ddeb75484a9e79fc55e44480ee00000000"/>
