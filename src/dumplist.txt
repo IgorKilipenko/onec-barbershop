@@ -1,2 +1,2 @@
-﻿Modified: Document.НачислениеЗарплаты
-Modified: Document.НачислениеЗарплаты.ObjectModule
+﻿Modified: Document.ПоступлениеУслуг.Form.ФормаДокумента
+Modified: Document.ПоступлениеУслуг.Form.ФормаДокумента.Form

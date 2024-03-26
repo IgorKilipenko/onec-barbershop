@@ -129,7 +129,23 @@
 			<DataPath>Объект.Товары</DataPath>
 			<RowFilter xsi:nil="true"/>
 			<ContextMenu name="ТоварыКонтекстноеМеню" id="32"/>
-			<AutoCommandBar name="ТоварыКоманднаяПанель" id="33"/>
+			<AutoCommandBar name="ТоварыКоманднаяПанель" id="33">
+				<ChildItems>
+					<Button name="ТоварыОбновитьЦены" id="70">
+						<Type>CommandBarButton</Type>
+						<Representation>PictureAndText</Representation>
+						<CommandName>Form.Command.ОбновитьЦены</CommandName>
+						<BorderColor>style:ActivityColor</BorderColor>
+						<Title>
+							<v8:item>
+								<v8:lang>ru</v8:lang>
+								<v8:content>Обновить цены</v8:content>
+							</v8:item>
+						</Title>
+						<ExtendedTooltip name="ТоварыОбновитьЦеныРасширеннаяПодсказка" id="71"/>
+					</Button>
+				</ChildItems>
+			</AutoCommandBar>
 			<ExtendedTooltip name="ТоварыРасширеннаяПодсказка" id="34"/>
 			<SearchStringAddition name="ТоварыСтрокаПоиска" id="35">
 				<AdditionSource>
@@ -171,6 +187,9 @@
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 					<ContextMenu name="ТоварыНоменклатураКонтекстноеМеню" id="48"/>
 					<ExtendedTooltip name="ТоварыНоменклатураРасширеннаяПодсказка" id="49"/>
+					<Events>
+						<Event name="OnChange">ТоварыНоменклатураПриИзменении</Event>
+					</Events>
 				</InputField>
 				<InputField name="ТоварыСрокГодности" id="67">
 					<DataPath>Объект.Товары.СрокГодности</DataPath>
@@ -260,20 +279,24 @@
 		</Attribute>
 	</Attributes>
 	<Commands>
-		<Command name="Тест" id="1">
+		<Command name="ОбновитьЦены" id="1">
 			<Title>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Тест</v8:content>
+					<v8:content>Обновить цены</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Тест</v8:content>
+					<v8:content>Обновить цены</v8:content>
 				</v8:item>
 			</ToolTip>
-			<Action>Тест</Action>
+			<Picture>
+				<xr:Ref>StdPicture.Refresh</xr:Ref>
+				<xr:LoadTransparent>true</xr:LoadTransparent>
+			</Picture>
+			<Action>ОбновитьЦены</Action>
 		</Command>
 	</Commands>
 	<CommandInterface>

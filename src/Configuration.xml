@@ -49,7 +49,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Игорь Килипенко</Vendor>
-			<Version>Сприн 7</Version>
+			<Version>Сприн 8</Version>
 			<UpdateCatalogAddress/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
@@ -254,6 +254,7 @@
 			<Subsystem>НСИИАдминистрирование</Subsystem>
 			<Subsystem>Деньги</Subsystem>
 			<Subsystem>БухгалтерскийУчет</Subsystem>
+			<Subsystem>Интеграции</Subsystem>
 			<Style>Барбершоп</Style>
 			<CommonPicture>Справочники</CommonPicture>
 			<CommonPicture>БизнесПроцессы</CommonPicture>
@@ -280,6 +281,14 @@
 			<CommonModule>РаботаСРеквизитами</CommonModule>
 			<CommonModule>БухгалтерскийУчет</CommonModule>
 			<CommonModule>РаботаСКоллекциямиКлиентСервер</CommonModule>
+			<CommonModule>РаботаСЗапросами</CommonModule>
+			<CommonModule>РаботаСФормами</CommonModule>
+			<CommonModule>РаботаСТаблицами</CommonModule>
+			<CommonModule>КоннекторHTTP</CommonModule>
+			<CommonModule>ПреобразованиеТиповКлиентСервер</CommonModule>
+			<CommonModule>ФормыКонфигурацииКлиент</CommonModule>
+			<CommonModule>ФормыКонфигурации</CommonModule>
+			<CommonModule>РаботаСФормамиКлиент</CommonModule>
 			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
 			<DefinedType>ФинансовыеДанные</DefinedType>
 			<DefinedType>КоличествоУслуг</DefinedType>
@@ -295,6 +304,7 @@
 			<Constant>ИспользоватьСклады</Constant>
 			<Constant>НачалоРабочегоДня</Constant>
 			<Constant>ОкончаниеРабочегоДня</Constant>
+			<Constant>API_KEY_newsapi</Constant>
 			<Catalog>Организации</Catalog>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Должности</Catalog>
@@ -323,6 +333,7 @@
 			<Document>НачислениеЗарплаты</Document>
 			<Document>БольничныйЛист</Document>
 			<Document>НачислениеПремии</Document>
+			<Document>УстановкаЦенПоставщика</Document>
 			<DocumentJournal>ДокументыПоКассе</DocumentJournal>
 			<DocumentJournal>ДокументыПоБанку</DocumentJournal>
 			<DocumentJournal>ЖурналХозяйственныхОпераций</DocumentJournal>
@@ -353,6 +364,8 @@
 			<DataProcessor>ТестыСпринт2</DataProcessor>
 			<DataProcessor>МониторРуководителя</DataProcessor>
 			<DataProcessor>ПланированиеЗагрузкиСотрудников</DataProcessor>
+			<DataProcessor>ВыборкаИзБД</DataProcessor>
+			<DataProcessor>ЗагрузкаПрайсЛиста</DataProcessor>
 			<InformationRegister>ЦеныНоменклатурыПоставщиков</InformationRegister>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<InformationRegister>УчетнаяПолитика</InformationRegister>

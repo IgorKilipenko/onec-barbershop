@@ -10,7 +10,9 @@
     ],
     // words - list of words to be always considered correct
     "words": [
+        "BSLLS",
         "FEFO",
+        "Возр",
         "ЕСТЬNULL",
         "неопределено",
         "подотченику",
