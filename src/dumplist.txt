@@ -1,2 +1,2 @@
-﻿Modified: Document.УстановкаЦенПоставщика.Form.ФормаДокумента
-Modified: Document.УстановкаЦенПоставщика.Form.ФормаДокумента.Form
+﻿Modified: Document.ПоступлениеТоваровИМатериалов.Form.ФормаДокумента
+Modified: Document.ПоступлениеТоваровИМатериалов.Form.ФормаДокумента.Form
