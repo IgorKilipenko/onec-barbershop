@@ -126,6 +126,8 @@
 		<Metadata name="Catalog.Организации.Form.ФормаЭлемента" id="133180d3-812e-4846-a230-0227fc26f5c9" configVersion="7d8be5467cdba44f8858fa7cc5b33d1900000000"/>
 		<Metadata name="Catalog.Организации.Form.ФормаЭлемента.Form" id="133180d3-812e-4846-a230-0227fc26f5c9.0" configVersion="37e0580af4a7cf4c985153910f69caad00000000"/>
 		<Metadata name="Catalog.Пользователи" id="1918026f-775e-4094-9261-b2424e8978fd" configVersion="a360ab85def8a64eb8a3dd76e99d8bc100000000"/>
+		<Metadata name="Catalog.РолиИсполнителей" id="ca44b0ae-f38c-4320-96af-fe5dd49a17ff" configVersion="8eea514c12d2b54da7eef9b242de7f7500000000"/>
+		<Metadata name="Catalog.РолиИсполнителей.Predefined" id="ca44b0ae-f38c-4320-96af-fe5dd49a17ff.1c" configVersion="67b26c4d3b0e3044ba8ee335afb47b4e00000000"/>
 		<Metadata name="Catalog.Склады" id="5f72d71b-73e2-47f4-bb66-6753539827b1" configVersion="b6bf31f38919a14c82a746adc6b9a93e00000000"/>
 		<Metadata name="Catalog.Склады.ManagerModule" id="5f72d71b-73e2-47f4-bb66-6753539827b1.3" configVersion="2966d453f96f624da173f085eca6ad7e00000000"/>
 		<Metadata name="Catalog.Сотрудники" id="12df6926-984b-4267-b209-3301a95724b5" configVersion="fbfbcf971f25ab49a5d4b41af7034aa300000000">
@@ -227,7 +229,7 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="51a79af0-8692-4460-b9c8-156fc59c1aba.0" configVersion="bdb6e99500c15947a896c9e352af9a8800000000"/>
 		<Metadata name="CommonPicture.Справочники" id="79b9328d-ed7d-418b-a93e-40f925149ef6" configVersion="d030f1775f0a114094e3776a5457e57f00000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="79b9328d-ed7d-418b-a93e-40f925149ef6.0" configVersion="aecf472f5c86e543998eebf5f100ff5400000000"/>
-		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="299bd6e53a9ec046b47d1999230417e300000000"/>
+		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="b6c38a973725494a94c1cc6e85d4e6c600000000"/>
 		<Metadata name="Configuration.Конфигурация.ClientApplicationInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.b" configVersion="184f50c9d5ac3b45b93a2d189689c80700000000"/>
 		<Metadata name="Configuration.Конфигурация.CommandInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.a" configVersion="ce8c15cbda4c074aa203ffc32401319600000000"/>
 		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.8" configVersion="410dddd91985ff44bb78ea510a1a6b0000000000"/>
@@ -685,6 +687,7 @@
 		<Metadata name="Subsystem.Деньги.CommandInterface" id="1760296f-51b9-49f0-b0b5-867ab5b17110.1" configVersion="5f794b8ef002ee4496a3d8992ebf870300000000"/>
 		<Metadata name="Subsystem.Деньги.Subsystem.Справочники" id="0132b9af-f58d-4df0-a1c7-9fe425cdecd0" configVersion="03f2b78ada13924f933dd5cd330364d200000000"/>
 		<Metadata name="Subsystem.Деньги.Subsystem.Справочники.CommandInterface" id="0132b9af-f58d-4df0-a1c7-9fe425cdecd0.1" configVersion="129bb944f8b61d499f118b219cfb54e400000000"/>
+		<Metadata name="Subsystem.ЗадачиИсполнителей" id="efc30862-571a-4664-9612-e4c822309eb1" configVersion="c5cd1b08ef4ab74c98af417d77730f1700000000"/>
 		<Metadata name="Subsystem.Интеграции" id="23ff2bcf-d72d-48d7-9c63-e4928b151ebe" configVersion="055e31111673d7458379fc8a1f5a0cec00000000"/>
 		<Metadata name="Subsystem.НСИИАдминистрирование" id="522971d4-6c66-4bb4-94f6-b0475ae5efd4" configVersion="8915e9955079734782885f4944dc472e00000000"/>
 		<Metadata name="Subsystem.НСИИАдминистрирование.CommandInterface" id="522971d4-6c66-4bb4-94f6-b0475ae5efd4.1" configVersion="cc9e8480ac1b144d80ae3e667288ad2000000000"/>

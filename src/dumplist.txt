@@ -1,5 +1,4 @@
-﻿New: HTTPService.HTTPСервис1
-New: HTTPService.HTTPСервис1.Module
-New: Role.Web
-New: Role.Web.Rights
+﻿New: Catalog.РолиИсполнителей
+New: Catalog.РолиИсполнителей.Predefined
+New: Subsystem.ЗадачиИсполнителей
 Modified: Configuration.Конфигурация

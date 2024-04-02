@@ -255,6 +255,7 @@
 			<Subsystem>Деньги</Subsystem>
 			<Subsystem>БухгалтерскийУчет</Subsystem>
 			<Subsystem>Интеграции</Subsystem>
+			<Subsystem>ЗадачиИсполнителей</Subsystem>
 			<Style>Барбершоп</Style>
 			<CommonPicture>Справочники</CommonPicture>
 			<CommonPicture>БизнесПроцессы</CommonPicture>
@@ -323,6 +324,7 @@
 			<Catalog>ЭквайринговыеТерминалы</Catalog>
 			<Catalog>БанковскиеСчета</Catalog>
 			<Catalog>ГрафикиРаботыСотрудников</Catalog>
+			<Catalog>РолиИсполнителей</Catalog>
 			<Document>ПоступлениеТоваровИМатериалов</Document>
 			<Document>ЗаписьКлиента</Document>
 			<Document>РеализацияТоваровИУслуг</Document>
