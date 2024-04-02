@@ -1,13 +1,3 @@
-﻿New: BusinessProcess.ЗакупкаУПоставщика
-New: BusinessProcess.ЗакупкаУПоставщика.Flowchart
-New: BusinessProcess.ЗакупкаУПоставщика.Form.ФормаБизнесПроцесса
-New: BusinessProcess.ЗакупкаУПоставщика.Form.ФормаБизнесПроцесса.Form
-New: BusinessProcess.ЗакупкаУПоставщика.ObjectModule
-New: Task.ЗадачаИсполнителя
-New: Task.ЗадачаИсполнителя.Form.ФормаЗадачи
-New: Task.ЗадачаИсполнителя.Form.ФормаЗадачи.Form
-New: Task.ЗадачаИсполнителя.Form.ФормаСписка
-New: Task.ЗадачаИсполнителя.Form.ФормаСписка.Form
-New: Task.ЗадачаИсполнителя.ObjectModule
+﻿New: Role.Финансист
+New: Role.Финансист.Rights
 Modified: Configuration.Конфигурация
-Modified: Subsystem.ЗадачиИсполнителей

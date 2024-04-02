@@ -273,6 +273,7 @@
 			<Role>Закупщик</Role>
 			<Role>Руководитель</Role>
 			<Role>Web</Role>
+			<Role>Финансист</Role>
 			<FilterCriterion>СвязанныеДокументы</FilterCriterion>
 			<CommonModule>РаботаСТабличнымиЧастямиГлобальный</CommonModule>
 			<CommonModule>РаботаСЦенамиВызовСервера</CommonModule>
