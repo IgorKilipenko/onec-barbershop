@@ -271,6 +271,7 @@
 			<Role>ПолныеПрава</Role>
 			<Role>Закупщик</Role>
 			<Role>Руководитель</Role>
+			<Role>Web</Role>
 			<FilterCriterion>СвязанныеДокументы</FilterCriterion>
 			<CommonModule>РаботаСТабличнымиЧастямиГлобальный</CommonModule>
 			<CommonModule>РаботаСЦенамиВызовСервера</CommonModule>
@@ -289,6 +290,7 @@
 			<CommonModule>ФормыКонфигурацииКлиент</CommonModule>
 			<CommonModule>ФормыКонфигурации</CommonModule>
 			<CommonModule>РаботаСФормамиКлиент</CommonModule>
+			<HTTPService>HTTPСервис1</HTTPService>
 			<FunctionalOption>ИспользоватьСклады</FunctionalOption>
 			<DefinedType>ФинансовыеДанные</DefinedType>
 			<DefinedType>КоличествоУслуг</DefinedType>

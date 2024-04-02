@@ -1,1 +1,5 @@
-﻿Modified: Configuration.Конфигурация
+﻿New: HTTPService.HTTPСервис1
+New: HTTPService.HTTPСервис1.Module
+New: Role.Web
+New: Role.Web.Rights
+Modified: Configuration.Конфигурация
