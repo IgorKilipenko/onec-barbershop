@@ -1,1 +1,2 @@
-﻿Modified: Subsystem.ЗадачиИсполнителей
+﻿Modified: Configuration.Конфигурация
+Modified: Configuration.Конфигурация.HomePageWorkArea
