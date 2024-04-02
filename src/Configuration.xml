@@ -389,6 +389,8 @@
 			<AccountingRegister>Хозрасчетный</AccountingRegister>
 			<ChartOfCalculationTypes>Начисления</ChartOfCalculationTypes>
 			<CalculationRegister>Начисления</CalculationRegister>
+			<BusinessProcess>ЗакупкаУПоставщика</BusinessProcess>
+			<Task>ЗадачаИсполнителя</Task>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
