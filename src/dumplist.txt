@@ -1,3 +1,1 @@
-﻿New: Role.Финансист
-New: Role.Финансист.Rights
-Modified: Configuration.Конфигурация
+﻿Modified: Subsystem.ЗадачиИсполнителей

@@ -701,7 +701,7 @@
 		<Metadata name="Subsystem.Деньги.CommandInterface" id="1760296f-51b9-49f0-b0b5-867ab5b17110.1" configVersion="5f794b8ef002ee4496a3d8992ebf870300000000"/>
 		<Metadata name="Subsystem.Деньги.Subsystem.Справочники" id="0132b9af-f58d-4df0-a1c7-9fe425cdecd0" configVersion="03f2b78ada13924f933dd5cd330364d200000000"/>
 		<Metadata name="Subsystem.Деньги.Subsystem.Справочники.CommandInterface" id="0132b9af-f58d-4df0-a1c7-9fe425cdecd0.1" configVersion="129bb944f8b61d499f118b219cfb54e400000000"/>
-		<Metadata name="Subsystem.ЗадачиИсполнителей" id="efc30862-571a-4664-9612-e4c822309eb1" configVersion="f83b1df0c2d96d4d82e3076bb3b7f26a00000000"/>
+		<Metadata name="Subsystem.ЗадачиИсполнителей" id="efc30862-571a-4664-9612-e4c822309eb1" configVersion="e48a06838ca2cc4eaf6dc855a19b5a2200000000"/>
 		<Metadata name="Subsystem.Интеграции" id="23ff2bcf-d72d-48d7-9c63-e4928b151ebe" configVersion="055e31111673d7458379fc8a1f5a0cec00000000"/>
 		<Metadata name="Subsystem.НСИИАдминистрирование" id="522971d4-6c66-4bb4-94f6-b0475ae5efd4" configVersion="8915e9955079734782885f4944dc472e00000000"/>
 		<Metadata name="Subsystem.НСИИАдминистрирование.CommandInterface" id="522971d4-6c66-4bb4-94f6-b0475ae5efd4.1" configVersion="cc9e8480ac1b144d80ae3e667288ad2000000000"/>
