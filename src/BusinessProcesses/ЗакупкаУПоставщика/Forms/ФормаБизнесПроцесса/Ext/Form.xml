@@ -20,13 +20,6 @@
 			<ContextMenu name="ДатаКонтекстноеМеню" id="5"/>
 			<ExtendedTooltip name="ДатаРасширеннаяПодсказка" id="6"/>
 		</InputField>
-		<InputField name="ВедущаяЗадача" id="7">
-			<DataPath>Объект.HeadTask</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-			<ContextMenu name="ВедущаяЗадачаКонтекстноеМеню" id="8"/>
-			<ExtendedTooltip name="ВедущаяЗадачаРасширеннаяПодсказка" id="9"/>
-		</InputField>
 		<InputField name="Номенклатура" id="10">
 			<DataPath>Объект.Номенклатура</DataPath>
 			<EditMode>EnterOnInput</EditMode>
@@ -40,6 +33,18 @@
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="ОплатаПоставщикуКонтекстноеМеню" id="14"/>
 			<ExtendedTooltip name="ОплатаПоставщикуРасширеннаяПодсказка" id="15"/>
+		</InputField>
+		<CheckBoxField name="ПоставкаПодтверждена" id="28">
+			<DataPath>Объект.ПоставкаПодтверждена</DataPath>
+			<CheckBoxType>Auto</CheckBoxType>
+			<ContextMenu name="ПоставкаПодтвержденаКонтекстноеМеню" id="29"/>
+			<ExtendedTooltip name="ПоставкаПодтвержденаРасширеннаяПодсказка" id="30"/>
+		</CheckBoxField>
+		<InputField name="ВедущаяЗадача" id="25">
+			<DataPath>Объект.HeadTask</DataPath>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="ВедущаяЗадачаКонтекстноеМеню" id="26"/>
+			<ExtendedTooltip name="ВедущаяЗадачаРасширеннаяПодсказка" id="27"/>
 		</InputField>
 		<CheckBoxField name="Стартован" id="16">
 			<DataPath>Объект.Started</DataPath>

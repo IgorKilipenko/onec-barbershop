@@ -46,14 +46,15 @@
 			<Metadata name="AccumulationRegister.УчетЗатрат.Resource.Сумма" id="74713e59-681a-4e27-aaf7-59a080d92060"/>
 			<Metadata name="AccumulationRegister.УчетЗатрат.Dimension.СтатьяЗатрат" id="ad9303c1-4bf5-439c-912c-c8f83b5213c3"/>
 		</Metadata>
-		<Metadata name="BusinessProcess.ЗакупкаУПоставщика" id="5c551c16-dfe3-41db-81e5-2b5ce7c4c162" configVersion="7753686657d641419e80cf159709ad9000000000">
+		<Metadata name="BusinessProcess.ЗакупкаУПоставщика" id="5c551c16-dfe3-41db-81e5-2b5ce7c4c162" configVersion="546a428ac547c349a95be0b4e5b2f9e300000000">
 			<Metadata name="BusinessProcess.ЗакупкаУПоставщика.Attribute.Номенклатура" id="155a0ca2-d2a5-4e6c-b1c4-ad89ec763f62"/>
 			<Metadata name="BusinessProcess.ЗакупкаУПоставщика.Attribute.ОплатаПоставщику" id="6564fedc-7087-4ee9-b8e8-3788c7738eaf"/>
+			<Metadata name="BusinessProcess.ЗакупкаУПоставщика.Attribute.ПоставкаПодтверждена" id="a8512e28-3cfc-44ad-9645-53642c367c34"/>
 		</Metadata>
-		<Metadata name="BusinessProcess.ЗакупкаУПоставщика.Flowchart" id="5c551c16-dfe3-41db-81e5-2b5ce7c4c162.7" configVersion="2d2cd71259915d4ba35bc9dbcd25506f00000000"/>
-		<Metadata name="BusinessProcess.ЗакупкаУПоставщика.Form.ФормаБизнесПроцесса" id="c3914c6a-12a3-4dd1-92bc-28d18c0e8d9a" configVersion="45c41c34a9058643922e377d54536f8000000000"/>
-		<Metadata name="BusinessProcess.ЗакупкаУПоставщика.Form.ФормаБизнесПроцесса.Form" id="c3914c6a-12a3-4dd1-92bc-28d18c0e8d9a.0" configVersion="0cfedaadfdd3dd4e83014ebd316d3b5500000000"/>
-		<Metadata name="BusinessProcess.ЗакупкаУПоставщика.ObjectModule" id="5c551c16-dfe3-41db-81e5-2b5ce7c4c162.6" configVersion="eb0618821bb47843adf16bd263c31ef900000000"/>
+		<Metadata name="BusinessProcess.ЗакупкаУПоставщика.Flowchart" id="5c551c16-dfe3-41db-81e5-2b5ce7c4c162.7" configVersion="682ea1dd33013840a6941cc7492ecde500000000"/>
+		<Metadata name="BusinessProcess.ЗакупкаУПоставщика.Form.ФормаБизнесПроцесса" id="c3914c6a-12a3-4dd1-92bc-28d18c0e8d9a" configVersion="66091d60e913bd41935fb6a50266409a00000000"/>
+		<Metadata name="BusinessProcess.ЗакупкаУПоставщика.Form.ФормаБизнесПроцесса.Form" id="c3914c6a-12a3-4dd1-92bc-28d18c0e8d9a.0" configVersion="9ebff5ede61e5e4dba5ff1b699ce990b00000000"/>
+		<Metadata name="BusinessProcess.ЗакупкаУПоставщика.ObjectModule" id="5c551c16-dfe3-41db-81e5-2b5ce7c4c162.6" configVersion="08320558c9fe10428eb0cd22f4fa01fc00000000"/>
 		<Metadata name="CalculationRegister.Начисления" id="92bd6d62-49e9-4ecb-b3ba-1ec99a36fed7" configVersion="3702765c80517740acf0bfa291d990ba00000000">
 			<Metadata name="CalculationRegister.Начисления.Attribute.График" id="3d992f83-8fa0-4a72-bd63-e8e723dee3fd"/>
 			<Metadata name="CalculationRegister.Начисления.Attribute.ПоказательРасчета" id="4dbeef54-8fb7-4215-8e72-f1d2893239a9"/>
@@ -690,8 +691,8 @@
 		<Metadata name="Role.Пользователь.Rights" id="43a846e5-2983-4da4-a7ad-3d44458f9175.0" configVersion="958dc14ffb240e42aba59d8edd993b4500000000"/>
 		<Metadata name="Role.Руководитель" id="22254151-5a06-4786-b851-c43f53eb4daf" configVersion="13ece6cf237c3a41a28ffe4d42fc70b400000000"/>
 		<Metadata name="Role.Руководитель.Rights" id="22254151-5a06-4786-b851-c43f53eb4daf.0" configVersion="12acd11291854743bc0d082da6f046f100000000"/>
-		<Metadata name="Role.Финансист" id="57aa1f3f-e825-4e3d-891d-26a209d0148a" configVersion="c45ab08b114b5a488a950dd0ce02300700000000"/>
-		<Metadata name="Role.Финансист.Rights" id="57aa1f3f-e825-4e3d-891d-26a209d0148a.0" configVersion="fa6e6852057f0848b1706a467cb3cf6f00000000"/>
+		<Metadata name="Role.Финансист" id="57aa1f3f-e825-4e3d-891d-26a209d0148a" configVersion="a6690098cba80040bddb30600db3107b00000000"/>
+		<Metadata name="Role.Финансист.Rights" id="57aa1f3f-e825-4e3d-891d-26a209d0148a.0" configVersion="9c91df028e22ce4bad26d460a370d98d00000000"/>
 		<Metadata name="SessionParameter.ТекущийПользователь" id="8edf95cd-ce56-4d1a-abaf-38bcc4b8457a" configVersion="0a487438e07a1b4687683997f82346a200000000"/>
 		<Metadata name="Style.Барбершоп" id="b3955cef-3591-4814-9011-be3ee6779f6a" configVersion="dd05ca6cd5717942bd60079f68ef133900000000"/>
 		<Metadata name="Style.Барбершоп.Style" id="b3955cef-3591-4814-9011-be3ee6779f6a.0" configVersion="86a1f1ef37f2eb4d92fe40be7f44f1c000000000"/>

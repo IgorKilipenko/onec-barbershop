@@ -36,7 +36,7 @@
 				<HorizontalAlign>Center</HorizontalAlign>
 				<VerticalAlign>Center</VerticalAlign>
 				<PictureLocation>Left</PictureLocation>
-				<Location top="20" left="170" bottom="60" right="270"/>
+				<Location top="20" left="180" bottom="60" right="280"/>
 				<Border width="1" gap="false">
 					<v8ui:style xsi:type="sch:ConnectorLineType">Solid</v8ui:style>
 				</Border>
@@ -65,10 +65,10 @@
 				<VerticalAlign>Center</VerticalAlign>
 				<PictureLocation>Left</PictureLocation>
 				<PivotPoints>
-					<Point x="220" y="60"/>
-					<Point x="220" y="70"/>
-					<Point x="220" y="70"/>
-					<Point x="220" y="80"/>
+					<Point x="230" y="60"/>
+					<Point x="230" y="70"/>
+					<Point x="230" y="70"/>
+					<Point x="230" y="80"/>
 				</PivotPoints>
 				<Connect>
 					<From>
@@ -76,7 +76,7 @@
 						<PortIndex>4</PortIndex>
 					</From>
 					<To>
-						<Item>ОплатаПоставщику</Item>
+						<Item>ПоставкаПодтверждена</Item>
 						<PortIndex>2</PortIndex>
 					</To>
 				</Connect>
@@ -111,7 +111,7 @@
 				<HorizontalAlign>Center</HorizontalAlign>
 				<VerticalAlign>Center</VerticalAlign>
 				<PictureLocation>Left</PictureLocation>
-				<Location top="80" left="170" bottom="120" right="270"/>
+				<Location top="160" left="180" bottom="200" right="280"/>
 				<Border width="1" gap="false">
 					<v8ui:style xsi:type="sch:ConnectorLineType">Solid</v8ui:style>
 				</Border>
@@ -132,8 +132,8 @@
 			<Events>
 				<Event name="InteractiveActivationProcessing"/>
 				<Event name="BeforeCreateTasks"/>
-				<Event name="OnCreateTask">ОплатаПоставщикуПриСозданииЗадач</Event>
-				<Event name="OnExecute"/>
+				<Event name="OnCreateTask">ПриСозданииЗадач</Event>
+				<Event name="OnExecute">ОплатаПоставщикуПриВыполнении</Event>
 				<Event name="CheckExecutionProcessing"/>
 				<Event name="BeforeExecute"/>
 				<Event name="BeforeExecuteInteractively"/>
@@ -157,10 +157,10 @@
 				<VerticalAlign>Center</VerticalAlign>
 				<PictureLocation>Left</PictureLocation>
 				<PivotPoints>
-					<Point x="220" y="120"/>
-					<Point x="220" y="130"/>
-					<Point x="220" y="130"/>
-					<Point x="220" y="140"/>
+					<Point x="230" y="200"/>
+					<Point x="230" y="210"/>
+					<Point x="230" y="210"/>
+					<Point x="230" y="220"/>
 				</PivotPoints>
 				<Connect>
 					<From>
@@ -203,7 +203,7 @@
 				<HorizontalAlign>Center</HorizontalAlign>
 				<VerticalAlign>Center</VerticalAlign>
 				<PictureLocation>Left</PictureLocation>
-				<Location top="140" left="170" bottom="180" right="270"/>
+				<Location top="220" left="180" bottom="260" right="280"/>
 				<Border width="1" gap="false">
 					<v8ui:style xsi:type="sch:ConnectorLineType">Solid</v8ui:style>
 				</Border>
@@ -224,7 +224,7 @@
 			<Events>
 				<Event name="InteractiveActivationProcessing"/>
 				<Event name="BeforeCreateTasks"/>
-				<Event name="OnCreateTask"/>
+				<Event name="OnCreateTask">ПриСозданииЗадач</Event>
 				<Event name="OnExecute"/>
 				<Event name="CheckExecutionProcessing"/>
 				<Event name="BeforeExecute"/>
@@ -249,10 +249,10 @@
 				<VerticalAlign>Center</VerticalAlign>
 				<PictureLocation>Left</PictureLocation>
 				<PivotPoints>
-					<Point x="220" y="180"/>
-					<Point x="220" y="190"/>
-					<Point x="220" y="190"/>
-					<Point x="220" y="200"/>
+					<Point x="230" y="260"/>
+					<Point x="230" y="280"/>
+					<Point x="230" y="280"/>
+					<Point x="230" y="300"/>
 				</PivotPoints>
 				<Connect>
 					<From>
@@ -295,7 +295,7 @@
 				<HorizontalAlign>Center</HorizontalAlign>
 				<VerticalAlign>Center</VerticalAlign>
 				<PictureLocation>Left</PictureLocation>
-				<Location top="200" left="170" bottom="240" right="270"/>
+				<Location top="300" left="180" bottom="340" right="280"/>
 				<Border width="1" gap="false">
 					<v8ui:style xsi:type="sch:ConnectorLineType">Solid</v8ui:style>
 				</Border>
@@ -306,5 +306,148 @@
 				<Event name="OnComplete"/>
 			</Events>
 		</Completion>
+		<Condition id="8" uuid="5639360e-034e-4210-8769-bc0d55ada0d6">
+			<Properties>
+				<Name>ПоставкаПодтверждена</Name>
+				<Title>
+					<v8:item>
+						<v8:lang>ru</v8:lang>
+						<v8:content>Поставк подтвердил поставку?</v8:content>
+					</v8:item>
+				</Title>
+				<ToolTip/>
+				<TabOrder>8</TabOrder>
+				<BackColor>auto</BackColor>
+				<TextColor>style:FormTextColor</TextColor>
+				<LineColor>style:BorderColor</LineColor>
+				<GroupNumber>0</GroupNumber>
+				<ZOrder>7</ZOrder>
+				<Hyperlink>false</Hyperlink>
+				<Transparent>false</Transparent>
+				<Font kind="AutoFont"/>
+				<HorizontalAlign>Center</HorizontalAlign>
+				<VerticalAlign>Center</VerticalAlign>
+				<PictureLocation>Left</PictureLocation>
+				<Location top="80" left="180" bottom="130" right="280"/>
+				<Border width="1" gap="false">
+					<v8ui:style xsi:type="sch:ConnectorLineType">Solid</v8ui:style>
+				</Border>
+				<Picture/>
+				<PictureSize>AutoSize</PictureSize>
+				<TruePortIndex>3</TruePortIndex>
+				<FalsePortIndex>1</FalsePortIndex>
+			</Properties>
+			<Events>
+				<Event name="ConditionCheck">ПоставкаПодтвержденаПроверкаУсловия</Event>
+			</Events>
+		</Condition>
+		<ConnectionLine id="9">
+			<Properties>
+				<Name>Линия4</Name>
+				<Title>
+					<v8:item>
+						<v8:lang>ru</v8:lang>
+						<v8:content>Нет</v8:content>
+					</v8:item>
+				</Title>
+				<ToolTip/>
+				<TabOrder>9</TabOrder>
+				<BackColor>auto</BackColor>
+				<TextColor>style:FormTextColor</TextColor>
+				<LineColor>style:BorderColor</LineColor>
+				<GroupNumber>0</GroupNumber>
+				<ZOrder>8</ZOrder>
+				<Hyperlink>false</Hyperlink>
+				<Transparent>false</Transparent>
+				<Font kind="AutoFont"/>
+				<HorizontalAlign>Center</HorizontalAlign>
+				<VerticalAlign>Center</VerticalAlign>
+				<PictureLocation>Left</PictureLocation>
+				<PivotPoints>
+					<Point x="180" y="105"/>
+					<Point x="140" y="105"/>
+					<Point x="140" y="285"/>
+					<Point x="230" y="285"/>
+					<Point x="230" y="300"/>
+				</PivotPoints>
+				<ManualyMovedSegments>
+					<Segment index="1">
+						<Start x="140" y="105"/>
+						<End x="140" y="285"/>
+					</Segment>
+				</ManualyMovedSegments>
+				<Connect>
+					<From>
+						<Item>ПоставкаПодтверждена</Item>
+						<PortIndex>1</PortIndex>
+					</From>
+					<To>
+						<Item>Завершение</Item>
+						<PortIndex>2</PortIndex>
+					</To>
+				</Connect>
+				<Line width="1" gap="false">
+					<v8ui:style xsi:type="sch:ConnectorLineType">Solid</v8ui:style>
+				</Line>
+				<DecorativeLine>false</DecorativeLine>
+				<TextLocation>FirstSegment</TextLocation>
+				<BeginArrow>None</BeginArrow>
+				<EndArrow>Filled</EndArrow>
+			</Properties>
+		</ConnectionLine>
+		<ConnectionLine id="10">
+			<Properties>
+				<Name>Линия5</Name>
+				<Title>
+					<v8:item>
+						<v8:lang>ru</v8:lang>
+						<v8:content>Да</v8:content>
+					</v8:item>
+				</Title>
+				<ToolTip/>
+				<TabOrder>10</TabOrder>
+				<BackColor>auto</BackColor>
+				<TextColor>style:FormTextColor</TextColor>
+				<LineColor>style:BorderColor</LineColor>
+				<GroupNumber>0</GroupNumber>
+				<ZOrder>9</ZOrder>
+				<Hyperlink>false</Hyperlink>
+				<Transparent>false</Transparent>
+				<Font kind="AutoFont"/>
+				<HorizontalAlign>Center</HorizontalAlign>
+				<VerticalAlign>Center</VerticalAlign>
+				<PictureLocation>Left</PictureLocation>
+				<PivotPoints>
+					<Point x="280" y="105"/>
+					<Point x="320" y="105"/>
+					<Point x="320" y="145"/>
+					<Point x="230" y="145"/>
+					<Point x="230" y="160"/>
+				</PivotPoints>
+				<ManualyMovedSegments>
+					<Segment index="1">
+						<Start x="320" y="105"/>
+						<End x="320" y="145"/>
+					</Segment>
+				</ManualyMovedSegments>
+				<Connect>
+					<From>
+						<Item>ПоставкаПодтверждена</Item>
+						<PortIndex>3</PortIndex>
+					</From>
+					<To>
+						<Item>ОплатаПоставщику</Item>
+						<PortIndex>2</PortIndex>
+					</To>
+				</Connect>
+				<Line width="1" gap="false">
+					<v8ui:style xsi:type="sch:ConnectorLineType">Solid</v8ui:style>
+				</Line>
+				<DecorativeLine>false</DecorativeLine>
+				<TextLocation>FirstSegment</TextLocation>
+				<BeginArrow>None</BeginArrow>
+				<EndArrow>Filled</EndArrow>
+			</Properties>
+		</ConnectionLine>
 	</Items>
 </GraphicalSchema>

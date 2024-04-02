@@ -218,10 +218,6 @@
 			<value>true</value>
 		</right>
 		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
 			<name>Update</name>
 			<value>true</value>
 		</right>
@@ -230,31 +226,7 @@
 			<value>true</value>
 		</right>
 		<right>
-			<name>InteractiveInsert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMark</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMark</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>InteractiveActivate</name>
-			<value>true</value>
-		</right>
-		<right>
 			<name>Execute</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>InteractiveExecute</name>
 			<value>true</value>
 		</right>
 		<right>
