@@ -16,7 +16,6 @@
 			<Explanation/>
 			<Picture/>
 			<Content>
-				<xr:Item xsi:type="xr:MDObjectRef">Catalog.РолиИсполнителей</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">BusinessProcess.ЗакупкаУПоставщика</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Task.ЗадачаИсполнителя</xr:Item>
 			</Content>

@@ -701,7 +701,7 @@
 		<Metadata name="Subsystem.Деньги.CommandInterface" id="1760296f-51b9-49f0-b0b5-867ab5b17110.1" configVersion="5f794b8ef002ee4496a3d8992ebf870300000000"/>
 		<Metadata name="Subsystem.Деньги.Subsystem.Справочники" id="0132b9af-f58d-4df0-a1c7-9fe425cdecd0" configVersion="03f2b78ada13924f933dd5cd330364d200000000"/>
 		<Metadata name="Subsystem.Деньги.Subsystem.Справочники.CommandInterface" id="0132b9af-f58d-4df0-a1c7-9fe425cdecd0.1" configVersion="129bb944f8b61d499f118b219cfb54e400000000"/>
-		<Metadata name="Subsystem.ЗадачиИсполнителей" id="efc30862-571a-4664-9612-e4c822309eb1" configVersion="e48a06838ca2cc4eaf6dc855a19b5a2200000000"/>
+		<Metadata name="Subsystem.ЗадачиИсполнителей" id="efc30862-571a-4664-9612-e4c822309eb1" configVersion="8ff7cec0dc851c40bccde1d485336a5b00000000"/>
 		<Metadata name="Subsystem.Интеграции" id="23ff2bcf-d72d-48d7-9c63-e4928b151ebe" configVersion="055e31111673d7458379fc8a1f5a0cec00000000"/>
 		<Metadata name="Subsystem.НСИИАдминистрирование" id="522971d4-6c66-4bb4-94f6-b0475ae5efd4" configVersion="8915e9955079734782885f4944dc472e00000000"/>
 		<Metadata name="Subsystem.НСИИАдминистрирование.CommandInterface" id="522971d4-6c66-4bb4-94f6-b0475ae5efd4.1" configVersion="cc9e8480ac1b144d80ae3e667288ad2000000000"/>
@@ -727,7 +727,7 @@
 		<Metadata name="Subsystem.Продажи.Subsystem.Справочники" id="363682a3-6d9a-40e9-969a-e9b5c69a6b8d" configVersion="58279f3e26bc4448b386795fa6dfe7ae00000000"/>
 		<Metadata name="Subsystem.Продажи.Subsystem.Справочники.CommandInterface" id="363682a3-6d9a-40e9-969a-e9b5c69a6b8d.1" configVersion="2a9a849611c1d342af66fcbabdd9c78b00000000"/>
 		<Metadata name="Subsystem.Сервис" id="fea19b96-dbf4-4108-8f40-aa50f238c69b" configVersion="7a78211daf3aae459fddcc33849d4fdc00000000"/>
-		<Metadata name="Task.ЗадачаИсполнителя" id="26c5bf2b-b84b-4f20-9861-3cd9039b22a7" configVersion="845658324acb40478c760dc73a908ea900000000">
+		<Metadata name="Task.ЗадачаИсполнителя" id="26c5bf2b-b84b-4f20-9861-3cd9039b22a7" configVersion="b7a2edc7e460b047a7a65e317612ff6500000000">
 			<Metadata name="Task.ЗадачаИсполнителя.Attribute.ОплатаПоставщику" id="51c29d43-7569-40d0-9f88-606eef355db5"/>
 			<Metadata name="Task.ЗадачаИсполнителя.AddressingAttribute.РольИсполнителя" id="6bf112b7-b5f9-42cc-a38b-232475558335"/>
 			<Metadata name="Task.ЗадачаИсполнителя.AddressingAttribute.Исполнитель" id="fa81ca8a-5086-4adb-bb58-5e0a7a2f30dc"/>
