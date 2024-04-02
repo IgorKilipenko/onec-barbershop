@@ -376,6 +376,7 @@
 			<InformationRegister>ЖурналЗаписейКлиентов</InformationRegister>
 			<InformationRegister>ГрафикиРаботыПредприятия</InformationRegister>
 			<InformationRegister>КадроваяИсторияСотрудников</InformationRegister>
+			<InformationRegister>РегистрАдресации</InformationRegister>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
 			<AccumulationRegister>ЗаказыКлиентов</AccumulationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>

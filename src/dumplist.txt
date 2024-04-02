@@ -1,4 +1,2 @@
-﻿New: Catalog.РолиИсполнителей
-New: Catalog.РолиИсполнителей.Predefined
-New: Subsystem.ЗадачиИсполнителей
+﻿New: InformationRegister.РегистрАдресации
 Modified: Configuration.Конфигурация

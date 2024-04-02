@@ -229,7 +229,7 @@
 		<Metadata name="CommonPicture.Продажи.Picture" id="51a79af0-8692-4460-b9c8-156fc59c1aba.0" configVersion="bdb6e99500c15947a896c9e352af9a8800000000"/>
 		<Metadata name="CommonPicture.Справочники" id="79b9328d-ed7d-418b-a93e-40f925149ef6" configVersion="d030f1775f0a114094e3776a5457e57f00000000"/>
 		<Metadata name="CommonPicture.Справочники.Picture" id="79b9328d-ed7d-418b-a93e-40f925149ef6.0" configVersion="aecf472f5c86e543998eebf5f100ff5400000000"/>
-		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="b6c38a973725494a94c1cc6e85d4e6c600000000"/>
+		<Metadata name="Configuration.Конфигурация" id="a0a0c86e-f995-461f-a899-28b124cde201" configVersion="a0be04e5dfcead47b9c76d294674e0b300000000"/>
 		<Metadata name="Configuration.Конфигурация.ClientApplicationInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.b" configVersion="184f50c9d5ac3b45b93a2d189689c80700000000"/>
 		<Metadata name="Configuration.Конфигурация.CommandInterface" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.a" configVersion="ce8c15cbda4c074aa203ffc32401319600000000"/>
 		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="16f3a65a-3434-464f-ac6f-c5b68bd8447b.8" configVersion="410dddd91985ff44bb78ea510a1a6b0000000000"/>
@@ -617,6 +617,10 @@
 			<Metadata name="InformationRegister.КадроваяИсторияСотрудников.Attribute.Работает" id="f94da4ae-1d0b-4f54-8243-b785cd522750"/>
 		</Metadata>
 		<Metadata name="InformationRegister.КадроваяИсторияСотрудников.ManagerModule" id="28a6d3f8-5841-41dd-a86e-8f3841d9a9fb.2" configVersion="be47f39e15a1fe4c97113c84c97c604f00000000"/>
+		<Metadata name="InformationRegister.РегистрАдресации" id="16edbf9e-84fb-422c-aca3-131fc95602ee" configVersion="b6f1693e6822184d895d2b76d268b22800000000">
+			<Metadata name="InformationRegister.РегистрАдресации.Dimension.РольИсполнителя" id="0de7dfce-7d37-448f-a49d-9a2557401444"/>
+			<Metadata name="InformationRegister.РегистрАдресации.Dimension.Исполнитель" id="86678f1e-d961-4080-9346-56dbcc70ea47"/>
+		</Metadata>
 		<Metadata name="InformationRegister.УчетнаяПолитика" id="ba7fd621-7311-4390-9da2-7cb2b94cd320" configVersion="0609f6a8caf10745b29607b4af3c704f00000000">
 			<Metadata name="InformationRegister.УчетнаяПолитика.Resource.УчетнаяПолитика" id="badbbd8a-6ece-4d7a-8e29-0e15380a6812"/>
 		</Metadata>
